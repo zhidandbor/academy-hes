@@ -8,5 +8,12 @@
   "source_path": "course_offline/course_zakupki_stroitelstvo_kapremont",
   "entry": "index.html",
   "files": 33,
-  "bytes": 1484828
+  "bytes": 1484826,
+  "rewritten_files": [
+    {
+      "path": "index.html",
+      "source_sha256": "48da3e3b9d28a17b7de56625659fd5628d273aad587ef2f817769d85309b52bf",
+      "published_sha256": "b74e346c6df8955256ba369e9f0f4c2a2185c0ac28e106469686cc3b52e7c668"
+    }
+  ]
 }
