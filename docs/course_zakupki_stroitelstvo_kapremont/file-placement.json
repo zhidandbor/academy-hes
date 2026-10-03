@@ -1,0 +1,48 @@
+[
+  {
+    "file": "attachments/files/0d822694-2d71-4c2d-8218-6cfe7a40a07c.docx",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/0d822694-2d71-4c2d-8218-6cfe7a40a07c.docx",
+    "origin": "original_attachment",
+    "lessons": [
+      1,
+      2
+    ],
+    "placementBasis": "source platform course-level supplemental materials repeated in lessons"
+  },
+  {
+    "file": "attachments/files/700fc194-6849-4937-a552-b1592c8477e3.docx",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/700fc194-6849-4937-a552-b1592c8477e3.docx",
+    "origin": "original_attachment",
+    "lessons": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "placementBasis": "source platform course-level supplemental materials repeated in lessons"
+  },
+  {
+    "file": "attachments/files/13b8cdd1-97e2-4343-97a5-275153f08bf5.docx",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/13b8cdd1-97e2-4343-97a5-275153f08bf5.docx",
+    "origin": "original_attachment",
+    "lessons": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "placementBasis": "source platform course-level supplemental materials repeated in lessons"
+  },
+  {
+    "file": "attachments/files/2b2ad2c2-6444-48b2-af11-41ba85a0c79f.docx",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/2b2ad2c2-6444-48b2-af11-41ba85a0c79f.docx",
+    "origin": "original_attachment",
+    "lessons": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "placementBasis": "source platform course-level supplemental materials repeated in lessons"
+  }
+]

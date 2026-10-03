@@ -1,0 +1,12 @@
+{
+  "course": "course_zakupki_stroitelstvo_kapremont",
+  "title": "Как проводить закупки по строительству и капитальному ремонту",
+  "source_repository": null,
+  "source_revision": null,
+  "source_status": "local HES archive; not committed to a remote repository",
+  "source_archive_manifest_sha256": "dba3441800762b6bb8048d64c25f14551c2538c31683734ae6348f5ae74c3f7d",
+  "source_path": "course_offline/course_zakupki_stroitelstvo_kapremont",
+  "entry": "index.html",
+  "files": 33,
+  "bytes": 1484828
+}

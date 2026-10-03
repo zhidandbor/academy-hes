@@ -1,0 +1,1130 @@
+{
+  "date": "2026-09-28",
+  "video_iframes": [
+    {
+      "lesson": "lessons/01-01-02.html",
+      "url": "https://kinescope.io/embed/t9W9cetFdCHEP14SZhsvE6",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-01-03.html",
+      "url": "https://kinescope.io/embed/m6NfLE2BYymdkdM8xKrDLs",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-01-04.html",
+      "url": "https://kinescope.io/embed/6ha7FDDivp3M9iAhNYEYU4",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-02-01.html",
+      "url": "https://kinescope.io/embed/fnoNFBtGG9Jm6dFKybkQJK",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-02-02.html",
+      "url": "https://kinescope.io/embed/6gSfGucQdFk6sGWR84NFJF",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-02-03.html",
+      "url": "https://kinescope.io/embed/vhuckdMLtEoGDrnDYGsMVr",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-03-01.html",
+      "url": "https://kinescope.io/embed/sxYApyVMRLnzGthDKfke27",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-03-04.html",
+      "url": "https://kinescope.io/embed/3fiPi3Yxd3AMPH5CupWx8C",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-04-01.html",
+      "url": "https://kinescope.io/embed/6vmTNEXCbpPdELqbrK8p2L",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-04-02.html",
+      "url": "https://kinescope.io/embed/iAB1Fg8CwUtTtcnH2gEXEy",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-05-01.html",
+      "url": "https://kinescope.io/embed/qkxVzNdfXHQ3zZfbN3BngQ",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-05-08.html",
+      "url": "https://kinescope.io/embed/qfhYt3tudNfE3xcjMN9E3C",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-06-01.html",
+      "url": "https://kinescope.io/embed/cW84h3oRjbUgBKowA4ZHzg",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-06-04.html",
+      "url": "https://kinescope.io/embed/qt1BfXfupQhYZRpB6ZeXPc",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-07-01.html",
+      "url": "https://kinescope.io/embed/9QwPMQP7AdqH9ZXkFweb1Z",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-08-02.html",
+      "url": "https://kinescope.io/embed/uC654PauFbXogjsambFmtr",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/01-08-03.html",
+      "url": "https://kinescope.io/embed/4zDh2tZfJUknPKbn2U7Hnb",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-01-01.html",
+      "url": "https://kinescope.io/embed/0JKTmEpiCe6QmyCKkCbRqh",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-01-02.html",
+      "url": "https://kinescope.io/embed/xxAkGHwZy9AqrRBG75c9WE",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-01-03.html",
+      "url": "https://kinescope.io/embed/qmP7aX3pG9aJrHnCv5aA44",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-02-01.html",
+      "url": "https://kinescope.io/embed/wGK9HRDjWkRDPrtTSmuySc",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-02-03.html",
+      "url": "https://kinescope.io/embed/i4TrBNX79iqsJXQemJ2HUJ",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-02-03.html",
+      "url": "https://kinescope.io/embed/aXQr42YsrNZpTuJSRCFc3j",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-02-05.html",
+      "url": "https://kinescope.io/embed/btX5esdVMYSBgnoAUz6K9X",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-03-05.html",
+      "url": "https://kinescope.io/embed/egp1RJLBfp5NPZ2S9c4mij",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-04-01.html",
+      "url": "https://kinescope.io/embed/awSyCyULhPDL5xef5jkhCB",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-04-01.html",
+      "url": "https://kinescope.io/embed/tcEb8xobSVK9Qv1uvkxkEU",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-04-02.html",
+      "url": "https://kinescope.io/embed/rPEGeoNhtbyHTLtAQtd56j",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-04-05.html",
+      "url": "https://kinescope.io/embed/6uN79XJbCVjcg2dBtEWHLt",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-05-03.html",
+      "url": "https://kinescope.io/embed/dxsfmmDzZvN2WyCobVjGiG",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-05-05.html",
+      "url": "https://kinescope.io/embed/fYP4Aje47RZEtGzn18uxmB",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-06-01.html",
+      "url": "https://kinescope.io/embed/otHsXAsw7tkn5oK41JkrL9",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-06-02.html",
+      "url": "https://kinescope.io/embed/4cDGxqt9dEk829oXPTniQk",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-06-02.html",
+      "url": "https://kinescope.io/embed/hfpSkU5dBQgTagb2hjffHm",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-06-03.html",
+      "url": "https://kinescope.io/embed/x6CTVddrLdKv9LSfayF3j8",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-07-01.html",
+      "url": "https://kinescope.io/embed/cpJNmFpP4zNadEw49Egxg6",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-07-03.html",
+      "url": "https://kinescope.io/embed/3GDncxAprmv2cKYrB94HhZ",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/02-07-05.html",
+      "url": "https://kinescope.io/embed/4MHdT8bqsXLR2tBH73Fs4H",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-01-01.html",
+      "url": "https://kinescope.io/embed/7om7RAnaJGaLb7GQVKKjsb",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-01-02.html",
+      "url": "https://kinescope.io/embed/55gtnb5vq2BfcLeg4fhpFc",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-01-02.html",
+      "url": "https://kinescope.io/embed/4U6TYQeXka63emNz64M5Wn",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-01-03.html",
+      "url": "https://kinescope.io/embed/c6yiQDC9SH5KdLNJQ1xzKo",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-01-04.html",
+      "url": "https://kinescope.io/embed/jdtgjW6j2YVkuJqjbdAQM3",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-01.html",
+      "url": "https://kinescope.io/embed/qkJxsEsX3X6Ldfkf37VceD",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-01.html",
+      "url": "https://kinescope.io/embed/2hZhTbrzK38myJLTmU3sKp",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-04.html",
+      "url": "https://kinescope.io/embed/f5XZuSZxgZ9AvA9462HRbX",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-06.html",
+      "url": "https://kinescope.io/embed/7jyEEc8L8ptXzWARHmGJpG",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-07.html",
+      "url": "https://kinescope.io/embed/tFJBrEYZwCwADSrnz1hoAc",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-07.html",
+      "url": "https://kinescope.io/embed/nKybGEFkzjRFLVJKDaJyfg",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-07.html",
+      "url": "https://kinescope.io/embed/xot5BAkHCZc423YjETE46U",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-08.html",
+      "url": "https://kinescope.io/embed/sqGtUaccSerBvFm427YRFy",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-09.html",
+      "url": "https://kinescope.io/embed/hzNyB6s3zHjxpxeSmxdgnD",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-10.html",
+      "url": "https://kinescope.io/embed/haPfNLvzmYAUC7Au4rQ28w",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-11.html",
+      "url": "https://kinescope.io/embed/uQuS9gKc3CdHWE1FZ82q3P",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-11.html",
+      "url": "https://kinescope.io/embed/bo2TDp3nJuy3xBLH2JuJkg",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-11.html",
+      "url": "https://kinescope.io/embed/mMnVMWjsZuxo4VNkFJchpN",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-02-11.html",
+      "url": "https://kinescope.io/embed/iNprUdfKG9Dwtc57yt4mPL",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-03-01.html",
+      "url": "https://kinescope.io/embed/jJfWkFErYdaNmk9sBx4edh",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-03-01.html",
+      "url": "https://kinescope.io/embed/bnVHt7Dzy7ktLpZfU9LnNS",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-03-01.html",
+      "url": "https://kinescope.io/embed/rNN3LK2g6WFFGar9M4hAqu",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-03-03.html",
+      "url": "https://kinescope.io/embed/8qdCcRFCCowTtGo4CmFEBS",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-03-04.html",
+      "url": "https://kinescope.io/embed/nAriGWC2czzPy1bArk6rc9",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-03-05.html",
+      "url": "https://kinescope.io/embed/uxnynKPeAjwBEnUzoyd8f5",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-03-06.html",
+      "url": "https://kinescope.io/embed/hVUaSBSKHmrWuEQZ3ZAxmK",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-04-01.html",
+      "url": "https://kinescope.io/embed/togpJxK4GEp8BJq8yfbFeb",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-04-02.html",
+      "url": "https://kinescope.io/embed/8AZPofSMtY6n1n5e5qsjUS",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-04-03.html",
+      "url": "https://kinescope.io/embed/6Zi8mVMUHArhixQtDLUpah",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-04-04.html",
+      "url": "https://kinescope.io/embed/8yzg19cuFBHFvZMw2Zbt6v",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-05-01.html",
+      "url": "https://kinescope.io/embed/4kg25aDqUF6AAKF8gN5NNJ",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-05-01.html",
+      "url": "https://kinescope.io/embed/nXzpX1GxBz3zqLFvRVScuT",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-05-02.html",
+      "url": "https://kinescope.io/embed/rR7V5fwmLVagSnRX2ZEuxa",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-05-02.html",
+      "url": "https://kinescope.io/embed/iMgBhcNETcowh5eV4jxd4d",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-01.html",
+      "url": "https://kinescope.io/embed/5pUsvqtqw6Hn1hmJfG1UCJ",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-02.html",
+      "url": "https://kinescope.io/embed/2pePZoSth3HKMr8ABKsFhq",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-02.html",
+      "url": "https://kinescope.io/embed/npwSWkDweqQYVgPg51dpZK",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-02.html",
+      "url": "https://kinescope.io/embed/eXpgRENs6vs8jtUsnJKjeN",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-03.html",
+      "url": "https://kinescope.io/embed/6nTWBgP1jMMsftiL9Lb1fD",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-03.html",
+      "url": "https://kinescope.io/embed/seTwdG39U31gqqavLD4mx7",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-07.html",
+      "url": "https://kinescope.io/embed/8MuDEMH8vtJso8gfc5Y8Xs",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/03-06-08.html",
+      "url": "https://kinescope.io/embed/98y2XZLTNasPMskSJz26jX",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-01-01.html",
+      "url": "https://kinescope.io/embed/33Yi9gnAT5noMJHKZjeMdi",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-01-03.html",
+      "url": "https://kinescope.io/embed/4kNWUz5MCVgW3ESwub8S5q",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-01-04.html",
+      "url": "https://kinescope.io/embed/9WtCFSxxGM6oYYUS4g7JK4",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-01-05.html",
+      "url": "https://kinescope.io/embed/cpwZGunGK7pM9FJDECCP2n",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-01-07.html",
+      "url": "https://kinescope.io/embed/8iGQsunjjVDE22pF9tYBCD",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-02-01.html",
+      "url": "https://kinescope.io/embed/kkXCSpbjoaJyAkzobJQgZ3",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-02-02.html",
+      "url": "https://kinescope.io/embed/0eRCmWFqk4r6KSJJdeF4ZE",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-02-03.html",
+      "url": "https://kinescope.io/embed/2R6r2z4ZyYapQFmFYDjPx9",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-02-04.html",
+      "url": "https://kinescope.io/embed/wWmCCefKLDqDCfsnxq11fV",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-04-02.html",
+      "url": "https://kinescope.io/embed/m6pESdcfFe8bJqwpt12keW",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-04-04.html",
+      "url": "https://kinescope.io/embed/o9NV6QQUwS2Q6cc1saTomK",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-04-05.html",
+      "url": "https://kinescope.io/embed/sutcpKmxoNbb4T8eMCCcLV",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-04-06.html",
+      "url": "https://kinescope.io/embed/iWb3APiakMkGodn3D8eSL3",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-04-07.html",
+      "url": "https://kinescope.io/embed/iiF5xm5LgkMTycGq5gqjCf",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-04-08.html",
+      "url": "https://kinescope.io/embed/aBetdwA6rPBuuQm2F15x7R",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-05-01.html",
+      "url": "https://kinescope.io/embed/8s7pXVRHKcpqg2A9h17mzu",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-05-02.html",
+      "url": "https://kinescope.io/embed/b3ZJoWfXpkmbgVDN3zdRJT",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-05-04.html",
+      "url": "https://kinescope.io/embed/e1kBPVJXUpDUuKMXYjwNFo",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-06-01.html",
+      "url": "https://kinescope.io/embed/iyabfsBojE8J3TBnUhwqi1",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-06-02.html",
+      "url": "https://kinescope.io/embed/bU11GH9TtDUoPN5X9BYFTE",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-06-03.html",
+      "url": "https://kinescope.io/embed/2ZMMPhqZJTTtZ5ECEZ417L",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-06-04.html",
+      "url": "https://kinescope.io/embed/9193HYsW2jd5FdXxrKEm9k",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-07-02.html",
+      "url": "https://kinescope.io/embed/dER3gjhEnLSSVQ3YdEpBT3",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-07-03.html",
+      "url": "https://kinescope.io/embed/pzPb4v8ea5pkBNLzGCNZDt",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-08-01.html",
+      "url": "https://kinescope.io/embed/3bUd9Y1bSn2XyotdYpcTn5",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-08-03.html",
+      "url": "https://kinescope.io/embed/bHquHX9qG5NjJ3oP8VVrdR",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/04-08-04.html",
+      "url": "https://kinescope.io/embed/9CY6b5nhr1mM5NvtaD3fS3",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-01-02.html",
+      "url": "https://kinescope.io/embed/hGrnDijvDSoARXWGsNKRWG",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-01-03.html",
+      "url": "https://kinescope.io/embed/xczQNXffcdy9K4Xym2KJqG",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-01-04.html",
+      "url": "https://kinescope.io/embed/qeg2oBmBCzmyS6PZ65683u",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-01-06.html",
+      "url": "https://kinescope.io/embed/q3d8YjbEMMDZDkGEcXrotm",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-02-01.html",
+      "url": "https://kinescope.io/embed/8urnQh9UVdxJAkq3RHFGnj",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-03-01.html",
+      "url": "https://kinescope.io/embed/aPupapuEUBKJkv8yvUwsEX",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-03-03.html",
+      "url": "https://kinescope.io/embed/48pSizUvtGRSsD8J17SBKC",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-03-04.html",
+      "url": "https://kinescope.io/embed/9CkVcGPMikgjqomyHBSL1a",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-03-05.html",
+      "url": "https://kinescope.io/embed/uwXs5KPfP2B1csdTyuegkG",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-03-06.html",
+      "url": "https://kinescope.io/embed/q99GynjYYd6MhazvhNpvQK",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-03-07.html",
+      "url": "https://kinescope.io/embed/m5uSXnEaD2qy9aTd4GeyWR",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-04-01.html",
+      "url": "https://kinescope.io/embed/3zDzzQgNuLBbxQtFfJv7uY",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-04-03.html",
+      "url": "https://kinescope.io/embed/eie1xFHKK6ExdrTrtpMpwV",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-04-04.html",
+      "url": "https://kinescope.io/embed/rR8pNGWeruo8keC8UvWHfy",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-05-01.html",
+      "url": "https://kinescope.io/embed/uDz9DtHBiLGisoS5c47NB1",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-05-02.html",
+      "url": "https://kinescope.io/embed/sp6YwAnxL2LPSMmEuCH2qq",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-05-03.html",
+      "url": "https://kinescope.io/embed/fQKSmyjMRfh6ZHPhWXcv83",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/05-05-10.html",
+      "url": "https://kinescope.io/embed/9FRoaUfCnENJDWUaDtkV76",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/06-01-01.html",
+      "url": "https://kinescope.io/embed/sXsg3gbRpLuABzYwpKSk5Q",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/06-01-03.html",
+      "url": "https://kinescope.io/embed/4HTmtxydrEmN3CSJBjnw6K",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/06-02-03.html",
+      "url": "https://kinescope.io/embed/e5QyGpumQYHcdymU6cxvUz",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/06-02-04.html",
+      "url": "https://kinescope.io/embed/ddRi2KQRUdmjxwCPaLBY9n",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/06-02-05.html",
+      "url": "https://kinescope.io/embed/jpt1BDVRDopXabE7SLKkjX",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/06-02-06.html",
+      "url": "https://kinescope.io/embed/bnqUgyktSq6fpYhLWBDU7R",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/06-04-02.html",
+      "url": "https://kinescope.io/embed/eUR4YwjUneUdaUoYu8vU6B",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-01-03.html",
+      "url": "https://kinescope.io/embed/b2Qb25didokvLDLudg8uHB",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-01-04.html",
+      "url": "https://kinescope.io/embed/7oaMKGSQSZ6DmoZsvChHiu",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-03-01.html",
+      "url": "https://kinescope.io/embed/gfFtKxT743dBYuhZJdTFtz",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-03-02.html",
+      "url": "https://kinescope.io/embed/4chaxLCMdVhQdFsPvVxdLD",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-03-06.html",
+      "url": "https://kinescope.io/embed/0xqMpGAaxND8skTX8ENvYi",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-04-01.html",
+      "url": "https://kinescope.io/embed/xfyHFog5B5s9d67cA2TkKL",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-04-02.html",
+      "url": "https://kinescope.io/embed/xrzmZ6J8d6hd36rXWNaXGg",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-04-03.html",
+      "url": "https://kinescope.io/embed/ag5QFpWFerQrEc6BWha5bA",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    },
+    {
+      "lesson": "lessons/07-05-03.html",
+      "url": "https://kinescope.io/embed/41wdxMZjec2CgvSznGf6SC",
+      "host": "kinescope.io",
+      "source_html": null,
+      "static_text_characters": 0
+    }
+  ],
+  "other_online_iframes": [
+    {
+      "lesson": "lessons/02-03-01.html",
+      "url": "https://learningapps.org/watch?v=pjsazxent25",
+      "host": "learningapps.org",
+      "source_html": null,
+      "static_text_characters": 0
+    }
+  ],
+  "unavailable_embed_assets": [
+    {
+      "url": "https://e.profkiosk.ru/media/1ed2daf5-ab0d-4d72-9c2c-e43b78568530/css/custom.css?1032",
+      "kinds": [
+        "link"
+      ],
+      "embed_urls": [
+        "https://e.profkiosk.ru/media/1ed2daf5-ab0d-4d72-9c2c-e43b78568530/"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://e.profkiosk.ru/media/6e851ce8-30e2-46f3-bea1-14fbad7c34bb/placeholder.svg",
+      "kinds": [
+        "img"
+      ],
+      "embed_urls": [
+        "https://e.profkiosk.ru/media/6e851ce8-30e2-46f3-bea1-14fbad7c34bb/"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://e.profkiosk.ru/media/b741a585-d78a-4015-80c8-e2fc427a5b77/favicon.png",
+      "kinds": [
+        "link"
+      ],
+      "embed_urls": [
+        "https://e.profkiosk.ru/media/b741a585-d78a-4015-80c8-e2fc427a5b77/"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://e.profkiosk.ru/media/f56c54c7-56a6-43e5-afaf-0a951039b241/css/custom.css?1032",
+      "kinds": [
+        "link"
+      ],
+      "embed_urls": [
+        "https://e.profkiosk.ru/media/f56c54c7-56a6-43e5-afaf-0a951039b241/"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://school.a-sstroy.ru/interactive/custom/style.css",
+      "kinds": [
+        "link"
+      ],
+      "embed_urls": [
+        "https://school.a-sstroy.ru/interactive/doc/00c8471f-840e-47f7-b06b-4edab28c2844/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/106bbddb-4811-4371-b033-006d65416ebe/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/116361ef-057b-41a5-abac-4734f8f4adec/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/237fc345-aa66-42d8-ae9d-bd84b1019cd6/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/3e40ee84-62bd-4bf2-8f05-74488c863117/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/4328ac28-49f8-432c-abdd-ff9f33d54592/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/444d863d-1734-437b-935a-2d7c3f7efd0d/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/5a7e75d3-0c13-442a-8e27-97f116e6b6f4/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/5bbc2b83-b1ee-4d4c-a61e-c966ae755f26/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/5e05f572-c615-48a6-bd73-59fc13e39849/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/5e43b421-baa7-41f8-8ac9-11f36f6553ef/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/792ae0f5-ffe6-436f-b62d-682304302dca/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/99935933-3cbb-4cc4-95f6-2bc8e7bd6f75/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/9cdc8fe7-36c6-45ee-a8fb-da5c871d3e8d/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/a4c10545-8648-44f7-b19a-9e73a1eaa395/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/b1fa6b6f-49ea-4379-a913-4e1a67e1c46b/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/c139a207-7761-47f5-875b-dba8ff4edcf6/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/c86e46e1-8863-4ee8-9bd2-4c676ad1f77b/index.html",
+        "https://school.a-sstroy.ru/interactive/doc/df5ef956-76c2-4f00-aa36-0e4abbc35b1e/index.html"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://school.a-sstroy.ru/interactive/doc/3e40ee84-62bd-4bf2-8f05-74488c863117/img/logos/management.svg",
+      "kinds": [
+        "img"
+      ],
+      "embed_urls": [
+        "https://school.a-sstroy.ru/interactive/doc/3e40ee84-62bd-4bf2-8f05-74488c863117/index.html"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://school.a-sstroy.ru/interactive/doc/9cdc8fe7-36c6-45ee-a8fb-da5c871d3e8d/img/logos/management.svg",
+      "kinds": [
+        "img"
+      ],
+      "embed_urls": [
+        "https://school.a-sstroy.ru/interactive/doc/9cdc8fe7-36c6-45ee-a8fb-da5c871d3e8d/index.html"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "url": "https://school.a-sstroy.ru/interactive/doc/a4c10545-8648-44f7-b19a-9e73a1eaa395/img/logos/management.svg",
+      "kinds": [
+        "img"
+      ],
+      "embed_urls": [
+        "https://school.a-sstroy.ru/interactive/doc/a4c10545-8648-44f7-b19a-9e73a1eaa395/index.html"
+      ],
+      "status": "online_only",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    }
+  ],
+  "material_links": [
+    {
+      "url": "https://vk.cc/bXYwAg",
+      "status": "online_only",
+      "kind": "public-share link",
+      "note": "no direct file bytes established"
+    },
+    {
+      "url": "https://vk.cc/bXYxu6",
+      "status": "online_only",
+      "kind": "public-share link",
+      "note": "no direct file bytes established"
+    }
+  ],
+  "missing_images": [],
+  "server_functions": [
+    "answer checking",
+    "progress",
+    "feedback",
+    "chat"
+  ]
+}

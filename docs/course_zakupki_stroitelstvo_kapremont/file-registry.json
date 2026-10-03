@@ -1,0 +1,408 @@
+[
+  {
+    "path": "assets/css/style.css",
+    "size": 21613,
+    "sha256": "60692da060f5fb3458d17aad9f60f2e9321ef3edc6163fc95e957cdb2396277a",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "assets/images/author-svyatoslav-tsyganok.png",
+    "size": 525390,
+    "sha256": "52d0c86dd7e3cd5b61872d6fa394bbb726341f62905944ad3498a75d71587eec",
+    "origin": "source_asset",
+    "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_eb0b7d069fc64ad299335ae5f771b611_20221017T184228.png"
+  },
+  {
+    "path": "assets/images/exercise-02/1.png",
+    "size": 114630,
+    "sha256": "0322cc956b591f31489908754a1ac3cd85160a1975127bedaa482933fdec41a5",
+    "origin": "source_asset",
+    "sourceUrl": "https://school.a-sstroy.ru/interactive/doc/96db2171-7b1a-448d-9ed7-74bf14224dc0/images/1.png"
+  },
+  {
+    "path": "assets/images/exercise-02/2.png",
+    "size": 114630,
+    "sha256": "0322cc956b591f31489908754a1ac3cd85160a1975127bedaa482933fdec41a5",
+    "origin": "source_asset",
+    "sourceUrl": "https://school.a-sstroy.ru/interactive/doc/96db2171-7b1a-448d-9ed7-74bf14224dc0/images/2.png"
+  },
+  {
+    "path": "assets/images/exercise-06/1.png",
+    "size": 26882,
+    "sha256": "d2c766b991f58386eaf5e3319e57215cf8982a7447c807cfc38c20a83292534d",
+    "origin": "source_asset",
+    "sourceUrl": "https://school.a-sstroy.ru/interactive/doc/220e641a-afd5-4822-9df7-e59ea622765c/images/1.png"
+  },
+  {
+    "path": "assets/images/exercise-06/2.png",
+    "size": 26882,
+    "sha256": "d2c766b991f58386eaf5e3319e57215cf8982a7447c807cfc38c20a83292534d",
+    "origin": "source_asset",
+    "sourceUrl": "https://school.a-sstroy.ru/interactive/doc/220e641a-afd5-4822-9df7-e59ea622765c/images/2.png"
+  },
+  {
+    "path": "assets/images/lesson-02.png",
+    "size": 278698,
+    "sha256": "1b2e59de9f95848bdcf82b44327397e560a4dac583392ce9dbb2706891742cf0",
+    "origin": "source_asset",
+    "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=341833bc-99d5-4b84-ba2e-49d6d2b2c9d7"
+  },
+  {
+    "path": "assets/images/lesson-05.png",
+    "size": 40691,
+    "sha256": "b9c1ae7065ad03b7ed3f8c12092aade6a9fff4aae4527bfe48893e70f82eaacc",
+    "origin": "source_asset",
+    "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=a345890a-607e-4d64-9887-0678f05b702c"
+  },
+  {
+    "path": "assets/js/embeds.js",
+    "size": 2031,
+    "sha256": "6fc1798763e5e21218dbfd170fe5cfb7bbe9b0f481e4b2e2d52aefdc68207a23",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "attachments/files/0d822694-2d71-4c2d-8218-6cfe7a40a07c.docx",
+    "size": 44924,
+    "sha256": "c3493b0c9e98673915cec90030d1437d3dc4f446bf95bacd1500edcf32350050",
+    "origin": "original_attachment",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/0d822694-2d71-4c2d-8218-6cfe7a40a07c.docx"
+  },
+  {
+    "path": "attachments/files/13b8cdd1-97e2-4343-97a5-275153f08bf5.docx",
+    "size": 30099,
+    "sha256": "b83225c6b72382b9afa21bf7a9eb4ecbef472e06684bb75105d3f574878d2b50",
+    "origin": "original_attachment",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/13b8cdd1-97e2-4343-97a5-275153f08bf5.docx"
+  },
+  {
+    "path": "attachments/files/2b2ad2c2-6444-48b2-af11-41ba85a0c79f.docx",
+    "size": 32419,
+    "sha256": "92feb570f5325a757279d0fbf724ebe0bce48820e88f085d575d33bfec7ad0fb",
+    "origin": "original_attachment",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/2b2ad2c2-6444-48b2-af11-41ba85a0c79f.docx"
+  },
+  {
+    "path": "attachments/files/700fc194-6849-4937-a552-b1592c8477e3.docx",
+    "size": 58107,
+    "sha256": "7d03d6a754a8431edb25029c74d40ab19ae7a3fe5fa7c2ee1132c063a3728b57",
+    "origin": "original_attachment",
+    "sourceUrl": "https://school.a-sstroy.ru/storage/text/700fc194-6849-4937-a552-b1592c8477e3.docx"
+  },
+  {
+    "path": "attachments/index.html",
+    "size": 4994,
+    "sha256": "77442bef17114f971b249015a7e53898b23dfb3924f287bdbaf56c52c3c6a2a1",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "build.py",
+    "size": 22512,
+    "sha256": "7762c8630cb372b478106a7bd24b41df92fbb42c9f8be1a99b03e9cfdaebf785",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "capture_server.py",
+    "size": 1572,
+    "sha256": "2ebbdaee9962af42b89385843333c65d0108c6e048f087e99663cd7c826fa9b4",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "check_media.py",
+    "size": 1610,
+    "sha256": "f2935f352e040cdad5db66cbc3762b1c4f2a22ad17959ce56abb4adb2a0b31c3",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "embedded-verification.json",
+    "size": 1585,
+    "sha256": "179adde2231926de8a9c0bf9fba1ddb50ebafcf0d944362ece9fb2ea76505df2",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "file-health.json",
+    "size": 3740,
+    "sha256": "fee6a5cdbaff55f66dba071b3bba914f83ef38dedd4e37438c0e42c96f21bd43",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "file-placement.json",
+    "size": 1543,
+    "sha256": "79bf800d4252aabc245e4a4e2d41e2fe2e969e6785e66cc1873a63cef4bcbf71",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "index.html",
+    "size": 3843,
+    "sha256": "48da3e3b9d28a17b7de56625659fd5628d273aad587ef2f817769d85309b52bf",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "inspect_sources.py",
+    "size": 755,
+    "sha256": "3198be7cf212eba7757f570623463ebc465f0807d19256aa8b339c0cd69347e9",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-01.html",
+    "size": 10976,
+    "sha256": "1cba8a07d58efbff99dd9c92377e2eccccc53c9bf068722ecef6464cd9748424",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-02.html",
+    "size": 14303,
+    "sha256": "3e2a7c31a1fa9203a1dc451d126de6d0bb956da7de19f21b9cbad5969f266486",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-03.html",
+    "size": 12816,
+    "sha256": "a17c216fe681439ba202b72ef97bb7f8f72709645823daafa72e2cffdb3bddb6",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-04.html",
+    "size": 12384,
+    "sha256": "f7d9853f20b7a6de45e97c514fa758add9cb455544ba2effd8f9160367902bd0",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-05.html",
+    "size": 12769,
+    "sha256": "86df9663e0b34b703dd004dccd1aa896cd41796b5ddc8757a1c7df653c7d562b",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-06.html",
+    "size": 14105,
+    "sha256": "9023c6e48a9b0a559e68d9e16e3e38b8c1cbaba3d9d2f990a4d4157f7eb1c6ae",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-07.html",
+    "size": 18670,
+    "sha256": "3c7f7e61b62e061c2e4c5017b6f01c5dc4ccb6ea90695158f054ffce48cd1629",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "lessons/lesson-08.html",
+    "size": 13178,
+    "sha256": "4b05f950a26566e22253e695465123b7b6dcbb69ceb29f08a7c8f012b4a67203",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "modules/01.html",
+    "size": 3737,
+    "sha256": "03e877e36d3fbda6742f4b17ff29b4f24d9c4c84fc23f96d137cab6c07e8a1b7",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "modules/02.html",
+    "size": 3492,
+    "sha256": "c9103d037e4d743d4b6e0bd8b7b9ed3d1df17834558f194dd30b9d62691cc092",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "normative-check.json",
+    "size": 2222,
+    "sha256": "10484e1d6e82de285f62a29b383c7f0e6e1d2e6544e1c55db037e40aec21a125",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "normative_scan.py",
+    "size": 756,
+    "sha256": "69c097bde382feef88cbda1b4533462aef69010333f5f7185626911933dfc77e",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "online-only.json",
+    "size": 7969,
+    "sha256": "b6f48c590ebfab56c8e4eec327e90aac9a5cdbf26bd9c55cc02051160efc1040",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "project-inventory-before-moves.json",
+    "size": 405,
+    "sha256": "d05ee8a6da3889812c81c77fedbd4844f8fee89a5b618b37ad6918517fdf0aac",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "README.md",
+    "size": 6829,
+    "sha256": "b21d6721d104093bdb72b176d8345bc9375c29b6e1f42e0e8e1cae89765aeb56",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "source-map.json",
+    "size": 10348,
+    "sha256": "1bddea79b68adaa13965a3b765aa4935576669ad67077b6d667ed73338514c58",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/embed-lesson-02.json",
+    "size": 16349,
+    "sha256": "7048ac919a3df89711e49aac7bc5ff48be25fb465d825ac6efe14e0b437740ef",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/embed-lesson-06.json",
+    "size": 16842,
+    "sha256": "ccea9fe3ee5905f0e4c1fbd329a0a78b73bd2f65ba16ab4626027c70e697bbdb",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/learningapp-lesson-01.json",
+    "size": 6935,
+    "sha256": "3c1e5e829f0c286ca35e334d63eba2162ccacae8bbbf3b50dc890ac265254c1a",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/learningapp-lesson-02.json",
+    "size": 1330,
+    "sha256": "3bf35539c7ccfdf3363a701a4c3569fe8eccdb8825194345642b00a1b50c48de",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/learningapp-lesson-03.json",
+    "size": 1704,
+    "sha256": "98f2c70c1ad798f09bfd2d2b72abbe33b71a619f0b9a7b822274ba4cbcadbcc3",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/learningapp-lesson-04.json",
+    "size": 1370,
+    "sha256": "a848b4da7bb851a24fbeb42d779764b1233a093060116fac09e5e3d25ef33235",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-01.json",
+    "size": 11177,
+    "sha256": "6c635f811e182a06f9f3998b9f4b7d2c2f4c8a58f7636512f46da565cd0b82d2",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-02.json",
+    "size": 13195,
+    "sha256": "d78993c7f59b43ff3537e55ca7552e24a8c67fe2c8e462e0745e4362e52eb495",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-03.json",
+    "size": 13279,
+    "sha256": "472891ef98911d4518b45b643b06f937d117a3e1d721aba56e5cb1ba943db71a",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-04.json",
+    "size": 12657,
+    "sha256": "e7307a6a823993636ce0ac6ab4baf7a83b95d7a8e3dd9fce4915145281806ff7",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-05.json",
+    "size": 14501,
+    "sha256": "c0a9289bb2f907996a531ddbcbff25001d207f06446fcc820d0b6412d4a607dc",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-06.json",
+    "size": 13815,
+    "sha256": "b3a0efad36edd8230d0f4e287113c54b26239af21175113caa0e47ccd3f9cbc5",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-07.json",
+    "size": 19593,
+    "sha256": "68b81cad890da4f7818db9b4e09b11dd847cc94e01f6a9b6697795930285217a",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/lesson-08.json",
+    "size": 14111,
+    "sha256": "d4f6e1fea4b0e858862f90d1f13d94ad5eaa890e2e69c42d7fa93255088328b5",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "source_pages/raw/program.json",
+    "size": 11910,
+    "sha256": "9312e4d4b49fea291ce071af7d32ce5c1c4af42c1ded258e0c71a0374149ee77",
+    "origin": "rendered_source_snapshot",
+    "sourceUrl": null
+  },
+  {
+    "path": "style-map-check.json",
+    "size": 787,
+    "sha256": "af58adc32e56acd1d24e0bafbef6dfe859adff0d385e24cc65583e71deb9108b",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "test_embeds.js",
+    "size": 3104,
+    "sha256": "62814aaf4b05f11137c4c02bb7a8fd4ab1f1db22cdf165d8e925dffb18482930",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "tests/index.html",
+    "size": 3669,
+    "sha256": "44a5f0b24810e78f4993e1900d51a404b2a11fe3edb55ed02317d2ad57535dd8",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "transfer-log.json",
+    "size": 718,
+    "sha256": "ab70137d662d29adaec8e4c8cbdaa5a026b165f8cc34501588c3a6c44919d632",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  },
+  {
+    "path": "verify.py",
+    "size": 7093,
+    "sha256": "cd39b9e858a27e691764688aef5257cc5226696401272dc5fd9ba4a12097b90c",
+    "origin": "archive_project_file",
+    "sourceUrl": null
+  }
+]

@@ -1,0 +1,2280 @@
+{
+  "date": "2026-09-28",
+  "files": [
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\1.4.mp3",
+      "path": "materials/01-1/1.4.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 6349545,
+      "sha256": "3820835dda140e91dd390638c4aa0d43a4795a803925e84908b3d4ae7533540e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\2. Как справляться со своими эмоциями.m4a",
+      "path": "materials/01-1/2. Как справляться со своими эмоциями.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 2630605,
+      "sha256": "b12efebafe31fbb0c867651e1198f092553e95164cc47d53a63a0bca758762f7",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\3. Модель SCARF_ как руководителю влиять на поведение сотрудников с помощью эмоций.m4a",
+      "path": "materials/01-1/3. Модель SCARF_ как руководителю влиять на поведение сотрудников с помощью эмоций.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 2745260,
+      "sha256": "94ba02e3ad959c7c2811f42dd34de05a36bb2bea85858bb42038da95b10aaf0d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\literatura_emocionalnyj_intellekt.docx",
+      "path": "materials/01-1/literatura_emocionalnyj_intellekt.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 47170,
+      "sha256": "074520fa92096109bcadb13b896987ddf493e6ac048b1a17eacc15713169c698",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\obzor_emocionalnoe_liderstvo.docx",
+      "path": "materials/01-1/obzor_emocionalnoe_liderstvo.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 74651,
+      "sha256": "6a0709f6ad77b9f83c2d4207bc9334c119377d723c087b5581e28d6c0a678ccd",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\obzor_emocionalnyj_intellekt.docx",
+      "path": "materials/01-1/obzor_emocionalnyj_intellekt.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 74448,
+      "sha256": "68f718ccb8dababc4ce32e169f5b428271a1bace226e3befbd114cec2bb5bc75",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\obzor_focus.docx",
+      "path": "materials/01-1/obzor_focus.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 74661,
+      "sha256": "d4a83c482cc3f9a66c31930bffc822d8e4d4b9c7eeea2c361c2841e2e911f9ac",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\obzor_ne_rychite_na_sobaku.docx",
+      "path": "materials/01-1/obzor_ne_rychite_na_sobaku.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 80769,
+      "sha256": "decff95ca1b1f50b8c75542918fc4062209374db00f74dc343f1a565397d63ea",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\statya_emocionalnyj_intellekt_orugie.docx",
+      "path": "materials/01-1/statya_emocionalnyj_intellekt_orugie.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 69658,
+      "sha256": "3182953e35cde537b0b5ca8fa1eba17b5aa21598da790ff26e08e7c792ab49da",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\statya_time_menegment_20220121T124310.docx",
+      "path": "materials/01-1/statya_time_menegment_20220121T124310.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 97512,
+      "sha256": "d8e7d905e27d0745e0e3b7bae6fe39096fdbc57ff1f1aa0df0510e0e813b49db",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\test_emocionalnyj_intellekt.docx",
+      "path": "materials/01-1/test_emocionalnyj_intellekt.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 75888,
+      "sha256": "ef0c4a6a05b6f564ed1e51cce57c21c7aa2a4a7fb8cf233a7b0d0da2fbcdadc8",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-1\\vlc-3.0.23-win32.exe",
+      "path": null,
+      "decision": "excluded_installer_review_required",
+      "bytes": 44568024,
+      "sha256": "ecc17f097ee0801f04faabb5ef9992ff00ea4c98c8fa005f6508ee74b41b6a53"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\1.2.mp3",
+      "path": "materials/01-2/1.2.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 2936376,
+      "sha256": "0da8d8c226e04aca3859ef60c83e90f1bd17e8c109c6798566e18845732e64ce",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\1.3.mp3",
+      "path": "materials/01-2/1.3.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 7211631,
+      "sha256": "e174e6fe4c8687bf6695c1885c15119c633dcb2030849cd1c59976dce33bd10d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\1.m4a",
+      "path": "materials/01-2/1.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 9028270,
+      "sha256": "4f9c403a04bd35341202bc3444c22f0e7a47ef124f7b4c685141f9a112738441",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\2.ogg",
+      "path": "materials/01-2/2.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 3769287,
+      "sha256": "cbdb2448aa86475c4385a2efc4e28a310d9eebf8e13261fdff8c421565e00fc8",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\3.ogg",
+      "path": "materials/01-2/3.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 4431333,
+      "sha256": "00ff5b21511851ee88e9978428f449dba27fb01324a888b07e5af6ce8ac15f49",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\4.ogg",
+      "path": "materials/01-2/4.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 4112096,
+      "sha256": "1950c9afeb3f64394a18cc2e6537e890fbf2b7b02e6652b49b262b28d4526f91",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\Как гендиру сохранить энергию.pdf",
+      "path": "materials/01-2/Как гендиру сохранить энергию.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 378979,
+      "sha256": "1a3ae6f40f0f79efa0b345b02a45873f34df57f9e448070af5488e1366d1e506",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\glavnaya-mysl-knigi-chto-znachit-byt-liderom_20210618T141403.docx",
+      "path": "materials/01-2/glavnaya-mysl-knigi-chto-znachit-byt-liderom_20210618T141403.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 62001,
+      "sha256": "efee15f5fca26435a834d534f22be2d47adfd3df2e18f2f3f6ccc515f9f4153d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\glavnaya-mysl-knigi-idealnyj-rukovoditel_20210329T130738.docx",
+      "path": "materials/01-2/glavnaya-mysl-knigi-idealnyj-rukovoditel_20210329T130738.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 87110,
+      "sha256": "dc8bff9ee9285fe19f69852541b31b3311aacc914ebb8af82a884601a5c4d00f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\glavnaya-mysl-knigi-kurs-na-liderstvo_20210618T141403.docx",
+      "path": "materials/01-2/glavnaya-mysl-knigi-kurs-na-liderstvo_20210618T141403.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 73067,
+      "sha256": "f93859e04c5feee88812232d6063e56633b609d16a6ae31f1df0a0f637373062",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\po-teme-liderstvo-v-sovremennom_20210618T141404.docx",
+      "path": "materials/01-2/po-teme-liderstvo-v-sovremennom_20210618T141404.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 44073,
+      "sha256": "8f7af78bc8799725153146f1fe166efee157000528f983e39fbbfd4682ebd958",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\statya-gd-kak-stat-istinnym-rukovoditelem_20210618T141403.docx",
+      "path": "materials/01-2/statya-gd-kak-stat-istinnym-rukovoditelem_20210618T141403.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 57338,
+      "sha256": "2d8162beda4692ddcb232186f1c8a0318cbd36078e491bb04ae7a0b968ef1f99",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-2\\statya-gd-liderstvo-osnovannoe-na_20210618T141404.docx",
+      "path": "materials/01-2/statya-gd-liderstvo-osnovannoe-na_20210618T141404.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 51042,
+      "sha256": "ba37fb23d7ef8d7e9b8f3fb347103eaf4dbaa8002d67389a287faf67c06010bd",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\1.1.ogg",
+      "path": "materials/01-3/1.1.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 2450513,
+      "sha256": "4fc17c84375062cc8699958582377a3fb5bc58aac952b3f39815a661f058741e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\1.2.ogg",
+      "path": "materials/01-3/1.2.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 386250,
+      "sha256": "c3357163f202566dfcced09a65afe44eaf401cf6f5d84151c9678476656529f7",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\1.3.ogg",
+      "path": "materials/01-3/1.3.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 1160180,
+      "sha256": "49c7f28ffa5387856d1234feef9159d2034b7260b4c3a0ebb583f7303a95f691",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\1.4.ogg",
+      "path": "materials/01-3/1.4.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 1944308,
+      "sha256": "dd184e59c681eca7288ac448a7ed28d450f6238d128bb029fe8e5ff51cbd9941",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\1.7.mp3",
+      "path": "materials/01-3/1.7.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 6677609,
+      "sha256": "be95c71c7509c2f8205ade5126abb676c55c4ed98b60b34b0c6c6ccbf2ae4939",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\2. Расстановка задач по приоритетам (матрица Эйзенхауера).m4a",
+      "path": "materials/01-3/2. Расстановка задач по приоритетам (матрица Эйзенхауера).m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 16007273,
+      "sha256": "6915fec30eecc3f26b44225c207511feb1e9ca0cfadac8401bc031836a61f071",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\3. Техники личного тайм-менеджмента.m4a",
+      "path": "materials/01-3/3. Техники личного тайм-менеджмента.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 13438457,
+      "sha256": "45a27c4d26edbd0fad0e28db85214d86772cf95b118740203642e3a1f47ff55e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\literatura_upravlenie_vremenem.docx",
+      "path": "materials/01-3/literatura_upravlenie_vremenem.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 47174,
+      "sha256": "897f89ec5b1c8212acd7cff00827130843acedafe70f2f3c8b3cb40f9e4b2d74",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\obzor_5_pravil_vydayusheysya_effektivnosti.docx",
+      "path": "materials/01-3/obzor_5_pravil_vydayusheysya_effektivnosti.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 87390,
+      "sha256": "add4096deec87ebff5c53c0ccf345f6f93f6889c8d969ec5e90c870eee9225e0",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\obzor_bez_suety.docx",
+      "path": "materials/01-3/obzor_bez_suety.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 67283,
+      "sha256": "8ddf2c027618f18e85cbe290e6d359da3d21a1e52b74feb7db118921791ef4be",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\obzor_kniga_o_poteryannom_vremeni.docx",
+      "path": "materials/01-3/obzor_kniga_o_poteryannom_vremeni.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 64980,
+      "sha256": "27b0dc270a85a75f980917e0b5d953d1f3abead9e565f0a94812ad8552f9c4ca",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-3\\Plan-dny.xlsx",
+      "path": "materials/01-3/Plan-dny.xlsx",
+      "decision": "copied_original_preserved",
+      "bytes": 18721,
+      "sha256": "2fbfe475f2396ab31d9a3b8aecd3c8b1f48c8ebcef551878c52392dc0ca2e418",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-4\\1.10.mp3",
+      "path": "materials/01-4/1.10.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 6993891,
+      "sha256": "54b2d5ca4ef88c5dd5cda6144db10b4072e391e3e32bb3e05c794b97cefa9681",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-4\\1.11.mp3",
+      "path": "materials/01-4/1.11.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 4896195,
+      "sha256": "3a5b06606e8d95a1ac78f91aea329c191ea0257e25092a838b7615e9038aa7a9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-4\\Grafik_lyagushek_20210317T125553.xlsx",
+      "path": "materials/01-4/Grafik_lyagushek_20210317T125553.xlsx",
+      "decision": "copied_original_preserved",
+      "bytes": 10155,
+      "sha256": "fc67002b13355a12779d5709f5f862ca95c77947e388e6c247ee2c107c6b90a7",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-4\\Obzor_12_nedel.pdf",
+      "path": "materials/01-4/Obzor_12_nedel.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 176751,
+      "sha256": "6ba9f91b14228b2dce981b24f412b0731277b8f30e49369ddedc34e7d68302d6",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-4\\Obzor_Dela.pdf",
+      "path": "materials/01-4/Obzor_Dela.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 244667,
+      "sha256": "4d7d4f074b1281f9680fc4a53925de13ebd6ce90a64515ef319c695524d3afdc",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-4\\Obzor_utro.pdf",
+      "path": "materials/01-4/Obzor_utro.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 170204,
+      "sha256": "8771ab1b288ac9c7aabf4a3e2f88a9ad9d5bddf5215a44ce31965bbd5d91c1b8",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-4\\Spisok_literaturu.docx",
+      "path": "materials/01-4/Spisok_literaturu.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 43985,
+      "sha256": "e7bcdae92cbd61f11adfe19be49cdc70eb1a7bea0d157247965f536cadbaf83c",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\1. Правила эффективной коммуникации.m4a",
+      "path": "materials/01-5/1. Правила эффективной коммуникации.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 16899352,
+      "sha256": "884364e815e058c25611e33562d5890a1b31ea280d37188fa0b0bdbe3601aee2",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\1.13.mp3",
+      "path": "materials/01-5/1.13.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 8299170,
+      "sha256": "df8a44a57393a8831922ed7d5c6258f6f3acd21442f4e44a6d66f1fe93540296",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\3. Что нужно знать при подготовке к переговорам с арендодателем.m4a",
+      "path": "materials/01-5/3. Что нужно знать при подготовке к переговорам с арендодателем.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 16102826,
+      "sha256": "2e5785f7193e10e6aa5b73c87da33bf3c150a1d232834cd6634c1ad6dda68bf2",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\4. Как вести переговоры в кризис.m4a",
+      "path": "materials/01-5/4. Как вести переговоры в кризис.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 9213572,
+      "sha256": "b9fb96b4b5540f1d41977623f452a60df0a453367c1201e50319faf1d88a17d9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\6 как справиться с волнением.pdf",
+      "path": "materials/01-5/6 как справиться с волнением.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 105687,
+      "sha256": "a4df1b9de375dbfa7e4b3f7122ba2ae57b36a6a0b04db59c788bc339bfbc537f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\65d973c8-1b6c-4367-98be-ff2ec267c1db.docx",
+      "path": "materials/01-5/65d973c8-1b6c-4367-98be-ff2ec267c1db.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 148844,
+      "sha256": "b49bc216c037168b09940bf9824440b1de2c141cf3b6f2c0ba77675940cb6ec1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\7 презентация.pdf",
+      "path": "materials/01-5/7 презентация.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 104109,
+      "sha256": "17e43123a0dd91bbc281db672af4651cd7c79c7d2f2b988ec43fa8bf2e2b1766",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\check list 1_20210426T154139.pdf",
+      "path": "materials/01-5/check list 1_20210426T154139.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 1331078,
+      "sha256": "bb9428dbe240102febcc7ffc2938978b97ec1ccf9488446823634324762ee9e9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\check list 2_20210426T154139.pdf",
+      "path": "materials/01-5/check list 2_20210426T154139.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 1350157,
+      "sha256": "74dfe32efc52015f1f708491fd9260d506cae9c878d5e5da42bb481706e2d20e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\kartaempatii_20210518T165842.docx",
+      "path": "materials/01-5/kartaempatii_20210518T165842.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 294572,
+      "sha256": "d139c2abd822a22f5fcf998ee0bcbe37195624acde9e67eabc6d2174bf8cdca5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\Kommunikazii_so_steikholderami_20210415T120233.docx",
+      "path": "materials/01-5/Kommunikazii_so_steikholderami_20210415T120233.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 19042,
+      "sha256": "3797bdba9fc3c2834b9400ae0dc6991727e5139030e704a389eac2b4e444a114",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\literatura_kommunikacii_so_stejkholderami.docx",
+      "path": "materials/01-5/literatura_kommunikacii_so_stejkholderami.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 51841,
+      "sha256": "10a395dd0a051ea7f1778e80b7f3b75c6a84f97b2ad729b9433411dd7fb085be",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\obzor_TED_Talks.docx",
+      "path": "materials/01-5/obzor_TED_Talks.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 64076,
+      "sha256": "d13c4517e0da10eb10c95aa06594d5c0799cf387fb737101aa0f943548fc8462",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\osnovnye_steykholdery_kompanii.docx",
+      "path": "materials/01-5/osnovnye_steykholdery_kompanii.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 65872,
+      "sha256": "1598e17de03ff0674b367b25c6f475a9b64e71964e66b544fd0ed1a4955a0b59",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\pamyatka_podgotovka_prezentacii_20210525T105101.docx",
+      "path": "materials/01-5/pamyatka_podgotovka_prezentacii_20210525T105101.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 61541,
+      "sha256": "e7d600096359c3ddef7b44ce2d5cc7fcfa8ff184b11a997eb13b08579ceaf83b",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\plan_provedeniya_vstrechi_20210525T105101.docx",
+      "path": "materials/01-5/plan_provedeniya_vstrechi_20210525T105101.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 53637,
+      "sha256": "06580e5bdcbc1b21e6574cac617778c42f2571ee6d44b8aaacd209161dee0593",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\podgotovka_k_kommunikacii.docx",
+      "path": "materials/01-5/podgotovka_k_kommunikacii.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 56111,
+      "sha256": "b24568d279189089da3c2d9917023e777cdc5c04219ba81b89b0c1fd6dffb074",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\statya_kak_izbezhat_konfliktov.docx",
+      "path": "materials/01-5/statya_kak_izbezhat_konfliktov.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 153332,
+      "sha256": "9bf8644268dbd9872e9d83e984d11ecb838a9db1a5d2966b8e6847197a3b7ea6",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\statya_kak_otstoyat_reshenie.docx",
+      "path": "materials/01-5/statya_kak_otstoyat_reshenie.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 61416,
+      "sha256": "56492add1695eb71f2f29e1afcef6b254f0f5e6c5b2ae451753ca743c99d892a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-5\\Upravlenie_mneniem_20210525T104638.docx",
+      "path": "materials/01-5/Upravlenie_mneniem_20210525T104638.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 89132,
+      "sha256": "85dc7b014478d48651ad535f046e668ba7df6e0ef5a125689b3a22552874e2c1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\1.15.mp3",
+      "path": "materials/01-6/1.15.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 5245998,
+      "sha256": "aee3bfea8bc9dfbec7e30329b44a6fe44895f0b3b581e6223b0c12ec19e27184",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\2. Персональное позиционирование.m4a",
+      "path": "materials/01-6/2. Персональное позиционирование.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 15655699,
+      "sha256": "3bbcf6822863bd7e4aa6d361bdd99162808dc3d9b3001bdb3fa9650ab059aa74",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\3. Как написать резюме.m4a",
+      "path": "materials/01-6/3. Как написать резюме.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 11401512,
+      "sha256": "3d38eee429c2701e1e5a1763bc022a17cd485c3bc2540f4acb12b191b448125b",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\4. Стратегия поиска работы и прохождения собеседования.m4a",
+      "path": "materials/01-6/4. Стратегия поиска работы и прохождения собеседования.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 22224810,
+      "sha256": "e0a6ef6e7967008296ea755940dad818f11b97612d4273b38e92afd2c7521a61",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\5. Практикум. Собеседование директора.m4a",
+      "path": "materials/01-6/5. Практикум. Собеседование директора.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 12053607,
+      "sha256": "26f1a665172d2d85b9be773cf463572f3d344f19a433e3ce571f7e81cf0424a4",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\Obzor_Maslow.pdf",
+      "path": "materials/01-6/Obzor_Maslow.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 226975,
+      "sha256": "135287894e13f18d1f84283242d7d1a2499efa466cfec3aec5ae2623afea5a09",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\Obzor_rabota.pdf",
+      "path": "materials/01-6/Obzor_rabota.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 167032,
+      "sha256": "a4c07f5b5d1870d7b6de296ad323515fe27a83285696274edb22830b29796343",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\Obzor_smusl.pdf",
+      "path": "materials/01-6/Obzor_smusl.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 237876,
+      "sha256": "b4a58e208b79afc0d3bdfc134610b9c5a7720efb44606349a955a7bf0a94d296",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\Obzor_uvlecheniya.pdf",
+      "path": "materials/01-6/Obzor_uvlecheniya.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 180316,
+      "sha256": "d0b7e3db2c0b1ecded82cf862d1f96ffeae54e3ada81311fc601ba0e0c6054a2",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-6\\Spisok_literaturu_.docx",
+      "path": "materials/01-6/Spisok_literaturu_.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 46956,
+      "sha256": "f6e6798f88f58cf4b5baf19baa7db065149e812e68535afa8f5a3462b66cd41e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\2. Корпоративная культура.m4a",
+      "path": "materials/01-7/2. Корпоративная культура.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 15908255,
+      "sha256": "30795e794532e470666daa507b94bfdfafa3a327dcdc34127808a731017d6063",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\2.ogg",
+      "path": "materials/01-7/2.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 9364334,
+      "sha256": "201e3db6b6bf8dbbb00e53dfa1d90f05847cc3d975704a34af51b19eba5f7d44",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\746dabb1-a05a-477c-b553-3867d660490d.docx",
+      "path": "materials/01-7/746dabb1-a05a-477c-b553-3867d660490d.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 86464,
+      "sha256": "ae1bf6b54b9642be9a6cf647924c728ab64e953578082299761cd072f32dca29",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\Obzor_vse-nachalniki.pdf",
+      "path": "materials/01-7/Obzor_vse-nachalniki.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 243550,
+      "sha256": "565256eabbd09192a52d7398dbd6cd5af77bdc1436206631d6d7f8b5fe4ef154",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\Obzor_YA.pdf",
+      "path": "materials/01-7/Obzor_YA.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 233504,
+      "sha256": "27e293d798a89e00a519ec8b286e47aa9dd389a99f0aae06ebed47a4dcc737c8",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\Obzor_Zappos.pdf",
+      "path": "materials/01-7/Obzor_Zappos.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 265847,
+      "sha256": "c0c420f283c7c943219b067ecd0c46c0f712bca6d60bcc274072de2a4a2a0922",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\Spisokliterat.docx",
+      "path": "materials/01-7/Spisokliterat.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 47745,
+      "sha256": "8263c1cd3ac48899695a42e29f8bc046d026f157fc676ded7e73c7574906d3bb",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\Statya_kak-sformir.pdf",
+      "path": "materials/01-7/Statya_kak-sformir.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 919184,
+      "sha256": "cfca5c5852d09a15a70ce8e28170063012a3ed6042eed094c8e37fef03b73a8d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-7\\Statya_korporat.pdf",
+      "path": "materials/01-7/Statya_korporat.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 561395,
+      "sha256": "afd4cb56f3cd0df52b63ce91cd7349efa05aa8c940eb09c57ed493dbb93490ea",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\1.22.mp3",
+      "path": "materials/01-8/1.22.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 6947359,
+      "sha256": "3f4bf48021814306aa968bcbd8c290b21b803f8eeb0f4c07f63860333927ddcc",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\1.23.mp3",
+      "path": "materials/01-8/1.23.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 6955010,
+      "sha256": "727cc3f6c2e82f2b170b0a56785633832ec56117963d98c08e6382710aedeeb7",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\1.24.mp3",
+      "path": "materials/01-8/1.24.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 2790712,
+      "sha256": "b1ef0941f10cc3e1493ce4be1c16de2a7aeeeb49e6fc86dfd287c38dfd345960",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\1.25.mp3",
+      "path": "materials/01-8/1.25.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3383755,
+      "sha256": "b4a7bce250d0054f80287306c102a208af43befb7b3affb1465c52cffaaccf66",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\4 типа активности.pdf",
+      "path": "materials/01-8/4 типа активности.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 74077064,
+      "sha256": "5b091ea236646f6f79b35382095fb76401187c625e36d4639c11fd9f1f85497d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\literatura_rabota_s_infopotokami.docx",
+      "path": "materials/01-8/literatura_rabota_s_infopotokami.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 45481,
+      "sha256": "cda0b2a1316fa304547b0a8fd0ee7a4482bdfa35a72ee074147f821469d2220a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\obzor_fokus.docx",
+      "path": "materials/01-8/obzor_fokus.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 64312,
+      "sha256": "40ac1c81fb3dd31ae85f34fc6096959fe208c9ae7b6a0274711355668aabba5e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\01-8\\statya_15_tehnik_produktivnosti.docx",
+      "path": "materials/01-8/statya_15_tehnik_produktivnosti.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 929075,
+      "sha256": "78d56ebdaaa53e0addae985c7296e6292966a5bcd9fadeaa87b9f7365f4cd6ec",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\1.m4a",
+      "path": "materials/02-1/1.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 8894015,
+      "sha256": "f76cf3839fcfcedfd55caf86529eed9f1e9c00f8b6fce560d26ed900bbf682a5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\2.ogg",
+      "path": "materials/02-1/2.ogg",
+      "decision": "copied_original_preserved",
+      "bytes": 6685115,
+      "sha256": "a2fc25d3d1147bbe992409b2989d88a1184199dbfa856c3c3142dd250f20775e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\3.m4a",
+      "path": "materials/02-1/3.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 7317671,
+      "sha256": "fe0255a90c0c5db0ca95285a45b0b2111bc74de5d458406ff9dd6efd5189941e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\6. Диагностика организационной среды.m4a",
+      "path": "materials/02-1/6. Диагностика организационной среды.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 27662521,
+      "sha256": "4ef3547b1d096436f5ca810b7b2e03f8f2a17de5160d05921c783f8a20a33e46",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\7. Расчет оптимальной численности разных категорий сотрудников.m4a",
+      "path": "materials/02-1/7. Расчет оптимальной численности разных категорий сотрудников.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 42967221,
+      "sha256": "aa117898773f2ddb200c50603bf469ba9c382b11cdfc438fee6e9056debeb377",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\8. Мониторинг производительности труда в организации.m4a",
+      "path": "materials/02-1/8. Мониторинг производительности труда в организации.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 21768412,
+      "sha256": "e375be2d7fa3163c3abf681a0189d61a608369233b149cddee304445a977e3b0",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\Chek-list_Zdoroviye_20200229T125751_20210419T165106.pdf",
+      "path": "materials/02-1/Chek-list_Zdoroviye_20200229T125751_20210419T165106.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 1065226,
+      "sha256": "15c0eb9ca350111608aba171f5f4b3f1d85604a22fc1c0e9f7ea562339f113c1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\Kak-nachat_20230330T175611.docx",
+      "path": "materials/02-1/Kak-nachat_20230330T175611.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 16683,
+      "sha256": "febcecc3f3b21c3f13f5a4e93a1b3e906cf50efef59e577e138f69e63496ca76",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\labors.pdf",
+      "path": "materials/02-1/labors.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 498148,
+      "sha256": "577994ca42a87d5902ccbb804293080f8da61a7bd0bd299fd744b9120c36f80d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\leaders.pdf",
+      "path": "materials/02-1/leaders.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 254127,
+      "sha256": "051779de1a9c3f581b0ef429c62d9c87dda4629c1631f0f2db28249e50b20a34",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\Obzor_tekniki-rekrut.pdf",
+      "path": "materials/02-1/Obzor_tekniki-rekrut.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 299921,
+      "sha256": "cd07b2a947461500d2afaba1a65dd0c319fe8ae577650e5d4a7cbd5ea794e108",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\Obzor_vubor-sil.pdf",
+      "path": "materials/02-1/Obzor_vubor-sil.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 315955,
+      "sha256": "968bbc72510d4c40b71e94d38599b3eaac132a0a72b043c444d409d8714ccc27",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\Plan_20210427T155541.xlsx",
+      "path": "materials/02-1/Plan_20210427T155541.xlsx",
+      "decision": "copied_original_preserved",
+      "bytes": 10942,
+      "sha256": "1a40fcba04fa2954ebc4d1a68e7cbc32558ad9308865764982c3f981bf1df735",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\projects.pdf",
+      "path": "materials/02-1/projects.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 544437,
+      "sha256": "f50019a27c4e948d0487fec27f53193de8397b0fc061cc297fa46977907c3fc4",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\repairmen.pdf",
+      "path": "materials/02-1/repairmen.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 531519,
+      "sha256": "a72eb5c2de2f76f172cc5fcf9346a64bb7dabde056f34835e7092359867363e9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\sales.pdf",
+      "path": "materials/02-1/sales.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 369439,
+      "sha256": "59070d22c5a166f159e093336d819e17880a40ce25e26089d3217ca20c635b95",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\specialists.pdf",
+      "path": "materials/02-1/specialists.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 526804,
+      "sha256": "50d5d8442a8c8e5dd1bb923dd2264673b846f335b7de3ae9b6cf2c9201c5bf0f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\Spisok-optimiz.docx",
+      "path": "materials/02-1/Spisok-optimiz.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 49418,
+      "sha256": "3e283b78128aebd30c2de6a5fbc5fdde3e6f6e360e01ca8b2550387d4ac82c5c",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-1\\Statya_kak-opr.docx",
+      "path": "materials/02-1/Statya_kak-opr.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 119607,
+      "sha256": "c41c1f1feda78d3206e13d9dbee95b9706c932e3602091dbe0ac50c0763d7d8c",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\2. Оценка персонала и создание архива компетенций.m4a",
+      "path": "materials/02-2/2. Оценка персонала и создание архива компетенций.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 21542669,
+      "sha256": "5f7d9e88c5bf498ca7980b80e1c9431dccd0d27212ab942b0427dd8b44c07ed5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\2.4.mp3",
+      "path": "materials/02-2/2.4.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 5449866,
+      "sha256": "94391769b41731abe6369d6df04cd58eddbd2814a3ff10d507adcc342c4bd587",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\2.5.mp3",
+      "path": "materials/02-2/2.5.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 6312469,
+      "sha256": "04e7e0187f80d3312d4138470302ca71a2b926621222cb6836ee1212d513578d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\2.6.mp3",
+      "path": "materials/02-2/2.6.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 7210016,
+      "sha256": "dfc763427c03ebd80e909bd36d653e07f55a484a96f02e973b859f4927fea9d1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\6. Принципы разбора рабочих ошибок.m4a",
+      "path": "materials/02-2/6. Принципы разбора рабочих ошибок.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 14265934,
+      "sha256": "d2f1507eb498a292f107e4899474e996ed4a6f004fff8b7e538bdae28eb04543",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\7. Нематериальная мотивация сотрудников. Соцсоревнования.m4a",
+      "path": "materials/02-2/7. Нематериальная мотивация сотрудников. Соцсоревнования.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 17982667,
+      "sha256": "94fe7c3146b4e1cc81b14f240f73271933b5702a51ffbb15e0f36b87228d3b70",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Alg.png",
+      "path": "materials/02-2/Alg.png",
+      "decision": "copied_original_preserved",
+      "bytes": 97608,
+      "sha256": "34c62a99d9a31848e18b1cd7685774232f8ce3d16d7061c668b4c9da66dcd409",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Anketa.docx",
+      "path": "materials/02-2/Anketa.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 59351,
+      "sha256": "d756d5cfe0ca10d73f878911afb3124b34ca03560d0b899eb943abec855f9f41",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\b9e5ef086a564add8f2e507ee0ddcadc_20210402T101641.png",
+      "path": "materials/02-2/b9e5ef086a564add8f2e507ee0ddcadc_20210402T101641.png",
+      "decision": "copied_original_preserved",
+      "bytes": 235367,
+      "sha256": "d253705b9fee30183ce6f0ffd879c1e59bb0e3d5a20eb2ba26aca39213246c5f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Bazovaya_struktura.docx",
+      "path": "materials/02-2/Bazovaya_struktura.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 63702,
+      "sha256": "72f9300225a14d1837ff7442be0d415fd133bcc8e08da33c24ba95c3f1f7e781",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Obzor_7.pdf",
+      "path": "materials/02-2/Obzor_7.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 339007,
+      "sha256": "2b60f251f433a2d1f699f5004e36de7cf38e06b1eca4a6c2c814ec3af8370039",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Obzor_bisnes-v-stile.pdf",
+      "path": "materials/02-2/Obzor_bisnes-v-stile.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 282947,
+      "sha256": "68486525cf23a5811583aadd376ae9a95a5b666c8e739589ce7551cd2c862e36",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Obzor_chto-znachit.pdf",
+      "path": "materials/02-2/Obzor_chto-znachit.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 227277,
+      "sha256": "8731b7d038d2ebd02b83f9427bfd1de10b759e9903bb84746eaa46dcce51ed66",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Obzor_eff-ruk.pdf",
+      "path": "materials/02-2/Obzor_eff-ruk.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 273353,
+      "sha256": "8d7afd1f52165c62012b4a1fb8b12aaef94bd8f0e0c04b2b086256028615225d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Obzor_EI.pdf",
+      "path": "materials/02-2/Obzor_EI.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 292854,
+      "sha256": "27475165e625fe4a026e144a5a27ca6f68ec278049c8899d4e0bd7325b690f58",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Spisokliter.docx",
+      "path": "materials/02-2/Spisokliter.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 68384,
+      "sha256": "c80c3b31bade0f682f5290a4f6c76ef3afcf7f6256f798c327a1b05f44f36a57",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-2\\Tabliza-dlya.docx",
+      "path": "materials/02-2/Tabliza-dlya.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 68485,
+      "sha256": "e3e889d39d54c8bdb0bdaa2a4427480490285dfa16a5ba3cea384dc37047c8bf",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-3\\09afb966-59bb-4606-bf12-9e837fc14349.mp3",
+      "path": "materials/02-3/09afb966-59bb-4606-bf12-9e837fc14349.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3811933,
+      "sha256": "2b0db9d27ee1fde2fd3913707e42180c094cb32a15668e2f78012009e0d16754",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-3\\5920388a-479c-43aa-b0a1-9eb228844783.mp3",
+      "path": "materials/02-3/5920388a-479c-43aa-b0a1-9eb228844783.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 4489863,
+      "sha256": "75ea6e476c96dbd78db40892d09cdc38d79ea4a791594a57773bfabaa221e49a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-3\\6bbb4a69-bc96-4bcb-99f0-2e0195096d1e.mp3",
+      "path": "materials/02-3/6bbb4a69-bc96-4bcb-99f0-2e0195096d1e.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3598774,
+      "sha256": "dffcb994c32b5bd3f53cf8843715b70961b4801db3ae69e8f4431e6d2fe93061",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-3\\8d087e03-8bb0-427a-8cd3-074d340a292c.mp3",
+      "path": "materials/02-3/8d087e03-8bb0-427a-8cd3-074d340a292c.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 2953027,
+      "sha256": "90d40c7833f79d124d3c94d57b3178a8ef6a1c6d26a1e5c26963ea04625001b2",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-3\\Принципы формирования вовлеченности.pdf",
+      "path": "materials/02-3/Принципы формирования вовлеченности.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 20402544,
+      "sha256": "ed4c55bca8b30f757d16ad35e53d080d35b2e14af0eef09c577bb683c69a24d6",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-3\\f803e2dc-da75-44c8-b1d2-1d8bc44a9587.mp3",
+      "path": "materials/02-3/f803e2dc-da75-44c8-b1d2-1d8bc44a9587.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 2053997,
+      "sha256": "23d568256e1579f19f7b872517f1648e9cd24e8a3f2acd2b44288e528ce0a599",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\1. Принцип комплементарности при выборе заместителей.m4a",
+      "path": "materials/02-4/1. Принцип комплементарности при выборе заместителей.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 22026834,
+      "sha256": "01894a8fbc809f05736d9e8974dfdcb13cd555180387b8bf636a26b72f5bc295",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\2. Выявление потенциальных руководителей в коллективе.m4a",
+      "path": "materials/02-4/2. Выявление потенциальных руководителей в коллективе.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 10911714,
+      "sha256": "46d97260d957265c34e4b074d8e62a1d4c8c86f0224fba8ffc14d0b73fc4e44e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\2.14.mp3",
+      "path": "materials/02-4/2.14.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 5936104,
+      "sha256": "46d24241b934b4a297cb6513f3b3cf6cb269a243389b17548f36aba292b49bb1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\2.15.mp3",
+      "path": "materials/02-4/2.15.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 7599538,
+      "sha256": "f687965d67ccbc12f6e1619300df34d2a7676204dbb97c0c94be0b804708808a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\3. Как составить профиль кандидата.m4a",
+      "path": "materials/02-4/3. Как составить профиль кандидата.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 21600140,
+      "sha256": "05e3f667301ccdf47b8b5b41d67950bcbb05c2d274640c4a3ec77d51cf1e5a5d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\6. Практикум. Собеседование с продажником.m4a",
+      "path": "materials/02-4/6. Практикум. Собеседование с продажником.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 13138720,
+      "sha256": "5b3dc995db56c9ed751c5a6ac68e2b083f3a5e5ee2b83983ca4597522c7f7248",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\7metodov_20210423T165851.docx",
+      "path": "materials/02-4/7metodov_20210423T165851.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14555,
+      "sha256": "122963a6e7ce7730d1b45682a7efb0bee8ce54efa3d88a6000c7fb2c28b414de",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Интерактив 1 урок.pdf",
+      "path": "materials/02-4/Интерактив 1 урок.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 1176948,
+      "sha256": "907a2f58aa34e71974092e880607e5f663f97a2a1c576a184f189c57349e7422",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\f2d5c554-f4b6-4d94-8ee0-d9573bbc3b68.png",
+      "path": "materials/02-4/f2d5c554-f4b6-4d94-8ee0-d9573bbc3b68.png",
+      "decision": "copied_original_preserved",
+      "bytes": 126861,
+      "sha256": "942f3543fa3b59f8ff63186235f9eef8284462db18accf835efac0e5f9fc8681",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\kandidatsredisotrudnikov_20210407T154459.docx",
+      "path": "materials/02-4/kandidatsredisotrudnikov_20210407T154459.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 33473,
+      "sha256": "059360133e6f20bceb989bdec280e477879a4a13fdac3b24c06f80b6f0f341d7",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\konspect_20210407T143239.docx",
+      "path": "materials/02-4/konspect_20210407T143239.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 62585,
+      "sha256": "df9280b90b4bf1b20f2e6611fbde1d023e07d5daef3104ce2b460a2ad7bd1d35",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Konspekt-kak-uchit.docx",
+      "path": "materials/02-4/Konspekt-kak-uchit.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 47276,
+      "sha256": "a2fe7bebdbc1864f0e75b2396e15ecaef8997a4ff5f889f7680a7a3c9457bfbb",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Konspekt-tipu.docx",
+      "path": "materials/02-4/Konspekt-tipu.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 88799,
+      "sha256": "ed442320abdef8d09da6093feaa80fcb4d73fe947e1b37a2cd92323ee4b39fb9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Obzor_talantu.pdf",
+      "path": "materials/02-4/Obzor_talantu.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 191593,
+      "sha256": "1455a454c16bfb8fc897ec6e9cd89889a376305eeb874f502c956db993d79af9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Spisok_lit-ru.docx",
+      "path": "materials/02-4/Spisok_lit-ru.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 45760,
+      "sha256": "ceaf5e87bc35d9fe550e0970a192fe72eeb47e125ca47d3ae81d73522f1bcfae",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Statya_ozenka.docx",
+      "path": "materials/02-4/Statya_ozenka.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 209727,
+      "sha256": "1b456eb47eb7c70d70eff543214a1247d00d66203637d2395f793c239008f5e3",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Statya_sistema.docx",
+      "path": "materials/02-4/Statya_sistema.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 372324,
+      "sha256": "c5a86b62c8e77cdcab85222fae6ce8c582cea4ee1828ae1dd957a284a9159037",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Statya_stress.docx",
+      "path": "materials/02-4/Statya_stress.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 61128,
+      "sha256": "c4d2de1bfa6e3ad572b329cf1f152e23799038bfd156a756f3e1d231d7a83cb5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Sttaya_formula.docx",
+      "path": "materials/02-4/Sttaya_formula.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 274084,
+      "sha256": "85a59f65503ab904fdb5a901670c80de614135c2cda6212fd68987f8bac4a8b5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-4\\Test_dopmaterial.docx",
+      "path": "materials/02-4/Test_dopmaterial.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 56948,
+      "sha256": "3b99547b4c66a3e4222474eeca4afe27e2ac7c7234caead6c4d9bbf0b8eeea90",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\1. Доминирующее поведение.m4a",
+      "path": "materials/02-5/1. Доминирующее поведение.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 20396301,
+      "sha256": "d5710444b7f3cb6cd68c698a83d8b14eea7c49809a9334904fbe699b61c9d7b2",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\2. Влияющее поведение.m4a",
+      "path": "materials/02-5/2. Влияющее поведение.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 22304420,
+      "sha256": "a2d94fd0f27c3dc7eb0ff201eadd6b714c904590f9867c19dff03be14df29882",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\3. Стабилизирующее поведение.m4a",
+      "path": "materials/02-5/3. Стабилизирующее поведение.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 22823385,
+      "sha256": "cab9b34c14b2c260cda23e435e13744cbc6a6d01d2ed696dc7d8cce6302a083c",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\4. Добросовестное поведение.m4a",
+      "path": "materials/02-5/4. Добросовестное поведение.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 17618322,
+      "sha256": "60deffcadf70b873ca0b6c4bc4234ce5031551a4be9e9befc37d39bb3891773d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\5. Как без потерь сочетать в команде людей разных типов.m4a",
+      "path": "materials/02-5/5. Как без потерь сочетать в команде людей разных типов.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 15695512,
+      "sha256": "f9ae711bb2f7a74b002ad05b89f280a423f8c21e701917ef2d3c25a94dacc971",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\Сочетания сотрудников по DISC.pdf",
+      "path": "materials/02-5/Сочетания сотрудников по DISC.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 108114,
+      "sha256": "78f05351284f521b8437cbb38f9ed518f8a572f56d71875531d8c6daa5355e1c",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\Spisok-lit.docx",
+      "path": "materials/02-5/Spisok-lit.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 51316,
+      "sha256": "c9002d18318cb5c67b39a6b8c7e523d5022fc1f68032b8acc6f07ee5c7f0e52e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\Statya_50.docx",
+      "path": "materials/02-5/Statya_50.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 376908,
+      "sha256": "a760b72fc13a7482718b6be176346dc775a2128538e200525c45f08d9e97a513",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\Statya_kak-naprav.docx",
+      "path": "materials/02-5/Statya_kak-naprav.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 241011,
+      "sha256": "7371ce73a459fbe0d12a60604537e9e11c05ec16c99ce9c50eb35d1762a8fe95",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\Statya_kak-pov.docx",
+      "path": "materials/02-5/Statya_kak-pov.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 55584,
+      "sha256": "4d6e82a8bb4ce5e34cfc05100dfb5dd0e2987adbd2a60b33ecd9997a4ffb5ba6",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-5\\Statya_smart.docx",
+      "path": "materials/02-5/Statya_smart.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 59999,
+      "sha256": "1d5fc20cc65217a9f550c1c81608a866a807be7866099a9bc0fe42e91a426ce9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\1. Формирование репутации лидера в коллективе.m4a",
+      "path": "materials/02-6/1. Формирование репутации лидера в коллективе.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 30299318,
+      "sha256": "e277639c43a484880f6a95fd9bcb25afa833153ae9e5e793306d0752be2bc87e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\2 Принцип открытости руководителя на практике.m4a",
+      "path": "materials/02-6/2 Принцип открытости руководителя на практике.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 28532815,
+      "sha256": "f17c69aa0a6d351c7ce0780752875ce589deec3c75a4733d93679169e553d9a4",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\2.6.mp3",
+      "path": "materials/02-6/2.6.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3649064,
+      "sha256": "2179174c4aa9d77ca96f0effb67a674c4b497b4287f266dd079363b2b71fa368",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\3. Как создать эффект присутствия руководителя на каждом рабочем месте.m4a",
+      "path": "materials/02-6/3. Как создать эффект присутствия руководителя на каждом рабочем месте.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 11885676,
+      "sha256": "8e730f650cfe86f1087deddda37d751efa40faf7a1461765b99e83f8aaf77fc5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\4. Устранение фильтров на пути информации с мест до руководителя.m4a",
+      "path": "materials/02-6/4. Устранение фильтров на пути информации с мест до руководителя.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 24339169,
+      "sha256": "cdcda57258037a86c0db73a5a62f0ea8a2fe57dcee7d1662dc53dbf0d119e35d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Obzor_kak-upravlyat.docx",
+      "path": "materials/02-6/Obzor_kak-upravlyat.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 62191,
+      "sha256": "466b6f61a1e39ed19f0027c83eb53c163ddff5eb4ba656a87da0fc9ffffc3463",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Obzor_okna.docx",
+      "path": "materials/02-6/Obzor_okna.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 67164,
+      "sha256": "0e5a0f217e0df76fb398a8844a6d686882380184d7ec33c56eea4a8cb8f62f70",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Obzor_trudno.docx",
+      "path": "materials/02-6/Obzor_trudno.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 70148,
+      "sha256": "89e1c9cc25ac692a2ec920ef3aa3957f5ba1c852fa0c10d0d4832fa59f674406",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Post_Buffer_20210323T120248.docx",
+      "path": "materials/02-6/Post_Buffer_20210323T120248.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 15758,
+      "sha256": "51d3444447f4d59ed13c7ecb0906d349d702c3ae538d3fb11f2014367730ccea",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Rabota_s_infopotokami_20210415T114949.docx",
+      "path": "materials/02-6/Rabota_s_infopotokami_20210415T114949.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 211577,
+      "sha256": "81286861d62e88b42cd71538a84d61d7961400665ae8be13505791b236775221",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Spisok-lit-ru.docx",
+      "path": "materials/02-6/Spisok-lit-ru.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 51433,
+      "sha256": "d0d59822c7b1a03cd38b2ae07967141cc1e08ab457a909deba1699f1aa3fb43f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Statya_5-spos.docx",
+      "path": "materials/02-6/Statya_5-spos.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 68961,
+      "sha256": "493eb57552e4c7f882fae9e373569a09acf39022d8244abc70fe9a727123f77f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Statya_kak-povus.docx",
+      "path": "materials/02-6/Statya_kak-povus.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 203042,
+      "sha256": "98c5953bb0641a5774892389d2e8909ecaf1722d2d4c1ff720f1ca112d40292d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-6\\Statya_kak-sohran.docx",
+      "path": "materials/02-6/Statya_kak-sohran.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 213262,
+      "sha256": "faab7b113be00aa09b7ed3656f060e600408681aaa015858aef944db8689f420",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\1. Как контролировать удаленных сотрудников.m4a",
+      "path": "materials/02-7/1. Как контролировать удаленных сотрудников.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 8646022,
+      "sha256": "d5db5c71541509dccd20e6b5a6318a95fcb1098ae55de9120182e2daf9bb9482",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\11. Быстрые решения не дадут компании преждевременно постареть.m4a",
+      "path": "materials/02-7/11. Быстрые решения не дадут компании преждевременно постареть.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 8380629,
+      "sha256": "84ceef96ecb26c70a17b0fa85606a4fc0db501ceb957b3e525b0f6bfc5188a5a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\12. В кризис надо уметь не только быстро думать.m4a",
+      "path": "materials/02-7/12. В кризис надо уметь не только быстро думать.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 5129347,
+      "sha256": "ee59ab7a0098a18a575b7d6fd6c07836c974e61c2cf1798aeff5565ea3cad86e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\2. Как удаленно отслеживать выполнение задач.m4a",
+      "path": "materials/02-7/2. Как удаленно отслеживать выполнение задач.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 3488230,
+      "sha256": "f70e5824ad4c21c561e33d241cbc055e8478b3afd6ce0848d12f2427de476f70",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\3. Как эмоционально поддерживать удаленную команду.m4a",
+      "path": "materials/02-7/3. Как эмоционально поддерживать удаленную команду.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 8020352,
+      "sha256": "b72dd8a93688199182db68e38aaf14e94d204134eb3c7e7e4d7bb8878c357ff5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\4. На какие причины выгорания руководитель может и должен повлиять.m4a",
+      "path": "materials/02-7/4. На какие причины выгорания руководитель может и должен повлиять.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 4371303,
+      "sha256": "eaedfe90031c8db8bbdc72e09617c887719bd6b6e6e1df976600974cbc52de4e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\5. Нюансы общения удаленной команды.m4a",
+      "path": "materials/02-7/5. Нюансы общения удаленной команды.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 10194702,
+      "sha256": "0764a61981b33550e63399ce87f3b682714c028bff0d256498ddfa09f5447c5d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\9. Как руководителю поддерживать спокойное эмоциональное состояние в ситуации кризиса.m4a",
+      "path": "materials/02-7/9. Как руководителю поддерживать спокойное эмоциональное состояние в ситуации кризиса.m4a",
+      "decision": "copied_original_preserved",
+      "bytes": 9838413,
+      "sha256": "42053365c62fb499281a5bdd2fdecd7e3ba8bac511e09fdc59538fd8d63fad76",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Antizapret VPN_20220228T175332.docx",
+      "path": "materials/02-7/Antizapret VPN_20220228T175332.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14548,
+      "sha256": "93f07ad24f8f1433f7b92d24b6200f9abff8f8c5c11cfda23d00fcf010ad2c86",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\IMG_1902.gif",
+      "path": "materials/02-7/IMG_1902.gif",
+      "decision": "copied_original_preserved",
+      "bytes": 7462452,
+      "sha256": "3f8bb9cee56f84457aeba956b832c0d9b08f5bd3d8ea55a2f04919df26a5d00e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\IMG_1905.gif",
+      "path": "materials/02-7/IMG_1905.gif",
+      "decision": "copied_original_preserved",
+      "bytes": 11054114,
+      "sha256": "8d10dd72c937e3e94d59cdc54f76cad5a9d3227adf9166e3500cce1788b24420",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\IMG_1906.gif",
+      "path": "materials/02-7/IMG_1906.gif",
+      "decision": "copied_original_preserved",
+      "bytes": 8644161,
+      "sha256": "695c9d23a1bba4b53aae2cf6c88ad19a39d17efe16264237bccd1be64d8f85c5",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Kartochki_20210309T161120.docx",
+      "path": "materials/02-7/Kartochki_20210309T161120.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 15041,
+      "sha256": "f2e34587b6000cd32f34fbaa5619f68eca003f5a949cffe63e765b0c84b05570",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Otchet-o-prodelannoj-rabote-za-den-sotrudnika-na-distancionnoj-rabote_20201014T100641.docx",
+      "path": "materials/02-7/Otchet-o-prodelannoj-rabote-za-den-sotrudnika-na-distancionnoj-rabote_20201014T100641.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 13887,
+      "sha256": "f378e20c80d2563786e9762d94abaef306f087846b4c9422104e140282081570",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Pamyatka  pri obyske ili vyemke__20220114T161616_20220114T170210.docx",
+      "path": "materials/02-7/Pamyatka  pri obyske ili vyemke__20220114T161616_20220114T170210.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 22850,
+      "sha256": "d3488cae9b7eae3b6e18bdb9b73c14983cce14b3b231308b2a81ad2f401775cd",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Polozhenie-o-distancionnoj-rabote_20201014T100641.docx",
+      "path": "materials/02-7/Polozhenie-o-distancionnoj-rabote_20201014T100641.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 18047,
+      "sha256": "c1614e6f04d13d60da1eec071e5eb25ebab87d8e091ae7db4518e09df4ab59d2",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Prikaz_o_provedenii_testirovaniya_na_koronavirus_20201014T100641.docx",
+      "path": "materials/02-7/Prikaz_o_provedenii_testirovaniya_na_koronavirus_20201014T100641.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14721,
+      "sha256": "ff0b50e740ec54a5002442e9a497e8b946cf01cb6a4931bf73f771b7fc334a0a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Prikaz-o-perevode-sotrudnika-na-distancionnuyu-rabotu_20201014T100641.doc",
+      "path": "materials/02-7/Prikaz-o-perevode-sotrudnika-na-distancionnuyu-rabotu_20201014T100641.doc",
+      "decision": "copied_original_preserved",
+      "bytes": 38912,
+      "sha256": "1fb611d3d2b034b8749d28607b45f416ba9f0411981096a5f206ded6fc8ce5f6",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Prikaz-o-prostoe-iz-za-karantina-po-koronavirusu_20201014T101242.docx",
+      "path": "materials/02-7/Prikaz-o-prostoe-iz-za-karantina-po-koronavirusu_20201014T101242.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14525,
+      "sha256": "d5de403074aa60d8b846dc6e7dd958c112cba820cee1b38ac8eecd007d7efb3d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Prikaz-o-vvedenii-rezhima-povyshennoj-gotovnosti-v-svyazi-s-koronavirusom_20201014T101048.docx",
+      "path": "materials/02-7/Prikaz-o-vvedenii-rezhima-povyshennoj-gotovnosti-v-svyazi-s-koronavirusom_20201014T101048.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14593,
+      "sha256": "5678bb527d0f554e660c91ad460ccc820f095610b914726acc037bd85f372434",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Prikaz-o-vydache-medicinskih-masok_20201014T101048.docx",
+      "path": "materials/02-7/Prikaz-o-vydache-medicinskih-masok_20201014T101048.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14066,
+      "sha256": "5a13b67959b746fb75de2a81ec62586bc93f067011751c142599f04046ae3856",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Prikaz-ob-otstranenii-sotrudnika-ot-nahozhdeniya-na-rabochem-meste_20201014T101048.docx",
+      "path": "materials/02-7/Prikaz-ob-otstranenii-sotrudnika-ot-nahozhdeniya-na-rabochem-meste_20201014T101048.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14768,
+      "sha256": "b3019bf78212eb2a1c0114fc78b40c43192bc91fc09b3b26eee66965bac52d14",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Primer_formulirovok_v_dopsoglashenii_uslovij_o_prodlenii_srokov_postavki_20201014T101242.docx",
+      "path": "materials/02-7/Primer_formulirovok_v_dopsoglashenii_uslovij_o_prodlenii_srokov_postavki_20201014T101242.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 10858,
+      "sha256": "fe0652b5c7f63946c48941130b21317aa16a7eea2816e610fd63d067192d7b26",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Prodavzam_20210310T164614_20210813T113434.pdf",
+      "path": "materials/02-7/Prodavzam_20210310T164614_20210813T113434.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 102828,
+      "sha256": "083835cc4f6383485e352d7bfaeb2c88d092dcb5e092e201ba1c6cd7bf30a204",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Soglasie_sotrudnika_na_provedenie_testirovaniya_na_koronavirus_20201014T101445.docx",
+      "path": "materials/02-7/Soglasie_sotrudnika_na_provedenie_testirovaniya_na_koronavirus_20201014T101445.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 13403,
+      "sha256": "5b76089a512b05062c4d85f9a2315915320264ad141a4807dad67276660776ee",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Uvedomlenie_o_nastuplenii_obstoyatelstv_nepreodolimoj_sily_fors-mazhora_iz-za_koronavirusa_20201014T101242.docx",
+      "path": "materials/02-7/Uvedomlenie_o_nastuplenii_obstoyatelstv_nepreodolimoj_sily_fors-mazhora_iz-za_koronavirusa_20201014T101242.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14524,
+      "sha256": "7562c625d3aebb5e0f304c27d4288554a4e41c8c266f9b5455edd4f7dcda02ef",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Valve_20210315T102012.pdf",
+      "path": "materials/02-7/Valve_20210315T102012.pdf",
+      "decision": "copied_original_preserved",
+      "bytes": 16609198,
+      "sha256": "b2c84e99cda55448b1d29b40659e5f9ad240b0db1b7253d67bdea41d8e3f9eaa",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Zapros_o_predostavlenii_arendnyh_kanikul_i_otsrochke_arendnyh_platezhej_v_2020godu_v_svyazi_s_koronavi_20201014T100803.docx",
+      "path": "materials/02-7/Zapros_o_predostavlenii_arendnyh_kanikul_i_otsrochke_arendnyh_platezhej_v_2020godu_v_svyazi_s_koronavi_20201014T100803.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14764,
+      "sha256": "1e1dff18852f5f86d91dc9c4d4a2fa9c17f52aeade03a15f27d12520784061ee",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Zapros_o_snizhenii_razmera_arendnoj_platy_v_2020_godu_v_svyazi_s_nevozmozhnostyu_ispolzovat_imushchestv_20201014T100803.docx",
+      "path": "materials/02-7/Zapros_o_snizhenii_razmera_arendnoj_platy_v_2020_godu_v_svyazi_s_nevozmozhnostyu_ispolzovat_imushchestv_20201014T100803.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14765,
+      "sha256": "f23094b4e1cf0e53cb51b0d3a252daeda9c9a557b3ae71d52e150f2f6ae159e9",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\Zayavlenie_o_rassrochke_otsrochke_20201014T100641.doc",
+      "path": "materials/02-7/Zayavlenie_o_rassrochke_otsrochke_20201014T100641.doc",
+      "decision": "copied_original_preserved",
+      "bytes": 35840,
+      "sha256": "2503a7e5dda4a3edab199d136551f0eb8e1d0518ab973779b9236f55853f93aa",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\ZHurnal_registracii_vydachi_medicinskih_masok_rabotnikam_dlya_profilaktiki_koronavirusa_20201014T101445.docx",
+      "path": "materials/02-7/ZHurnal_registracii_vydachi_medicinskih_masok_rabotnikam_dlya_profilaktiki_koronavirusa_20201014T101445.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14246,
+      "sha256": "d485920020c7cec6d874cd1e955aec94e26c3c163c01d4b0fd438d10c0b6ce63",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\02-7\\ZHurnal-registracii-izmereniya-temperatury-sotrudnikov-dlya-profilaktiki-koronavirusa_20201014T101048.docx",
+      "path": "materials/02-7/ZHurnal-registracii-izmereniya-temperatury-sotrudnikov-dlya-profilaktiki-koronavirusa_20201014T101048.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 14254,
+      "sha256": "cd304fa4235b1c0aad05cc711af6c59b513862da86d1ac83c30086f146806ac4",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\1.1.mp3",
+      "path": "materials/03-1/1.1.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 12238185,
+      "sha256": "431324fc7c78e0c6783ea341789c0425f7deb14564015a1f2267bab40aad7af1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\1.2.mp3",
+      "path": "materials/03-1/1.2.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 18198550,
+      "sha256": "3bf3296e3fed70aa293e58421373d8e9ec7cc64069306afcb2a9991ea941e93d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\1.3.mp3",
+      "path": "materials/03-1/1.3.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 5065963,
+      "sha256": "09d8be751b3c04384adfc657c728f356b9f90c4de2f72b21224dfc56734c59f1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\1.4.mp3",
+      "path": "materials/03-1/1.4.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 15371361,
+      "sha256": "b67034f3bd21ce63bb4a6cb9211b055b370feb48482d3383807d7b4792157efc",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\1.5.mp3",
+      "path": "materials/03-1/1.5.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 1505546,
+      "sha256": "7eeb682a6e2e8c5f888969f10e2ba2fdbc0e28cdb6adac037d332c30a3ea9e52",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\Dengi_kompanii_upravlenie_20200226T175529.docx",
+      "path": "materials/03-1/Dengi_kompanii_upravlenie_20200226T175529.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 18109,
+      "sha256": "4381583ae780e83682c8a09ae0e4cd9cda28ccb972f65ee1eb1080a9b3f1b6d1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\SHFD_Sukhov-2.pptx",
+      "path": "materials/03-1/SHFD_Sukhov-2.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 317703,
+      "sha256": "03fa6a325ae82d29337ad527e85a491f303947ebe7437542c6bbc0762538d7a6",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-1\\SHFD-Anoshkin-2.pptx",
+      "path": "materials/03-1/SHFD-Anoshkin-2.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 192799,
+      "sha256": "a0a84bc9d0eeff7ff6428ae18367af4b41345e27b9ae827eea2e117aa5e59ff1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.10.mp3",
+      "path": "materials/03-2/2.10.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3810047,
+      "sha256": "299a27ddbad528ea84e79e3af0cd902f94d503bb1e2f6b0f2d97aca76498d587",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.11.mp3",
+      "path": "materials/03-2/2.11.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 9390372,
+      "sha256": "8048ce79c406917c28e27d206108e7613f493263c4623789fe71052672e88760",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.12.mp3",
+      "path": "materials/03-2/2.12.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 10723997,
+      "sha256": "4b319086d01179aad385a479864abc082e83922537141b24931a5ea467df008f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.13.mp3",
+      "path": "materials/03-2/2.13.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 14555967,
+      "sha256": "da47fcf8cd08ca67924885c354db0cdd2c51b6206de05a169296000be6ad4914",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.2.mp3",
+      "path": "materials/03-2/2.2.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 18401896,
+      "sha256": "37929db7c9934e687b93e0baf5b2817dba797a99220c007f3ab0b8fb3dbcde48",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.3.mp3",
+      "path": "materials/03-2/2.3.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3279444,
+      "sha256": "7e8b7c40ac47834bda7d252a6a19c3b8d54048931935b80d500d79437f13130a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.4.mp3",
+      "path": "materials/03-2/2.4.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 1959835,
+      "sha256": "d2c1cbaa5450439b0335b54d5ad33ad60a83a7f6f60f6ce3668e9084862ae530",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.5.mp3",
+      "path": "materials/03-2/2.5.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3948466,
+      "sha256": "47c0640dd17a7ce76a133ca7fb1911e6e2b7c6bdb4c166ffac3f845cedcbcd57",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.6.mp3",
+      "path": "materials/03-2/2.6.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 4500107,
+      "sha256": "1b90c1245f4fbd1651f2da3351de8dac7c6037e22ec8a459f6ea0335b10455ea",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.7.mp3",
+      "path": "materials/03-2/2.7.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 9135291,
+      "sha256": "a3b2a373b5dd607812b9b3b6630ac52afdf21972b179c24cb9d86c6282ef9243",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.8.mp3",
+      "path": "materials/03-2/2.8.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 4851193,
+      "sha256": "6523354193fb2391c927f98fcd8eaf1c8cb746d7ebb91dc685fda3d41247da45",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\2.9.mp3",
+      "path": "materials/03-2/2.9.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 24896483,
+      "sha256": "2cdedf8eb775f91d738468c7767b627316acd048cf96d3b52f9d2775293bcdee",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\Debitorskaya_zadoljennost_20200226T175558.docx",
+      "path": "materials/03-2/Debitorskaya_zadoljennost_20200226T175558.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 18200,
+      "sha256": "c66ce98e972edaec4149650b064ef52a5bd72c86949b8909bed0b86afe1b3977",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\SHFD_Gracheva-2.pptx",
+      "path": "materials/03-2/SHFD_Gracheva-2.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 3888174,
+      "sha256": "9ffff52404c72e21193a099e7a50644d1f72b8fc599a422af08dbc789b1f0a1e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\SHFD_Ryabikh.ppt",
+      "path": "materials/03-2/SHFD_Ryabikh.ppt",
+      "decision": "copied_original_preserved",
+      "bytes": 1181696,
+      "sha256": "d78435974fea48b01a2d827029218f89f458873b25b47db1efeeb73f6002f2ed",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\SHFD_Zdanuhin.pptx",
+      "path": "materials/03-2/SHFD_Zdanuhin.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 197022,
+      "sha256": "b3c9ec22f7d75b8c2b28ed26b44c05396c6d7f9212405bbb57afc7931b7a4e65",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\SHFD-Soloviev_deb.pptx",
+      "path": "materials/03-2/SHFD-Soloviev_deb.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 486990,
+      "sha256": "e64c28922b7f375e8d4e153bfc8a1517d3bc4412314115930054fbdf3b0a6cff",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-2\\VSHFD_Osipov-deb.pptx",
+      "path": "materials/03-2/VSHFD_Osipov-deb.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 235510,
+      "sha256": "ca06f1154df92e303f38b2b1203708b8dedcc102e4dc43efacf3c0f476b06f90",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.1.mp3",
+      "path": "materials/03-3/3.1.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3215188,
+      "sha256": "e809485ded445c56eff0e77cfc6860e3f5887f28f69878180af80fface5ef5b6",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.11.mp3",
+      "path": "materials/03-3/3.11.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 2136661,
+      "sha256": "042cb292a7940242a56dafe0362307adaa798f10ca74e6e995b4f73ec2ef9028",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.12.mp3",
+      "path": "materials/03-3/3.12.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 4970523,
+      "sha256": "c6d8dc743d7570a1701e519b87ce4f624cd2b9aa4fdf1eb820e83ddefbaa2c7f",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.13.mp3",
+      "path": "materials/03-3/3.13.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 4902424,
+      "sha256": "1d5fc62a6940defcf9b5f3b27ac2e14ecc131e7a383038740059d1fb02c114e1",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.14.mp3",
+      "path": "materials/03-3/3.14.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3168862,
+      "sha256": "32a0e2a74854e38dfa5309ebe7f2c392e4eb071bb2eb47a8cc2598a92b7d4e14",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.16.mp3",
+      "path": "materials/03-3/3.16.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 5295064,
+      "sha256": "1e7cd9982c2f08cedd0f04b435ccc74bf1302a3d5b50262daeded763b0c5c794",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.17.mp3",
+      "path": "materials/03-3/3.17.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 2935381,
+      "sha256": "263b18f075468b02eb41d2f42ca63ea1d074a5fce0d6cfa203623e0d4652b05e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.19.mp3",
+      "path": "materials/03-3/3.19.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 2489348,
+      "sha256": "7f9bf8bce5df32b9bf446b8c751e5e29dc76ece1884af179a81bb97c772a1f7a",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.4.mp3",
+      "path": "materials/03-3/3.4.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 12493416,
+      "sha256": "f1ba849e325e1c89a64a149601618d2217b78d7232d0da32a7f6e6e7245b68ee",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.6.mp3",
+      "path": "materials/03-3/3.6.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 4110774,
+      "sha256": "3791a41edb02fd7215123caef8e5e668b27e6cebd398770a8eab95954d50c418",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.7.mp3",
+      "path": "materials/03-3/3.7.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 3085725,
+      "sha256": "c4964564de5b677340e560e6e8f01344810c6b5830dd25df07daaffc632fb32c",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\3.9.mp3",
+      "path": "materials/03-3/3.9.mp3",
+      "decision": "copied_original_preserved",
+      "bytes": 1243765,
+      "sha256": "c1919500286a273054073982360a0d4713c9c316417673e79e9aca88131ca132",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\Budjetirovanie_20200226T175631.docx",
+      "path": "materials/03-3/Budjetirovanie_20200226T175631.docx",
+      "decision": "copied_original_preserved",
+      "bytes": 18162,
+      "sha256": "adbbe298b0f1a9e2f34dfb16fd5bb8b8d0a57a0340d6371998227e6a92495b3e",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\SHFD_Borovkov_1.pptx",
+      "path": "materials/03-3/SHFD_Borovkov_1.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 1040681,
+      "sha256": "2dbba8aba8f77c88434ec5aae218007866dc365bc581971fccbdb43595dd917d",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\SHFD_Borovkov_2.pptx",
+      "path": "materials/03-3/SHFD_Borovkov_2.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 1942416,
+      "sha256": "939d72b896e3bf2ded2cac690da837b479a42fc439145b3ba1a4f43010aea31b",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\SHFD_Borovkov_3.pptx",
+      "path": "materials/03-3/SHFD_Borovkov_3.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 982419,
+      "sha256": "58756fbb2dc4a75a3ec3d5e4f18dcdb92f400f93745ee32e324fc310218b50c4",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    },
+    {
+      "source_path": "C:\\Users\\hitot\\YandexDisk\\Мои Документы\\Прочее\\ВИШ\\06_Стратегический менеджмент\\03-3\\SHFD_Borovkov_4.pptx",
+      "path": "materials/03-3/SHFD_Borovkov_4.pptx",
+      "decision": "copied_original_preserved",
+      "bytes": 473639,
+      "sha256": "9a791a57b925e0aeb1fe289c6ed7933e4c728eb1c157d29489c91033f531fd66",
+      "provenance": "preexisting_project_file",
+      "source_platform_placement": "unverified"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-09-28",
+  "scope": "Targeted designation and status check; not a full legal review of all propositions or attached DOCX editions.",
+  "findings": [
+    {
+      "lessons": [7, 8],
+      "files": ["attachments/files/2b2ad2c2-6444-48b2-af11-41ba85a0c79f.docx"],
+      "sourceClaim": "Штрафы по ч. 4 и ч. 4.2 ст. 7.30 КоАП РФ",
+      "status": "OUTDATED_REFERENCE",
+      "note": "Статья 7.30 КоАП РФ утратила силу с 01.03.2025. Текущую квалификацию и сумму штрафа нужно определять по действующей редакции КоАП; исходный учебный текст и DOCX сохранены.",
+      "officialSource": "https://epp.genproc.gov.ru/ru/proc_02/activity/legal-education/explain/e5621343/"
+    },
+    {
+      "lessons": [3, 4],
+      "sourceClaim": "Приказ Минстроя от 23.12.2019 № 841/пр и изменение от 14.06.2022 № 484/пр",
+      "status": "DESIGNATION_CONFIRMED_APPLICATION_REVIEW_REQUIRED",
+      "note": "Минстрой публикует оба акта. Применимость конкретных пунктов и наличие последующих изменений для расчетной ситуации не проверены.",
+      "officialSource": "https://minstroyrf.gov.ru/trades/tsenoobrazovanie/"
+    },
+    {
+      "lesson": 6,
+      "sourceClaim": "Используйте ГОСТ, СанПиН",
+      "status": "REVIEW_REQUIRED",
+      "note": "Номера, редакции и конкретные положения стандартов в исходном контексте не указаны; идентифицировать их без предположений нельзя."
+    },
+    {
+      "lessons": [2, 3, 4, 5, 6, 7, 8],
+      "status": "REVIEW_REQUIRED",
+      "note": "Остальные правовые ссылки и утверждения сохранены из источника. Их действующие редакции, точные положения и применение к конкретной закупке не прошли сплошную сверку."
+    }
+  ]
+}

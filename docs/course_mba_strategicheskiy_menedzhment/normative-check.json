@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-28",
+  "scope": "Адресная сверка обозначений и редакций стандартов, названных в текстах 221 урока. Это не полная правовая экспертиза; тексты уроков и исходные файлы не изменены.",
+  "findings": [
+    {
+      "source_lesson_orders": [190, 199, 200],
+      "designation": "PMI PMBOK Guide 6th Edition",
+      "source_context": "В курсе используется шестая редакция, в том числе в названиях уроков 199 и 200.",
+      "finding": "PMI публикует восьмую редакцию от ноября 2025 года. Ссылки курса на шестую редакцию сохранены как исходный текст.",
+      "official_source": "https://www.pmi.org/standards/pmbok",
+      "status": "DATED_EDITION_NOTE"
+    },
+    {
+      "source_lesson_orders": [193],
+      "designation": "ГОСТ Р 54869-2011",
+      "source_context": "Назван российским стандартом по управлению проектами.",
+      "finding": "В реестре Росстандарта ГОСТ Р 54869-2011 «Проектный менеджмент. Требования к управлению проектом» имеет статус «Действует».",
+      "official_source": "https://protect.gost.ru/gost/details/b2430f61-79cc-48ab-875c-ce20d4178040",
+      "status": "DESIGNATION_AND_STATUS_CONFIRMED"
+    },
+    {
+      "source_lesson_orders": [193],
+      "designation": "ISO 21500 (в курсе год не указан)",
+      "source_context": "Назван международным стандартом по управлению проектами без года редакции.",
+      "finding": "ISO обозначает ISO 21500:2021 как «Контекст и понятия», а ISO 21502:2020 как руководство по управлению проектами. Без года ссылки нельзя установить, какой документ и какую редакцию описывает урок.",
+      "official_sources": [
+        "https://committee.iso.org/sites/tc258/home/projects/published/iso-3.html",
+        "https://committee.iso.org/sites/tc258/home/projects/published/iso-21502.html"
+      ],
+      "status": "REVIEW_REQUIRED"
+    }
+  ]
+}
