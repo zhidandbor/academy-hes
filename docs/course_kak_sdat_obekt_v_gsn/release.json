@@ -1,0 +1,50 @@
+{
+  "course": "course_kak_sdat_obekt_v_gsn",
+  "title": "Как сдать объект в ГСН",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_kak_sdat_obekt_v_gsn",
+  "entry": "index.html",
+  "files": 94,
+  "bytes": 30995277,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "assets/images/0f96fc9e-4ec8-43d5-bd3c-8e9c58edfa34.png",
+      "bytes": 2061490,
+      "sha256": "a6ec2a62f2c5f7c9791c9215c92a373f691d44815d0c75f411c9792329990338",
+      "asset_name": "hes-a6ec2a62f2c5f7c9791c9215c92a373f.png",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-a6ec2a62f2c5f7c9791c9215c92a373f.png"
+    },
+    {
+      "path": "assets/images/5a65ac91-c068-437c-9707-9802e3b5b1c1.png",
+      "bytes": 2444417,
+      "sha256": "ad967b5b1bb4c8871d5d8613eddd819e9b49e73c88d253331a0bdf8c45bb8d99",
+      "asset_name": "hes-ad967b5b1bb4c8871d5d8613eddd819e.png",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-ad967b5b1bb4c8871d5d8613eddd819e.png"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "6bffdaa2de5f3e419f8b2fb9b7c2d4d6375c982613eba6bee442155b7061344c",
+      "published_sha256": "25b62e5519c87769c835e33948825cd1bcc09a9de7512ab6806df14c2f2c95c6"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "04d6065324f98245694fe17fcbe9cd4932a00e8e487c4ed529d5507badd7ad80",
+      "published_sha256": "4497326b1f926ec783b55d27649cb36d6e2391ec4f13ad7da24025cf340d2688"
+    },
+    {
+      "path": "lessons/01-04.html",
+      "source_sha256": "f5fd92b08817a925c4584d97071e714169b0e237bbcb334d2cb6eefe9efd5a8a",
+      "published_sha256": "b930375886447cac323202f440f48277429152a035322c41e2d3ba64053804ae"
+    },
+    {
+      "path": "lessons/02-02.html",
+      "source_sha256": "8dbe9c40c7f0b2b934bff2c12531475758300e678fcfc2b8c67c8a77a0432b72",
+      "published_sha256": "01da3fe4ab2dfe048c4ecaa40f9bb5c07d6f7b9056367ce120c592b7da667f52"
+    }
+  ]
+}

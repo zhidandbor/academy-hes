@@ -1,0 +1,166 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/232531",
+  "title": "Искусственный интеллект в проектировании",
+  "themes": [
+    {
+      "position": 1,
+      "title": "Основы ИИ и персонализация инструментов",
+      "source_url": "https://school.a-sstroy.ru/programs/232531",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Основы искусственного интеллекта в инженерной деятельности",
+          "description": "",
+          "source_url": "https://school.a-sstroy.ru/programs/232531/c484bbab-39c6-4de5-aab1-3ad41d459dd2/1a4e4344-d25d-48c7-acd9-26218947a57e",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Кто такой этот ваш ИИ и как он думает",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/c484bbab-39c6-4de5-aab1-3ad41d459dd2/1a4e4344-d25d-48c7-acd9-26218947a57e",
+              "local": "lessons/lesson-01-01.html",
+              "source_snapshot": "source_pages/lesson-01-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Выбираем „цифрового помощника“ с умом",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/c484bbab-39c6-4de5-aab1-3ad41d459dd2/bd7777a9-8018-4078-ad67-79f7455b6da4",
+              "local": "lessons/lesson-01-02.html",
+              "source_snapshot": "source_pages/lesson-01-02.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Как персонализировать работу ИИ",
+          "description": "",
+          "source_url": "https://school.a-sstroy.ru/programs/232531/44ead58f-55a5-4d6a-9499-f812f890d471/186b9292-cd2a-4b59-b185-dc33f2a2d2db",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Искусство промптинга: как ставить задачи нейросети, чтобы получать результат",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/44ead58f-55a5-4d6a-9499-f812f890d471/186b9292-cd2a-4b59-b185-dc33f2a2d2db",
+              "local": "lessons/lesson-01-03.html",
+              "source_snapshot": "source_pages/lesson-01-03.json"
+            },
+            {
+              "position": 2,
+              "title": "Внедряем ИИ в проектную деятельность безопасно",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/44ead58f-55a5-4d6a-9499-f812f890d471/c535c2bc-046b-4a91-a726-749f13c773a3",
+              "local": "lessons/lesson-01-04.html",
+              "source_snapshot": "source_pages/lesson-01-04.json"
+            },
+            {
+              "position": 3,
+              "title": "Создание ИИ-ассистента: как превратить нейросеть в ведущего инженера вашего отдела",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/44ead58f-55a5-4d6a-9499-f812f890d471/c2ebe61c-8523-4106-8f65-0213f3a38452",
+              "local": "lessons/lesson-01-05.html",
+              "source_snapshot": "source_pages/lesson-01-05.json"
+            },
+            {
+              "position": 4,
+              "title": "Ловушки ИИ: как распознать и предотвратить галлюцинации нейросетей",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/44ead58f-55a5-4d6a-9499-f812f890d471/cf8c8028-8e9b-4649-9905-4955b3ac3223",
+              "local": "lessons/lesson-01-06.html",
+              "source_snapshot": "source_pages/lesson-01-06.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "ИИ-инструменты для инженерных расчетов и сдачи проекта",
+      "source_url": "https://school.a-sstroy.ru/programs/232531",
+      "local": "modules/02.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Как автоматизировать инженерные расчеты с помощью ИИ",
+          "description": "",
+          "source_url": "https://school.a-sstroy.ru/programs/232531/e5c9aaef-98cc-4298-81d8-47a42f3fb304/877342d1-43af-446d-b684-0db6f1595ea3",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Работаем с нормативной документацией",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/e5c9aaef-98cc-4298-81d8-47a42f3fb304/877342d1-43af-446d-b684-0db6f1595ea3",
+              "local": "lessons/lesson-02-01.html",
+              "source_snapshot": "source_pages/lesson-02-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Текстовые разделы без рутины: автоматизация ПЗ, переписки и ответов экспертизе",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/e5c9aaef-98cc-4298-81d8-47a42f3fb304/6ca2ab59-5a8e-4838-b0b0-a300ee70697f",
+              "local": "lessons/lesson-02-02.html",
+              "source_snapshot": "source_pages/lesson-02-02.json"
+            },
+            {
+              "position": 3,
+              "title": "ИИ в инженерных расчетах: от проверки формул до автоматизации скриптами",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/e5c9aaef-98cc-4298-81d8-47a42f3fb304/7b5a6ad7-d4e4-4a61-b2a0-30eaecda59b2",
+              "local": "lessons/lesson-02-03.html",
+              "source_snapshot": "source_pages/lesson-02-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Подбор оборудования и поиск аналогов: от импортозамещения до готовых спецификаций за 15 минут",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/e5c9aaef-98cc-4298-81d8-47a42f3fb304/c85283c7-c91a-4c93-bce8-adb73a438ace",
+              "local": "lessons/lesson-02-04.html",
+              "source_snapshot": "source_pages/lesson-02-04.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Как быстро и эффективно защитить проект с помощью ИИ",
+          "description": "",
+          "source_url": "https://school.a-sstroy.ru/programs/232531/b28e8259-65d6-4524-9db2-69389448c09c/19ca01b9-e1fb-4632-b14c-079b607899e1",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Как сгенерировать эскизы и концепции для инженерных систем",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/b28e8259-65d6-4524-9db2-69389448c09c/19ca01b9-e1fb-4632-b14c-079b607899e1",
+              "local": "lessons/lesson-02-05.html",
+              "source_snapshot": "source_pages/lesson-02-05.json"
+            },
+            {
+              "position": 2,
+              "title": "Как быстро подготовить презентацию проекта",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/b28e8259-65d6-4524-9db2-69389448c09c/ca375cd2-3507-4e94-8907-f237437a33a2",
+              "local": "lessons/lesson-02-06.html",
+              "source_snapshot": "source_pages/lesson-02-06.json"
+            },
+            {
+              "position": 3,
+              "title": "Формируем правильные ответы на замечания экспертизы и надзора",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/b28e8259-65d6-4524-9db2-69389448c09c/d9e050b4-f292-4a55-ba69-b965177dc122",
+              "local": "lessons/lesson-02-07.html",
+              "source_snapshot": "source_pages/lesson-02-07.json"
+            },
+            {
+              "position": 4,
+              "title": "Используем ИИ для создания спецификаций",
+              "source_url": "https://school.a-sstroy.ru/programs/232531/b28e8259-65d6-4524-9db2-69389448c09c/1d23ff44-0d03-4f0b-ba8e-83f5361cec8d",
+              "local": "lessons/lesson-02-08.html",
+              "source_snapshot": "source_pages/lesson-02-08.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тренировка перед итоговым тестом. По желанию!",
+      "source_url": "https://school.a-sstroy.ru/programs/232531",
+      "local": "tests/index.html",
+      "status": "online_only"
+    },
+    {
+      "title": "Итоговый тест",
+      "source_url": "https://school.a-sstroy.ru/programs/232531",
+      "local": "tests/index.html",
+      "status": "online_only"
+    }
+  ]
+}

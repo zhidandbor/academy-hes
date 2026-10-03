@@ -1,0 +1,99 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/232100",
+  "title": "XML-схемы Минстроя: как перевести строительную документацию в цифровой формат",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Внедрение XML-схем в работу",
+      "source_url": "https://school.a-sstroy.ru/programs/232100",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Формат XML и XML-схемы: где их находят и применяют",
+          "description": "",
+          "source_url": "https://school.a-sstroy.ru/programs/232100/ba0fc5d5-1ca6-42bb-bccc-f7902c795051/b7affe70-896e-4888-a63c-625d1777c69e",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Что такое формат XML и XML-схемы",
+              "source_url": "https://school.a-sstroy.ru/programs/232100/ba0fc5d5-1ca6-42bb-bccc-f7902c795051/b7affe70-896e-4888-a63c-625d1777c69e",
+              "local": "lessons/lesson-01-01.html",
+              "source_snapshot": "source_pages/lesson-01-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Где применяют XML-схемы",
+              "source_url": "https://school.a-sstroy.ru/programs/232100/ba0fc5d5-1ca6-42bb-bccc-f7902c795051/a67e42a7-fa16-4c04-974f-bfbba8fbf0ee",
+              "local": "lessons/lesson-01-02.html",
+              "source_snapshot": "source_pages/lesson-01-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Где найти актуальные XML-схемы",
+              "source_url": "https://school.a-sstroy.ru/programs/232100/ba0fc5d5-1ca6-42bb-bccc-f7902c795051/72a8f169-0af9-476a-93d8-345456a55ac8",
+              "local": "lessons/lesson-01-03.html",
+              "source_snapshot": "source_pages/lesson-01-03.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Как работать с файлами схем и формировать документы в формате XML",
+          "description": "",
+          "source_url": "https://school.a-sstroy.ru/programs/232100/e73c59b1-0ce8-48c1-8ee6-7d9d50fff4d1/3a4cbb86-0bbd-4e65-bcfa-db7604413d59",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Как читать XML-схему",
+              "source_url": "https://school.a-sstroy.ru/programs/232100/e73c59b1-0ce8-48c1-8ee6-7d9d50fff4d1/3a4cbb86-0bbd-4e65-bcfa-db7604413d59",
+              "local": "lessons/lesson-02-01.html",
+              "source_snapshot": "source_pages/lesson-02-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Как по XML-схеме понять, обязателен элемент или нет",
+              "source_url": "https://school.a-sstroy.ru/programs/232100/e73c59b1-0ce8-48c1-8ee6-7d9d50fff4d1/971ab40c-38e4-4536-ba79-39c2292fdb6b",
+              "local": "lessons/lesson-02-02.html",
+              "source_snapshot": "source_pages/lesson-02-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Как формировать документы в формате XML",
+              "source_url": "https://school.a-sstroy.ru/programs/232100/e73c59b1-0ce8-48c1-8ee6-7d9d50fff4d1/2665e9b0-fd4f-433f-94a9-1381f26c3252",
+              "local": "lessons/lesson-02-03.html",
+              "source_snapshot": "source_pages/lesson-02-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Системы и сервисы для ИД в XML",
+              "source_url": "https://school.a-sstroy.ru/programs/232100/e73c59b1-0ce8-48c1-8ee6-7d9d50fff4d1/7d5f7429-ac23-425c-baeb-f048819352d4",
+              "local": "lessons/lesson-02-04.html",
+              "source_snapshot": "source_pages/lesson-02-04.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме",
+      "source_url": "https://school.a-sstroy.ru/programs/232100",
+      "local": "tests/index.html",
+      "status": "online_only"
+    },
+    {
+      "title": "Тренировка перед итоговым тестом. По желанию!",
+      "source_url": "https://school.a-sstroy.ru/programs/232100",
+      "local": "tests/index.html",
+      "status": "online_only"
+    },
+    {
+      "title": "Итоговый тест",
+      "source_url": "https://school.a-sstroy.ru/programs/232100",
+      "local": "tests/index.html",
+      "status": "online_only"
+    }
+  ]
+}

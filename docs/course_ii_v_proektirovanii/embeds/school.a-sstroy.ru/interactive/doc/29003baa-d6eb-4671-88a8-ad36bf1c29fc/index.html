@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="google" content="notranslate" />
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '29003baa-d6eb-4671-88a8-ad36bf1c29fc';
+    window.docName = 'пп5';
+    window.locale = 'ru';
+    window.id = '4073';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":{"title":"Инструменты для автоматизации спецификаций","text":""},"cardList":[{"media":null,"question":"Какое действие ИИ может выполнить наиболее качественно для спецификации?","answerList":[{"checked":false,"text":"Самостоятельно рассчитать сечение кабеля."},{"checked":true,"text":"Привести к единому формату список материалов из разных источников."},{"checked":false,"text":"Создать уникальный конструктивный узел без участия инженера."},{"checked":false,"text":"Подписать чертеж за главного инженера."}],"negativeComment":"","positiveComment":""},{"media":null,"question":"При работе с «грязными» данными в Excel, какой подход наиболее эффективен?","answerList":[{"checked":false,"text":"Вручную исправить каждую ячейку."},{"checked":false,"text":"Использовать только встроенные функции Excel."},{"checked":true,"text":"Скопировать таблицу в нейросеть и попросить нормализовать."},{"checked":false,"text":"Удалить все данные и начать заново."}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Что обязательно нужно сделать после автоматической генерации спецификации?","answerList":[{"checked":true,"text":"Проверить полученные данные, особенно единицы измерения и дубли."},{"checked":false,"text":"Сразу отправить данные для сметы."},{"checked":false,"text":"Распечатать и подписать."},{"checked":false,"text":"Удалить исходные данные."}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

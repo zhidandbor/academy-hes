@@ -1,0 +1,75 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '25d319f6-1d44-4987-8a1b-8ebcdb4da0c9';
+    window.docName = 'Новая статья WEB АРМ';
+    window.locale = 'ru';
+    window.id = '3894';
+    window.moduleId = '242';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"/interactive/doc/25d319f6-1d44-4987-8a1b-8ebcdb4da0c9/images/1.png","mainText":"Участники строительства&nbsp;не обязаны руководствоваться новым СП, пока его положений не будет в договоре, в ОРД или в зарегистрированном СТО заказчика","textHelper":"","type":"truefalse","buttons":[{"label":"Правда","isCorrect":"true"},{"label":"Ложь"}],"result":{"src":"","text":"Пока положений из нового СП 543не будет в договоре, в ОРД или в зарегистрированном СТО заказчика, участники строительства по общему правилу не обязаны им руководствоваться при осуществлении строительного контроля."},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/25d319f6-1d44-4987-8a1b-8ebcdb4da0c9/images/2.png","mainText":"Свод правил 543 носит обязательный характер","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Ложь","isCorrect":"true"}],"result":{"src":"","text":"Свод правил 543 носит добровольный характер, поэтому до внесения поправок в дублирующие нормативы &ndash; используйте тот документ, который носит обязательный характер."},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/25d319f6-1d44-4987-8a1b-8ebcdb4da0c9/images/3.png","mainText":"В новом СП устранены противоречия в функциях приемочного контроля в приложениях и тексте СП","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Ложь","isCorrect":"true"}],"result":{"src":"","text":"В новом СП не устранены противоречия в функциях приемочного контроля в приложениях и тексте СП"},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

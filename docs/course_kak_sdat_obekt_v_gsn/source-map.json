@@ -1,0 +1,460 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/229439",
+  "title": "Как сдать объект в ГСН",
+  "description": "Программа повышения квалификации, в которой научитесь эффективно взаимодействовать с ГСН при строительстве объектов капитального строительства. Освоите навыки подачи извещений через Госуслуги, формирования графика проверок, подготовки исполнительной документации и получения ЗОС без штрафов и предписаний.",
+  "program_cover": {
+    "source_url": "https://school.a-sstroy.ru/webcontent/files/51612e02-ebe5-4385-a67d-f80e727eea24.png",
+    "local": "assets/images/course-cover.png"
+  },
+  "topics": [
+    {
+      "position": 1,
+      "title": "Подготовка к ГСН",
+      "source_url": "https://school.a-sstroy.ru/programs/229439",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Введение в процедуру сдачи объекта в ГСН",
+          "description": "Сделаете первые шаги для сдачи объекта в ГСН: узнаете, когда требуется надзор, как получить РНС и собрать полный пакет документов для подачи в ГСН",
+          "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/d8be9d6a-592e-4787-989f-f7fbfd7eb5bd",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Когда требуется ГСН",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/d8be9d6a-592e-4787-989f-f7fbfd7eb5bd",
+              "local": "lessons/01-01.html",
+              "source_snapshot": "source_pages/lesson-01-01.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=8adfe08a-77d8-45ba-88f8-04d1270cff36",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=0eb99097-5890-48d0-8c91-f3538d98be93",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=4992cb61-fde1-47fb-8434-7bfb065ac99b",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=7ab0c7b3-30e3-475a-9671-a741d1308423",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=9ae29eed-8682-4531-a77a-f80767ae0efc",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=86a728ea-c8f2-4d20-9add-35f54280eff6",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=d8da5bf0-e143-4944-a55e-9bf8941e77a2"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            },
+            {
+              "position": 2,
+              "title": "Как получить разрешение на строительство",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/6ea22acd-40a1-43af-81e9-77b7732b9b48",
+              "local": "lessons/01-02.html",
+              "source_snapshot": "source_pages/lesson-01-02.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=ec2cd8c1-b367-4f85-b512-64fa560a81f1",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=3249c250-fa20-472c-a55e-936d89460ba4",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=25446f3e-f768-48bd-8731-a9b0ded378fe"
+              ],
+              "embedded_materials": [
+                "https://grigoryevalexandra-lgtm.github.io/interactive/engineer6.html"
+              ],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            },
+            {
+              "position": 3,
+              "title": "Объекты под ГСН",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/1cf5de8f-43d6-4ab5-9026-ace3a03b5990",
+              "local": "lessons/01-03.html",
+              "source_snapshot": "source_pages/lesson-01-03.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=55a38634-8f61-4283-8efd-0272d70e0990"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "title": "Пакет документов для ГСН",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/bd34de8b-8bb0-4008-ad92-87a3bce4bc68",
+              "local": "lessons/01-04.html",
+              "source_snapshot": "source_pages/lesson-01-04.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=e67088e8-5489-46e0-a7e0-0f81deaff146",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=5a65ac91-c068-437c-9707-9802e3b5b1c1",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=293e86fe-2625-4600-9236-890235725129"
+              ],
+              "embedded_materials": [
+                "https://school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html"
+              ],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Реализация и завершение ГСН",
+      "source_url": "https://school.a-sstroy.ru/programs/229439",
+      "local": "modules/02.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Контроль строительства и проверки",
+          "description": "Освоите отправку извещения через Госуслуги, формирование и согласование графика проверок ГСН. Научитесь готовить ИД и избегать штрафов за несвоевременные извещения",
+          "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/f006bd7b-0afa-4e74-9778-059ddb50c5c6",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Подача извещения о начале строительства посредством портала государственных услуг",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/f006bd7b-0afa-4e74-9778-059ddb50c5c6",
+              "local": "lessons/02-01.html",
+              "source_snapshot": "source_pages/lesson-02-01.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=711b3e0d-ca14-483c-b6c4-d7377ebf57bb",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=a9b3306c-b18c-454a-90e3-52dc99c6ea88",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=f1caab0f-d6d1-4f47-b348-8e85475c8231",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=b05617b4-24e5-453f-81ff-2f17d8e33839",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=6fd33075-3d82-49e1-9794-ab4681245798",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=e79433b5-7894-4dc2-a6f2-4b374b121ea8",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=3a12331d-5da8-41b2-83a2-04633d35275f",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=1ee5fc30-8ae4-4fa5-a89a-0fff04777917",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=5dc367ac-f84e-472e-bc49-ca784ced1235",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=762a10c3-1603-4be7-b386-47a55cce2fa5",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=9462829a-0436-4c9c-ab14-b9ce0ec0a3ca",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=8d2fac32-426e-4b45-ad11-b52ac2f8f60b",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=9eec6743-ce52-458b-bad9-2d5ad8800413",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=ea99b60f-e871-4e58-b663-0c35f449162d",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=25b03204-c4ec-4bf2-ae23-eeca49a2e2ba",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=6236bca1-ec5e-432b-87b9-87f390b99fa3",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=670b3a4b-6250-4e7b-9f3e-977a08f6ed2d",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=3ba493d8-af77-4e97-9cc2-f324f91a664d",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=8972c528-598f-4a35-8ce5-81dc33697a50",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=f97185ec-ff41-437d-9295-2488d352c619",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=03f24f99-9cb0-46e9-a4a2-b968a4b2e82c",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=5cf76ac1-d8b9-4bde-b7e3-b0e64c0d4801",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=920ba2f6-6353-49c8-98b1-5eb90b7abd22",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=db1af3da-50bf-4124-9265-490def9bcee9",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=217865ec-d8da-491d-84f2-3185a2dd45ce"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            },
+            {
+              "position": 2,
+              "title": "Формирование графика проверок",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/0bfd269a-279e-4fa6-b1fa-bf2252f0c274",
+              "local": "lessons/02-02.html",
+              "source_snapshot": "source_pages/lesson-02-02.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=0f96fc9e-4ec8-43d5-bd3c-8e9c58edfa34",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=830ffe44-1792-4ed2-8512-03290ef96a15",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=b1b7fa37-7c6e-416a-bc44-0fd542f8c4b7"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            },
+            {
+              "position": 3,
+              "title": "Проведение проверок в период строительных работ",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/7165fd9e-ec12-4774-be4b-d963fa68a208",
+              "local": "lessons/02-03.html",
+              "source_snapshot": "source_pages/lesson-02-03.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=cf810a48-661b-4098-b81c-af9fa07a4094",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=86af0921-2bdb-4f14-84e8-6e29cbe70e6e"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "title": "Прохождение этапов программы проверок",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/660f4de8-e37a-40b7-993e-c859060d294f",
+              "local": "lessons/02-04.html",
+              "source_snapshot": "source_pages/lesson-02-04.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=eb04c07d-73bb-4ae5-9e30-d54bd14d8340",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=930815ab-62ff-4ce8-a9fe-035e529af9d9",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=acb5f683-caa7-4b80-b336-c6122d2b034f",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=a9c5ae7e-e8c6-4a47-836e-a64691a2aba3",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=68c24d3e-9314-4390-b98e-16800d50cce5"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": [
+                {
+                  "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+                  "title": "Индикаторы риска и их последствия",
+                  "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Корректировки и сдача объекта",
+          "description": "Научитесь переносить проверки ГСН без штрафов, формировать сдаточную папку, а также готовить ИД для итоговой проверки и получения ЗОС",
+          "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/dc3b62bc-a983-4833-85de-e5eb7743cff6",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Перенос сроков проведения проверки",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/dc3b62bc-a983-4833-85de-e5eb7743cff6",
+              "local": "lessons/03-01.html",
+              "source_snapshot": "source_pages/lesson-03-01.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": []
+            },
+            {
+              "position": 2,
+              "title": "Сдаточная папка",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/151f2f64-461a-4866-905a-9ba446afecbd",
+              "local": "lessons/03-02.html",
+              "source_snapshot": "source_pages/lesson-03-02.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=cc82796b-83de-4205-9564-0b9d3025a613",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=e39ca72f-47c9-45c0-80ff-467415f725ae",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=78e9f92b-f927-40c7-91f7-4da09a2d830d",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=78945e26-ff54-43f4-a004-edf23fb7ff3a",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=b03e0fbc-fb7e-4d93-8bb5-6c0aae87cdfc",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=7f92cf80-790d-49cb-93e9-eef13acec217",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=44adba73-8a9d-42a2-ab3c-c91f6f5540c4",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=47b2fdad-de39-478b-9b7c-9b932cf4718b",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=bdd77b81-5256-4693-82fa-41b7563a3dcc",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=282dc2b9-34f2-4f06-9aa4-52edab5e880e",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=754e607f-25f5-4773-9d06-454080987174",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=f5098530-9c76-488e-9d5b-98877043d9a9",
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=ddb10a44-84a4-475a-b75c-fffcef78c4d0"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": []
+            },
+            {
+              "position": 3,
+              "title": "Итоговая проверка",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/58281bb3-b92d-48ac-8c55-54fae52ddf1d",
+              "local": "lessons/03-03.html",
+              "source_snapshot": "source_pages/lesson-03-03.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [],
+              "embedded_materials": [
+                "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/index.html"
+              ],
+              "tables": 0,
+              "video": null,
+              "course_materials": []
+            },
+            {
+              "position": 4,
+              "title": "Заключение о соответствии",
+              "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/25d62eeb-eaef-41a7-abff-96a4ec16fb31",
+              "local": "lessons/03-04.html",
+              "source_snapshot": "source_pages/lesson-03-04.json",
+              "authors": [
+                {
+                  "authorId": 5942,
+                  "fullName": "Михаил Ефременко",
+                  "photo": "/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+                  "post": "эксперт в сфере строительства, руководитель проекта ГК «Железно»",
+                  "allowToShowInfo": true
+                }
+              ],
+              "images": [
+                "https://api.action-media.ru/school/service/api/v2/file_download?id=a2f383b4-cbce-46b1-a03e-1e0e62288148"
+              ],
+              "embedded_materials": [],
+              "tables": 0,
+              "video": null,
+              "course_materials": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме «Подготовка к ГСН»",
+      "topic": 1,
+      "source_url": "https://school.a-sstroy.ru/programs/229439",
+      "local": "tests/index.html",
+      "exact_test_url_confirmed": false
+    },
+    {
+      "title": "Тест по теме «Реализация и завершение ГСН»",
+      "topic": 2,
+      "source_url": "https://school.a-sstroy.ru/programs/229439",
+      "local": "tests/index.html",
+      "exact_test_url_confirmed": false
+    },
+    {
+      "title": "Тренировка перед итоговым тестом (по желанию)",
+      "topic": null,
+      "source_url": "https://school.a-sstroy.ru/programs/229439",
+      "local": "tests/index.html",
+      "exact_test_url_confirmed": false
+    },
+    {
+      "title": "Итоговый тест",
+      "topic": null,
+      "source_url": "https://school.a-sstroy.ru/programs/229439",
+      "local": "tests/index.html",
+      "exact_test_url_confirmed": false
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Connect-cards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '065e34ed-724e-49d7-8a55-b2478e87273c';
+    window.docName = 'Состав сводки затрат';
+    window.locale = 'ru';
+    window.id = '1768';
+    window.moduleId = '245';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var pairs = [{"leftCard":{"pairId":0,"text":"<p>Прямые затраты</p>"},"rightCard":{"pairId":0,"text":"<p>Расходы, которые&nbsp;связаны&nbsp;с выполнением работ</p>"}},{"leftCard":{"pairId":1,"text":"<p>Стоимость эксплуатации машин</p>"},"rightCard":{"pairId":1,"text":"<p>Затраты, которые связаны с использованием строительной или иной техники</p>"}},{"leftCard":{"pairId":2,"text":"<p>Оплата труда машинистов</p>"},"rightCard":{"pairId":2,"text":"<p>Денежные средства, выплачиваемые специалистам, управляющим техникой и машинами</p>"}},{"leftCard":{"pairId":3,"text":"<p>Оплата труда рабочих</p>"},"rightCard":{"pairId":3,"text":"<p>Денежные средства, которые выплачиваются рабочим, непосредственно задействованным в выполнении работ</p>"}},{"leftCard":{"pairId":4,"text":"<p>Величина фонда оплаты труда</p>"},"rightCard":{"pairId":4,"text":"<p>Суммарные расходы на оплату труда всех работников, задействованных в проекте</p>"}},{"leftCard":{"pairId":5,"text":"<p>Сумма сметной прибыли</p>"},"rightCard":{"pairId":5,"text":"<p>Прибыль, которую планирует получить подрядчик</p>"}},{"leftCard":{"pairId":6,"text":"<p>Сумма лимитированных затрат</p>"},"rightCard":{"pairId":6,"text":"<p>Затраты, размер которых ограничен</p>"}},{"leftCard":{"pairId":7,"text":"<p>Трудозатраты рабочих и машинистов</p>"},"rightCard":{"pairId":7,"text":"<p>Время, которое рабочие и машинисты затрачивают на выполнение работ</p>"}}];
+    var env = 'prod';
+    var title = 'Сводка затрат';
+    var description = 'найти пару';
+    var comment = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+        if (window.env === 'dev' || window.env === 'test') {
+            window.WidgetLoader.dev();
+        }
+
+        if (window.env === 'rc') {
+            window.WidgetLoader.rc();
+        }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waConnectCards',
+                version: '1_0_0'
+            },
+            initConnectorCards
+        );
+    }
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initConnectorCards() {
+        window.ActionConnectCards.init(
+            {
+                title,
+                description,
+                pairs,
+                comment,
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

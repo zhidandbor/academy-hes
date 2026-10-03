@@ -1,0 +1,57 @@
+[
+  {
+    "lesson": "lesson-01-01",
+    "source_url": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+    "reason": "external_material_requires_network_or_platform_access"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "source_url": "https://learningapps.org/watch?v=p2zn26j6525",
+    "reason": "external_material_requires_network_or_platform_access"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "source_url": "https://learningapps.org/watch?v=pwv3f41z325",
+    "reason": "external_material_requires_network_or_platform_access"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "source_url": "https://learningapps.org/watch?v=p9uczewit25",
+    "reason": "external_material_requires_network_or_platform_access"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "source_url": "https://learningapps.org/watch?v=pazpo3r5n25",
+    "reason": "external_material_requires_network_or_platform_access"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "source_url": "https://learningapps.org/watch?v=p5rmmf4wt25",
+    "reason": "external_material_requires_network_or_platform_access"
+  },
+  {
+    "title": "Тест по теме «Введение в сметное дело»",
+    "source_url": "https://school.a-sstroy.ru/programs/228006",
+    "reason": "assessment_requires_source_platform"
+  },
+  {
+    "title": "Тест по теме «Локальные сметы»",
+    "source_url": "https://school.a-sstroy.ru/programs/228006",
+    "reason": "assessment_requires_source_platform"
+  },
+  {
+    "title": "Тест по теме «Слагаемые сметной стоимости»",
+    "source_url": "https://school.a-sstroy.ru/programs/228006",
+    "reason": "assessment_requires_source_platform"
+  },
+  {
+    "title": "Тренировка перед итоговым тестом. По желанию!",
+    "source_url": "https://school.a-sstroy.ru/programs/228006",
+    "reason": "assessment_requires_source_platform"
+  },
+  {
+    "title": "Итоговый тест",
+    "source_url": "https://school.a-sstroy.ru/programs/228006",
+    "reason": "assessment_requires_source_platform"
+  }
+]

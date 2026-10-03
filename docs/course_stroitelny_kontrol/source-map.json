@@ -1,0 +1,191 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/225469",
+  "title": "Строительный контроль объектов капитального строительства",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Организация строительного контроля",
+      "source_url": "https://school.a-sstroy.ru/programs/225469",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Как организована работа строительного контроля",
+          "description": "Поймете, как организована работа стройконтроля. Узнаете, как стройконтроль влияет на качество и безопасность объекта",
+          "source_url": "https://school.a-sstroy.ru/programs/225469/5de8e735-985a-45c1-8ab1-1f788af169fb/2678f06e-67be-49ab-8168-c9254df0880a",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Как стройконтроль влияет на качество и безопасность объекта",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/5de8e735-985a-45c1-8ab1-1f788af169fb/2678f06e-67be-49ab-8168-c9254df0880a",
+              "local": "lessons/lesson-01-01.html",
+              "source_snapshot": "source_pages/lesson-01-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Как происходит строительный контроль подрядчика",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/5de8e735-985a-45c1-8ab1-1f788af169fb/b382cff4-b578-49ca-977e-ead3042bfb66",
+              "local": "lessons/lesson-01-02.html",
+              "source_snapshot": "source_pages/lesson-01-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Как происходит строительный контроль со стороны заказчика",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/5de8e735-985a-45c1-8ab1-1f788af169fb/71619af3-30be-4b9d-89bc-c8add096131d",
+              "local": "lessons/lesson-01-03.html",
+              "source_snapshot": "source_pages/lesson-01-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Как взаимодействовать со строительным контролем при начале работ",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/5de8e735-985a-45c1-8ab1-1f788af169fb/d06a865a-4e71-4659-baa2-3d4a7b742bf1",
+              "local": "lessons/lesson-01-04.html",
+              "source_snapshot": "source_pages/lesson-01-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Как взаимодействовать со строительным контролем в процессе производства работ",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/5de8e735-985a-45c1-8ab1-1f788af169fb/a829b3fb-880c-41cf-9941-cbe4f0ebff1f",
+              "local": "lessons/lesson-01-05.html",
+              "source_snapshot": "source_pages/lesson-01-05.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Строительный контроль на этапах строительства",
+      "source_url": "https://school.a-sstroy.ru/programs/225469",
+      "local": "modules/02.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Как проводить строительный контроль",
+          "description": "Научитесь проводить все виды контроля, которые осуществляет инженер СК. Освоите навыки оформления актов-предписаний при выявлении нарушений со стороны подрядчика",
+          "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/0eb38567-064f-46c7-baab-2abd7893e3b8",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Входной контроль",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/0eb38567-064f-46c7-baab-2abd7893e3b8",
+              "local": "lessons/lesson-02-01.html",
+              "source_snapshot": "source_pages/lesson-02-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Операционный контроль",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/068a019e-bc4c-47ad-b1a9-341b9db40952",
+              "local": "lessons/lesson-02-02.html",
+              "source_snapshot": "source_pages/lesson-02-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Приемочный контроль",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/3693fdac-7324-4327-9799-4e048bf8159e",
+              "local": "lessons/lesson-02-03.html",
+              "source_snapshot": "source_pages/lesson-02-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Фотофиксация работ",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/d5fa3e78-d349-4f52-b27f-56abed1c4a61",
+              "local": "lessons/lesson-02-04.html",
+              "source_snapshot": "source_pages/lesson-02-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Акты-предписания",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/647e4f55-9ee5-43a1-9bb6-ff3f5ed3ed76",
+              "local": "lessons/lesson-02-05.html",
+              "source_snapshot": "source_pages/lesson-02-05.json"
+            },
+            {
+              "position": 6,
+              "title": "Неразрушающий контроль",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/8eeda345-52aa-469f-a1b3-93898dc4d78f",
+              "local": "lessons/lesson-02-06.html",
+              "source_snapshot": "source_pages/lesson-02-06.json"
+            },
+            {
+              "position": 7,
+              "title": "Визуально-измерительный контроль",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/e3b757b2-d0b8-4bd4-8bd1-654a0dda343c",
+              "local": "lessons/lesson-02-07.html",
+              "source_snapshot": "source_pages/lesson-02-07.json"
+            },
+            {
+              "position": 8,
+              "title": "Геодезический контроль",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/b3535cbe-7a72-4981-99e6-c884a0148d14/e4ce90d5-869f-451c-888f-b6cd4e9136ac",
+              "local": "lessons/lesson-02-08.html",
+              "source_snapshot": "source_pages/lesson-02-08.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Как работать по новому Своду правил о стройконтроле",
+          "description": "Потренируетесь применять правила нового СП 543.1325800.2024 в своей работе",
+          "source_url": "https://school.a-sstroy.ru/programs/225469/0e2cde55-94b6-4c0f-b9a7-857745606929/a8e2b4a9-850f-47d3-b440-f0562b8232b3",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Как на вас отразятся новые обязанности СК подрядчика и заказчика",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/0e2cde55-94b6-4c0f-b9a7-857745606929/a8e2b4a9-850f-47d3-b440-f0562b8232b3",
+              "local": "lessons/lesson-03-01.html",
+              "source_snapshot": "source_pages/lesson-03-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Как теперь организован стройконтроль",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/0e2cde55-94b6-4c0f-b9a7-857745606929/c23d8628-2c86-48a8-bd5c-9a9e46f3dcfe",
+              "local": "lessons/lesson-03-02.html",
+              "source_snapshot": "source_pages/lesson-03-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Как работать с изменениями по разным видам стройконтроля",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/0e2cde55-94b6-4c0f-b9a7-857745606929/b2666f04-3c9b-4d55-b46a-3b70c30650d3",
+              "local": "lessons/lesson-03-03.html",
+              "source_snapshot": "source_pages/lesson-03-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Как применять дублирующие правила нового СП",
+              "source_url": "https://school.a-sstroy.ru/programs/225469/0e2cde55-94b6-4c0f-b9a7-857745606929/452125ef-29bf-4167-b35e-b57040b85c4f",
+              "local": "lessons/lesson-03-04.html",
+              "source_snapshot": "source_pages/lesson-03-04.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме «Организация строительного контроля»",
+      "source_url": "https://school.a-sstroy.ru/programs/225469",
+      "local": "tests/index.html#topic-1",
+      "availability": "online_only"
+    },
+    {
+      "title": "Тест по теме «Строительный контроль на этапах строительства»",
+      "source_url": "https://school.a-sstroy.ru/programs/225469",
+      "local": "tests/index.html#topic-2",
+      "availability": "online_only"
+    },
+    {
+      "title": "Тренировка перед итоговым тестом. По желанию!",
+      "source_url": "https://school.a-sstroy.ru/programs/225469",
+      "local": "tests/index.html#practice",
+      "availability": "online_only"
+    },
+    {
+      "title": "Итоговый тест",
+      "source_url": "https://school.a-sstroy.ru/programs/225469",
+      "local": "tests/index.html#final",
+      "availability": "online_only"
+    }
+  ]
+}

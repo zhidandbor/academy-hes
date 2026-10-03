@@ -1,0 +1,77 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Connect-cards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'f888fcaf-b09a-4a1b-82ed-f1ab8e4d82db';
+    window.docName = '1';
+    window.locale = 'ru';
+    window.id = '2413';
+    window.moduleId = '245';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var pairs = [{"leftCard":{"pairId":0,"text":"<p>&lt;xs:sequence&gt;</p>"},"rightCard":{"pairId":0,"text":"<p>Последовательность элементов</p>"}},{"leftCard":{"pairId":1,"text":"<p>&lt;xs:choice&gt;</p>"},"rightCard":{"pairId":1,"text":"<p>Возможность выбора между несколькими элементами</p>"}},{"leftCard":{"pairId":2,"text":"<p>&lt;xs:pattern&gt;</p>"},"rightCard":{"pairId":2,"text":"<p>Конкретный шаблон (маска) для значения</p>"}},{"leftCard":{"pairId":3,"text":"<p>&lt;xs:restriction&gt;</p>"},"rightCard":{"pairId":3,"text":"<p>Ограничение для значений (шаблоны, перечисления)</p>"}}];
+    var env = 'prod';
+    var title = 'Сопоставление';
+    var description = 'Соедините элемент XML-схемы из левой колонки с его назначением в правой.';
+    var comment = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+        if (window.env === 'dev' || window.env === 'test') {
+            window.WidgetLoader.dev();
+        }
+
+        if (window.env === 'rc') {
+            window.WidgetLoader.rc();
+        }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waConnectCards',
+                version: '1_0_0'
+            },
+            initConnectorCards
+        );
+    }
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initConnectorCards() {
+        window.ActionConnectCards.init(
+            {
+                title,
+                description,
+                pairs,
+                comment,
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

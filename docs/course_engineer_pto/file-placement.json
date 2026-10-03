@@ -1,0 +1,1845 @@
+{
+  "notes": [
+    "Direct attachments and project files were assigned to one lesson each.",
+    "Thematic placement of additional project files is not a verified source-platform lesson URL.",
+    "PDF exports from interactive pages were generated with blank customization fields."
+  ],
+  "placements": [
+    {
+      "localPath": "attachments/interactive-export/b775702009e24459.pdf",
+      "title": "Обязанности специалиста ПТО",
+      "lessons": [
+        "lessons/01-01-04_obyazannosti-inzhenera-pto-sovety-professionala.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "6aeb12799915f59d5a47b84808b50eb9642d11f0773e0af9976b035e897df868",
+      "staticId": "b775702009e24459",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/77da73d635a87ffe.pdf",
+      "title": "6 правил сохранения продуктивности",
+      "lessons": [
+        "lessons/01-01-05_chto-dolzhen-znat-i-umet-spetsialist-pto.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "4ec360b429ae4613046dbb2547b45b5706ab2ee39faa32edd9a985576d81cd17",
+      "staticId": "77da73d635a87ffe",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/additional-existing/01-6_Основные определения участников строительства.pdf",
+      "title": "01-6_Основные определения участников строительства.pdf",
+      "lessons": [
+        "lessons/01-01-06_kak-vzaimodeystvuyut-uchastniki-stroitelstva.html"
+      ],
+      "kind": "additional_project_file",
+      "sha256": "8394dd2606d8c221d0111253f7783824f668beff60529626516cf732301862b7",
+      "association": "thematic_placement_source_lesson_unverified"
+    },
+    {
+      "localPath": "attachments/interactive-export/62e6e921be4291ba.pdf",
+      "title": "Порядок действий при строительстве:",
+      "lessons": [
+        "lessons/01-01-06_kak-vzaimodeystvuyut-uchastniki-stroitelstva.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "8848fcf45183d9fc1f81f3c5ffc2751a48b008bca6996c2b1404f95cc0c95874",
+      "staticId": "62e6e921be4291ba",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/8f1593b7b245de98.pdf",
+      "title": "Основные определения участников строительства",
+      "lessons": [
+        "lessons/01-01-06_kak-vzaimodeystvuyut-uchastniki-stroitelstva.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "beae1f55db201b9394e972a2ea96b2e2bcdd1f40dee443ee6812bdaa39085608",
+      "staticId": "8f1593b7b245de98",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/documents/tablitsa-marki-osnovnyh-komplektov-rabochih-chertezh_dffbc2fd.docx",
+      "title": "Таблица — марки основных комплектов рабочих чертежей",
+      "lessons": [
+        "lessons/02-01-01_razbiraemsya-v-proektnoy-i-rabochey-dokumentatsii.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "f1b8bc2b641974f784e88b38a9de8e7f11e408f23d2d1e5114823452cf361be5",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "attachments/documents/tablitsa-shifry-razdelov-pd_c05ab77c.docx",
+      "title": "Таблица — шифры разделов ПД",
+      "lessons": [
+        "lessons/02-01-01_razbiraemsya-v-proektnoy-i-rabochey-dokumentatsii.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "58087ddb91e8209ad4778cb4f96519e90bb0a2fe264cdf0dfffab439955e9328",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "attachments/interactive-export/4f51ffb3448943e1.pdf",
+      "title": "Памятка инженеру ПТО «Работа с проектной и рабочей документацией на стройке»",
+      "lessons": [
+        "lessons/02-01-01_razbiraemsya-v-proektnoy-i-rabochey-dokumentatsii.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "4286380455a46b9f5883e3465274c83edefcfb6c0f9a6889d0cbdaaf13c533dc",
+      "staticId": "4f51ffb3448943e1",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/9206ab0513753833.pdf",
+      "title": "комплект рч",
+      "lessons": [
+        "lessons/02-01-01_razbiraemsya-v-proektnoy-i-rabochey-dokumentatsii.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "029f14a4fb0def940de3c29dd5a230c4e5ec1af8cde2e1e9f938684520647bd2",
+      "staticId": "9206ab0513753833",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/a4351b019f874c57.pdf",
+      "title": "Состав рабочей документации",
+      "lessons": [
+        "lessons/02-01-01_razbiraemsya-v-proektnoy-i-rabochey-dokumentatsii.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "596aede9a9f62897b68f5449accc5f680f2f1b3f5cab85f6bd23aa2e222d811b",
+      "staticId": "a4351b019f874c57",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/a903808b4336e454.pdf",
+      "title": "Состав проектной документации",
+      "lessons": [
+        "lessons/02-01-01_razbiraemsya-v-proektnoy-i-rabochey-dokumentatsii.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "f2795cec54d7f3f2d5a45a00bffe9d46c146e9e8367e6bc5e778b919613c7b23",
+      "staticId": "a903808b4336e454",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/16409f1780f1cb8a.pdf",
+      "title": "Классификация зданий",
+      "lessons": [
+        "lessons/02-01-02_opredelyaem-vidy-i-konstruktivnye-osobennosti-zdaniy-i.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "3006c6f48ff64b3ac8ec5eb4a1dc11234e8caa52048f89a74218340d7b0102ef",
+      "staticId": "16409f1780f1cb8a",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/18abd3c516543dee.pdf",
+      "title": "Классификация сооружений",
+      "lessons": [
+        "lessons/02-01-02_opredelyaem-vidy-i-konstruktivnye-osobennosti-zdaniy-i.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "291db8660957ec354e95c59803eb54dd7475687022aecc03aad750a696fb22ee",
+      "staticId": "18abd3c516543dee",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/206a119116363350.pdf",
+      "title": "Основные конструктивные системы",
+      "lessons": [
+        "lessons/02-01-02_opredelyaem-vidy-i-konstruktivnye-osobennosti-zdaniy-i.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "8546d353678a24490e229a3af554958b4d0d2968213ee35ab33c0f06767be85c",
+      "staticId": "206a119116363350",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/76d4cd259a7ac01e.pdf",
+      "title": "презентация",
+      "lessons": [
+        "lessons/02-01-02_opredelyaem-vidy-i-konstruktivnye-osobennosti-zdaniy-i.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "cdbcefa42ba5f29dd318277e6c89f9689583e6cd07fc9d7cd97f712678bb0522",
+      "staticId": "76d4cd259a7ac01e",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/c2d8fc574076cc44-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-03_uchimsya-chitat-chertezhi.html"
+      ],
+      "kind": "illustration",
+      "sha256": "efd4ad53ea6a7f4e321e67932204a8805c1bcede808a56093a95ed9a5b5aa263",
+      "staticId": "c2d8fc574076cc44",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/f33c6bd0e2a2684b.pdf",
+      "title": "Как правильно читать планы:",
+      "lessons": [
+        "lessons/02-01-03_uchimsya-chitat-chertezhi.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "4e032c1576e37b0e9b7cc9b5e055b63e29c46c1209cae40f0f15553464d80bbd",
+      "staticId": "f33c6bd0e2a2684b",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/474aafa199065c65-01.jpeg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "968f22856a1cd6988b5967f15bb52cbb20ffc76db0760f2c34ab1d33b57f7fcf",
+      "staticId": "474aafa199065c65",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/474aafa199065c65-02.jpeg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "1315e12a72ba726057f2bc82aae6c2f1d3ae2fec7159df83b8eeef0194bbd40d",
+      "staticId": "474aafa199065c65",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/474aafa199065c65-03.jpeg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "64c2e973781898022cc54148e0b7b169efd2aa2b81571cfd263d0c415fbe6f16",
+      "staticId": "474aafa199065c65",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/73f13e0821136125-01.jpeg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "f02a7ab70edad7a1cbd081cc882efda8b9d11fcdc164cb07709f2b914c1453f9",
+      "staticId": "73f13e0821136125",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/7be878a77875ea48-01.jpeg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "4930c4e160af42221dd9c64cff6c075eac120689052814874555d2b48d1630a9",
+      "staticId": "7be878a77875ea48",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/8b96afca08a6f891-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "dc5435284d5dd7921d7e237ee2fb26522035ba544fd4a0b4ab796c7007d0d6fa",
+      "staticId": "8b96afca08a6f891",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/8dee40e6c1d3ed20-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "b9583cacdcaa90e844fa228d85e9532d97563417600bb9fbc771bc59f02157cc",
+      "staticId": "8dee40e6c1d3ed20",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/b754f69347e3c13a-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "9d264253af97168f71f063ba7ef68f8640269afebfcb485136a2613c232a3e9b",
+      "staticId": "b754f69347e3c13a",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/eae56cfb32261551-01.jpeg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "6f14725ac5ab225eb7682f08578989dc85837c5fe884c9e74de3a1ac34c9380f",
+      "staticId": "eae56cfb32261551",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/eff2e90b7cb0b197-01.jpeg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "illustration",
+      "sha256": "89088670ee16310e6f19da0d52651a3e074a382addb5d306cffa1730a7ad2b9f",
+      "staticId": "eff2e90b7cb0b197",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/297a50b4645573b1.pdf",
+      "title": "Классификация фундаментов",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "37b639a427910532ca3f8baec538e81e008f180c62e27301a279ee45f9a541aa",
+      "staticId": "297a50b4645573b1",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/2be0273116b3b50a.pdf",
+      "title": "Типы сборных плит:",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "a21a574a379ed8df4cd7e0945d2078213b5764013c6c1ff80527aca8ecbbe514",
+      "staticId": "2be0273116b3b50a",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/bebf7cec9800338c.pdf",
+      "title": "Классификация перекрытий и покрытий",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "3634537011b4ce99c674d0898bd5084f37a06dc238f1cd8cf803aaf3a173d0d0",
+      "staticId": "bebf7cec9800338c",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/eae7d4382cb9ac6b.pdf",
+      "title": "Классификация стен",
+      "lessons": [
+        "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "37cfa0685101c0508b0617d514cee1569d1160dec2a345a2dfe2fe2b024b5b61",
+      "staticId": "eae7d4382cb9ac6b",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/7616dc7e5e2257a3-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "illustration",
+      "sha256": "f3f3d1ee7e8d99a57fdf8cc0875a5b465676facfa427ff84231d8b05fefc14cd",
+      "staticId": "7616dc7e5e2257a3",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/1752607de30dd74d.pdf",
+      "title": "Системы инженерно-технического обеспечения",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "e1b5cf6c8de03525d903efe22fe56c95f1caf69e2626085cafb5a717487fd1ca",
+      "staticId": "1752607de30dd74d",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/220bceab6342fb31.pdf",
+      "title": "Классификация систем внутренней канализации",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "9747704be5956d1efd046a861421fb3fef6b6f5e413b99227e10c472d8f1e317",
+      "staticId": "220bceab6342fb31",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/4504ee32004bf934.pdf",
+      "title": "Примеры схем",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "5af376d41460f4d3db0655520ad33a2cb3cb144733656e38c5d730d72a81e742",
+      "staticId": "4504ee32004bf934",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/648d9d99187ca123.pdf",
+      "title": "примеры схем",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "9fbdce3a7047f629e8785ca90ee213661f429304d8467e5fe06041bfd07282d2",
+      "staticId": "648d9d99187ca123",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/a3774b5b19817f8f.pdf",
+      "title": "анализ проекта нвк",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "a6762107b3e239fa7acb4406e277ed6b4232eb464ce45990c4227045689e7baf",
+      "staticId": "a3774b5b19817f8f",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/d4b71f9b2b454306.pdf",
+      "title": "Классификация наружных сетей водоснабжения",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "baf7a85b975f48fbeaa6b60f9a03a5914a4979fa013efd5ab60eee1cf72b4430",
+      "staticId": "d4b71f9b2b454306",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/dc23696e7a13c6de.pdf",
+      "title": "Элементы системы водоснабжения",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "b9e7214c97da871a7a24fcdccae40fafa2d6d143a6f8baabac2ed5960ffcfafe",
+      "staticId": "dc23696e7a13c6de",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/de0c454ac5ca5ad8.pdf",
+      "title": "нк",
+      "lessons": [
+        "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "389718e694ef7069b1dd2aa59f274346f6e37a4da8e1df3ffc6672e4efc12516",
+      "staticId": "de0c454ac5ca5ad8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/0439910623da1d92.pdf",
+      "title": "Состав системы вентиляции",
+      "lessons": [
+        "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "c9fb3f664133665ffdf635984794d1836d00d6e0829220a2b525e892d0aa7e5d",
+      "staticId": "0439910623da1d92",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/3d35357c94dd926b.pdf",
+      "title": "Классификация систем вентиляции",
+      "lessons": [
+        "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "a5842a6dd365e59a5d17db698eaebe50cad8bba5d6ba050aac481d401faa767d",
+      "staticId": "3d35357c94dd926b",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/56757579c8d79fab.pdf",
+      "title": "Система присоединения подводок к ветви системы отопления",
+      "lessons": [
+        "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "16f8be9ab45d89cf3bee8a348c33ab2ec3e83566d0e8a5059579cdc7e2461cbf",
+      "staticId": "56757579c8d79fab",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/c3bff184df93e75d.pdf",
+      "title": "примерыаксонометрических схем систем вентиляции",
+      "lessons": [
+        "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "5b966e0ae8763f9ee33746618bc86e549436474b95b2555965bcbea80a89c9e9",
+      "staticId": "c3bff184df93e75d",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/ee164a873b51d7ec.pdf",
+      "title": "Виды систем кондиционирования",
+      "lessons": [
+        "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "f0509c8ef2d28424ec6919e2a093f8d6220b6630b73bf3f22cad7934b71a7009",
+      "staticId": "ee164a873b51d7ec",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/f08c6d280fd464d4.pdf",
+      "title": "Системы",
+      "lessons": [
+        "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "1327dd753f0d71b69360c9088b93980d180cccd9701876cf9bd6bc15768f7aa7",
+      "staticId": "f08c6d280fd464d4",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/pdf/rabochaya-dokumentatsiya-17-zl-pir-r-ov1-dlya-zadaniya_91f615c0.pdf",
+      "title": "Рабочая документация 17-ЗЛ-ПИР-Р-ОВ1 (для задания)",
+      "lessons": [
+        "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "6fa8eace06050195b75f99f462bf4d522f31dd9bc643e1b1d99094de9f0842c0",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "attachments/additional-existing/02_Уведомление о выявленных ошибках в проектной документаци.docx",
+      "title": "02_Уведомление о выявленных ошибках в проектной документаци.docx",
+      "lessons": [
+        "lessons/02-01-07_vnosim-izmeneniya-v-pd-i-rd.html"
+      ],
+      "kind": "additional_project_file",
+      "sha256": "36c02f7e4a735ce02170e0b120d9bb0a467d99d40c9936aa5cb7e97e8105813c",
+      "association": "thematic_placement_source_lesson_unverified"
+    },
+    {
+      "localPath": "attachments/additional-existing/02_Форма акта о выявленных недостатках.docx",
+      "title": "02_Форма акта о выявленных недостатках.docx",
+      "lessons": [
+        "lessons/02-01-07_vnosim-izmeneniya-v-pd-i-rd.html"
+      ],
+      "kind": "additional_project_file",
+      "sha256": "45f57940bf070c8e740c4c6c15b9bf9fbc2c96502cdb39ca24a625bbc510b4b1",
+      "association": "thematic_placement_source_lesson_unverified"
+    },
+    {
+      "localPath": "attachments/additional-existing/02_Шаблон письма о приостановке работ.docx",
+      "title": "02_Шаблон письма о приостановке работ.docx",
+      "lessons": [
+        "lessons/02-01-07_vnosim-izmeneniya-v-pd-i-rd.html"
+      ],
+      "kind": "additional_project_file",
+      "sha256": "b782fa12f02b0e0ed3cc09763a0d58138f3e7da0321627f4f05b989cb87c3039",
+      "association": "thematic_placement_source_lesson_unverified"
+    },
+    {
+      "localPath": "attachments/interactive-export/af62e687cb064bc7.pdf",
+      "title": "Порядок действий подрядчика при необходимости внесения изменений в проект при производстве работ",
+      "lessons": [
+        "lessons/02-01-07_vnosim-izmeneniya-v-pd-i-rd.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "759030692f34745f755d52e85ababe3522ba79574cac8415d89123062e3b1afe",
+      "staticId": "af62e687cb064bc7",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/edf2a9b1a8263de6.pdf",
+      "title": "Методы работ:",
+      "lessons": [
+        "lessons/03-01-03_oformlyaem-grafiki-po-rekomendatsiyam-eksperta.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "d89c4fe7a5b62725cae670c89598f8bc909beac3642128e0204e8492be98728a",
+      "staticId": "edf2a9b1a8263de6",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/documents/rekomenduemoe-soderzhanie-poyasnitelnoy-zapiski-ppr_eea768ee.docx",
+      "title": "Рекомендуемое содержание пояснительной записки ППР",
+      "lessons": [
+        "lessons/03-01-04_sostavlyaem-poyasnitelnuyu-zapisku-k-ppr-bez-oshibok.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "d38085067255ebd7af0fad133728087fd06fcacb87e8ea0b0234fc2273983d70",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "attachments/interactive-export/2edf6572a4ec0b0c.pdf",
+      "title": "К организационно-технологической документации относятся:",
+      "lessons": [
+        "lessons/03-02-01_vidy-osnovnyh-organizatsionno-tehnologicheskih-dokument.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "bc01cea5d9ce6af6c7bc8594a35d9f3a7a2c25b5f66790f06def49a420b4d348",
+      "staticId": "2edf6572a4ec0b0c",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/1229dadd0d55ea70.pdf",
+      "title": "Типовой состав ППРпс",
+      "lessons": [
+        "lessons/03-02-03_oformlyaem-proekt-proizvodstva-rabot-podemnymi-sooruzhe.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "d499ba3cbdedf79478b38e63975ae6121483bc3ce54a640d97514140939619db",
+      "staticId": "1229dadd0d55ea70",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/d014be158e4c06a8.pdf",
+      "title": "Основные виды подъемных сооружений",
+      "lessons": [
+        "lessons/03-02-03_oformlyaem-proekt-proizvodstva-rabot-podemnymi-sooruzhe.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "9cdbc213846d846613f1b2f3c5eeb96aa06f85e17db092148efffa25c2e58103",
+      "staticId": "d014be158e4c06a8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/9c004c2dd11950f2.pdf",
+      "title": "Основные разделы ППРв",
+      "lessons": [
+        "lessons/03-02-04_zapolnyaem-plan-proizvodstva-rabot-na-vysote-pprv.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "1e7cfba13edcbb3679ee2ac0c505efc4c6536ae323c74cf796adb534a4dcbf0c",
+      "staticId": "9c004c2dd11950f2",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/a7726e8e4d09df58.pdf",
+      "title": "Рекомендуемое содержание ППРв:",
+      "lessons": [
+        "lessons/03-02-04_zapolnyaem-plan-proizvodstva-rabot-na-vysote-pprv.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "14f292890cf2fbd9dfba35e85cec00a738f653635a961cf1a84cb27dab52807d",
+      "staticId": "a7726e8e4d09df58",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/e768f80208b3ce93.pdf",
+      "title": "Формы отчетности в строительстве",
+      "lessons": [
+        "lessons/04-01-01_chto-takoe-pervichnaya-uchetnaya-dokumentatsiya-osnovny.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "625ad03346ab1f40a760be320f526693a3742d1290f38b85827d6b90aae8b935",
+      "staticId": "e768f80208b3ce93",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/1379925278bfadc8-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-02_kak-podtverdit-obemy-i-kachestvo-vypolnennyh-rabot-zapo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "171cb9dea4c82e06d821db27c4ae6992762c39cf40eafbf244a09d86475281a2",
+      "staticId": "1379925278bfadc8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/33d84b54a9a9ec28-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-02_kak-podtverdit-obemy-i-kachestvo-vypolnennyh-rabot-zapo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "3557a3f2328dfae1b664676d7caaa48b2ed1a9ca230d742cdad900122608367b",
+      "staticId": "33d84b54a9a9ec28",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/42b14c8e67ef8ba8-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-02_kak-podtverdit-obemy-i-kachestvo-vypolnennyh-rabot-zapo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "2ccd1f74c34b5b5668f3faaba21ab02aa4a68d283ac3a4613a896a3fb9f4404c",
+      "staticId": "42b14c8e67ef8ba8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/403997769e6caa25-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-03_kak-vesti-zhurnal-ucheta-stroitelno-montazhnyh-rabot-fo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "c24826d548fbeaf148d66fa850a13d0c4c02aaef3642bd3a7a9cdb04bfff3320",
+      "staticId": "403997769e6caa25",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/4d70c825805536bb-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "a9779652b1370e8585c46319a7a87b95de10add1f42fe074e2d96f814b759817",
+      "staticId": "4d70c825805536bb",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/5207e26d08a7e94c-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "58d5ffa51a3f39b22229931b7af0e9b0ebd39f8dc20601bceb94c66a9752cae7",
+      "staticId": "5207e26d08a7e94c",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/6e4ed1356c419544-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "1dd3596dc1c7a58977e78944a3f157ee9a32f2cf206934b67057c26caf8cc57b",
+      "staticId": "6e4ed1356c419544",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/b64599c00230a580-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "f9f5455c684702a8a8ff317f133c0a9963e8c00f94a6e294a37e389812354b66",
+      "staticId": "b64599c00230a580",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/b64599c00230a580-02.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "f57262e6fd91b08bcc4b01664bf62db3393271ef025e5971f367fc119101da06",
+      "staticId": "b64599c00230a580",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/e52e1b444a82a896-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "91631d8a8f664576b6ef7f3e5fd4e40e45298f2aa2c4a1e57f1920edd0e11f9d",
+      "staticId": "e52e1b444a82a896",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/ec83d963f535b3f5-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "b6061e2d6fb4603ab29c4844dc9d8bba37f1bc698cee03fdfc3020c6e48b9da4",
+      "staticId": "ec83d963f535b3f5",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/ee038f680ffaa90d-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html"
+      ],
+      "kind": "illustration",
+      "sha256": "6e9e4db5d9cf8115a1e406f3daea59fee7e94612baff8d2a7b4c8a264e9f2522",
+      "staticId": "ee038f680ffaa90d",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/8e65b1e409aa252c-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-01_kak-oformit-akt-o-sdache-v-ekspluatatsiyu-vremennogo-ne.html"
+      ],
+      "kind": "illustration",
+      "sha256": "2272aae28b7ef12ea8fe362e3e3aa54732e23fa7b0f7ada8592078ac0bdd086b",
+      "staticId": "8e65b1e409aa252c",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/8e65b1e409aa252c-02.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-01_kak-oformit-akt-o-sdache-v-ekspluatatsiyu-vremennogo-ne.html"
+      ],
+      "kind": "illustration",
+      "sha256": "e8482776f64ed54895c446173e1748920e7e3c17d9be36e938b62c5900c92760",
+      "staticId": "8e65b1e409aa252c",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/92241eff2242eb79-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-01_kak-oformit-akt-o-sdache-v-ekspluatatsiyu-vremennogo-ne.html"
+      ],
+      "kind": "illustration",
+      "sha256": "e8e359db33c0253c7b4e9c62071749b86299a4966b809f34b03e200c1c3dfd56",
+      "staticId": "92241eff2242eb79",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/c2eae2a70c5e9fde-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-01_kak-oformit-akt-o-sdache-v-ekspluatatsiyu-vremennogo-ne.html"
+      ],
+      "kind": "illustration",
+      "sha256": "274f1a96baec95a10e106fc58b12dab03a59530a465bb3cfc102f290d8c644e4",
+      "staticId": "c2eae2a70c5e9fde",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/99e415720ed6dcf6-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-02_uchimsya-zapolnyat-akt-o-razborke-vremennyh-netitulnyh.html"
+      ],
+      "kind": "illustration",
+      "sha256": "8ef4d6780a210084050734fbb68df96a02e07d50b1d2afcbb181b88d82068fc0",
+      "staticId": "99e415720ed6dcf6",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/ad28cc37bc6f7dc1-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-02_uchimsya-zapolnyat-akt-o-razborke-vremennyh-netitulnyh.html"
+      ],
+      "kind": "illustration",
+      "sha256": "b9e22ca7b4f760eae85c83598341a23a64a3492d312da6ca1f746e45c3fc1fc9",
+      "staticId": "ad28cc37bc6f7dc1",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/cb8132347d0da987-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-02_uchimsya-zapolnyat-akt-o-razborke-vremennyh-netitulnyh.html"
+      ],
+      "kind": "illustration",
+      "sha256": "b22347cc76ffc34fa9b2091180b213c51f66a30765f54df75e9331e2fd1ab5a7",
+      "staticId": "cb8132347d0da987",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/3b9bd2bde6979ed0-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-03_akt-ob-otsenke-podlezhaschih-snosu-zdaniy-sooruzheniy-i.html"
+      ],
+      "kind": "illustration",
+      "sha256": "fa58cbebbc0c6840bf16ebb37fbe782ba5cda61459c7d61322b8f718c85c51ed",
+      "staticId": "3b9bd2bde6979ed0",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/9b10c8425ee53ff4-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-03_akt-ob-otsenke-podlezhaschih-snosu-zdaniy-sooruzheniy-i.html"
+      ],
+      "kind": "illustration",
+      "sha256": "3d8e874e7fddeaea24e85fc096c9606da0b3fc785c2c9098fcefcd5c68b27385",
+      "staticId": "9b10c8425ee53ff4",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/a25c5230f326c60a-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-03_akt-ob-otsenke-podlezhaschih-snosu-zdaniy-sooruzheniy-i.html"
+      ],
+      "kind": "illustration",
+      "sha256": "46e759b88671b9ea47f5a7878416000faa2ca954ca1058155a3e4829ce385807",
+      "staticId": "a25c5230f326c60a",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/5caa70e7f53f69aa-01.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "db7222286c556d1c71964ef235f3353dd6cb7bbb1676ca46414213515d10061f",
+      "staticId": "5caa70e7f53f69aa",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/5caa70e7f53f69aa-02.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "caa5b896a2853e6854868a5a19f5787111e927ba80f93213c401efecedb0f488",
+      "staticId": "5caa70e7f53f69aa",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/5caa70e7f53f69aa-03.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "cf276fa9faf046f6e1183d2d692734ce8ed000cb44997c19336986df837e0d3a",
+      "staticId": "5caa70e7f53f69aa",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/b19e390ae5cf8214-01.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "e6e5019d3889b516943cb3e21f02dc1b9b63b710a68bd7379d2acfff199e999a",
+      "staticId": "b19e390ae5cf8214",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/b19e390ae5cf8214-02.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "9f49d9955999d0078944634a81e0d25bdb39f9ac700c33d53737c99d2c2bb4ab",
+      "staticId": "b19e390ae5cf8214",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/c948971452dde457-01.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "f7572fb9fffbff9f238810ac502a6453e51a4be6edfc8306bce8e93bf4d29da6",
+      "staticId": "c948971452dde457",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/c948971452dde457-02.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "24937c2c887ca833e130eafd717365303363d6e74e7a54fb6a637f138a4e2c51",
+      "staticId": "c948971452dde457",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/c948971452dde457-03.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "b38985df66852229ddcefbec083f6fc535fc03b1f510fbeefb4281cc57d35f9e",
+      "staticId": "c948971452dde457",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/c948971452dde457-04.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "dac4bcb30f09cc309aff3b82c78c4a4f6906f6bd98224b74c9085478ee04637d",
+      "staticId": "c948971452dde457",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/c948971452dde457-05.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "466512b5b6bea456a68f9de57a4aa9ef674f5bc64437035d3656b8b3eb3978c7",
+      "staticId": "c948971452dde457",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/dd206eade585d2e8-01.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "88ace4dfd5b5fc0ca02c3e0c2b139d64ea3bad87ffd788373f1eacc6e68615f5",
+      "staticId": "dd206eade585d2e8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/dd206eade585d2e8-02.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html"
+      ],
+      "kind": "illustration",
+      "sha256": "ca30ecaa4f2914f8a25a5083e4dd10476292360b162cc69486044d0be044495f",
+      "staticId": "dd206eade585d2e8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/8500fde5e660e181-01.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-05_kak-sostavit-dokumenty-po-formam-m8-i-m35.html"
+      ],
+      "kind": "illustration",
+      "sha256": "d3cba83f9d2b04951c89ef31ba5df2a67a571644281a74af120afb8924b370e9",
+      "staticId": "8500fde5e660e181",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/8500fde5e660e181-02.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-05_kak-sostavit-dokumenty-po-formam-m8-i-m35.html"
+      ],
+      "kind": "illustration",
+      "sha256": "64ccaa22b1499647882666ec85dbb700fafa3604af7f7dd097ad0c9b9e5e8c33",
+      "staticId": "8500fde5e660e181",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/a2bb931ddd76c8b3-01.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-05_kak-sostavit-dokumenty-po-formam-m8-i-m35.html"
+      ],
+      "kind": "illustration",
+      "sha256": "8b68c688c6911369f6487de9157a482ed13031b67ce7cf345ade20ee2a192be1",
+      "staticId": "a2bb931ddd76c8b3",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/a2bb931ddd76c8b3-02.jpg",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/04-02-05_kak-sostavit-dokumenty-po-formam-m8-i-m35.html"
+      ],
+      "kind": "illustration",
+      "sha256": "998f9117544e0c17d731744cf406af3be33603be9a1fc9cef5dca7986eacb026",
+      "staticId": "a2bb931ddd76c8b3",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/1ff9fad0eca8b71b.pdf",
+      "title": "Какие документы входят в исполнительную документацию",
+      "lessons": [
+        "lessons/05-01-02_zapominaem-sostav-id-s-pomoschyu-pamyatki.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "ffb1f283b0a027e55633d6197c5d8b79ced74b52f64cefb7d8731d1e9f225814",
+      "staticId": "1ff9fad0eca8b71b",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/4ed7e073b5abd7cf.pdf",
+      "title": "Стр – модуль 1 – курс 1 – урок 3",
+      "lessons": [
+        "lessons/05-01-03_kak-effektivno-formirovat-i-vesti-id.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "fde9ecb11166ab2b70f564d96e0a8ddf09d673209e42556e24877da04f7e08c9",
+      "staticId": "4ed7e073b5abd7cf",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/12c2595942074910.pdf",
+      "title": "Формальные недочеты в ИД, которые не дадут своевременно пройти стройконтроль или затянут его",
+      "lessons": [
+        "lessons/05-01-04_kak-izbezhat-slozhnostey-pri-sdache-id-zakazchiku-posha.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "3769503ec1d9b783bc61afadd89c5976c0b270ab4f11a5ca651a1cba681826e9",
+      "staticId": "12c2595942074910",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/1d48f8e3aa33fc83.pdf",
+      "title": "Стр. – модуль 1 – курс 1 – урок 4 – преза 2",
+      "lessons": [
+        "lessons/05-01-04_kak-izbezhat-slozhnostey-pri-sdache-id-zakazchiku-posha.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "173772dc7b5c71229cabf3527b327e69829544fb30204aca82195b735f26f332",
+      "staticId": "1d48f8e3aa33fc83",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/665fd5ceaface2fe.pdf",
+      "title": "Стр. – модуль 1 – курс 1 – урок 4 – преза",
+      "lessons": [
+        "lessons/05-01-04_kak-izbezhat-slozhnostey-pri-sdache-id-zakazchiku-posha.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "c1aa2cb60aafaacbf9523f5a1f931d4bbcf0e3eb5700007e13c87543ac3b207d",
+      "staticId": "665fd5ceaface2fe",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/81aeca4591fb9234-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-01_kak-sostavlyat-akt-osvidetelstvovaniya-skrytyh-rabot-ao.html"
+      ],
+      "kind": "illustration",
+      "sha256": "1e972839c95a384d1725c5d2928735ebcb9d7ec024cf3bc21974f76b208b1dfb",
+      "staticId": "81aeca4591fb9234",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/e1a905ac74928220-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-01_kak-sostavlyat-akt-osvidetelstvovaniya-skrytyh-rabot-ao.html"
+      ],
+      "kind": "illustration",
+      "sha256": "3a8977b951752d3b17d637f3846cbea8b6302299067686fcdfca4f85c1601ecd",
+      "staticId": "e1a905ac74928220",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/3faa5804101f4189.pdf",
+      "title": "Где искать перечни скрытых работ:",
+      "lessons": [
+        "lessons/05-02-01_kak-sostavlyat-akt-osvidetelstvovaniya-skrytyh-rabot-ao.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "99cde27f6373444897cb0aaceb3b0ce8faa7bda4225ebda9eb063edabf3d2b2a",
+      "staticId": "3faa5804101f4189",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/dfce7af7b568ac51.pdf",
+      "title": "Среди документов о качестве могут быть:",
+      "lessons": [
+        "lessons/05-02-01_kak-sostavlyat-akt-osvidetelstvovaniya-skrytyh-rabot-ao.html",
+        "lessons/05-02-02_prostoy-sposob-sostavit-akt-osvidetelstvovaniya-otvetst.html",
+        "lessons/05-02-03_sostavlyaem-akt-osvidetelstvovaniya-uchastkov-setey-inz.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "7acd50dded701fddf242b61d5f0c2d0cdac1124e4c495a657015187a47bdfdc9",
+      "staticId": "dfce7af7b568ac51",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/beaa5482ab1a3437-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-02_prostoy-sposob-sostavit-akt-osvidetelstvovaniya-otvetst.html",
+        "lessons/05-02-03_sostavlyaem-akt-osvidetelstvovaniya-uchastkov-setey-inz.html"
+      ],
+      "kind": "illustration",
+      "sha256": "8a9731524b696cc636f3b86bfb8e687a6a917c564503f457d32912e379e95bd5",
+      "staticId": "beaa5482ab1a3437",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/da3fe25cb887e9c2-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-02_prostoy-sposob-sostavit-akt-osvidetelstvovaniya-otvetst.html"
+      ],
+      "kind": "illustration",
+      "sha256": "ec8b2c0bc51829f0332f2dc162582d26a28f3f04e788b71cee6894a8347a3d40",
+      "staticId": "da3fe25cb887e9c2",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/740f0e7dcd148882.pdf",
+      "title": "Где искать перечни ответственных конструкций",
+      "lessons": [
+        "lessons/05-02-02_prostoy-sposob-sostavit-akt-osvidetelstvovaniya-otvetst.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "eb13c4348e19448af00e557a6bb166ceb99d7ce665a1f5cbebf501d24dad99ca",
+      "staticId": "740f0e7dcd148882",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/7be65c6f0608d3be.pdf",
+      "title": "Где искать перечни участков сетей ИТО, подлежащих освидетельствованию:",
+      "lessons": [
+        "lessons/05-02-03_sostavlyaem-akt-osvidetelstvovaniya-uchastkov-setey-inz.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "c09717697452b2929b1a73080c5926370d3a35e99527334bd4fabd710d02432d",
+      "staticId": "7be65c6f0608d3be",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/78c56d2b2eaa8a9b-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-04_akty-osvidetelstvovaniya-geodezicheskoy-razbivochnoy-os.html"
+      ],
+      "kind": "illustration",
+      "sha256": "58dc6458112354fb231f06b05acf2a62bea000b569dcdcdd4b09e6612ccb5550",
+      "staticId": "78c56d2b2eaa8a9b",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/78c56d2b2eaa8a9b-02.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-04_akty-osvidetelstvovaniya-geodezicheskoy-razbivochnoy-os.html"
+      ],
+      "kind": "illustration",
+      "sha256": "c3f43239d41ca23e233afb0212b9eb5389c0e81962dc3d735f6022f2131ab93d",
+      "staticId": "78c56d2b2eaa8a9b",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/dbf94a2e6ca10adc-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-04_akty-osvidetelstvovaniya-geodezicheskoy-razbivochnoy-os.html"
+      ],
+      "kind": "illustration",
+      "sha256": "297ceb524d27e5870d074c1e4b0ea99842cd469c8e63a7cea0081ff0a483d93e",
+      "staticId": "dbf94a2e6ca10adc",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/dbf94a2e6ca10adc-02.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-04_akty-osvidetelstvovaniya-geodezicheskoy-razbivochnoy-os.html"
+      ],
+      "kind": "illustration",
+      "sha256": "c206dd2d66c2f6b690be5e14d7364a5b0a6099c572bcf637c652989a4801223f",
+      "staticId": "dbf94a2e6ca10adc",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/069f578df74b4c37-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/05-02-05_v-chem-zalog-uspeha-ispolnitelnoy-shemy.html"
+      ],
+      "kind": "illustration",
+      "sha256": "956162519ba40ac500ab68e2023445ef037ba0b061121fb5e3f7e73ebe0d8e0e",
+      "staticId": "069f578df74b4c37",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/1a347a9fcbd3e693.pdf",
+      "title": "Случаи, когда членство в СРО для застройщика не требуется",
+      "lessons": [
+        "lessons/05-02-06_algoritm-zapolneniya-obschego-zhurnala-rabot-s-pervogo.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "74c9032ee3f3775638968f87aad5015f336b621f9c16d842a045fa58f011901c",
+      "staticId": "1a347a9fcbd3e693",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/be774d9e28184150.pdf",
+      "title": "Основные правила заполнения раздела 3 ОЖР",
+      "lessons": [
+        "lessons/05-02-06_algoritm-zapolneniya-obschego-zhurnala-rabot-s-pervogo.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "b904581f69930233f890dfae06ffb18a7f2506441d7cf71314efc9cbf992fc16",
+      "staticId": "be774d9e28184150",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/ce676f396cff3ebb.pdf",
+      "title": "Как отличить застройщика от технического заказчика",
+      "lessons": [
+        "lessons/05-02-06_algoritm-zapolneniya-obschego-zhurnala-rabot-s-pervogo.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "399cd474568bf6831b235e584af0ae6954386f269e426f9b7c856a1a17669681",
+      "staticId": "ce676f396cff3ebb",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/f223e5e47c396bab.pdf",
+      "title": "Выдача разрешения на строительство не требуется для следующих объектов",
+      "lessons": [
+        "lessons/05-02-06_algoritm-zapolneniya-obschego-zhurnala-rabot-s-pervogo.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "506a19bdfd17db44a651d42b79330137925843fc5581081b7ad925699a85ed55",
+      "staticId": "f223e5e47c396bab",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/b5f522e877f5eeec.pdf",
+      "title": "Когда проводят инструментальный контроль",
+      "lessons": [
+        "lessons/05-02-07_sekrety-kachestvennogo-zhurnala-i-aktov-vhodnogo-kontro.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "571624e563e2597cc9ec5fcf03c373028322d35618d86843f6b3711b13a54faa",
+      "staticId": "b5f522e877f5eeec",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/d00db5cfd2cc36ca.pdf",
+      "title": "Задачи застройщика, техзаказчика и лица, осуществляющего строительство при входном контроле материалов",
+      "lessons": [
+        "lessons/05-02-07_sekrety-kachestvennogo-zhurnala-i-aktov-vhodnogo-kontro.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "23bff15c2ec707731e241de9529541da36648ea727eec7290c779fd1d3b366b7",
+      "staticId": "d00db5cfd2cc36ca",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/a23d8b649c3d1620.pdf",
+      "title": "Функции строительного контроля",
+      "lessons": [
+        "lessons/06-01-01_kak-stroykontrol-vliyaet-na-kachestvo-i-bezopasnost-obe.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "c5348956cf35181716fbebebfe54b68395c55be531dbad7ae27863005ee78dfb",
+      "staticId": "a23d8b649c3d1620",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/1e38607fc6dd286e.pdf",
+      "title": "Новые требования к стройконтролю заказчика и подрядчика",
+      "lessons": [
+        "lessons/06-02-02_kak-teper-organizovan-stroykontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "9b60fc4c1d658bdd3d32fbacc4973cfe50c1eecb862118346d2616a54c9bf86c",
+      "staticId": "1e38607fc6dd286e",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/cdfabf2b4e86e0dd.pdf",
+      "title": "Процедура оформления и устранения замечаний СК",
+      "lessons": [
+        "lessons/06-02-02_kak-teper-organizovan-stroykontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "933c7a019152fbdc99acaa6a72f1c9012e49c5a877bb667b71330e11ba869b8f",
+      "staticId": "cdfabf2b4e86e0dd",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/3c8f7c155821992d.pdf",
+      "title": "Что проверит стройконтроль при операционном контроле",
+      "lessons": [
+        "lessons/06-02-03_kak-rabotat-s-izmeneniyami-po-raznym-vidam-stroykontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "4941e1dcf397f62f72bcdbe83f967401056b8784affb863d774ff8deb1c18bc0",
+      "staticId": "3c8f7c155821992d",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/6a62f321c6388ad8.pdf",
+      "title": "Что проверит СК заказчика при входном контроле рабочей документации",
+      "lessons": [
+        "lessons/06-02-03_kak-rabotat-s-izmeneniyami-po-raznym-vidam-stroykontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "6716e5bac57fd0c87dbeb9db97830426a52187c00b188357c38b03c764d8a2f0",
+      "staticId": "6a62f321c6388ad8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/b851887a73b914a1.pdf",
+      "title": "Что входит в исполнительную документацию",
+      "lessons": [
+        "lessons/06-02-03_kak-rabotat-s-izmeneniyami-po-raznym-vidam-stroykontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "97707303a1c08f6b684fb403aa5249e086fdb240d3d73b97b805d37e11446ca0",
+      "staticId": "b851887a73b914a1",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/419c2bc608e73325.pdf",
+      "title": "Какие инструменты можно использовать при визуальном контроле качества",
+      "lessons": [
+        "lessons/06-03-01_vhodnoy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "4c13325aced0ca36e78c8cb1222c3e70541b7b588a1cf26a583020ef48895e3c",
+      "staticId": "419c2bc608e73325",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/98b683c4bd2e2ebb.pdf",
+      "title": "Примеры складирования некоторых изделий",
+      "lessons": [
+        "lessons/06-03-01_vhodnoy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "bc94409387c52ace21aaa9225ac60a1c234a36fb9dd7c31cf260d2a25b1f8c00",
+      "staticId": "98b683c4bd2e2ebb",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/1e647bb79a484f48.pdf",
+      "title": "Что проверяют при операционном контроле:",
+      "lessons": [
+        "lessons/06-03-02_operatsionnyy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "01f797288eb566b44a38c4a7c8c3edeb396efdb60cedd565fcb52def5b9b9857",
+      "staticId": "1e647bb79a484f48",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/2b8a8ef4284151b0.pdf",
+      "title": "В каких случаях операционный контроль не следует пропускать",
+      "lessons": [
+        "lessons/06-03-02_operatsionnyy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "5fe88e7498a576123dd03922193761b8dc69f9359f1c6d92874ca7489147d950",
+      "staticId": "2b8a8ef4284151b0",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/881927603fcc6e8f.pdf",
+      "title": "Операции приемочного контроля на основные виды работ:",
+      "lessons": [
+        "lessons/06-03-03_priemochnyy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "a56f467b162656e5e2f88dd26e3d4de4234dff71496c782f9fdd6dafb0f5e20a",
+      "staticId": "881927603fcc6e8f",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/documents/uvedomlenie-o-vypolnenii-akta-predpisaniya-obrazets_ecc71a51.docx",
+      "title": "Уведомление о выполнении акта-предписания (образец)",
+      "lessons": [
+        "lessons/06-03-05_akty-predpisaniya.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "645d2c27cac6a07eebc989e7daa68f63eacedd5c3e4e016d4793ad3cd761910c",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "attachments/interactive-export/d5fd1749983de04a.pdf",
+      "title": "Какую информацию должен содержать акт-предписание:",
+      "lessons": [
+        "lessons/06-03-05_akty-predpisaniya.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "24d48fd6f9efd60be05887d4238d5e20ee481441174591583ac745826ecc6d10",
+      "staticId": "d5fd1749983de04a",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/98a391c3d8a3d0d3-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/06-03-06_nerazrushayuschiy-kontrol.html"
+      ],
+      "kind": "illustration",
+      "sha256": "bce2d3fd5aaba9735757cd54233f0abf1ca728fe592a889da10db3b190a98342",
+      "staticId": "98a391c3d8a3d0d3",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/ec3417e5da6b559c.pdf",
+      "title": "Основные методы неразрушающего контроля",
+      "lessons": [
+        "lessons/06-03-06_nerazrushayuschiy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "aeb7405af9e95bea663764bbd18aa6fbef1631ac2e459351f292174fd499c8ed",
+      "staticId": "ec3417e5da6b559c",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/f10be24d72b065df.pdf",
+      "title": "Основные методы разрушающего контроля",
+      "lessons": [
+        "lessons/06-03-06_nerazrushayuschiy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "9cfcba24daadedc438b8f06c99cd425b7403e70fd448169132cd54300b1a268e",
+      "staticId": "f10be24d72b065df",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/spreadsheets/akt-o-proverke-prochnosti-betona_c4a1aa3a.xlsx",
+      "title": "Акт о проверке прочности бетона",
+      "lessons": [
+        "lessons/06-03-06_nerazrushayuschiy-kontrol.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "33c84863e9f3c83f9b7d91244f9c9c3885bfaf34f07e91b1a7b4065038a00a58",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "attachments/spreadsheets/protokol-ispytaniya-zazemleniya_1aa31837.xlsx",
+      "title": "Протокол испытания заземления",
+      "lessons": [
+        "lessons/06-03-06_nerazrushayuschiy-kontrol.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "7d2f333f1492fabfae75370ef4f04f6d2293f58bb087a6a66b959ffae4bb8a28",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "assets/interactive/78edac64762f2682-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/06-03-07_vizualno-izmeritelnyy-kontrol.html"
+      ],
+      "kind": "illustration",
+      "sha256": "48622a7a5f7b7f3e23cc227d46413fb1b1b76003e2d4fd568068525ad6e00f8c",
+      "staticId": "78edac64762f2682",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/3100739aaa9a8cd0.pdf",
+      "title": "Какие поверхностные дефекты можно обнаружить с помощью визуально-измерительного контроля",
+      "lessons": [
+        "lessons/06-03-07_vizualno-izmeritelnyy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "ed7653b47396cef1a4247a296e8c567a18d35945e9e7b81bb573265461b6dd25",
+      "staticId": "3100739aaa9a8cd0",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/e7e6692b647bde17.pdf",
+      "title": "Допустимые и недопустимые дефекты",
+      "lessons": [
+        "lessons/06-03-07_vizualno-izmeritelnyy-kontrol.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "8564df07d3ed8e29619cf1595ece7b837ebffb9968bf9b7b5ddb98f597d6aec5",
+      "staticId": "e7e6692b647bde17",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/05a16f9695865816.pdf",
+      "title": "Градостроительный кодекс РФ",
+      "lessons": [
+        "lessons/07-01-01_zachem-nuzhna-smetnaya-dokumentatsiya-i-iz-chego-ona-so.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "d6f75eced2cc0038e9d5d59a6c5f1d7185524bb3a2fb47af6de59c2972fd0519",
+      "staticId": "05a16f9695865816",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/67ac807f0e3660a8.pdf",
+      "title": "Методики и НПА определения сметной стоимости строительства:",
+      "lessons": [
+        "lessons/07-01-01_zachem-nuzhna-smetnaya-dokumentatsiya-i-iz-chego-ona-so.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "e6ac8488d08d34a1b1fb7de580f1ea817eee83b1d83e3dc9d7d18c6de28de516",
+      "staticId": "67ac807f0e3660a8",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/ee08c06b706ba211.pdf",
+      "title": "Состав сводного сметного расчета стоимости строительства (ПП РФ Nº 87)",
+      "lessons": [
+        "lessons/07-01-01_zachem-nuzhna-smetnaya-dokumentatsiya-i-iz-chego-ona-so.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "7ef502766d05906a2fffd88d91a3449af34a7e0fc10545dcac7bb675834fd797",
+      "staticId": "ee08c06b706ba211",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/additional-existing/«Сводка затрат» включает в себя_.pdf",
+      "title": "«Сводка затрат» включает в себя_.pdf",
+      "lessons": [
+        "lessons/07-01-02_uchimsya-opredelyat-smetnuyu-stoimost-stroitelstva.html"
+      ],
+      "kind": "additional_project_file",
+      "sha256": "55c240c8c081378869af771199b8c325343e315aaa39ccb0adb1102d5906c823",
+      "association": "thematic_placement_source_lesson_unverified"
+    },
+    {
+      "localPath": "attachments/additional-existing/Сметная прибыль.pdf",
+      "title": "Сметная прибыль.pdf",
+      "lessons": [
+        "lessons/07-01-02_uchimsya-opredelyat-smetnuyu-stoimost-stroitelstva.html"
+      ],
+      "kind": "additional_project_file",
+      "sha256": "a06a174e1029044ec59721881448f1eca3f112f92ec031c882edb45b3ec225ca",
+      "association": "thematic_placement_source_lesson_unverified"
+    },
+    {
+      "localPath": "attachments/interactive-export/cb2ab0aeb4423401.pdf",
+      "title": "Алгоритм составления локальных сметных расчетов:",
+      "lessons": [
+        "lessons/07-01-04_sostavlenie-smetnoy-dokumentatsii-resursno-indeksnym-me.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "5a5af036922eeaaeea8b4cdc940354b913f3b0b63ef0868ff852ac00eb59419a",
+      "staticId": "cb2ab0aeb4423401",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/43c4a56ced494f41.pdf",
+      "title": "В перечень рекомендуемых затрат, учитываемых в главе 1 ССРСС относятся:",
+      "lessons": [
+        "lessons/07-01-05_stoimost-oborudovaniya-sostav-prochih-zatrat-v-svodnom.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "63157571a301bb04657fb5e1f479ad4fa7e14feacafbb82577662956b17f1bac",
+      "staticId": "43c4a56ced494f41",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/4e53501166c6de40.pdf",
+      "title": "К затратам подрядчика относятся следующие затраты:",
+      "lessons": [
+        "lessons/07-01-05_stoimost-oborudovaniya-sostav-prochih-zatrat-v-svodnom.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "e5e196c201527f108bda03b92006772eb5228e51b04197159bfe7a39a58e575f",
+      "staticId": "4e53501166c6de40",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/ff149fbd9edf4fd0.pdf",
+      "title": "При определении сметной стоимости строительства к стоимости оборудования относятся затраты на приобретение (п. 99 Методики № 421/пр):",
+      "lessons": [
+        "lessons/07-01-05_stoimost-oborudovaniya-sostav-prochih-zatrat-v-svodnom.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "980db4d7efd31de53e0ab7bc80251911aaf7c09761dbea416131b08151492812",
+      "staticId": "ff149fbd9edf4fd0",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/202a5518d782fa24.pdf",
+      "title": "Как создать безопасные условия работы на строительной площадке",
+      "lessons": [
+        "lessons/08-01-01_kto-otvechaet-za-bezopasnost-i-ohranu-truda-v-stroitels.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "52ac78323651f2f4a23e4fa7ce411b1c575b3b984f42982c012d17847331ec6b",
+      "staticId": "202a5518d782fa24",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/5ba710930273c3d5.pdf",
+      "title": "Этап технического задания к договору на строительные работы",
+      "lessons": [
+        "lessons/08-01-02_kak-razrabotat-organizatsionno-tehnologicheskuyu-dokume.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "eb428fc3569446b347ceb14ddc31b3053fb02de5f5119614ae6f16de4290644a",
+      "staticId": "5ba710930273c3d5",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/9c265b02c3eb99d0.pdf",
+      "title": "Как обеспечить безопасность решений при строительстве объекта в ПОС и ППР",
+      "lessons": [
+        "lessons/08-01-02_kak-razrabotat-organizatsionno-tehnologicheskuyu-dokume.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "8031b8f764aa1d4807e1a589a67378386214287a23109ef51505e84915798009",
+      "staticId": "9c265b02c3eb99d0",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/41f08711e92c11f0.pdf",
+      "title": "Какие опасности учитывает работодатель",
+      "lessons": [
+        "lessons/08-01-03_kak-otsenit-urovni-professionalnyh-riskov-p-5-pot.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "c074c06a85b1ff8701d542e8accb2edbe41a3f63efde5721e8174e0642234166",
+      "staticId": "41f08711e92c11f0",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/d2edb1376f6a668a.pdf",
+      "title": "Какие работы связаны с повышенной опасностью",
+      "lessons": [
+        "lessons/08-01-04_kak-oformit-akt-dopusk-i-naryad-dopusk.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "11088195f9fe060a34846f3ab04c42db199759f1595d447ae515e380384bbac8",
+      "staticId": "d2edb1376f6a668a",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/spreadsheets/organizatsionnye-meropriyatiya-napravlennye-na-bezop_a066a0b3.xlsx",
+      "title": "Организационные мероприятия по безопасности",
+      "lessons": [
+        "lessons/08-01-05_kakie-nuzhny-organizatsionnye-meropriyatiya-rabotodatel.html"
+      ],
+      "kind": "direct_attachment",
+      "sha256": "f22a9ea45bb5bf8e72b4c0581dd23c94ef6119fbaab1f3eb72e10dd617c0d80b",
+      "association": "lesson_topic_reviewed"
+    },
+    {
+      "localPath": "attachments/interactive-export/0b222176c840151e.pdf",
+      "title": "Координация действий Заказчика и Подрядчика",
+      "lessons": [
+        "lessons/08-01-06_kak-predotvratit-narusheniya-ohrany-truda.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "fad22222eb170a1b9f0f7e17f945d39c5cb09252723d1d1603cbbfe1d6731c08",
+      "staticId": "0b222176c840151e",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/e06e86dd94f9ecfb.pdf",
+      "title": "Требования охраны труда при организации проведения работ (производственных процессов)",
+      "lessons": [
+        "lessons/08-02-01_kakie-trebovaniya-ohrany-truda-predyavlyayut-k-proizvod.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "21eb36e79bc4bbd64cfcb6d0739cb502b15debfdabf404989d7fca20ce45b6d1",
+      "staticId": "e06e86dd94f9ecfb",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/interactive-export/81769a1510eafc13.pdf",
+      "title": "Соблюдение требований охраны труда при выполнении работ повышеной опасности",
+      "lessons": [
+        "lessons/08-02-03_bezopasnost-v-deystvii-trebovaniya-ohrany-truda-pri-rab.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "9af4de8353ad45c9ec9ce1439256ba1e8300476c600ffb2dd2ac4998644f161b",
+      "staticId": "81769a1510eafc13",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/8ea4388cbffaf249-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/09-01-01_osnovy-raboty.html"
+      ],
+      "kind": "illustration",
+      "sha256": "ffd7ddae7e80c2c5d0c6a625a34285aa693b393b586165fe4520b1fff37ed429",
+      "staticId": "8ea4388cbffaf249",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "attachments/additional-existing/Чем отличается XML-схема АОСР от ее формы из приказа № 344 (2).pdf",
+      "title": "Чем отличается XML-схема АОСР от ее формы из приказа № 344 (2).pdf",
+      "lessons": [
+        "lessons/09-04-02_kak-chitat-xml-shemu.html"
+      ],
+      "kind": "additional_project_file",
+      "sha256": "40e4f413a6a5b844be14235bcae77b535488037836b8c5a9b67eb3e0fd37acee",
+      "association": "thematic_placement_source_lesson_unverified"
+    },
+    {
+      "localPath": "attachments/interactive-export/4cbef8f142d0423a.pdf",
+      "title": "Какие документы формирует XMLonline.ru",
+      "lessons": [
+        "lessons/09-04-04_kak-formirovat-dokumenty-v-formate-xml.html"
+      ],
+      "kind": "pdf_export",
+      "sha256": "1f9d88667bb41b500882ab9e9e333b16952fe46e10a49d3a1f0bfea06a24db5e",
+      "staticId": "4cbef8f142d0423a",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/0b573a8ab7ca42a5-01.png",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/09-04-05_gde-nayti-aktualnye-xml-shemy.html"
+      ],
+      "kind": "illustration",
+      "sha256": "9ab0ef3d0f665a07217091987b3be3ea4d3c3be4ef7f6862d6d41d9d2aad4fb9",
+      "staticId": "0b573a8ab7ca42a5",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/1ed489f3a5cc9c75-01.jfif",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/09-04-05_gde-nayti-aktualnye-xml-shemy.html"
+      ],
+      "kind": "illustration",
+      "sha256": "90bde1f8b7c8c843c06dd7fec015aebf7a0b9f193cb6e59261da2c23d1061d60",
+      "staticId": "1ed489f3a5cc9c75",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/315b076017289142-01.jfif",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/09-04-05_gde-nayti-aktualnye-xml-shemy.html"
+      ],
+      "kind": "illustration",
+      "sha256": "857fbce804802eb6322c1f28dfe8763077f7c42947adc04dc9a8729b42b82c4c",
+      "staticId": "315b076017289142",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/83f876c0a08d40f9-01.jfif",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/09-04-05_gde-nayti-aktualnye-xml-shemy.html"
+      ],
+      "kind": "illustration",
+      "sha256": "4f84b2602ba687f40c0916ee6f6c153d4ef10cca162c5e6ca02976109e1e1aef",
+      "staticId": "83f876c0a08d40f9",
+      "association": "embedded_in_source_lesson"
+    },
+    {
+      "localPath": "assets/interactive/e8e914a13a2a7d2d-01.jfif",
+      "title": "Иллюстрация к упражнению",
+      "lessons": [
+        "lessons/09-04-05_gde-nayti-aktualnye-xml-shemy.html"
+      ],
+      "kind": "illustration",
+      "sha256": "1d8e1d92231bc9558e99adaace8ac7448ed73b9b46074d8aa34baa941868e590",
+      "staticId": "e8e914a13a2a7d2d",
+      "association": "embedded_in_source_lesson"
+    }
+  ]
+}

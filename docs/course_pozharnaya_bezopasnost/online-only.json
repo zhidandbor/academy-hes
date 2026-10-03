@@ -1,0 +1,124 @@
+[
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/225021",
+    "reason": "Серверная проверка и вопросы теста не сохранены",
+    "kind": "test"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/225021",
+    "reason": "Серверная проверка и вопросы теста не сохранены",
+    "kind": "test"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/225021",
+    "reason": "Серверная проверка и вопросы теста не сохранены",
+    "kind": "test"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/225021",
+    "reason": "Серверная проверка и вопросы теста не сохранены",
+    "kind": "test"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb11.html",
+    "lesson": "lesson-01-01",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/210d39b3-779a-41ea-a288-a5907c913994/index.html",
+    "lesson": "lesson-01-02",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/190ec225-72d5-4224-9a5d-b17f0bec218a/index.html",
+    "lesson": "lesson-01-02",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb3.html",
+    "lesson": "lesson-01-02",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/ce6935df-6854-4fc0-9670-9fc1db684cfa/index.html",
+    "lesson": "lesson-01-03",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6f40115d-18fe-4471-b626-ef480c892ebf/index.html",
+    "lesson": "lesson-01-03",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb9.html",
+    "lesson": "lesson-01-03",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb16.html",
+    "lesson": "lesson-01-03",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://view.genially.com/67d725df65e3607335df7959",
+    "lesson": "lesson-01-03",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb2.html",
+    "lesson": "lesson-01-03",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb4.html",
+    "lesson": "lesson-01-04",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb15.html",
+    "lesson": "lesson-01-04",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/fe01440a-4ace-4bb3-8841-2f848123f3dc/index.html",
+    "lesson": "lesson-01-05",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/7ce2a224-0d96-4458-8f42-f60b29748dc6/index.html",
+    "lesson": "lesson-01-05",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/pb14.html",
+    "lesson": "lesson-01-05",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://view.genially.com/67d723b91bac69cfd120f673",
+    "lesson": "lesson-02-02",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/3cbf54a8-1353-4c97-9f08-0be6a40e30a6/index.html",
+    "lesson": "lesson-02-06",
+    "reason": "Интерактивная логика требует исходной страницы; статические элементы см. в уроке",
+    "kind": "interactive"
+  }
+]

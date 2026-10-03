@@ -1,0 +1,272 @@
+{
+  "course": {
+    "title": "Excel для инженеров-строителей: базовый уровень",
+    "source_url": "https://school.a-sstroy.ru/programs/226017",
+    "local_page": "index.html",
+    "description": "Научитесь использовать Microsoft Excel для решения инженерно-строительных задач, включая освоение интерфейса программы, работу с формулами и функциями, выполнение вычислительных операций, проведение простого анализа данных и выполнение итогового проектного задания"
+  },
+  "topics": [
+    {
+      "order": 1,
+      "title": "Погружение в Excel",
+      "source_url": "https://school.a-sstroy.ru/programs/226017",
+      "local_page": "modules/01.html",
+      "units": [
+        {
+          "title": "Основы работы и базовые функции Excel",
+          "description": "Научитесь работать с основами Excel: создавать и оформлять таблицы, обрабатывать данные, использовать формулы и условное форматирование, и применять эти навыки в работе инженера",
+          "lesson_numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "Основные вычислительные операции в Excel",
+      "source_url": "https://school.a-sstroy.ru/programs/226017",
+      "local_page": "modules/02.html",
+      "units": [
+        {
+          "title": "Как работать с формулами",
+          "description": "Освоите работу с формулами: научитесь автоматизировать вычисления, создавать формулы для расчета объемов, стоимости и сроков, и применять их в реальных строительных задачах",
+          "lesson_numbers": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "title": "Как работать с анализом данных",
+          "description": "Научитесь сортировать и фильтровать данные по числовым значениям, тексту и датам, а также создавать наглядные столбчатые диаграммы для визуализации инженерных результатов",
+          "lesson_numbers": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "order": 1,
+      "topic": 1,
+      "unit": "Основы работы и базовые функции Excel",
+      "title": "Возможности и польза обучения: как этот курс изменит твою работу",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/b6d9ad89-a64a-4fa1-a50d-11bf6f1ce43a/46015cb3-e905-4b67-af58-5cf82cdad65d",
+      "local_page": "lessons/01.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 4,
+      "source_frame_count": 4
+    },
+    {
+      "order": 2,
+      "topic": 1,
+      "unit": "Основы работы и базовые функции Excel",
+      "title": "Основы работы",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/b6d9ad89-a64a-4fa1-a50d-11bf6f1ce43a/84d5afcd-720c-44f4-ad6e-b78863102b0c",
+      "local_page": "lessons/02.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 6,
+      "source_frame_count": 2
+    },
+    {
+      "order": 3,
+      "topic": 1,
+      "unit": "Основы работы и базовые функции Excel",
+      "title": "Ввод данных",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/b6d9ad89-a64a-4fa1-a50d-11bf6f1ce43a/6a0edea7-9ccf-49fb-b69c-096a4de372b0",
+      "local_page": "lessons/03.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 6,
+      "source_frame_count": 1
+    },
+    {
+      "order": 4,
+      "topic": 1,
+      "unit": "Основы работы и базовые функции Excel",
+      "title": "Сохранение файлов",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/b6d9ad89-a64a-4fa1-a50d-11bf6f1ce43a/41ce0b85-74e4-4ff8-8918-c4f3e00ac13b",
+      "local_page": "lessons/04.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 4,
+      "source_frame_count": 1
+    },
+    {
+      "order": 5,
+      "topic": 1,
+      "unit": "Основы работы и базовые функции Excel",
+      "title": "Шрифты и границы",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/b6d9ad89-a64a-4fa1-a50d-11bf6f1ce43a/c2273be2-f5b8-40a6-9831-da9ca344e547",
+      "local_page": "lessons/05.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 5,
+      "source_frame_count": 1
+    },
+    {
+      "order": 6,
+      "topic": 1,
+      "unit": "Основы работы и базовые функции Excel",
+      "title": "Условное форматирование",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/b6d9ad89-a64a-4fa1-a50d-11bf6f1ce43a/76ed99aa-960d-4c51-82ce-afe771025acb",
+      "local_page": "lessons/06.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 3,
+      "source_frame_count": 0
+    },
+    {
+      "order": 7,
+      "topic": 2,
+      "unit": "Как работать с формулами",
+      "title": "Сложение и вычитание",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/3e6db6e6-8009-47ee-8084-e2327f946cf1/8c7169d5-2434-4276-926b-02bc36c29e72",
+      "local_page": "lessons/07.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 7,
+      "source_frame_count": 1
+    },
+    {
+      "order": 8,
+      "topic": 2,
+      "unit": "Как работать с формулами",
+      "title": "Умножение и деление",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/3e6db6e6-8009-47ee-8084-e2327f946cf1/8920972d-78e9-40c0-a3de-415f8479078f",
+      "local_page": "lessons/08.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 5,
+      "source_frame_count": 1
+    },
+    {
+      "order": 9,
+      "topic": 2,
+      "unit": "Как работать с формулами",
+      "title": "Проценты",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/3e6db6e6-8009-47ee-8084-e2327f946cf1/ce880ea4-a249-4b53-b37b-4afc581a9a18",
+      "local_page": "lessons/09.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 1
+    },
+    {
+      "order": 10,
+      "topic": 2,
+      "unit": "Как работать с формулами",
+      "title": "Работа с датами",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/3e6db6e6-8009-47ee-8084-e2327f946cf1/1e76688c-85e2-47d4-a6fb-e8f4e03e3c7c",
+      "local_page": "lessons/10.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 7,
+      "source_frame_count": 1
+    },
+    {
+      "order": 11,
+      "topic": 2,
+      "unit": "Как работать с анализом данных",
+      "title": "Сортировка",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/fcbe92dc-020f-48b8-86c0-7a5624b3b674/4c3a48cc-e96d-45c5-a311-6b502e33d328",
+      "local_page": "lessons/11.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 4,
+      "source_frame_count": 1
+    },
+    {
+      "order": 12,
+      "topic": 2,
+      "unit": "Как работать с анализом данных",
+      "title": "Фильтрация",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/fcbe92dc-020f-48b8-86c0-7a5624b3b674/4fd1f92e-9dc2-4570-951a-95b919324a57",
+      "local_page": "lessons/12.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 4,
+      "source_frame_count": 0
+    },
+    {
+      "order": 13,
+      "topic": 2,
+      "unit": "Как работать с анализом данных",
+      "title": "Простые диаграммы",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/fcbe92dc-020f-48b8-86c0-7a5624b3b674/a51ca620-1650-4a22-b195-bf35f497bc6f",
+      "local_page": "lessons/13.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 4,
+      "source_frame_count": 0
+    },
+    {
+      "order": 14,
+      "topic": 2,
+      "unit": "Как работать с анализом данных",
+      "title": "Настройка страниц",
+      "source_url": "https://school.a-sstroy.ru/programs/226017/fcbe92dc-020f-48b8-86c0-7a5624b3b674/87e3a07f-5432-474e-81b9-52a73a634ba6",
+      "local_page": "lessons/14.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 0
+    }
+  ],
+  "tests": [
+    {
+      "order": 1,
+      "title": "Тест по теме 1",
+      "source_url": "https://school.a-sstroy.ru/programs/226017",
+      "local_page": "tests/index.html",
+      "availability": "listed in program; questions not exposed in accessible state"
+    },
+    {
+      "order": 2,
+      "title": "Тест по теме 2",
+      "source_url": "https://school.a-sstroy.ru/programs/226017",
+      "local_page": "tests/index.html",
+      "availability": "listed in program; questions not exposed in accessible state"
+    },
+    {
+      "order": 3,
+      "title": "Тренировка перед итоговым тестом",
+      "source_url": "https://school.a-sstroy.ru/programs/226017",
+      "local_page": "tests/index.html",
+      "availability": "listed in program; questions not exposed in accessible state"
+    },
+    {
+      "order": 4,
+      "title": "Итоговый тест",
+      "source_url": "https://school.a-sstroy.ru/programs/226017",
+      "local_page": "tests/index.html",
+      "availability": "listed in program; questions not exposed in accessible state"
+    }
+  ]
+}

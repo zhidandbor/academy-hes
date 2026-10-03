@@ -1,0 +1,1877 @@
+[
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/42183723-00f5-44d6-a447-f4aee5365cd9.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "attachments/source/0602b3a7-2d0a-461d-83c8-d26582128a8a.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "attachments/source/4f09091c-e701-41b7-abd4-1cb82e827df7.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "attachments/source/cd686004-6b1c-4d28-9e44-99276e9d6f18.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/f8cdc5a3-417a-48ec-8155-2e5037ad7b11.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/doc/5cb2491a-7d73-4a12-a20e-6f117221878a/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "attachments/source/0602b3a7-2d0a-461d-83c8-d26582128a8a.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "attachments/source/4f09091c-e701-41b7-abd4-1cb82e827df7.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "attachments/source/cd686004-6b1c-4d28-9e44-99276e9d6f18.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "source_external/learningapps/p2zn26j6525/images/01.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "source_external/learningapps/p2zn26j6525/images/02.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "source_external/learningapps/p2zn26j6525/images/03.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "source_external/learningapps/p2zn26j6525/data.js",
+    "binding": "external_exercise_data"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "attachments/source/0602b3a7-2d0a-461d-83c8-d26582128a8a.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "attachments/source/4f09091c-e701-41b7-abd4-1cb82e827df7.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "attachments/source/cd686004-6b1c-4d28-9e44-99276e9d6f18.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "attachments/source/0602b3a7-2d0a-461d-83c8-d26582128a8a.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "attachments/source/4f09091c-e701-41b7-abd4-1cb82e827df7.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "attachments/source/cd686004-6b1c-4d28-9e44-99276e9d6f18.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "source_external/learningapps/pwv3f41z325/data.js",
+    "binding": "external_exercise_data"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "attachments/source/0602b3a7-2d0a-461d-83c8-d26582128a8a.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "attachments/source/4f09091c-e701-41b7-abd4-1cb82e827df7.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "attachments/source/cd686004-6b1c-4d28-9e44-99276e9d6f18.doc",
+    "binding": "source_attachment"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "exports/f093c9ce-c5d3-4bda-8c74-59e8938a56f3.pdf",
+    "binding": "official_pdf_export"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/doc/065e34ed-724e-49d7-8a55-b2478e87273c/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/ea875842-ef2b-4b9d-ac50-389298f0020b.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "source_external/learningapps/p9uczewit25/images/01.png",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "source_external/learningapps/p9uczewit25/data.js",
+    "binding": "external_exercise_data"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/ac05cf1f-746b-4ff2-82b4-acdec4fc8302.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-01",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-03-01",
+    "path": "assets/images/ae6ba816-538f-4956-b93d-bb3da4cb2b9c.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-01",
+    "path": "assets/images/209a0828-3404-453a-9678-6b06cdeb9766.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-01",
+    "path": "assets/images/8571fc37-0b03-4ee6-8d65-d88586420691.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-01",
+    "path": "assets/images/02d9aa01-5ff9-48a4-a189-161df7ac6e38.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-01",
+    "path": "assets/images/031d11d8-299a-4595-b6c2-641580e452d9.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/da5fd38f-4a05-4444-a999-866172bc8d00.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/4eed5e45-05ff-4437-976c-b2b5c1eae18f.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/1f796668-1d26-460d-9225-52329b13a488.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/41f1a0b6-43e0-4355-9cef-1a3bf9bdb8ab.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/c5825106-ea2e-4a52-8f7a-83015dc05bfb.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/96307fa8-00a6-4c07-b374-dca40ee0477a.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/11686108-42e1-4dfb-af7b-2d672603a552.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/d421a055-2b67-4ea8-ab19-f9f5a9d1e130.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/ed5d9577-739a-419d-b78e-177b7f6a241e.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/0f809a06-3754-4984-8b55-5edfdba647d1.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/a40ac993-2335-42cb-be24-20284bbc7c49.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/39fd4d4e-f888-4c76-8556-c63880c3fd7d.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/2cc0b34a-3bae-470c-a720-e032cfa99e97.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/52a68d35-e84f-4765-ab63-02c0d7ac1399.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/f3efd0e6-30b9-403e-949a-a9d90bcc66ea.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/437f16f7-c61b-4bb6-a52d-2e14df18fd43.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/62cc368c-95ff-4232-809f-78d3bf76d249.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/8676a420-4290-4995-8881-fab10c97fc85.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/images/01.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/images/02.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/images/03.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/images/04.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/images/05.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/images/06.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/images/07.jpg",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "source_external/learningapps/pazpo3r5n25/data.js",
+    "binding": "external_exercise_data"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "path": "assets/images/40eb024a-943d-477c-8048-ea0a0d36e111.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "path": "assets/images/20f9f2e8-ba34-4b32-93b1-cde5d8090f83.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "path": "assets/images/797de190-85de-4708-aec9-2409cf8e1397.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "path": "source_external/learningapps/p5rmmf4wt25/data.js",
+    "binding": "external_exercise_data"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/d6cd790e-1630-4a12-931a-505746403855.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/3a5c644c-e7dc-417e-9151-7204bb0ab8e8.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/87206b98-86e7-4b47-8a24-5b769b258071.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/6cde1398-8e18-47c4-bec0-e61e679c5307.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/10b1fe97-fc59-4ed3-97a8-dc58781f23fc.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/a4451b84-1a9f-4211-9886-ba31a8476459.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/adabb477-7de7-46b9-98fa-d6038b015e9b.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-01",
+    "path": "assets/images/866cb69c-7299-4d58-a0ca-35c1d785db7b.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/41a6cd24-689f-426a-b05a-9040ca640b26.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/97258cb4-7b3f-4acc-837c-62e5a1014beb.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/ed3e3dec-44e6-4059-87b4-63c9b9213f76.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/305933b5-276d-4b44-9ebc-930b49c6fe97.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/643ca361-7f9e-4b8b-b28d-24bfc9ae82f3.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/aa644a0c-fd15-4c9b-ac09-49e09d0c821d.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/5cffaef3-674b-4ad7-9557-6c9d52db4511.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/b66e6966-19a1-4a0c-a29b-11deea084130.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/364e76a1-e82c-49ce-97ac-2a4e70736057.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/5bf226ef-a333-4684-adb0-6982165ed476.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-02",
+    "path": "assets/images/70a55d7d-0526-473c-866d-aa4cc8dd6a7b.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/6e8af6bf-abda-4578-86c1-9f6d2086dfdf.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/a5fee424-ac29-4cd8-a4ad-a09ae3f085e8.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/e11d22ca-c0b3-4287-a0c3-1b79012cf6f5.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/10abc3c5-7dc6-4f80-bb3d-00af6b77877c.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/4d6b8d39-e5d2-462d-b54b-269d311aeecf.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/f7058d4e-52e0-4398-9cef-1a55a168f59d.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-04-03",
+    "path": "assets/images/517bc0ae-60e8-4746-adbf-62e0115a0dc1.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-05-01",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-05-01",
+    "path": "assets/images/06dd860e-1837-4310-93fd-13c2b32cebb7.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-05-01",
+    "path": "assets/images/5e0e9898-bdb3-4826-9061-4e666b985325.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-05-01",
+    "path": "assets/images/e5c29fa3-0304-46e9-ac98-84da0b2ac699.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-05-01",
+    "path": "assets/images/d582b1bb-f872-483a-827c-e7b347685a38.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-05-02",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-05-02",
+    "path": "assets/images/25b8488d-e4d1-421d-a084-fab55fccf10a.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-05-03",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-05-04",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-05-04",
+    "path": "assets/images/09fe3423-d0fe-4069-bc9d-40da2bac26e0.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "assets/images/c4bc9955-1223-40a9-bef3-cbe29be3dfb9.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "exports/421f6c1b-f8f7-4dd5-815b-dd93b701409e.pdf",
+    "binding": "official_pdf_export"
+  },
+  {
+    "lesson": "lesson-06-02",
+    "path": "assets/images/author-bc6a88f1e714.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-06-02",
+    "path": "assets/images/54d64323-c5c9-4bcf-9692-06b73b286f94.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-06-02",
+    "path": "assets/images/e3852d60-fe36-4f07-8a84-75dd79289513.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-06-03",
+    "path": "assets/images/b7538b94-7054-4454-9fc7-7be86a2861ea.jpg",
+    "binding": "lesson_image"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "source_embeds/065e34ed-724e-49d7-8a55-b2478e87273c/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/js/iframeResizer.contentWindow.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/js/iframeResizer.contentWindow.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/js/iframeResizer.contentWindow.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/doc/065e34ed-724e-49d7-8a55-b2478e87273c/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "source_embeds/421f6c1b-f8f7-4dd5-815b-dd93b701409e/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/doc/421f6c1b-f8f7-4dd5-815b-dd93b701409e/images/1.png",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/js/jquery.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/js/jquery.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/js/jquery.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/js/slick.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/js/slick.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/js/slick.min.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/js/memo/sliders.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/js/memo/sliders.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/js/memo/sliders.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/js/memo/common.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/js/memo/common.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/js/memo/common.js",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/css/memo/slick.min.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/css/memo/slick.min.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/css/memo/slick.min.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/css/memo/styles.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/css/memo/styles.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/css/memo/styles.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/css/memo/main.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/css/memo/main.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/css/memo/main.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/css/memo/print.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/css/memo/print.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/css/memo/print.css",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/doc/421f6c1b-f8f7-4dd5-815b-dd93b701409e/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "source_embeds/5cb2491a-7d73-4a12-a20e-6f117221878a/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/doc/5cb2491a-7d73-4a12-a20e-6f117221878a/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "source_embeds/f093c9ce-c5d3-4bda-8c74-59e8938a56f3/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/doc/f093c9ce-c5d3-4bda-8c74-59e8938a56f3/index.html",
+    "binding": "embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/checkbox.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/checkbox.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/checkbox.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/digital.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/digital.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/digital.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/stroy.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/stroy.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/stroy.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/input_lines.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/input_lines.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/input_lines.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/digitalschool.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/digitalschool.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/digitalschool.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/security.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/security.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/security.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/finance.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/finance.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/finance.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/pen.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/pen.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/pen.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/govorder.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/govorder.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/govorder.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/accounting.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/accounting.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/accounting.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/medicine.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/medicine.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/medicine.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/legaltech.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/legaltech.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/legaltech.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/prombezopasnost.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/prombezopasnost.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/prombezopasnost.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/education.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/education.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/education.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/paper-size.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/paper-size.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/paper-size.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.woff2",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.woff2",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.woff2",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/attention.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/attention.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/attention.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/law.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/law.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/law.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/45-square-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/culture.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/culture.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/culture.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/note__img.png",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/note__img.png",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/note__img.png",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/fonts/Bureausans-Bold.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Bold.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Bold.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/ecology.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/ecology.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/ecology.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/schoolstudent.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/schoolstudent.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/schoolstudent.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/uz/action_mcfr.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/uz/action_mcfr.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/uz/action_mcfr.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/ua/mcfr_ua_color.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/ua/mcfr_ua_color.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/ua/mcfr_ua_color.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/sensum.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/sensum.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/sensum.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/management.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/management.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/management.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/personnel.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/personnel.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/personnel.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded-editable-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/fonts/Bureausans-Bold.otf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Bold.otf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Bold.otf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/star-rounded.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/rounded-square-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/circle-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/govfin.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/govfin.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/govfin.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/kz/mcfr_kz_color.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/kz/mcfr_kz_color.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/kz/mcfr_kz_color.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.ttf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.ttf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/fonts/Price_Didone-webfont.ttf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/fonts/Bureausans-Regular.otf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Regular.otf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Regular.otf",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/logos/compliance.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/logos/compliance.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/logos/compliance.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/warning.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/warning.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/warning.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/square-cut-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/fonts/Bureausans-Regular.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Regular.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/fonts/Bureausans-Regular.woff",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/small-img.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/small-img.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/small-img.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/warning-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/warning-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/warning-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/waves-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/hexagon-a4.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/memo/list-borders/starred-editable.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/common/images/pen.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/interactive/common/images/pen.svg",
+    "binding": "shared_embedded_resource"
+  },
+  {
+    "lesson": "lesson-06-01",
+    "path": "embeds/interactive/common/images/pen.svg",
+    "binding": "shared_embedded_resource"
+  }
+]

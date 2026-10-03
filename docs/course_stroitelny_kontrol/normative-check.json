@@ -1,0 +1,265 @@
+{
+  "checked_on": "2026-09-25",
+  "method": "targeted official registry checks; source text and PDFs unchanged",
+  "references": [
+    {
+      "source_reference": "ГОСТ 10692-2015",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/508bf899-04aa-41d6-9b68-c2e2c2a617b9",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 13015-2012",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/b397efe4-e302-4827-ab00-75b1bd9d12fc",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 13579-2018",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/590002ea-b5b0-4bf5-9e47-a772c8c16f06",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 18690-2012",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/bb80c73a-3f3e-4ef2-bc6a-3f19e939587a",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 19804-2012",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "заменён на ГОСТ 19804-2021",
+      "official_url": "https://protect.gost.ru/gost/details/6147ff32-32a9-4da7-8f10-eb0af8e99f54",
+      "scope": "edition/status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 21.101",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "source designation incomplete; current related ГОСТ Р 21.101-2026 effective 01.04.2026",
+      "official_url": "https://protect.gost.ru/gost/details/17bc12e8-6579-4145-b141-56855e772e7f",
+      "scope": "intended source edition unconfirmed"
+    },
+    {
+      "source_reference": "ГОСТ 30242-97",
+      "lessons": [
+        "lesson-02-07"
+      ],
+      "status": "утратил силу в РФ; в карточке указано пользоваться ГОСТ Р ИСО 6520-1-2012",
+      "official_url": "https://protect.gost.ru/gost/details/956e9ee2-36f8-4c2d-9cc0-66a398b5c50b",
+      "scope": "status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 31357-2007",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/8f3d532c-3d3b-49d4-8e62-4b71a6cd95b4",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 32495-2013",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/18a4ed45-0328-438b-b7ef-94bd881518e1",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 32678-2014",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "listed as active by Росстандарт; direct card not inspected",
+      "official_url": "https://protect.gost.ru/gost?search=ГОСТ%2032678-2014",
+      "scope": "exact edition changes/provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 530-2012",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/e3f3ca57-13cb-493c-a047-21814635e7fc",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 7319-2019",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/9d077fed-9f45-421f-8f68-11cf1c25ba81",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 7566-2018",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/024d0813-82d7-48bb-a029-a129354d9620",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "ГОСТ 9980.5-2009",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта",
+      "official_url": "https://protect.gost.ru/gost/details/256000c3-a5da-4fa4-877c-22ee9588d6f9",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "СП 246.1325800.2023",
+      "lessons": [
+        "lesson-03-01"
+      ],
+      "status": "заменён с 04.07.2026 на СП 246.1325800.2026",
+      "official_url": "https://protect.gost.ru/sp/details/ed768687-fb41-4444-a075-c4be68d4dabb",
+      "current_url": "https://protect.gost.ru/sp/details/5bd895c1-0ebc-46d2-a64d-fae27d3cd30c",
+      "scope": "edition and status; exact provision in lesson needs manual comparison"
+    },
+    {
+      "source_reference": "СП 30.13330.2021",
+      "lessons": [
+        "lesson-02-08"
+      ],
+      "status": "designation not confirmed; official active card is СП 30.13330.2020",
+      "official_url": "https://protect.gost.ru/sp/details/8cd57a35-8503-4bb8-802a-324b64f3e0e7",
+      "scope": "author clarification required"
+    },
+    {
+      "source_reference": "СП 31.13330.2021",
+      "lessons": [
+        "lesson-02-08"
+      ],
+      "status": "действует по карточке Росстандарта; учитывать указанные там изменения",
+      "official_url": "https://protect.gost.ru/sp/details/9b4068ca-b550-4a7e-9b4a-28e33bb17a76",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "СП 32.13330.2018",
+      "lessons": [
+        "lesson-02-08"
+      ],
+      "status": "действует по карточке Росстандарта; учитывать указанные там изменения",
+      "official_url": "https://protect.gost.ru/sp/details/cf3b6ea5-c63b-4aa4-9dd3-4295fcaef945",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "СП 45.13330.2017",
+      "lessons": [
+        "lesson-02-08"
+      ],
+      "status": "действует по карточке Росстандарта; учитывать указанные там изменения",
+      "official_url": "https://protect.gost.ru/sp/details/6b8a4ce8-2c63-46f8-8c16-6efec70cede8",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "СП 48.13330.2019",
+      "lessons": [
+        "lesson-01-01",
+        "lesson-01-02",
+        "lesson-01-05",
+        "lesson-02-01",
+        "lesson-03-01",
+        "lesson-03-04"
+      ],
+      "status": "действует, изменения № 1 и № 2",
+      "official_url": "https://protect.gost.ru/sp/details/278f4ffa-b29b-4733-b8ac-d9a5ff3775cc",
+      "scope": "designation and status; individual lesson propositions not checked"
+    },
+    {
+      "source_reference": "СП 49.13330.2010",
+      "lessons": [
+        "lesson-02-01"
+      ],
+      "status": "действует по карточке Росстандарта; учитывать указанные там изменения",
+      "official_url": "https://protect.gost.ru/sp/details/7ddd6a16-19a0-4b85-84eb-aa13390e8cc8",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "СП 543.1325800.2024",
+      "lessons": [
+        "lesson-01-01",
+        "lesson-02-03",
+        "lesson-03-01",
+        "lesson-03-02",
+        "lesson-03-03",
+        "lesson-03-04"
+      ],
+      "status": "действует с 28.01.2025",
+      "official_url": "https://protect.gost.ru/sp/details/aa507b62-ae20-4a8b-9556-fac0b95a9f0e",
+      "scope": "designation and status; individual lesson propositions not checked"
+    },
+    {
+      "source_reference": "СП 70.13330.2012",
+      "lessons": [
+        "lesson-02-08"
+      ],
+      "status": "действует по карточке Росстандарта; учитывать указанные там изменения",
+      "official_url": "https://protect.gost.ru/sp/details/2239acf1-711f-4f1f-aaa7-902fa06a8a60",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "СП 76.13330.2016",
+      "lessons": [
+        "lesson-02-08"
+      ],
+      "status": "действует по карточке Росстандарта; учитывать указанные там изменения",
+      "official_url": "https://protect.gost.ru/sp/details/e7468d76-0b61-4d89-b386-c3b2682caee5",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "СП 82.13330.2016",
+      "lessons": [
+        "lesson-02-08"
+      ],
+      "status": "действует по карточке Росстандарта; учитывать указанные там изменения",
+      "official_url": "https://protect.gost.ru/sp/details/8d5a8ef5-f450-4356-ac88-72cd17c416cf",
+      "scope": "designation and status; exact provisions not checked"
+    },
+    {
+      "source_reference": "№344",
+      "lessons": [
+        "lesson-01-01",
+        "lesson-03-04"
+      ],
+      "status": "in lesson 01-01 appears without date/suffix; likely order 16.05.2023 № 344/пр, point 5 amended by 23.06.2025 № 369/пр",
+      "official_url": "https://publication.pravo.gov.ru/document/0001202507300003",
+      "scope": "source wording ambiguous; this is a dated archival note"
+    },
+    {
+      "source_reference": "№468",
+      "lessons": [
+        "lesson-01-01",
+        "lesson-01-03",
+        "lesson-01-05",
+        "lesson-03-04"
+      ],
+      "status": "Постановление Правительства РФ от 21.06.2010 № 468; government-hosted copy notes amendments through 06.05.2024",
+      "official_url": "https://www.mos.ru/upload/documents/files/7147/5ot21_06_2010N468Oporyadkeprovedeniyastroitelnogokontrolyapriosyshestvlenii.pdf",
+      "scope": "specific lesson claims not checked against provisions"
+    }
+  ],
+  "not_a_legal_opinion": true
+}

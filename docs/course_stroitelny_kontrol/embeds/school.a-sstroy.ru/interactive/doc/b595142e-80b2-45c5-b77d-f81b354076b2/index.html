@@ -1,0 +1,75 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'b595142e-80b2-45c5-b77d-f81b354076b2';
+    window.docName = 'Новая статья WEB АРМ';
+    window.locale = 'ru';
+    window.id = '3895';
+    window.moduleId = '242';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"/interactive/doc/b595142e-80b2-45c5-b77d-f81b354076b2/images/1.png","mainText":"При входном контроле стройматериалов и изделий представитель СК подрядчика, а затем СК заказчика проверяют наличие сопроводительных документов","textHelper":"","type":"truefalse","buttons":[{"label":"Правда","isCorrect":"true"},{"label":"Ложь"}],"result":{"src":"","text":"При входном контроле стройматериалов и изделий представитель СК подрядчика, а затем СК заказчика проверяют наличие сопроводительных документов"},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/b595142e-80b2-45c5-b77d-f81b354076b2/images/2.png","mainText":"Основные функции по ведению входного контроля ПД и РД и их соответствия действующим нормативам возлагаются на СК подрядчика","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Ложь","isCorrect":"true"}],"result":{"src":"","text":"Основные функции по ведению входного контроля ПД и РД и их соответствия действующим нормативам возлагаются на СК заказчика"},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

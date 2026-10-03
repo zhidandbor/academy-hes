@@ -1,0 +1,22 @@
+{
+  "course": "course_xml_shemy_minstroya",
+  "title": "XML-схемы Минстроя",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_xml_shemy_minstroya",
+  "entry": "index.html",
+  "files": 139,
+  "bytes": 11089235,
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "b8d47f4e4489c9f0e773a8cee4b7cf83cf48eebb9469b0728ef7fbab8362846e",
+      "published_sha256": "8cf84e7d5938dd5cc5aca7956dbf40737c01a474ee3287da3e9710c8c7550f98"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "584eef40d91ed41147c30aff5905f06d0c5358f691b1e65899aec1cb975189f1",
+      "published_sha256": "7ee5780fdfff91d5fa814f6fcd519458c85871c9d6a0625c58827695ec75cca8"
+    }
+  ]
+}

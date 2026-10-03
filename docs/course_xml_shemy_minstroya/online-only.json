@@ -1,0 +1,102 @@
+[
+  {
+    "lesson": "lesson-01-02",
+    "source_url": "https://1sstroy.ru/group?groupId=56984627&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "source_url": "https://1sstroy.ru/group?groupId=102143213&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "source_url": "https://1sstroy.ru/group?groupId=109608234&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "source_url": "https://1sstroy.ru/group?groupId=103785070&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "source_url": "https://1sstroy.ru/group?groupId=109608234&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "source_url": "https://1sstroy.ru/group?groupId=147518555&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "source_url": "https://minstroyrf.gov.ru/tim/xml-skhemy/",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "source_url": "https://www.xmlgrid.net/",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "source_url": "https://1sstroy.ru/#/document/16/205129/dfas3q78ef/",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/f888fcaf-b09a-4a1b-82ed-f1ab8e4d82db/index.html",
+    "reason": "widget_loader_requires_network",
+    "local_static_fallback": true
+  },
+  {
+    "lesson": "lesson-02-01",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/e7c48cf6-9894-480b-b481-68d28092977b/index.html",
+    "reason": "widget_loader_requires_network",
+    "local_static_fallback": true
+  },
+  {
+    "lesson": "lesson-02-02",
+    "source_url": "https://1sstroy.ru/group?groupId=103785070&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "source_url": "https://platformaexpert.ru/",
+    "reason": "linked_external_source"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/f9cf6efd-e014-4b9e-bebf-7915c5fb88b1/index.html",
+    "reason": "widget_loader_requires_network",
+    "local_static_fallback": true
+  },
+  {
+    "lesson": "lesson-02-03",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/bf785b9a-96ea-420c-bc4c-5ee240b828be/index.html",
+    "reason": "widget_loader_requires_network",
+    "local_static_fallback": true
+  },
+  {
+    "lesson": "lesson-02-03",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/15fd4b60-30b2-49a3-8da3-7688cdc91ccd/index.html",
+    "reason": "widget_loader_requires_network",
+    "local_static_fallback": true
+  },
+  {
+    "title": "Тест по теме",
+    "source_url": "https://school.a-sstroy.ru/programs/232100",
+    "reason": "test_requires_server"
+  },
+  {
+    "title": "Тренировка перед итоговым тестом. По желанию!",
+    "source_url": "https://school.a-sstroy.ru/programs/232100",
+    "reason": "test_requires_server"
+  },
+  {
+    "title": "Итоговый тест",
+    "source_url": "https://school.a-sstroy.ru/programs/232100",
+    "reason": "test_requires_server"
+  }
+]

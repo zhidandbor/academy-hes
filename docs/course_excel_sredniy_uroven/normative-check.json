@@ -1,0 +1,15 @@
+{
+  "checked_on": "2026-09-27",
+  "scope": "10 captured lesson texts",
+  "identified_normative_designations": [],
+  "finding": "Lesson 5 mentions a table described as ГОСТ на арматуру, but gives no designation, edition, or document link; the standard cannot be identified from this source.",
+  "review_required": [
+    {
+      "lesson": 5,
+      "source_url": "https://school.a-sstroy.ru/programs/226430/33a3a99c-d560-4ce4-a340-928a60aaefc7/c7d7dbc9-6d18-421c-9ff0-5823d37bf3fe",
+      "quote": "Таблица: ГОСТ на арматуру",
+      "question": "Which standard and edition underlie the example table?"
+    }
+  ],
+  "legal_review": "not performed"
+}

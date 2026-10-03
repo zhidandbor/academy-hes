@@ -1,0 +1,135 @@
+{
+  "course": "course_excel_sredniy_uroven",
+  "title": "Excel для инженеров-строителей: средний уровень",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_excel_sredniy_uroven",
+  "entry": "index.html",
+  "files": 33,
+  "bytes": 1326620,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "assets/images/137d058b7cbffaa6c1c9.gif",
+      "bytes": 56741423,
+      "sha256": "58ca3110448914ecdf09b8c09abeabd550884aba6ba4739896d1d1aefb908fcf",
+      "asset_name": "hes-58ca3110448914ecdf09b8c09abeabd5.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-58ca3110448914ecdf09b8c09abeabd5.gif"
+    },
+    {
+      "path": "assets/images/7b67350b8e2565103f88.gif",
+      "bytes": 63834100,
+      "sha256": "693fcaee43eea47bbc05690e687c2ba58cd594c1a18752a4d2faf2ee7e1ee05d",
+      "asset_name": "hes-693fcaee43eea47bbc05690e687c2ba5.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-693fcaee43eea47bbc05690e687c2ba5.gif"
+    },
+    {
+      "path": "assets/images/8af10faf35be164c0b60.gif",
+      "bytes": 63834100,
+      "sha256": "2101e428689ed233e40390269350dec1ceaa198e44769448aeb764db9726adf6",
+      "asset_name": "hes-2101e428689ed233e40390269350dec1.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-2101e428689ed233e40390269350dec1.gif"
+    },
+    {
+      "path": "assets/images/ad5f317724fafe267333.gif",
+      "bytes": 50436821,
+      "sha256": "1ec83a476b1f0a04ef060b9f703bf62c1fcb8db1fa0f527af5f96cabc5350490",
+      "asset_name": "hes-1ec83a476b1f0a04ef060b9f703bf62c.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-1ec83a476b1f0a04ef060b9f703bf62c.gif"
+    },
+    {
+      "path": "assets/images/b14e664410694e32842e.gif",
+      "bytes": 71813362,
+      "sha256": "0e4e03430d10b58eeffd9e5495252c954f52d1b859a4771a4da32a3154a5db3b",
+      "asset_name": "hes-0e4e03430d10b58eeffd9e5495252c95.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-0e4e03430d10b58eeffd9e5495252c95.gif"
+    },
+    {
+      "path": "source_embeds/9a054996-52b5-44d9-9e67-25e552cf80fb/images/1.gif",
+      "bytes": 3899938,
+      "sha256": "e5c6030177b0df8b8ecca75e16395b90a6fc0379b32025554f1cb2f70b00049b",
+      "asset_name": "hes-e5c6030177b0df8b8ecca75e16395b90.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-e5c6030177b0df8b8ecca75e16395b90.gif"
+    },
+    {
+      "path": "source_embeds/bd91a7d1-7301-4c87-a005-968068b23b1e/images/1.gif",
+      "bytes": 3899938,
+      "sha256": "e5c6030177b0df8b8ecca75e16395b90a6fc0379b32025554f1cb2f70b00049b",
+      "asset_name": "hes-e5c6030177b0df8b8ecca75e16395b90.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-e5c6030177b0df8b8ecca75e16395b90.gif"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "91af693bce3069dacfb431bce9bbb3cca38ae560daba2dd8eb1257e9ea41c4c0",
+      "published_sha256": "508932608a00a32bf2896c66a5b3bb8b817cc3cadaf6fec81a43fa0e9a775a23"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "99a2cf3e7b698011d31a606a3d80bb5f8b05d8fcefbe5d8000207c54d903722e",
+      "published_sha256": "10335a011616e14e0334437775bf9b5978da87024ae6005137dc80cb37cc4114"
+    },
+    {
+      "path": "lessons/01.html",
+      "source_sha256": "48dfbf556f224993250537884651959f1d21e8720112264791e507c74c4dc1bc",
+      "published_sha256": "37276e355a6dffebe0dc103d283e76827711c000f082a9f56c1654257bb94559"
+    },
+    {
+      "path": "lessons/02.html",
+      "source_sha256": "e0f72f77d6523eea78f5d0e0181fc39d590d9ebf694377d9a14345b56e901d7a",
+      "published_sha256": "698bf0227b79473fb55dd931d3c7827eb162446eec7d1838f01c8c3411d3b623"
+    },
+    {
+      "path": "lessons/03.html",
+      "source_sha256": "f037030a723eeb429d1cd31f4107995ef35fcb20c79be5b396e16d74e9914f72",
+      "published_sha256": "884fde92235100d617f3ff6b1c7a593437209c7dc6ce617664dacda2ea7410ac"
+    },
+    {
+      "path": "lessons/04.html",
+      "source_sha256": "0509d544276229595ace2794dcfcb4833f4d10cacf7e550b6c126817fae3f426",
+      "published_sha256": "737ddfdbf8ec24a4fb288625921c20468205619ee4a89d36a4125324be39ec8d"
+    },
+    {
+      "path": "lessons/05.html",
+      "source_sha256": "c2bd6803b21bb80a0e97f266acd062cf577b523d56cabc1c382bf4b54a3b4de2",
+      "published_sha256": "74097177898056f9e57bbd4f48ee2b20c80e62622eec82dc6a362b60ada1cd0a"
+    },
+    {
+      "path": "lessons/06.html",
+      "source_sha256": "8ee67a70228f5030163406764dd940047897cb7f2daa91e4de2717113c3910b4",
+      "published_sha256": "80b8f98e70908e4fc8a1df6c612f38acb76299d80a318f75f1e08996abca0ee5"
+    },
+    {
+      "path": "lessons/07.html",
+      "source_sha256": "2ba6845ce9fc1368bc9bd63de87a287717786d73ab3d5e492c5d00d4ae7c20ce",
+      "published_sha256": "2c25af74cfefaad9ac47e4684b54cdb001d93489b3d1b28e060bd2347cc6b32d"
+    },
+    {
+      "path": "lessons/08.html",
+      "source_sha256": "29928dde6af4a0421c42349da660e0a4f35274dc71fa80fded88b436c1ac2825",
+      "published_sha256": "4792fc34351b4a7fe6273b6a75e7d987d76e27f86b3f81ea3e2dfc4337fd9b67"
+    },
+    {
+      "path": "lessons/09.html",
+      "source_sha256": "489942fee127a11c0966478addeb35a1ff7155ac8f1037cd1e74cc7004f501c1",
+      "published_sha256": "570a170f8ce53aecf25873c018b19a979425daf1da88e3ec71d9cb5abd496003"
+    },
+    {
+      "path": "lessons/10.html",
+      "source_sha256": "5fafbdef23b6a479baa897173b8814915cf35aa6f5ef10defc3f2d885f70bf00",
+      "published_sha256": "b022f94586262aeb18e43002c5f80b32f4761bba3ecefb72c8c628ab7fb471fb"
+    },
+    {
+      "path": "modules/01.html",
+      "source_sha256": "0ba347fe57d8b661a5b39a795e20d6097354aea1eacb086bcbb47ceed27b892e",
+      "published_sha256": "93f231d74037efd3530d113fbffe52b3b297b821688abc4f6897182764509d1d"
+    },
+    {
+      "path": "tests/index.html",
+      "source_sha256": "147bcd9c27607c03272f16f1d2619b421990135a25a22833bd7f6527ddecf66e",
+      "published_sha256": "3d55ed98484d1cee64c65985c11062c4a3e1396e4727aad4ba957ca4ea2f5301"
+    }
+  ]
+}

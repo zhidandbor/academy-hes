@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Интерактивный Демо-Плеер</title>
+    <style>
+        /* БАЗОВЫЕ НАСТРОЙКИ СТИЛЯ */
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #ffffff;
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .main-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 60px;
+            width: 100%;
+            max-width: 1100px;
+            min-height: 600px;
+        }
+
+        /* АДАПТИВНЫЙ И МОРФИРУЮЩИЙСЯ КОРПУС УСТРОЙСТВА */
+        .device-wrapper {
+            position: relative;
+            flex-shrink: 0;
+            z-index: 2;
+            transition: width 0.5s cubic-bezier(0.65, 0, 0.35, 1), height 0.5s cubic-bezier(0.65, 0, 0.35, 1);
+        }
+
+        /* Геометрия для ГОРИЗОНТАЛЬНОГО формата (iPad) */
+        .device-wrapper.is-ipad {
+            width: 480px;
+            height: 360px;
+            --v-top: 7.2%;    
+            --v-left: 5.2%;   
+            --v-width: 89.6%; 
+            --v-height: 85.6%;
+            --v-round: 18px;  
+        }
+
+        /* Геометрия для ВЕРТИКАЛЬНОГО формата (iPhone) */
+        .device-wrapper.is-iphone {
+            width: 280px;
+            height: 570px;
+            --v-top: 3%;      
+            --v-left: 7%;     
+            --v-width: 86%;   
+            --v-height: 94%;  
+            --v-round: 40px; 
+        }
+
+        .device-mask {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 10;
+            pointer-events: none;
+            object-fit: contain;
+        }
+
+        /* ЭКРАН С АВТОМАТИЧЕСКИМ ИЗМЕНЕНИЕМ СКРУГЛЕНИЯ И ОТСТУПОВ */
+        .screen-area {
+            position: absolute;
+            top: var(--v-top);
+            left: var(--v-left);
+            width: var(--v-width);
+            height: var(--v-height);
+            background: #000000; 
+            overflow: hidden;
+            border-radius: var(--v-round);
+            z-index: 1;
+            transition: border-radius 0.5s ease, top 0.5s ease, left 0.5s ease, width 0.5s ease, height 0.5s ease;
+        }
+
+        /* ЛЕНТА ИЗ 6 ВИДЕОРОЛИКОВ */
+        .video-track {
+            display: flex;
+            width: 600%; /* 6 видео по 100% ширины экрана каждое */
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.65, 0, 0.35, 1);
+        }
+
+        video {
+            width: calc(100% / 6);
+            height: 100%;
+            object-fit: cover;
+            background: #000;
+        }
+
+        /* ТЕКСТОВАЯ ИНФОРМАЦИОННАЯ ПАНЕЛЬ */
+        .carousel-side {
+            flex: 1;
+            max-width: 450px;
+        }
+
+        .prompt-box {
+            background: #fcfcfc;
+            border: 1px solid #eee;
+            border-radius: 25px;
+            padding: 35px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.02);
+            min-height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .prompt-item { display: none; }
+        .prompt-item.active { display: block; animation: fadeIn 0.4s ease forwards; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+
+        .header {
+            font-size: 11px;
+            font-weight: 700;
+            color: #000000; 
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 12px;
+        }
+
+        .text {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #000000;
+            font-weight: 500;
+            margin-bottom: 30px;
+        }
+
+        .nav { display: flex; gap: 12px; }
+
+        .btn {
+            width: 44px;
+            height: 44px;
+            border: 1px solid #000000;
+            border-radius: 50%;
+            background: #ffffff;
+            color: #000000;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: 0.25s ease;
+            font-size: 16px;
+        }
+
+        .btn:hover {
+            background: #000000;
+            color: #ffffff;
+        }
+
+        /* Адаптивность для небольших экранов */
+        @media (max-width: 850px) {
+            .main-container {
+                flex-direction: column;
+                gap: 40px;
+            }
+            .carousel-side {
+                width: 100%;
+                max-width: 480px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="main-container">
+    <div class="device-wrapper is-ipad" id="deviceContainer">
+        <img src="ipad2.png" class="device-mask" id="deviceMask" alt="Экран макета">
+        <div class="screen-area">
+            <div class="video-track" id="videoTrack">
+                <video id="v0" playsinline muted loop>
+                    <source src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-4d09af0d3770b0940616625df0118a5e.mp4" type="video/mp4">
+                </video>
+                <video id="v1" playsinline muted loop>
+                    <source src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-26a6c24749470ea5e4ff8af407d01d0e.mp4" type="video/mp4">
+                </video>
+                
+                <video id="v2" playsinline muted loop>
+                    <source src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-e031ef18844c030b2e2be2953132d5b6.mp4" type="video/mp4">
+                </video>
+                <video id="v3" playsinline muted loop>
+                    <source src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-f62a4d237a2046be2d35374c9b894217.mp4" type="video/mp4">
+                </video>
+                
+                <video id="v4" playsinline muted loop>
+                    <source src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-b24c790f12f957cac37f71affe1fd986.mp4" type="video/mp4">
+                </video>
+                <video id="v5" playsinline muted loop>
+                    <source src="../../../media/interactive2/14.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+    </div>
+
+    <div class="carousel-side">
+        <div class="prompt-box">
+            <div id="promptContainer">
+                <div id="p0" class="prompt-item active">
+                    <div class="header">Видео №1</div>
+                    <div class="text">Специализация «Отопление, вентиляция и кондиционирование» (ОВиК)</div>
+                </div>
+                <div id="p1" class="prompt-item">
+                    <div class="header">Видео №2</div>
+                    <div class="text">Специализация «Архитектурные решения» (АР)</div>
+                </div>
+                <div id="p2" class="prompt-item">
+                    <div class="header">Видео №3</div>
+                    <div class="text">Специализация «Конструктивные решения» (КР)</div>
+                </div>
+                <div id="p3" class="prompt-item">
+                    <div class="header">Видео №4</div>
+                    <div class="text">Специализация «Электроснабжение» (ЭО, ЭМ)</div>
+                </div>
+                <div id="p4" class="prompt-item">
+                    <div class="header">Видео №5</div>
+                    <div class="text">Специализация «Водоснабжение и канализация» (ВК)</div>
+                </div>
+                <div id="p5" class="prompt-item">
+                    <div class="header">Видео №6</div>
+                    <div class="text">Специализация «Слаботочные системы» (СС)</div>
+                </div>
+            </div>
+
+            <div class="nav">
+                <button class="btn" onclick="move(-1)">←</button>
+                <button class="btn" onclick="move(1)">→</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let cur = 0;
+    const totalSlides = 6;
+    
+    const container = document.getElementById('deviceContainer');
+    const mask = document.getElementById('deviceMask');
+    const track = document.getElementById('videoTrack');
+    
+    // Массив конфигурации типов устройств для каждого слайда
+    const slideTypes = ['ipad', 'ipad', 'iphone', 'iphone', 'ipad', 'ipad'];
+
+    // Сбор элементов в массивы
+    const prompts = [];
+    const videos = [];
+    for (let i = 0; i < totalSlides; i++) {
+        prompts.push(document.getElementById(`p${i}`));
+        videos.push(document.getElementById(`v${i}`));
+    }
+
+    // Автозапуск первого видео
+    videos[0].play().catch(e => console.log("Автозапуск заблокирован браузером"));
+
+    function move(dir) {
+        // 1. Останавливаем и сбрасываем текущее видео
+        videos[cur].pause();
+        videos[cur].currentTime = 0;
+        
+        // 2. Рассчитываем индекс нового слайда
+        cur = (cur + dir + totalSlides) % totalSlides;
+        
+        // 3. Динамически меняем тип устройства и маску
+        const currentType = slideTypes[cur];
+        if (currentType === 'iphone') {
+            container.className = 'device-wrapper is-iphone';
+            mask.src = 'https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-33ec1aa2879bb2cb84a357c2d7bf4a96.png';
+            mask.alt = 'iPhone';
+        } else {
+            container.className = 'device-wrapper is-ipad';
+            mask.src = 'ipad2.png';
+            mask.alt = 'iPad';
+        }
+        
+        // 4. Смещаем ленту видео (каждый шаг равен 100% / общее количество видео)
+        const offset = cur * (100 / totalSlides);
+        track.style.transform = `translateX(-${offset}%)`;
+        
+        // 5. Переключаем активный текст промпта
+        prompts.forEach((p, i) => p.classList.toggle('active', i === cur));
+        
+        // 6. Запускаем воспроизведение нового видео
+        videos[cur].play().catch(e => console.log("Ошибка воспроизведения видео"));
+    }
+</script>
+</body>
+</html>

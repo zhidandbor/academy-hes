@@ -1,0 +1,98 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/226802",
+  "title": "Геодезия в строительстве: практические навыки для начинающих",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Геодезия в строительстве",
+      "source_url": "https://school.a-sstroy.ru/programs/226802",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Осваиваем профессию инженера-геодезиста",
+          "description": "Научитесь применять основное и вспомогательное геодезическое оборудование. Потренируетесь считать объемы разработки грунта, а также самостоятельно составите план земляных масс",
+          "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/9e57d9fd-2815-4896-8e9d-8942eefca109",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "О курсе: чему вы научитесь и как это пригодится на практике",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/9e57d9fd-2815-4896-8e9d-8942eefca109",
+              "local": "lessons/lesson-01-01.html",
+              "source_snapshot": "source_pages/lesson-01-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Начинаем знакомство с геодезией",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/88e521e8-c231-4ebe-861c-cfd0c7011314",
+              "local": "lessons/lesson-01-02.html",
+              "source_snapshot": "source_pages/lesson-01-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Знакомимся с основным геодезическим оборудованием",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/7e7d6823-bbe6-4bf7-bb71-57d6dfc62cb2",
+              "local": "lessons/lesson-01-03.html",
+              "source_snapshot": "source_pages/lesson-01-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Учимся работать с нивелиром",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/2a5482e5-0dc6-4e56-959e-745d59ce7626",
+              "local": "lessons/lesson-01-04.html",
+              "source_snapshot": "source_pages/lesson-01-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Переносим высотные отметки от репера в несколько шагов",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/a71d37ee-0461-40ad-869e-492592f24855",
+              "local": "lessons/lesson-01-05.html",
+              "source_snapshot": "source_pages/lesson-01-05.json"
+            },
+            {
+              "position": 6,
+              "title": "Читаем исполнительные схемы",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/9234a3ac-b036-4433-9d16-4ef114d95de6",
+              "local": "lessons/lesson-01-06.html",
+              "source_snapshot": "source_pages/lesson-01-06.json"
+            },
+            {
+              "position": 7,
+              "title": "Составлям и рассчитываем план (картограмму) земляных масс",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/bac3c8c1-9dcc-4392-aad4-78eb5804ef38",
+              "local": "lessons/lesson-01-07.html",
+              "source_snapshot": "source_pages/lesson-01-07.json"
+            },
+            {
+              "position": 8,
+              "title": "Подводим итоги обучения",
+              "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/8a860482-3591-40b7-9fce-ce4204d6d378",
+              "local": "lessons/lesson-01-08.html",
+              "source_snapshot": "source_pages/lesson-01-08.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме",
+      "source_url": "https://school.a-sstroy.ru/programs/226802",
+      "local": "tests/index.html",
+      "status": "platform_only_questions_not_captured"
+    },
+    {
+      "title": "2",
+      "source_url": "https://school.a-sstroy.ru/programs/226802",
+      "local": "tests/index.html",
+      "status": "platform_only_questions_not_captured"
+    },
+    {
+      "title": "3",
+      "source_url": "https://school.a-sstroy.ru/programs/226802",
+      "local": "tests/index.html",
+      "status": "platform_only_questions_not_captured"
+    }
+  ]
+}

@@ -1,0 +1,6271 @@
+@font-face {
+    font-family: 'bureausans';
+    src: url('../../fonts/Bureausans-Regular.woff') format('woff'),
+    url('../../fonts/Bureausans-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bureausans';
+    src: url('../../fonts/Bureausans-Bold.woff') format('woff'),
+    url('../../fonts/Bureausans-Bold.otf') format('otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'PriceDidone';
+    src: url('../../fonts/Price_Didone-webfont.woff') format('woff'),
+    url('../../fonts/Price_Didone-webfont.woff2') format('woff2'),
+    url('../../fonts/Price_Didone-webfont.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    font-family: 'bureausans';
+}
+
+body p {
+	margin-top: 0;
+}
+
+body p:last-child {
+	margin-bottom: 0;
+}
+
+.container {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+	align-items: flex-start;
+    font-family: 'Bureausans';
+}
+
+.container > div {
+	width: 100%;
+}
+
+.poster-light {
+	position: relative;
+	box-shadow: inset 20px 0px 300px 400px rgba(0,0,0,0.05);
+}
+
+/* Sidebar */
+.sidebar {
+  position: relative;
+  flex: 0 0 232px;
+}
+
+.sidebar__icon {
+  width: 105px;
+  height: 105px;
+  margin-bottom: 14px;
+  background-image: url(../../images/pen.svg);
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.sidebar__text {
+  width: 190px;
+  margin-bottom: 30px;
+  font-size: 19px;
+  line-height: 21.5px;
+}
+
+.sidebar__actions {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+}
+
+.sidebar__download {
+  flex: 0 1 172px;
+  margin-right: 11px;
+  padding: 10px 0 11px;
+  border: none;
+  border-radius: 4px;
+  background-color: #0083A7;
+  color: #fff;
+  font-family: "Bureausans";
+  font-size: 28px;
+  line-height: 1;
+  transition: background .3s;
+}
+
+.sidebar__download:disabled {
+  background-color: #b8bec8;
+  color: #f4f6f9;
+  cursor: not-allowed;
+  opacity: 0.95;
+    animation: downloadButtonDisable 2.25s ease forwards;
+}
+
+@keyframes downloadButtonDisable {
+    0% { background-color: currentColor; }
+    11.11% { background-color: gray; }
+    100% { background-color: gray; }
+}
+
+.sidebar__download:hover {
+  background-color: #007494;
+  cursor: pointer;
+}
+
+.sidebar__print {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1 1 auto;
+  border: 1px solid #0083A7b3;
+  border-radius: 4px;
+  background-color: transparent;
+  transition: border-color .2s;
+}
+
+.sidebar__print:hover {
+  border-color: #0083A7;
+  cursor: pointer;
+}
+
+/* Posters styles */
+.can-not {
+    display: flex;
+    justify-content: space-between;
+    min-height: 100.074vw;
+    height: 100.074vw;
+    margin-right: 2.2vw;
+    padding: 3.3155vw 5.6685vw 2.5vw 2.139vw;
+    background-color: #F0F0F0;
+}
+
+.can-not__head {
+    flex: 1 1 45.8vw;
+	-ms-flex-preferred-size: 28vw;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 5.71428vw;
+    margin-right: 2.14vw;
+    padding: 0.45vw 0 0.4vw;
+}
+
+.can-not__edit {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.checklist__name {
+    margin-bottom: 0.7487vw;
+}
+
+.can-not__name,
+.can-not__memo {
+    position: relative;
+    flex: 0 1 4.5vw;
+    margin-bottom: 2vw;
+    font-family: "bureausans";
+    font-size: 1.92513vw;
+    line-height: 1.11111;
+}
+
+.can-not__name-text,
+.can-not__memo-text {
+    display: none;
+    position: absolute;
+    top: 0;
+    padding-bottom: 0.3071vw;
+    border-bottom: 1px dashed #bdbdbd;
+	word-break: break-word !important;
+}
+
+.can-not__name-text:hover,
+.can-not__memo-text:hover {
+    cursor: pointer;
+}
+
+.can-not__name-input,
+.can-not__memo-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 1.92513vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #bdbdbd;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #bdbdbd;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #bdbdbd;
+}
+
+.can-not__logo {
+	display: flex;
+	justify-content: flex-start;
+    height: 1.5vw;
+    background-position: left center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.can-not__body {
+    flex: 0 1 auto;
+	-ms-flex-preferred-size: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.can-not__title {
+    margin: 0;
+    font-size: 7.6vw;
+    line-height: 1;
+}
+
+.can-not__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    font-size: 3vw;
+    line-height: 1;
+}
+
+.can-not__col:first-child {
+    margin-bottom: 4.5vw;
+}
+
+.can-not__caption {
+    margin: 0;
+    font-size: 3vw;
+}
+
+.can-not__possible {
+    color: #17A16D;
+}
+
+.can-not__impossible {
+    color: #e10000;
+}
+
+.can-not__paragraph {
+    margin: 0;
+}
+
+.can-not__paragraph:not(:last-child) {
+    margin-bottom: 2.674vw;
+}
+
+/* Different logos */
+.poster--accounting .can-not__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .can-not__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--legaltech .can-not__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--culture .can-not__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .can-not__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .can-not__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .can-not__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .can-not__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .can-not__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .can-not__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .can-not__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .can-not__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .can-not__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .can-not__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .can-not__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .can-not__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .can-not__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .can-not__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .can-not__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .can-not__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .can-not__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .can-not__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .can-not__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .can-not__logo {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.can-not {
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .can-not__name-input,
+.poster-light .can-not__memo-input {
+    border-color: #000;
+    background-color: transparent;
+}
+
+.poster-light .can-not__name-text,
+.poster-light .can-not__memo-text {
+    border-color: #000;
+}
+
+.poster-light ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #000;
+    opacity: 1; /* Firefox */
+}
+
+.poster-light :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #000;
+}
+
+.poster-light ::-ms-input-placeholder { /* Microsoft Edge */
+    color: #000;
+}
+
+.poster-light .can-not__caption {
+    color: #000;
+}
+
+.poster-light.poster--accounting .can-not__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .can-not__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .can-not__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .can-not__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .can-not__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .can-not__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .can-not__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .can-not__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .can-not__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .can-not__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .can-not__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .can-not__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .can-not__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .can-not__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .can-not__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .can-not__logo {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.can-not {
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .can-not__name,
+.poster-dark .can-not__memo {
+    color: #fff;
+}
+
+.poster-dark .can-not__name-input,
+.poster-dark .can-not__memo-input {
+    border-color: #fff;
+    color: #fff;
+    background-color: transparent;
+}
+
+.poster-dark .can-not__name-text,
+.poster-dark .can-not__memo-text {
+    border-color: #fff;
+}
+
+.poster-dark ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+
+.poster-dark :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #fff;
+}
+
+.poster-dark ::-ms-input-placeholder { /* Microsoft Edge */
+    color: #fff;
+}
+
+.poster-dark .can-not__title {
+    color: #fff;
+}
+
+.poster-dark .can-not__content {
+    color: #fff;
+}
+
+.poster-dark .can-not__caption {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .can-not__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .can-not__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .can-not__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .can-not__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .can-not__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .can-not__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .can-not__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .can-not__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .can-not__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .can-not__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .can-not__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .can-not__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .can-not__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .can-not__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .can-not__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .can-not__logo {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+.can-not-2 {
+    display: flex;
+    justify-content: space-between;
+    min-height: 49.05vw;
+    height: 49.05vw;
+    margin-right: 1.521vw;
+    padding: 2.4335vw 1.521vw 1.749vw 1.1407vw;
+    background-color: #F0F0F0;
+}
+
+.can-not-2__footer {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -ms-align-items: flex-end;
+    align-items: flex-end;
+    justify-content: space-between;
+    min-height: 3.1vw;
+}
+
+.can-not-2__edit {
+    flex: 0 1 30vw;
+    -ms-align-self: flex-start;
+    align-self: flex-start;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    height: 3.2vw;
+}
+
+.can-not-2__name,
+.can-not-2__memo {
+    position: relative;
+    flex: 0 0 13.308vw;
+    display: flex;
+    align-items: flex-end;
+    font-family: "bureausans";
+    font-size: 1.3689vw;
+    line-height: 1.11111;
+}
+
+.can-not-2__name {
+    margin-right: 3vw;
+}
+
+.can-not-2__name-text,
+.can-not-2__memo-text {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 0.3071vw;
+	word-break: break-word !important;
+}
+
+.can-not-2__name-text::after,
+.can-not-2__memo-text::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    border-bottom: 1px dashed #bdbdbd;
+}
+
+.can-not-2__name-text:hover,
+.can-not-2__memo-text:hover {
+    cursor: pointer;
+}
+
+.can-not-2__name-input,
+.can-not-2__memo-input {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-size: 1.3689vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.can-not-2__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.065vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    margin-bottom: 0.4vw;
+}
+
+.can-not-2__body {
+    flex: 0 1 141vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 0.5vw;
+}
+
+.can-not-2__title {
+    flex: 1 1 69vw;
+	-ms-flex-preferred-size: 90vw;
+    margin: 0 1.521vw 0 0;
+    font-size: 3.80228vw;
+    line-height: 1;
+}
+
+.can-not-2__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    font-size: 2.12928vw;
+    line-height: 1;
+}
+
+.can-not-2__col {
+    flex: 0 1 30.708vw;
+}
+
+.can-not-2__col:first-child {
+    margin-right: 1.521vw;
+}
+
+.can-not-2__caption {
+    margin: 0;
+    font-size: 2.12928vw;
+}
+
+.can-not-2__possible {
+    color: #17A16D;
+}
+
+.can-not-2__impossible {
+    color: #e10000;
+}
+
+.can-not-2__paragraph {
+    margin: 0;
+}
+
+.can-not-2__paragraph:not(:last-child) {
+    margin-bottom: 2.12928vw;
+}
+
+/* Different logos */
+.poster--accounting .can-not-2__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .can-not-2__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .can-not-2__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .can-not-2__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .can-not-2__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .can-not-2__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .can-not-2__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .can-not-2__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .can-not-2__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .can-not-2__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .can-not-2__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .can-not-2__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .can-not-2__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .can-not-2__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .can-not-2__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .can-not-2__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .can-not-2__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .can-not-2__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .can-not-2__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .can-not-2__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .can-not-2__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .can-not-2__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .can-not-2__logo {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.can-not-2{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .can-not-2__name-text::after,
+.poster-light .can-not-2__memo-text::after {
+    border-color: #000;
+}
+
+.poster-light .can-not-2__name-input,
+.poster-light .can-not-2__memo-input {
+    border-color: #000;
+    background-color: transparent;
+}
+
+.poster-light .can-not-2__caption {
+    color: #000;
+}
+
+.poster-light.poster--accounting .can-not-2__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .can-not-2__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .can-not-2__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .can-not-2__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .can-not-2__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .can-not-2__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .can-not-2__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .can-not-2__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .can-not-2__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .can-not-2__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .can-not-2__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .can-not-2__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .can-not-2__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .can-not-2__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .can-not-2__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .can-not-2__logo {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.can-not-2{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .can-not-2__name,
+.poster-dark .can-not-2__memo {
+    color: #fff;
+    border-color: #fff;
+}
+
+.poster-dark .can-not-2__name-text::after,
+.poster-dark .can-not-2__memo-text::after {
+    border-color: #fff;
+}
+
+.poster-dark .can-not-2__name-input,
+.poster-dark .can-not-2__memo-input {
+    border-color: #fff;
+    color: #fff;
+    background-color: transparent;
+}
+
+.poster-dark .logo-white {
+    display: inline;
+}
+
+.poster-dark .can-not-2__title {
+    color: #fff;
+}
+
+.poster-dark .can-not-2__content {
+    color: #fff;
+}
+
+.poster-dark .can-not-2__caption {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .can-not-2__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .can-not-2__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .can-not-2__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .can-not-2__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .can-not-2__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .can-not-2__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .can-not-2__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .can-not-2__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .can-not-2__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .can-not-2__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .can-not-2__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .can-not-2__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .can-not-2__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .can-not-2__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .can-not-2__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .can-not-2__logo {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+.can-not-3 {
+    display: flex;
+    justify-content: space-between;
+    min-height: 49.05vw;
+    height: 49.05vw;
+    margin-right: 1.521vw;
+    padding: 2.4335vw 1.521vw 1.749vw 1.1407vw;
+    background-color: #F0F0F0;
+}
+
+.can-not-3__footer {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -ms-align-items: flex-end;
+    align-items: flex-end;
+    justify-content: space-between;
+    min-height: 3.1vw;
+}
+
+.can-not-3__edit {
+    flex: 0 1 30vw;
+    -ms-align-self: flex-start;
+    align-self: flex-start;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    height: 3.2vw;
+}
+
+.can-not-3__name,
+.can-not-3__memo {
+    position: relative;
+    flex: 0 0 13.308vw;
+    display: flex;
+    align-items: flex-end;
+    font-family: "bureausans";
+    font-size: 1.3689vw;
+    line-height: 1.11111;
+}
+
+.can-not-3__name {
+    margin-right: 3vw;
+}
+
+.can-not-3__name-text,
+.can-not-3__memo-text {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 0.3071vw;
+	word-break: break-word !important;
+}
+
+.can-not-3__name-text::after,
+.can-not-3__memo-text::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    border-bottom: 1px dashed #bdbdbd;
+}
+
+.can-not-3__name-text:hover,
+.can-not-3__memo-text:hover {
+    cursor: pointer;
+}
+
+.can-not-3__name-input,
+.can-not-3__memo-input {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-size: 1.3689vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.can-not-3__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.065vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    margin-bottom: 0.4vw;
+}
+
+.can-not-3__body {
+    flex: 0 1 141vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 0.4vw;
+}
+
+.can-not-3__title {
+    flex: 1 1 69vw;
+	-ms-flex-preferred-size: 90vw;
+    margin: 0 1.521vw 0 0;
+    font-size: 3.80228vw;
+    line-height: 1;
+}
+
+.can-not-3__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    font-size: 1.52091vw;
+    line-height: 1.1;
+}
+
+.can-not-3__col {
+    flex: 0 1 30.708vw;
+}
+
+.can-not-3__col:first-child {
+    margin-right: 1.521vw;
+}
+
+.can-not-3__caption {
+    margin: 0;
+    font-size: 2.12928vw;
+}
+
+.can-not-3__possible {
+    color: #17A16D;
+}
+
+.can-not-3__impossible {
+    color: #e10000;
+}
+
+.can-not-3__paragraph {
+    margin: 0;
+}
+
+.can-not-3__paragraph:not(:last-child) {
+    margin-bottom: 1.673vw;
+}
+
+/* Different logos */
+.poster--accounting .can-not-3__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .can-not-3__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .can-not-3__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .can-not-3__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .can-not-3__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .can-not-3__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .can-not-3__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .can-not-3__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .can-not-3__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .can-not-3__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .can-not-3__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .can-not-3__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .can-not-3__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .can-not-3__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .can-not-3__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .can-not-3__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .can-not-3__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .can-not-3__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .can-not-3__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .can-not-3__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .can-not-3__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .can-not-3__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .can-not-3__logo {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.can-not-3{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .can-not-3__name-text::after,
+.poster-light .can-not-3__memo-text::after {
+    border-color: #000;
+}
+
+.poster-light .can-not-3__name-input,
+.poster-light .can-not-3__memo-input {
+    border-color: #000;
+    color: #000;
+    background-color: transparent;
+}
+
+.poster-light .can-not-3__caption {
+    color: #000;
+}
+
+.poster-light.poster--accounting .can-not-3__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .can-not-3__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .can-not-3__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .can-not-3__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .can-not-3__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .can-not-3__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .can-not-3__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .can-not-3__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .can-not-3__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .can-not-3__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .can-not-3__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .can-not-3__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .can-not-3__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .can-not-3__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .can-not-3__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .can-not-3__logo {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.can-not-3{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .can-not-3__name,
+.poster-dark .can-not-3__memo {
+    color: #fff;
+    border-color: #fff;
+    background-color: transparent;
+}
+
+.poster-dark .can-not-3__name-text::after,
+.poster-dark .can-not-3__memo-text::after {
+    border-color: #fff;
+}
+
+.poster-dark .can-not-3__name-input,
+.poster-dark .can-not-3__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .logo-white {
+    display: inline;
+}
+
+.poster-dark .can-not-3__title {
+    color: #fff;
+}
+
+.poster-dark .can-not-3__content {
+    color: #fff;
+}
+
+.poster-dark .can-not-3__caption {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .can-not-3__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .can-not-3__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .can-not-3__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .can-not-3__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .can-not-3__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .can-not-3__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .can-not-3__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .can-not-3__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .can-not-3__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .can-not-3__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .can-not-3__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .can-not-3__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .can-not-3__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .can-not-3__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .can-not-3__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .can-not-3__logo {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+.can-not-focus {
+    display: flex;
+    justify-content: space-between;
+    min-height: 49.05vw;
+    height: 49.05vw;
+    margin-right: 1.521vw;
+    padding: 2.4335vw 1.521vw 1.749vw 1.1407vw;
+    background-color: #F0F0F0;
+}
+
+.can-not-focus__footer {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -ms-align-items: flex-end;
+    align-items: flex-end;
+    justify-content: space-between;
+    min-height: 3.1vw;
+}
+
+.can-not-focus__edit {
+    flex: 0 1 30vw;
+    -ms-align-self: flex-start;
+    align-self: flex-start;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    height: 3.2vw;
+}
+
+.can-not-focus__name,
+.can-not-focus__memo {
+    position: relative;
+    flex: 0 0 13.308vw;
+    display: flex;
+    align-items: flex-end;
+    font-family: "bureausans";
+    font-size: 1.3689vw;
+    line-height: 1.11111;
+}
+
+.can-not-focus__name {
+    margin-right: 3vw;
+}
+
+.can-not-focus__name-text,
+.can-not-focus__memo-text {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 0.3071vw;
+	word-break: break-word !important;
+}
+
+.can-not-focus__name-text::after,
+.can-not-focus__memo-text::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    border-bottom: 1px dashed #bdbdbd;
+}
+
+.can-not-focus__name-text:hover,
+.can-not-focus__memo-text:hover {
+    cursor: pointer;
+}
+
+.can-not-focus__name-input,
+.can-not-focus__memo-input {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-size: 1.3689vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.can-not-focus__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.065vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    margin-bottom: 0.4vw;
+}
+
+.can-not-focus__body {
+    flex: 0 1 141vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 0.5vw;
+}
+
+.can-not-focus__title {
+    flex: 1 1 69vw;
+	-ms-flex-preferred-size: 90vw;
+    margin: 0 1.521vw 0 0;
+    font-size: 3.80228vw;
+    line-height: 1;
+}
+
+.can-not-focus__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    font-size: 2.12928vw;
+    line-height: 1;
+}
+
+.can-not-focus__col {
+    flex: 0 1 30.708vw;
+}
+
+.can-not-focus__col:first-child {
+    margin-right: 1.521vw;
+}
+
+.can-not-focus__caption {
+    margin: 0;
+    font-size: 2.12928vw;
+}
+
+.can-not-focus__possible {
+    color: #17A16D;
+}
+
+.can-not-focus__impossible {
+    color: #e10000;
+}
+
+.can-not-focus__paragraph {
+    margin: 0;
+}
+
+.can-not-focus__paragraph:not(:last-child) {
+    margin-bottom: 2.12928vw;
+}
+
+.can-not-focus__focus {
+    margin: 0;
+    font-size: 3.0419vw;
+    color: #14927F;
+}
+
+/* Different logos */
+.poster--accounting .can-not-focus__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .can-not-focus__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .can-not-focus__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .can-not-focus__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .can-not-focus__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .can-not-focus__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .can-not-focus__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .can-not-focus__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .can-not-focus__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .can-not-focus__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .can-not-focus__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .can-not-focus__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .can-not-focus__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .can-not-focus__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .can-not-focus__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .can-not-focus__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .can-not-focus__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .can-not-focus__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .can-not-focus__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .can-not-focus__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .can-not-focus__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .can-not-focus__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .can-not-focus__logo {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.can-not-focus{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .can-not-focus__name-text::after,
+.poster-light .can-not-focus__memo-text::after {
+    border-color: #000;
+}
+
+.poster-light .can-not-focus__name-input,
+.poster-light .can-not-focus__memo-input {
+    border-color: #000;
+}
+
+.poster-light .can-not-focus__caption {
+    color: #000;
+}
+
+.poster-light .can-not-focus__focus {
+    color: #000;
+}
+
+.poster-light.poster--accounting .can-not-focus__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .can-not-focus__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .can-not-focus__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .can-not-focus__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .can-not-focus__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .can-not-focus__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .can-not-focus__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .can-not-focus__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .can-not-focus__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .can-not-focus__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .can-not-focus__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .can-not-focus__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .can-not-focus__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .can-not-focus__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .can-not-focus__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .can-not-focus__logo {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.can-not-focus{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .can-not-focus__name,
+.poster-dark .can-not-focus__memo {
+    color: #fff;
+}
+
+.poster-dark .can-not-focus__name-text::after,
+.poster-dark .can-not-focus__memo-text::after {
+    border-color: #fff;
+}
+
+.poster-dark .can-not-focus__name-input,
+.poster-dark .can-not-focus__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .can-not-focus__title {
+    color: #fff;
+}
+
+.poster-dark .can-not-focus__content {
+    color: #fff;
+}
+
+.poster-dark .can-not-focus__caption {
+    color: #fff;
+}
+
+.poster-dark .can-not-focus__focus {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .can-not-focus__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .can-not-focus__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .can-not-focus__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .can-not-focus__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .can-not-focus__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .can-not-focus__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .can-not-focus__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .can-not-focus__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .can-not-focus__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .can-not-focus__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .can-not-focus__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .can-not-focus__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .can-not-focus__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .can-not-focus__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .can-not-focus__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .can-not-focus__logo {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+.checklist {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100.074vw;
+    height: 100.074vw;
+    margin-right: 2.2vw;
+    padding: 3.3155vw 2.139vw 2.5vw;
+    background-color: #F0F0F0;
+}
+
+.checklist__head {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    justify-content: space-between;
+}
+
+.checklist__edit {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 0.7487vw;
+}
+
+.checklist__name {
+    margin-bottom: 0.7487vw;
+}
+
+.checklist__name,
+.checklist__memo {
+    position: relative;
+    flex: 0 1 4.5vw;
+    font-family: "bureausans";
+    font-size: 1.92513vw;
+    line-height: 1.11111;
+}
+
+.checklist__name-text,
+.checklist__memo-text {
+    display: none;
+    position: absolute;
+    top: 0;
+    padding-bottom: 0.3071vw;
+    border-bottom: 1px dashed #bdbdbd;
+	word-break: break-word !important;
+}
+
+.checklist__name-text:hover,
+.checklist__memo-text:hover {
+    cursor: pointer;
+}
+
+.checklist__name-input,
+.checklist__memo-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 1.92513vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.checklist__logo {
+	display: flex;
+	justify-content: flex-start;
+    height: 1.5vw;
+    background-position: left center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.checklist__body {
+    flex: 0 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: 61.177vw;
+}
+
+.checklist__title {
+    flex: 0 1 49.84vw;
+    margin: 0 2.14vw 0 0;
+    font-size: 5.3476vw;
+    line-height: 1;
+}
+
+.checklist__info {
+    flex: 0 1 18.61vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 1.5vw;
+    padding-bottom: 0.9vw;
+}
+
+.checklist__list {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+    font-size: 3vw;
+}
+
+.checklist__item {
+    position: relative;
+    margin-bottom: 1.6043vw;
+    padding-left: 3.7433vw;
+    line-height: 1;
+}
+
+.checklist__item:hover {
+    cursor: pointer;
+}
+
+.checklist__box {
+	position: absolute;
+	top: -0.7vw;
+	left: 0;
+	width: 2.7555555vw;
+	height: 3.1vw;
+}
+
+.checklist__checked-box {
+	position: absolute;
+	top: -0.7vw;
+	left: 0;
+	width: 2.7555555vw;
+	height: 3.1vw;
+	display: none;
+}
+
+/* Different logos */
+.poster--accounting .checklist__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .checklist__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .checklist__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .checklist__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .checklist__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .checklist__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .checklist__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .checklist__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .checklist__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .checklist__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .checklist__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .checklist__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .checklist__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .checklist__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .checklist__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .checklist__logo {
+    background-image: url(../../images/stroy.svg) !important;
+}
+
+.poster--prombezopasnost .checklist__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .checklist__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .checklist__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .checklist__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .checklist__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .checklist__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .checklist__logo {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.checklist{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .checklist__name-text,
+.poster-light .checklist__memo-text {
+    border-color: #000;
+}
+
+.poster-light .checklist__name-input,
+.poster-light .checklist__memo-input {
+    border-color: #000;
+}
+
+.poster-light .checklist__box path {
+	fill: #000;
+}
+
+.poster-light .checklist__checked-box path {
+	fill: #000;
+}
+
+.poster-light.poster--accounting .checklist__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .checklist__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .checklist__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .checklist__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .checklist__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .checklist__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .checklist__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .checklist__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .checklist__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .checklist__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .checklist__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .checklist__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .checklist__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .checklist__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .checklist__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .checklist__logo {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.checklist{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .checklist__name,
+.poster-dark .checklist__memo {
+    color: #fff;
+}
+
+.poster-dark .checklist__name-text,
+.poster-dark .checklist__memo-text {
+    border-color: #fff;
+}
+
+.poster-dark .checklist__name-input,
+.poster-dark .checklist__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .checklist__box path {
+	fill: #fff;
+}
+
+.poster-dark .checklist__checked-box path {
+	fill: #fff;
+}
+
+.poster-dark .checklist__title {
+    color: #fff;
+}
+
+.poster-dark .checklist__list {
+    color: #fff;
+}
+
+.poster-dark .checklist__title {
+	color: #fff;
+}
+
+.poster-dark .checklist__list {
+	color: #fff;
+}
+
+.poster-dark.poster--accounting .checklist__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .checklist__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .checklist__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .checklist__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .checklist__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .checklist__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .checklist__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .checklist__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .checklist__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .checklist__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .checklist__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .checklist__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .checklist__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .checklist__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .checklist__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .checklist__logo {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+
+.instruction {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 101.774vw;
+    height: 101.774vw;
+    margin-right: 2.2vw;
+    padding: 1.7112vw 2.139vw 2.4vw;
+    background-color: #F0F0F0;
+    font-family: 'Bureausans';
+}
+
+.instruction__head {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    justify-content: space-between;
+    min-height: 5.71428vw;
+}
+
+.instruction__edit {
+    flex: 0 1 35.65vw;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    margin-top: -0.4vw;
+    height: 4.5vw;
+}
+
+.instruction__name {
+    margin-right: 2.246vw;
+}
+
+.instruction__name,
+.instruction__memo {
+    position: relative;
+    flex: 0 1 50%;
+    font-family: "bureausans";
+    font-size: 1.92513vw;
+    line-height: 1.11111;
+}
+
+.instruction__name-text,
+.instruction__memo-text {
+    display: none;
+    position: absolute;
+    top: 0;
+    padding-bottom: 0.3071vw;
+    border-bottom: 1px dashed #bdbdbd;
+	word-break: break-word !important;
+}
+
+.instruction__name-text:hover,
+.instruction__memo-text:hover {
+    cursor: pointer;
+}
+
+.instruction__name-input,
+.instruction__memo-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 1.92513vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.instruction__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.5vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.instruction__body {
+    flex: 0 1 89.74vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.instruction__title {
+    max-width: 60.75vw;
+    margin: 0;
+    font-size: 7.6vw;
+    line-height: 1;
+}
+
+.instruction__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    counter-reset: numbering;
+}
+
+.instruction__col {
+    flex: 0 1 29vw;
+    font-size: 1.92513vw;
+    line-height: 1.11173;
+}
+
+.instruction__col:first-child {
+    margin-right: 2.14vw;
+}
+
+.instruction__col > p {
+    margin-top: 0;
+}
+
+.instruction__paragraph {
+    margin: 0;
+}
+
+.instruction__paragraph:not(:last-child) {
+    margin-bottom: 2.14023vw;
+}
+
+.instruction__paragraph span {
+    display: none;
+}
+
+.instruction__numbering {
+    margin-top: -0.18vw;
+}
+
+.instruction__numbering span {
+    position: relative;
+    display: inline-block;
+    width: 2.34vw;
+    height: 2.34vw;
+    margin-right: 0.5vw;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position: center;
+}
+
+.instruction__numbering svg {
+	width: 2.34vw;
+    height: 2.34vw;
+	margin-bottom: -0.55vw;
+}
+
+.counter-1::before,
+.counter-2::before,
+.counter-3::before,
+.counter-4::before,
+.counter-5::before,
+.counter-6::before,
+.counter-7::before,
+.counter-8::before,
+.counter-9::before,
+.counter-10::before,
+.counter-11::before,
+.counter-12::before,
+.counter-13::before,
+.counter-14::before,
+.counter-15::before,
+.counter-16::before,
+.counter-17::before,
+.counter-18::before,
+.counter-19::before,
+.counter-20::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: none;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position: center;
+    -webkit-print-color-adjust:exact;
+}
+
+.counter-1::before {
+    background-image: url(../../images/digits/1.svg);
+}
+
+.counter-2::before {
+    background-image: url(../../images/digits/2.svg);
+}
+
+.counter-3::before {
+    background-image: url(../../images/digits/3.svg);
+}
+
+.counter-4::before {
+    background-image: url(../../images/digits/4.svg);
+}
+
+.counter-5::before {
+    background-image: url(../../images/digits/5.svg);
+}
+
+.counter-6::before {
+    background-image: url(../../images/digits/6.svg);
+}
+
+.counter-7::before {
+    background-image: url(../../images/digits/7.svg);
+}
+
+.counter-8::before {
+    background-image: url(../../images/digits/8.svg);
+}
+
+.counter-9::before {
+    background-image: url(../../images/digits/9.svg);
+}
+
+.counter-10::before {
+    background-image: url(../../images/digits/10.svg);
+}
+
+.counter-11::before {
+    background-image: url(../../images/digits/11.svg);
+}
+
+.counter-12::before {
+    background-image: url(../../images/digits/12.svg);
+}
+
+.counter-13::before {
+    background-image: url(../../images/digits/13.svg);
+}
+
+.counter-14::before {
+    background-image: url(../../images/digits/14.svg);
+}
+
+.counter-15::before {
+    background-image: url(../../images/digits/15.svg);
+}
+
+.counter-16::before {
+    background-image: url(../../images/digits/16.svg);
+}
+
+.counter-17::before {
+    background-image: url(../../images/digits/17.svg);
+}
+
+.counter-18::before {
+    background-image: url(../../images/digits/18.svg);
+}
+
+.counter-19::before {
+    background-image: url(../../images/digits/19.svg);
+}
+
+.counter-20::before {
+    background-image: url(../../images/digits/20.svg);
+}
+
+/* Different logos */
+.poster--accounting .instruction__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .instruction__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .instruction__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .instruction__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .instruction__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .instruction__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .instruction__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .instruction__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .instruction__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .instruction__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .instruction__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .instruction__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .instruction__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .instruction__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .instruction__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .instruction__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .instruction__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .instruction__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .instruction__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .instruction__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .instruction__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .instruction__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .instruction__logo {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.instruction{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .instruction__name-input,
+.poster-light .instruction__memo-input {
+    border-color: #000;
+}
+
+.poster-light .instruction__name-text,
+.poster-light .instruction__memo-text {
+    border-color: #000;
+}
+
+.poster-light.poster--accounting .instruction__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .instruction__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .instruction__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .instruction__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .instruction__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .instruction__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .instruction__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .instruction__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .instruction__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .instruction__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .instruction__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .instruction__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .instruction__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .instruction__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .instruction__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .instruction__logo {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+.poster-light .instruction__numbering circle {
+	fill: #000;
+}
+
+/* dark poster styles */
+
+.poster-dark.instruction{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .instruction__name,
+.poster-dark .instruction__memo {
+    color: #fff;
+}
+
+.poster-dark .instruction__name-text,
+.poster-dark .instruction__memo-text {
+    border-color: #fff;
+}
+
+.poster-dark .instruction__name-input,
+.poster-dark .instruction__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .instruction__title {
+    color: #fff;
+}
+
+.poster-dark .instruction__content {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .instruction__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .instruction__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .instruction__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .instruction__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .instruction__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .instruction__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .instruction__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .instruction__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .instruction__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .instruction__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .instruction__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .instruction__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .instruction__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .instruction__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .instruction__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .instruction__logo {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+.poster-dark .instruction__numbering circle {
+	fill: #fff;
+}
+
+.poster-dark .instruction__numbering path {
+	fill: #000;
+}
+
+.numbered-count {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 101.774vw;
+    height: 101.774vw;
+    margin-right: 2.2vw;
+    padding: 1.7112vw 2.139vw 2.4vw;
+    background-color: #F0F0F0;
+}
+
+.numbered-count__head {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    justify-content: space-between;
+    min-height: 5.71428vw;
+}
+
+.numbered-count__edit {
+    flex: 0 1 35.65vw;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    margin-top: -0.4vw;
+    height: 4.5vw;
+}
+
+.numbered-count__name {
+    margin-right: 2.246vw;
+}
+
+.numbered-count__name,
+.numbered-count__memo {
+    position: relative;
+    flex: 0 1 50%;
+    font-family: "bureausans";
+    font-size: 1.92513vw;
+    line-height: 1.11111;
+}
+
+.numbered-count__name-text,
+.numbered-count__memo-text {
+    display: none;
+    position: absolute;
+    top: 0;
+    padding-bottom: 0.3071vw;
+    border-bottom: 1px dashed #bdbdbd;
+	word-break: break-word !important;
+}
+
+.numbered-count__name-text:hover,
+.numbered-count__memo-text:hover {
+    cursor: pointer;
+}
+
+.numbered-count__name-input,
+.numbered-count__memo-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 1.92513vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.numbered-count__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.5vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.numbered-count__body {
+    flex: 0 1 89.74vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.numbered-count__title {
+    max-width: 60.75vw;
+    margin: 0;
+    font-size: 7.6vw;
+    line-height: 1;
+}
+
+.numbered-count__title--focus {
+    max-width: 70vw;
+    margin-bottom: -7vw;
+    margin-left: -2vw;
+    color: #e10000;
+    font-family: "PriceDidone";
+    font-size: 35.2941vw;
+}
+
+.numbered-count__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+
+}
+
+.numbered-count__col {
+    flex: 0 1 29vw;
+    font-size: 1.92513vw;
+    line-height: 1.11173;
+}
+
+.numbered-count__col:first-child {
+    margin-right: 2.14vw;
+}
+
+.numbered-count__paragraph,
+.numbered-count__col > p {
+    margin: 0;
+}
+
+.numbered-count__paragraph:not(:last-child) {
+    margin-bottom: 2.14023vw;
+}
+
+/* Different logos */
+.poster--accounting .numbered-count__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .numbered-count__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .numbered-count__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .numbered-count__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .numbered-count__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .numbered-count__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .numbered-count__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .numbered-count__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .numbered-count__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .numbered-count__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .numbered-count__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .numbered-count__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .numbered-count__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .numbered-count__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .numbered-count__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .numbered-count__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .numbered-count__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .numbered-count__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .numbered-count__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .numbered-count__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .numbered-count__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .numbered-count__logo{
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .numbered-count__logo {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.numbered-count{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .numbered-count__name-text,
+.poster-light .numbered-count__memo-text {
+    border-color: #000;
+}
+
+.poster-light .numbered-count__name-input,
+.poster-light .numbered-count__memo-input {
+    border-color: #000;
+}
+
+.poster-light .numbered-count__title--focus {
+    color: #000;
+}
+
+.poster-light.poster--accounting .numbered-count__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .numbered-count__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .numbered-count__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .numbered-count__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .numbered-count__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .numbered-count__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .numbered-count__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .numbered-count__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .numbered-count__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .numbered-count__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .numbered-count__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .numbered-count__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .numbered-count__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .numbered-count__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .numbered-count__logo{
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .numbered-count__logo {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.numbered-count{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .numbered-count__name,
+.poster-dark .numbered-count__memo {
+    color: #fff;
+}
+
+.poster-dark .numbered-count__name-text,
+.poster-dark .numbered-count__memo-text {
+    border-color: #fff;
+}
+
+.poster-dark .numbered-count__name-input,
+.poster-dark .numbered-count__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .numbered-count__title {
+    color: #fff;
+}
+
+.poster-dark .numbered-count__title--focus {
+    color: #fff;
+}
+
+.poster-dark .numbered-count__content {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .numbered-count__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .numbered-count__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .numbered-count__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .numbered-count__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .numbered-count__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .numbered-count__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .numbered-count__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .numbered-count__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .numbered-count__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .numbered-count__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .numbered-count__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .numbered-count__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .numbered-count__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .numbered-count__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .numbered-count__logo{
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .numbered-count__logo {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+.numbered-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 101.774vw;
+    height: 101.774vw;
+    margin-right: 2.2vw;
+    padding: 1.7112vw 2.139vw 2.4vw;
+    background-color: #F0F0F0;
+}
+
+.numbered-list__head {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    justify-content: space-between;
+    min-height: 5.71428vw;
+}
+
+.numbered-list__edit {
+    flex: 0 1 35.65vw;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    margin-top: -0.4vw;
+    height: 4.5vw;
+}
+
+.numbered-list__name {
+    margin-right: 2.246vw;
+}
+
+.numbered-list__name,
+.numbered-list__memo {
+    position: relative;
+    flex: 0 1 50%;
+    font-family: "bureausans";
+    font-size: 1.92513vw;
+    line-height: 1.11111;
+}
+
+.numbered-list__name-text,
+.numbered-list__memo-text {
+    display: none;
+    position: absolute;
+    top: 0;
+    padding-bottom: 0.3071vw;
+    border-bottom: 1px dashed #bdbdbd;
+	word-break: break-word !important;
+}
+
+.numbered-list__name-text:hover,
+.numbered-list__memo-text:hover {
+    cursor: pointer;
+}
+
+.numbered-list__name-input,
+.numbered-list__memo-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 1.92513vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.numbered-list__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.5vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.numbered-list__body {
+    flex: 0 1 89.74vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.numbered-list__title {
+    max-width: 60.75vw;
+    margin: 0;
+    font-size: 7.6vw;
+    line-height: 1;
+}
+
+.numbered-list__title--focus {
+    color: #e10000;
+}
+
+.numbered-list__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+
+}
+
+.numbered-list__col {
+    flex: 0 1 29vw;
+    font-size: 1.92513vw;
+    line-height: 1.11173;
+}
+
+.numbered-list__col:first-child {
+    margin-right: 2.14vw;
+}
+
+.numbered-list__paragraph {
+    margin: 0;
+}
+
+.numbered-list__paragraph:not(:last-child) {
+    margin-bottom: 2.14023vw;
+}
+
+/* Different logos */
+.poster--accounting .numbered-list__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .numbered-list__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .numbered-list__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .numbered-list__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .numbered-list__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .numbered-list__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .numbered-list__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .numbered-list__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .numbered-list__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .numbered-list__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .numbered-list__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .numbered-list__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .numbered-list__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .numbered-list__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .numbered-list__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .numbered-list__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .numbered-list__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .numbered-list__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .numbered-list__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .numbered-list__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .numbered-list__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .numbered-list__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .numbered-list__logo  {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.numbered-list{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .numbered-list__name-text,
+.poster-light .numbered-list__memo-text {
+    border-color: #000;
+}
+
+.poster-light .numbered-list__name-input,
+.poster-light .numbered-list__memo-input {
+    border-color: #000;
+}
+
+.poster-light .numbered-list__title--focus {
+    color: #000;
+}
+
+.poster-light.poster--accounting .numbered-list__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .numbered-list__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .numbered-list__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .numbered-list__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .numbered-list__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .numbered-list__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .numbered-list__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .numbered-list__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .numbered-list__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .numbered-list__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .numbered-list__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .numbered-list__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .numbered-list__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .numbered-list__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .numbered-list__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .numbered-list__logo  {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.numbered-list{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .numbered-list__name,
+.poster-dark .numbered-list__memo {
+    color: #fff;
+}
+
+.poster-dark .numbered-list__name-text,
+.poster-dark .numbered-list__memo-text {
+    border-color: #fff;
+}
+
+.poster-dark .numbered-list__name-input,
+.poster-dark .numbered-list__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .numbered-list__title {
+    color: #fff;
+}
+
+.poster-dark .numbered-list__title--focus {
+    color: #fff;
+}
+
+.poster-dark .numbered-list__content {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .numbered-list__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .numbered-list__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .numbered-list__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .numbered-list__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .numbered-list__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .numbered-list__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .numbered-list__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .numbered-list__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .numbered-list__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .numbered-list__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .numbered-list__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .numbered-list__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .numbered-list__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .numbered-list__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .numbered-list__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .numbered-list__logo  {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+.poster-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 101.774vw;
+    height: 101.774vw;
+    margin-right: 2.2vw;
+    padding: 1.7112vw 2.139vw 2.4vw;
+    background-color: #F0F0F0;
+}
+
+.poster-text__head {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    justify-content: space-between;
+    min-height: 5.71428vw;
+}
+
+.poster-text__edit {
+    flex: 0 1 35.65vw;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    margin-top: -0.4vw;
+    height: 4.5vw;
+}
+
+.poster-text__name {
+    margin-right: 2.246vw;
+}
+
+.poster-text__name,
+.poster-text__memo {
+    position: relative;
+    flex: 0 1 50%;
+    font-family: "bureausans";
+    font-size: 1.92513vw;
+    line-height: 1.11111;
+}
+
+.poster-text__name-text,
+.poster-text__memo-text {
+    display: none;
+    position: absolute;
+    top: 0;
+    padding-bottom: 0.3071vw;
+    border-bottom: 1px dashed #bdbdbd;
+	word-break: break-word !important;
+}
+
+.poster-text__name-text:hover,
+.poster-text__memo-text:hover {
+    cursor: pointer;
+}
+
+.poster-text__name-input,
+.poster-text__memo-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 1.92513vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.poster-text__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.5vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.poster-text__body {
+    flex: 0 1 89.74vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.poster-text__title {
+    max-width: 60.75vw;
+    margin: 0;
+    font-size: 7.6vw;
+    line-height: 1;
+}
+
+.poster-text__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+
+}
+
+.poster-text__col {
+    flex: 0 1 29vw;
+    font-size: 1.92513vw;
+    line-height: 1.11173;
+}
+
+.poster-text__col:first-child {
+    margin-right: 2.14vw;
+}
+
+.poster-text__paragraph {
+    margin: 0;
+}
+
+.poster-text__paragraph:not(:last-child) {
+    margin-bottom: 2.14023vw;
+}
+
+/* Different logos */
+.poster--accounting .poster-text__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .poster-text__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .poster-text__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .poster-text__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .poster-text__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .poster-text__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .poster-text__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .poster-text__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .poster-text__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .poster-text__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .poster-text__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .poster-text__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .poster-text__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .poster-text__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .poster-text__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .poster-text__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .poster-text__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .poster-text__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .poster-text__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .poster-text__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .poster-text__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .poster-text__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .poster-text__logo  {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.poster-text{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .poster-text__name-text,
+.poster-light .poster-text__memo-text {
+    border-color: #000;
+}
+
+.poster-light .poster-text__name-input,
+.poster-light .poster-text__memo-input {
+    border-color: #000;
+}
+
+.poster-light.poster--accounting .poster-text__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .poster-text__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .poster-text__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .poster-text__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .poster-text__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .poster-text__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .poster-text__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .poster-text__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .poster-text__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .poster-text__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .poster-text__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .poster-text__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .poster-text__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .poster-text__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .poster-text__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .poster-text__logo  {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.poster-text{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .poster-text__name,
+.poster-dark .poster-text__memo {
+    color: #fff;
+}
+
+.poster-dark .poster-text__name-text,
+.poster-dark .poster-text__memo-text {
+    border-color: #fff;
+}
+
+.poster-dark .poster-text__name-input,
+.poster-dark .poster-text__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .poster-text__title {
+    color: #fff;
+}
+
+.poster-dark .poster-text__content {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .poster-text__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .poster-text__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .poster-text__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .poster-text__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .poster-text__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .poster-text__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .poster-text__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .poster-text__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .poster-text__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .poster-text__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .poster-text__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .poster-text__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .poster-text__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .poster-text__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .poster-text__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .poster-text__logo  {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+
+
+.scream {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 101.774vw;
+    height: 101.774vw;
+    margin-right: 2.2vw;
+    padding: 1.7112vw 2.139vw 2.4vw;
+    background-color: #F0F0F0;
+}
+
+.scream__head {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    justify-content: space-between;
+    min-height: 5.71428vw;
+}
+
+.scream__edit {
+    flex: 0 1 35.65vw;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    margin-top: -0.4vw;
+    height: 4.5vw;
+}
+
+.scream__name {
+    margin-right: 2.246vw;
+}
+
+.scream__name,
+.scream__memo {
+    position: relative;
+    flex: 0 1 50%;
+    font-family: "bureausans";
+    font-size: 1.92513vw;
+    line-height: 1.11111;
+}
+
+.scream__name-text,
+.scream__memo-text {
+    display: none;
+    position: absolute;
+    top: 0;
+    padding-bottom: 0.3071vw;
+    border-bottom: 1px dashed #bdbdbd;
+	word-break: break-word !important;
+}
+
+.scream__name-text:hover,
+.scream__memo-text:hover {
+    cursor: pointer;
+}
+
+.scream__name-input,
+.scream__memo-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-size: 1.92513vw;
+    font-family: "bureausans";
+    line-height: 1.11111;
+    border: none;
+    border-bottom: 1px dashed #bdbdbd;
+    padding: 0px;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    overflow: hidden;
+}
+
+.scream__logo {
+    flex: 1 1 auto;
+	display: flex;
+	justify-content: flex-end;
+    height: 1.5vw;
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+.scream__body {
+    flex: 0 1 89.74vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.scream__title {
+    max-width: 60.75vw;
+    margin: 0;
+    font-size: 7.6vw;
+    line-height: 1;
+}
+
+.scream__content {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+}
+
+.scream__col-wrapper {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.scream__col {
+    font-size: 1.92513vw;
+    line-height: 1.11173;
+}
+
+.scream__col:first-child {
+    flex: 0 0 29vw;
+    margin-right: 2.14vw;
+}
+
+@media screen and (max-width: 991px) {
+	.scream__col:first-child {
+		flex: 0 0 40vw;
+	}
+}
+
+.scream__col:last-child {
+    flex: 0 1 auto;
+}
+
+.scream__col:last-child p:not(.scream__highlight) {
+    max-width: 29vw;
+}
+
+.scream__paragraph {
+    margin: 0;
+}
+
+.scream__paragraph:not(:last-child) {
+    margin-bottom: 2.14023vw;
+}
+
+.scream__highlight {
+    margin: 2vw 0 0;
+    color: #e10000;
+    font-size: 4.28vw;
+    line-height: 1;
+}
+
+/* Different logos */
+.poster--accounting .scream__logo {
+    background-image: url(../../images/accounting.svg);
+}
+
+.poster--sensum .scream__logo {
+    background-image: url(../../images/sensum.svg);
+}
+
+.poster--culture .scream__logo {
+    background-image: url(../../images/culture.svg);
+}
+
+.poster--digital .scream__logo {
+    background-image: url(../../images/digital.svg);
+}
+
+.poster--education .scream__logo {
+    background-image: url(../../images/education.svg);
+}
+
+.poster--finance .scream__logo {
+    background-image: url(../../images/finance.svg);
+}
+
+.poster--govfin .scream__logo {
+    background-image: url(../../images/govfin.svg);
+}
+
+.poster--govorder .scream__logo {
+    background-image: url(../../images/govorder.svg);
+}
+
+.poster--law .scream__logo {
+    background-image: url(../../images/law.svg);
+}
+
+.poster--management .scream__logo {
+    background-image: url(../../images/management.svg);
+}
+
+.poster--medicine .scream__logo {
+    background-image: url(../../images/medicine.svg);
+}
+
+.poster--personnel .scream__logo {
+    background-image: url(../../images/personnel.svg);
+}
+
+.poster--security .scream__logo {
+    background-image: url(../../images/security.svg);
+}
+
+.poster--schoolstudent .scream__logo {
+    background-image: url(../../images/schoolstudent.svg);
+}
+
+.poster--digitalschool .scream__logo {
+    background-image: url(../../images/digitalschool.svg);
+}
+
+.poster--stroy .scream__logo {
+    background-image: url(../../images/stroy.svg);
+}
+
+.poster--prombezopasnost .scream__logo {
+    background-image: url(../../images/prombezopasnost.svg);
+}
+
+.poster--compliance .scream__logo {
+    background-image: url(../../images/compliance.svg);
+}
+
+.poster--ecology .scream__logo {
+    background-image: url(../../images/ecology.svg);
+}
+
+.poster--legaltech .scream__logo {
+    background-image: url(../../images/legaltech.svg);
+}
+
+.poster--ua .scream__logo {
+    background-image: url(../../images/ua/mcfr_ua_color.svg);
+}
+
+.poster--kz .scream__logo {
+    background-image: url(../../images/kz/mcfr_kz_color.svg);
+}
+
+.poster--uz .scream__logo  {
+    background-image: url(../../images/uz/action-mcfr.svg);
+}
+
+/* light poster styles */
+
+.poster-light.scream{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-light .scream__name-text,
+.poster-light .scream__memo-text {
+    border-color: #000;
+}
+
+.poster-light .scream__name-input,
+.poster-light .scream__memo-input {
+    border-color: #000;
+}
+
+.poster-light .scream__highlight {
+    color: #000;
+}
+
+.poster-light.poster--accounting .scream__logo {
+    background-image: url(../../images/black/accounting.svg);
+}
+
+.poster-light.poster--sensum .scream__logo {
+    background-image: url(../../images/black/sensum.svg);
+}
+
+.poster-light.poster--culture .scream__logo {
+    background-image: url(../../images/black/culture.svg);
+}
+
+.poster-light.poster--digital .scream__logo {
+    background-image: url(../../images/black/digital.svg);
+}
+
+.poster-light.poster--education .scream__logo {
+    background-image: url(../../images/black/education.svg);
+}
+
+.poster-light.poster--finance .scream__logo {
+    background-image: url(../../images/black/finance.svg);
+}
+
+.poster-light.poster--govfin .scream__logo {
+    background-image: url(../../images/black/govfin.svg);
+}
+
+.poster-light.poster--govorder .scream__logo {
+    background-image: url(../../images/black/govorder.svg);
+}
+
+.poster-light.poster--law .scream__logo {
+    background-image: url(../../images/black/law.svg);
+}
+
+.poster-light.poster--management .scream__logo {
+    background-image: url(../../images/black/management.svg);
+}
+
+.poster-light.poster--medicine .scream__logo {
+    background-image: url(../../images/black/medicine.svg);
+}
+
+.poster-light.poster--personnel .scream__logo {
+    background-image: url(../../images/black/personnel.svg);
+}
+
+.poster-light.poster--security .scream__logo {
+    background-image: url(../../images/black/security.svg);
+}
+
+.poster-light.poster--ua .scream__logo {
+    background-image: url(../../images/ua/mcfr_ua_black.svg);
+}
+
+.poster-light.poster--kz .scream__logo {
+    background-image: url(../../images/kz/mcfr_kz_black.svg);
+}
+
+.poster-light.poster--uz .scream__logo  {
+    background-image: url(../../images/uz/action-mcfr_black.svg);
+}
+
+/* dark poster styles */
+
+.poster-dark.scream{
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.poster-dark .scream__name,
+.poster-dark .scream__memo {
+    color: #fff;
+}
+
+.poster-dark .scream__name-text,
+.poster-dark .scream__memo-text {
+    border-color: #fff;
+}
+
+.poster-dark .scream__name-input,
+.poster-dark .scream__memo-input {
+    border-color: #fff;
+    color: #fff;
+}
+
+.poster-dark .scream__title {
+    color: #fff;
+}
+
+.poster-dark .scream__content {
+    color: #fff;
+}
+
+.poster-dark .scream__highlight {
+    color: #fff;
+}
+
+.poster-dark.poster--accounting .scream__logo {
+    background-image: url(../../images/white/accounting.svg);
+}
+
+.poster-dark.poster--sensum .scream__logo {
+    background-image: url(../../images/white/sensum.svg);
+}
+
+.poster-dark.poster--culture .scream__logo {
+    background-image: url(../../images/white/culture.svg);
+}
+
+.poster-dark.poster--digital .scream__logo {
+    background-image: url(../../images/white/digital.svg);
+}
+
+.poster-dark.poster--education .scream__logo {
+    background-image: url(../../images/white/education.svg);
+}
+
+.poster-dark.poster--finance .scream__logo {
+    background-image: url(../../images/white/finance.svg);
+}
+
+.poster-dark.poster--govfin .scream__logo {
+    background-image: url(../../images/white/govfin.svg);
+}
+
+.poster-dark.poster--govorder .scream__logo {
+    background-image: url(../../images/white/govorder.svg);
+}
+
+.poster-dark.poster--law .scream__logo {
+    background-image: url(../../images/white/law.svg);
+}
+
+.poster-dark.poster--management .scream__logo {
+    background-image: url(../../images/white/management.svg);
+}
+
+.poster-dark.poster--medicine .scream__logo {
+    background-image: url(../../images/white/medicine.svg);
+}
+
+.poster-dark.poster--personnel .scream__logo {
+    background-image: url(../../images/white/personnel.svg);
+}
+
+.poster-dark.poster--security .scream__logo {
+    background-image: url(../../images/white/security.svg);
+}
+
+.poster-dark.poster--ua .scream__logo {
+    background-image: url(../../images/ua/mcfr_ua_white.svg);
+}
+
+.poster-dark.poster--kz .scream__logo {
+    background-image: url(../../images/kz/mcfr_kz_white.svg);
+}
+
+.poster-dark.poster--uz .scream__logo  {
+    background-image: url(../../images/uz/action-mcfr_white.svg);
+}
+
+
+
+@media screen and (max-width: 991px) {
+  .container {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .container > div:not(.sidebar) > div {
+    margin-right: 0;
+  }
+
+  .container .can-not,
+  .container .checklist,
+  .container .instruction,
+  .container .numbered-count,
+  .container .numbered-list,
+  .container .poster-text,
+  .container .scream {
+    min-height: 141.4vw;
+	margin-right: 0;
+	box-sizing: border-box;
+  }
+  
+  .container .can-not-2,
+  .container .can-not-3,
+  .container .can-not-focus {
+	min-height: 70.7vw;
+	margin-right: 0;
+	box-sizing: border-box;
+  }
+
+  .sidebar {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    flex: unset;
+    margin-top: 20px;
+  }
+
+  .sidebar__icon {
+    width: 54px;
+    height: 54px;
+    margin: 0 10px 0 0;
+  }
+
+  .sidebar__text {
+    width: 270px;
+    margin-bottom: 0;
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+  .sidebar__actions {
+    -ms-align-items: flex-end;
+    align-items: flex-end;
+    margin-left: auto;
+  }
+
+  .sidebar__download {
+    flex: 0 0 150px;
+    width: 150px;
+    height: 45px;
+    padding: 8px 0 9px;
+    font-size: 20px;
+    line-height: 1;
+  }
+
+  .sidebar__print {
+    flex: 0 1 50px;
+    width: 50px;
+    height: 45px;
+  }
+  
+  .scream,
+  .instruction,
+  .poster-text,
+  .numbered-list,
+  .numbered-count,
+  .can-not,
+  .checklist {
+	padding: 2.1428vw 2.143vw 3.5714vw;
+  }
+  
+  .can-not-2,
+  .can-not-3,
+  .can-not-focus {
+	padding: 3.0303vw 2.0202vw 2.3232vw 1.51515vw;
+  }
+  
+  .can-not__head {
+	flex: 1 0 24.858vw;
+  }
+  
+  .instruction__name-input,
+  .instruction__memo-input,
+  .scream__name-input,
+  .scream__memo-input,
+  .poster-text__name-input,
+  .poster-text__memo-input,
+  .numbered-list__name-input,
+  .numbered-list__memo-input,
+  .numbered-count__name-input,
+  .numbered-count__memo-input,
+  .can-not__name-input,
+  .can-not__memo-input,
+  .checklist__name-input,
+  .checklist__memo-input {
+	font-size: 2.57143vw;
+  }
+  
+  .can-not-2__name-input,
+  .can-not-2__memo-input,
+  .can-not-3__name-input,
+  .can-not-3__memo-input,
+  .can-not-focus__name-input,
+  .can-not-focus__memo-input {
+	font-size: 1.87143vw;
+  }
+  
+  .scream__edit,
+  .instruction__edit,
+  .poster-text__edit,
+  .numbered-list__edit,
+  .numbered-count__edit {
+	flex: 0 1 47.573vw;
+	height: 5.715vw;
+  }
+  
+  .can-not-2__edit,
+  .can-not-3__edit,
+  .can-not-focus__edit {
+	flex: 0 1 47.573vw;
+	height: 4.041vw;
+  }
+  
+  .scream__name,
+  .instruction__name,
+  .poster-text__name,
+  .numbered-list__name,
+  .numbered-count__name,
+  .can-not-2__name,
+  .can-not-3__name,
+  .can-not-focus__name {
+	margin-right: 3vw;
+  }
+  
+  .scream__name,
+  .scream__memo,
+  .instruction__name,
+  .instruction__memo,
+  .poster-text__name,
+  .poster-text__memo,
+  .numbered-list__name,
+  .numbered-list__memo,
+  .numbered-count__name,
+  .numbered-count__memo,
+  .can-not__name,
+  .can-not__memo,
+  .checklist__name,
+  .checklist__memo {
+	font-size: 2.57143vw;
+  }
+  
+  .can-not__name,
+  .can-not__memo,
+  .checklist__name,
+  .checklist__memo {
+	flex: 0 1 5.715vw;
+  }
+  
+  .can-not-2__name,
+  .can-not-2__memo,
+  .can-not-3__name,
+  .can-not-3__memo,
+  .can-not-focus__name,
+  .can-not-focus__memo {
+	flex: 0 0 17.778vw;
+	font-size: 1.87143vw;
+  }
+  
+  
+  .scream__logo,
+  .instruction__logo,
+  .poster-text__logo,
+  .numbered-list__logo,
+  .numbered-count__logo,
+  .can-not__logo,
+  .checklist__logo {
+	height: 2vw;
+  }
+  
+  .can-not-2__logo,
+  .can-not-3__logo,
+  .can-not-focus__logo {
+	height: 1.415vw;
+  }
+  
+  .scream__body,
+  .instruction__body,
+  .poster-text__body,
+  .numbered-list__body,
+  .numbered-count__body {
+	flex: 0 1 120vw;
+  }
+  
+  .scream__title,
+  .instruction__title,
+  .poster-text__title,
+  .numbered-list__title,
+  .numbered-count__title,
+  .can-not__title {
+	max-width: 81.15vw;
+	font-size: 10vw;
+  }
+  
+  .checklist__title {
+	flex: 0 1 66.572vw;
+	font-size: 7.14286vw;
+  }
+  
+  .can-not-2__title,
+  .can-not-3__title,
+  .can-not-focus__title {
+	flex: 1 1 67.79vw;
+	margin: 0 2.0202vw 0 0;
+	font-size: 5.0505vw;
+  }
+  
+  .numbered-count__title--focus {
+	max-width: unset;
+	font-size: 47.1428vw;
+  }
+  
+  .checklist__info {
+	flex: 0 1 25vw;
+  }
+  
+  .can-not__content {
+	font-size: 4vw;
+  }
+  
+  .can-not-2__content,
+  .can-not-focus__content {
+	font-size: 2.82828vw;
+  }
+  
+  .can-not-3__content {
+	font-size: 2.0202vw;
+  }
+  
+  .scream__col,
+  .instruction__col,
+  .poster-text__col,
+  .numbered-list__col,
+  .numbered-count__col {
+	flex: 0 0 39.3vw;
+	font-size: 2.57143vw;
+  }
+  
+  .scream__col:first-child,
+  .instruction__col:first-child,
+  .poster-text__col:first-child,
+  .numbered-list__col:first-child,
+  .numbered-count__col:first-child {
+	margin-right: 2.8571vw;
+  }
+  
+  .scream__col:last-child .scream__paragraph,
+  .instruction__col:last-child .instruction__paragraph {
+	max-width: 38.7vw;
+  }
+  
+  .can-not__caption {
+	font-size: 4vw;
+  }
+  
+  .can-not-2__caption,
+  .can-not-3__caption,
+  .can-not-focus__caption {
+	font-size: 2.82828vw;
+  }
+  
+  .can-not-2__paragraph:not(:last-child),
+  .can-not-focus__paragraph:not(:last-child) {
+	margin-bottom: 2.8283vw;
+  }
+  
+  .can-not-3__paragraph:not(:last-child) {
+	margin-bottom: 2.0202vw;
+  }
+  
+  .can-not-focus__focus {
+	font-size: 4.0404vw;
+  }
+  
+  .instruction__numbering span {
+	width: 2.858vw;
+	height: 2.858vw;
+  }
+  
+  .scream__highlight {
+	font-size: 5.7143vw;
+  }
+  
+  .checklist__body {
+	max-width: 77vw;
+  }
+  
+  .checklist__list {
+	font-size: 4vw;
+  }
+  
+  .checklist__item::before {
+	top: -0.8vw;
+    left: 0;
+    width: 3.755555vw;
+    height: 3.9vw;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .sidebar {
+    flex-wrap: wrap;
+  }
+
+  .sidebar__text {
+    flex: 1 0 auto;
+  }
+
+  .sidebar__actions {
+    flex: 1 0 100%;
+    margin-top: 15px;
+  }
+
+  .sidebar__download {
+    flex: 1 0 150px;
+  }
+}
+
+@media print {
+	@page { margin: 0 20px; }
+
+    .sidebar {
+        display: none;
+    }
+
+    .can-not {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .can-not__name-text,
+    .can-not__memo-text {
+        color: #000;
+        border: none;
+    }
+
+    .can-not__name-text::after,
+    .can-not__memo-text::after {
+        display: none;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .can-not__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .can-not__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .can-not__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .can-not__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .can-not__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .can-not__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .can-not__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .can-not__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .can-not__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .can-not__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .can-not__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .can-not__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .can-not__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .can-not__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .can-not__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+    .poster--digitalschool .can-not__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .can-not__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .can-not__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .can-not__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .can-not__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .can-not__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .can-not__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .can-not__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .can-not__logo  {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .can-not-2 {
+        height: 760px;
+        margin-right: 0;
+    }
+
+    .can-not-2__name-text,
+    .can-not-2__memo-text {
+        color: #000;
+    }
+
+    .can-not-2__name-text::after,
+    .can-not-2__memo-text::after {
+        display: none;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .can-not-2__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .can-not-2__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .can-not-2__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .can-not-2__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .can-not-2__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .can-not-2__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .can-not-2__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .can-not-2__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .can-not-2__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .can-not-2__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .can-not-2__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .can-not-2__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .can-not-2__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .can-not-2__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .can-not-2__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .can-not-2__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .can-not-2__logo {
+        background-image: url(../../images/stroy.svg);
+    }
+
+    .poster--prombezopasnost .can-not-2__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .can-not-2__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .can-not-2__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .can-not-2__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .can-not-2__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .can-not-2__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .can-not-2__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .can-not-3 {
+        height: 760px;
+        margin-right: 0;
+    }
+
+    .can-not-3__name-text,
+    .can-not-3__memo-text {
+        color: #000;
+    }
+
+    .can-not-3__name-text::after,
+    .can-not-3__memo-text::after {
+        display: none;
+    }
+
+    .can-not-3__col:first-child {
+        margin-right: 40px;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .can-not-3__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .can-not-3__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .can-not-3__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .can-not-3__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .can-not-3__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .can-not-3__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .can-not-3__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .can-not-3__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .can-not-3__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .can-not-3__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .can-not-3__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .can-not-3__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .can-not-3__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .can-not-3__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .can-not-3__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .can-not-3__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .can-not-3__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .can-not-3__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .can-not-3__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .can-not-3__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .can-not-3__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .can-not-3__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .can-not-3__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .can-not-3__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .can-not-focus {
+        height: 760px;
+        margin-right: 0;
+    }
+
+    .can-not-focus__name-text::after,
+    .can-not-focus__memo-text::after {
+        display: none;
+    }
+
+    .can-not-focus__col:first-child {
+        margin-right: 40px;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .can-not-focus__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .can-not-focus__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .can-not-focus__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .can-not-focus__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .can-not-focus__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .can-not-focus__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .can-not-focus__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .can-not-focus__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .can-not-focus__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .can-not-focus__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .can-not-focus__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .can-not-focus__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .can-not-focus__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .can-not-focus__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .can-not-focus__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .can-not-focus__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .can-not-focus__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .can-not-focus__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .can-not-focus__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .can-not-focus__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .can-not-focus__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .can-not-focus__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .can-not-focus__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .can-not-focus__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .checklist {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .checklist__name-text::after,
+    .checklist__memo-text::after {
+        display: none;
+    }
+
+    .checklist__item::before,
+    .checklist__item--checked::before {
+        -webkit-print-color-adjust: exact;
+        color-adjust: exact;
+    }
+
+    .checklist__item::before {
+        background-image: url(../../images/box.svg) !important;
+    }
+
+    .checklist__item--checked::before {
+        background-image: url(../../images/checked-box.svg) !important;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .checklist__logo {
+        -webkit-print-color-adjust:exact;
+        color-adjust: exact;
+    }
+
+    .poster--accounting .checklist__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .checklist__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .checklist__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .checklist__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .checklist__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .checklist__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .checklist__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .checklist__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .checklist__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .checklist__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .checklist__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .checklist__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .checklist__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .checklist__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .checklist__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .checklist__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .checklist__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .checklist__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .checklist__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .checklist__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .checklist__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .checklist__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .checklist__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .instruction {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .instruction__name-text::after,
+    .instruction__memo-text::after {
+        display: none;
+    }
+
+    .instruction__body {
+        flex: 0 1 950px;
+    }
+
+    .instruction__col {
+        flex: 0 1 43%;
+    }
+
+    .instruction__numbering .counter-2 {
+        -webkit-print-color-adjust:exact;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .instruction__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .instruction__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .instruction__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .instruction__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .instruction__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .instruction__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .instruction__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .instruction__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .instruction__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .instruction__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .instruction__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .instruction__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .instruction__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .instruction__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .instruction__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .instruction__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .instruction__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .instruction__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .instruction__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .instruction__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .instruction__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .instruction__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .instruction__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .instruction__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .counter-1::before,
+    .counter-2::before,
+    .counter-3::before,
+    .counter-4::before,
+    .counter-5::before,
+    .counter-6::before,
+    .counter-7::before,
+    .counter-8::before,
+    .counter-9::before,
+    .counter-10::before,
+    .counter-11::before,
+    .counter-12::before,
+    .counter-13::before,
+    .counter-14::before,
+    .counter-15::before,
+    .counter-16::before,
+    .counter-17::before,
+    .counter-18::before,
+    .counter-19::before,
+    .counter-20::before {
+        display: block;
+    }
+
+    .numbered-count {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .numbered-count__body {
+        flex: 0 1 950px;
+    }
+
+    .numbered-count__col {
+        flex: 0 1 43%;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .numbered-count__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .numbered-count__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .numbered-count__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .numbered-count__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .numbered-count__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .numbered-count__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .numbered-count__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .numbered-count__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .numbered-count__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .numbered-count__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .numbered-count__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .numbered-count__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .numbered-count__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .numbered-count__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .numbered-count__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .numbered-count__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .numbered-count__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .numbered-count__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .numbered-count__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .numbered-count__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .numbered-count__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .numbered-count__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .numbered-count__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .numbered-count__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .numbered-list {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .numbered-list__name-text::after,
+    .numbered-list__memo-text::after {
+        display: none;
+    }
+
+    .numbered-list__body {
+        flex: 0 1 950px;
+    }
+
+    .numbered-list__col {
+        flex: 0 1 43%;
+    }
+	
+    textarea {
+        display: none !important;
+    }
+
+    .numbered-list__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .numbered-list__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .numbered-list__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .numbered-list__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .numbered-list__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .numbered-list__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .numbered-list__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .numbered-list__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .numbered-list__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .numbered-list__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .numbered-list__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .numbered-list__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .numbered-list__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .numbered-list__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .numbered-list__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .numbered-list__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .numbered-list__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .numbered-list__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .numbered-list__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .numbered-list__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .numbered-list__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .numbered-list__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .numbered-list__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .numbered-list__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .poster-text {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .poster-text__name-text::after,
+    .poster-text__memo-text::after {
+        display: none;
+    }
+
+    .poster-text__body {
+        flex: 0 1 950px;
+    }
+
+    .poster-text__col {
+        flex: 0 1 43%;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .poster-text__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .poster-text__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .poster-text__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .poster-text__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .poster-text__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .poster-text__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .poster-text__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .poster-text__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .poster-text__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .poster-text__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .poster-text__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .poster-text__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .poster-text__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .poster-text__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .poster-text__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .poster-text__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .poster-text__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .poster-text__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .poster-text__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .poster-text__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .poster-text__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .poster-text__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .poster-text__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .poster-text__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .poster-text {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .poster-text__name-text::after,
+    .poster-text__memo-text::after {
+        display: none;
+    }
+
+    .poster-text__body {
+        flex: 0 1 950px;
+    }
+
+    .poster-text__col {
+        flex: 0 1 43%;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .poster-text__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .poster-text__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .poster-text__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .poster-text__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .poster-text__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .poster-text__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .poster-text__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .poster-text__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .poster-text__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .poster-text__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .poster-text__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .poster-text__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .poster-text__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .poster-text__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .poster-text__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .poster-text__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .poster-text__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .poster-text__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .poster-text__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .poster-text__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .poster-text__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .poster-text__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .poster-text__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .poster-text__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+
+    .scream {
+        height: 1050px;
+        margin-right: 0;
+    }
+
+    .scream__name-text::after,
+    .scream__memo-text::after {
+        display: none;
+    }
+
+    .scream__body {
+        flex: 0 1 950px;
+    }
+
+    .scream__col {
+        flex: 0 1 43%;
+    }
+
+    .scream__col {
+        flex: 0 1 43% !important;
+    }
+
+    .scream__col:last-child {
+        flex: 0 1 50% !important;
+    }
+
+    .scream__col:last-child .scream__paragraph {
+        max-width: 80%;
+    }
+
+    textarea {
+        display: none !important;
+    }
+
+    .scream__logo {
+        -webkit-print-color-adjust:exact;
+    }
+
+    .poster--accounting .scream__logo {
+        background-image: url(../../images/accounting.svg) !important;
+    }
+
+    .poster--sensum .scream__logo {
+        background-image: url(../../images/sensum.svg) !important;
+    }
+
+    .poster--culture .scream__logo {
+        background-image: url(../../images/culture.svg) !important;
+    }
+
+    .poster--digital .scream__logo {
+        background-image: url(../../images/digital.svg) !important;
+    }
+
+    .poster--education .scream__logo {
+        background-image: url(../../images/education.svg) !important;
+    }
+
+    .poster--finance .scream__logo {
+        background-image: url(../../images/finance.svg) !important;
+    }
+
+    .poster--govfin .scream__logo {
+        background-image: url(../../images/govfin.svg) !important;
+    }
+
+    .poster--govorder .scream__logo {
+        background-image: url(../../images/govorder.svg) !important;
+    }
+
+    .poster--law .scream__logo {
+        background-image: url(../../images/law.svg) !important;
+    }
+
+    .poster--management .scream__logo {
+        background-image: url(../../images/management.svg) !important;
+    }
+
+    .poster--medicine .scream__logo {
+        background-image: url(../../images/medicine.svg) !important;
+    }
+
+    .poster--personnel .scream__logo {
+        background-image: url(../../images/personnel.svg) !important;
+    }
+
+    .poster--security .scream__logo {
+        background-image: url(../../images/security.svg) !important;
+    }
+
+    .poster--schoolstudent .scream__logo {
+        background-image: url(../../images/schoolstudent.svg) !important;
+    }
+
+    .poster--digitalschool .scream__logo {
+        background-image: url(../../images/digitalschool.svg) !important;
+    }
+
+    .poster--stroy .scream__logo {
+        background-image: url(../../images/stroy.svg) !important;
+    }
+
+    .poster--prombezopasnost .scream__logo {
+        background-image: url(../../images/prombezopasnost.svg) !important;
+    }
+
+    .poster--compliance .scream__logo {
+        background-image: url(../../images/compliance.svg) !important;
+    }
+
+    .poster--ecology .scream__logo {
+        background-image: url(../../images/ecology.svg) !important;
+    }
+    
+    .poster--legaltech .scream__logo {
+        background-image: url(../../images/legaltech.svg) !important;
+    }
+
+    .poster--ua .scream__logo {
+        background-image: url(../../images/ua/mcfr_ua_color.svg) !important;
+    }
+    
+    .poster--kz .scream__logo {
+        background-image: url(../../images/kz/mcfr_kz_color.svg) !important;
+    }
+    
+    .poster--uz .scream__logo {
+        background-image: url(../../images/uz/action-mcfr.svg) !important;
+    }
+	
+	.checklist__name-text,
+	.checklist__memo-text,
+	.can-not__name-text,
+	.can-not__memo-text,
+	.can-not-2__name-text,
+	.can-not-2__memo-text,
+	.can-not-3__name-text,
+	.can-not-3__memo-text,
+	.can-not-focus__name-text,
+	.can-not-focus__memo-text,
+	.instruction__name-text,
+	.instruction__memo-text,
+	.numbered-count__name-text,
+	.numbered-count__memo-text,
+	.numbered-list__name-text,
+	.numbered-list__memo-text,
+	.poster-text__name-text,
+	.poster-text__memo-text,
+	.scream__name-text,
+	.scream__memo-text {
+		border: none;
+	}
+
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "lesson": "01-01",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/ZA025KQ3FQ/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-01",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/XA00M7I2MM/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-01",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/XA00M8U2N8/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-02",
+    "source_url": "https://1sstroy.ru/#/document/99/902030917//",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-02",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/XA00M7I2MM/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-02",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/XA00M7I2MM/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-02",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/engineer6.html",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-02",
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/engineer6.html",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-03",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/ZA025KQ3FQ/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-03",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/XA00M362M3/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-03",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/ZAP1UAQ3E5/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-03",
+    "source_url": "https://1sstroy.ru/#/document/99/901919338/XA00MBI2N8/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-04",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html",
+    "kind": "widget_loader",
+    "limitation": "original widget needs remote loader; local static content has no answer checking"
+  },
+  {
+    "lesson": "01-04",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "01-04",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "02-04",
+    "source_url": "https://1sstroy.ru/#/document/99/578390672//",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "02-04",
+    "source_url": "https://1sstroy.ru/#/document/99/578390672/XA00M382M4/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "02-04",
+    "source_url": "https://1sstroy.ru/#/document/99/578390672/ZA01O7439N/",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "03-03",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/index.html",
+    "kind": "widget_loader",
+    "limitation": "original widget needs remote loader; local static content has no answer checking"
+  },
+  {
+    "lesson": "03-03",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/index.html",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "lesson": "03-03",
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/index.html",
+    "kind": "external_reference",
+    "limitation": "reference needs network"
+  },
+  {
+    "kind": "platform_test",
+    "title": "Тест по теме «Подготовка к ГСН»",
+    "source_url": "https://school.a-sstroy.ru/programs/229439",
+    "limitation": "questions and grading require original platform"
+  },
+  {
+    "kind": "platform_test",
+    "title": "Тест по теме «Реализация и завершение ГСН»",
+    "source_url": "https://school.a-sstroy.ru/programs/229439",
+    "limitation": "questions and grading require original platform"
+  },
+  {
+    "kind": "platform_test",
+    "title": "Тренировка перед итоговым тестом (по желанию)",
+    "source_url": "https://school.a-sstroy.ru/programs/229439",
+    "limitation": "questions and grading require original platform"
+  },
+  {
+    "kind": "platform_test",
+    "title": "Итоговый тест",
+    "source_url": "https://school.a-sstroy.ru/programs/229439",
+    "limitation": "questions and grading require original platform"
+  },
+  {
+    "kind": "archive_normative_note",
+    "source_url": "https://pravo.gov.ru/",
+    "limitation": "current consolidated legal wording requires network and manual verification"
+  }
+]

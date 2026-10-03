@@ -1,0 +1,75 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'f9cf6efd-e014-4b9e-bebf-7915c5fb88b1';
+    window.docName = '1';
+    window.locale = 'ru';
+    window.id = '3173';
+    window.moduleId = '243';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"","mainText":"Перед отправкой в экспертизу вы решили проверить XML-файл в «Программный комплекс проверки XML-документов». В интерфейсе проверки вы видите только нагромождение тегов и кода, в котором сложно ориентироваться. Какую конкретную техническую функцию вам нужно активировать, чтобы увидеть этот документ в привычном&nbsp;виде (таблицы, текст)?","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"XSLT-преобразование."},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

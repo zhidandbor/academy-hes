@@ -1,0 +1,367 @@
+{
+  "course": "course_inzhener_proektirovshchik",
+  "title": "Инженер-проектировщик",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_inzhener_proektirovshchik",
+  "entry": "index.html",
+  "files": 320,
+  "bytes": 57867563,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "assets/images/15cd76da-91a6-42d4-bba1-2d2806aeae0c.gif",
+      "bytes": 6779511,
+      "sha256": "6260ae80e5b949741956bd59d97f11ef208e12c2028dabb68531949e4f596161",
+      "asset_name": "hes-6260ae80e5b949741956bd59d97f11ef.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-6260ae80e5b949741956bd59d97f11ef.gif"
+    },
+    {
+      "path": "assets/images/4e8ef02d-2579-4853-994b-29fa1bea6dc8.gif",
+      "bytes": 2782856,
+      "sha256": "eaaaf4120db150a436fbd128cf380343c8cb4789d979cccdb7850134612733a7",
+      "asset_name": "hes-eaaaf4120db150a436fbd128cf380343.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-eaaaf4120db150a436fbd128cf380343.gif"
+    },
+    {
+      "path": "assets/images/6378e72e-4ef9-4284-8558-93c1f4d579d8.gif",
+      "bytes": 6015756,
+      "sha256": "e8e97c25b28f8a9ec81327688ef9d5a36e2ad8df82b569d488305dd3dd41f512",
+      "asset_name": "hes-e8e97c25b28f8a9ec81327688ef9d5a3.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-e8e97c25b28f8a9ec81327688ef9d5a3.gif"
+    },
+    {
+      "path": "assets/images/7a6baf78-dd9b-4f5e-8236-58c7d1e95e8b.gif",
+      "bytes": 11865158,
+      "sha256": "577c32da07837134014796dc03a65d4a9cb3cb59d156f267dcf9b1a11f334cb0",
+      "asset_name": "hes-577c32da07837134014796dc03a65d4a.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-577c32da07837134014796dc03a65d4a.gif"
+    },
+    {
+      "path": "assets/images/989e55b4-cc45-4853-851d-94bc600127bc.gif",
+      "bytes": 8722737,
+      "sha256": "3ed38080f9f48516bfc7ad070bc2d380a33bae36fb3f6f97b349ff7783824bad",
+      "asset_name": "hes-3ed38080f9f48516bfc7ad070bc2d380.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-3ed38080f9f48516bfc7ad070bc2d380.gif"
+    },
+    {
+      "path": "assets/images/a5d7c483-6819-4146-83fb-be60db5240df.gif",
+      "bytes": 2436104,
+      "sha256": "072e6d56aec63a4cb647b05133ca9cf4896f9df417c61ac9c0f37aeac2616e8c",
+      "asset_name": "hes-072e6d56aec63a4cb647b05133ca9cf4.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-072e6d56aec63a4cb647b05133ca9cf4.gif"
+    },
+    {
+      "path": "assets/images/aeb40b83-8534-4227-a63b-6475c86861d3.gif",
+      "bytes": 2550593,
+      "sha256": "b253b93fef99f0f9f1b03d08cf4675a7d7f2b564ea5150492e2237511d54ed53",
+      "asset_name": "hes-b253b93fef99f0f9f1b03d08cf4675a7.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-b253b93fef99f0f9f1b03d08cf4675a7.gif"
+    },
+    {
+      "path": "assets/images/b0e4a5f3-a7f2-4c82-bcd8-e1135524c260.gif",
+      "bytes": 2407623,
+      "sha256": "189c1e15816e70d06441071befa54d70abf6326e9cab06ff3d84b9cbe220898d",
+      "asset_name": "hes-189c1e15816e70d06441071befa54d70.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-189c1e15816e70d06441071befa54d70.gif"
+    },
+    {
+      "path": "assets/images/b13fe7e4-f78a-441b-83ff-0e54744bb252.gif",
+      "bytes": 7952161,
+      "sha256": "c86a63e5daeefc0d88c4a000b96efc48456da7ff8fba0685c0c5df13b7d90656",
+      "asset_name": "hes-c86a63e5daeefc0d88c4a000b96efc48.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-c86a63e5daeefc0d88c4a000b96efc48.gif"
+    },
+    {
+      "path": "assets/images/c0469635-6b95-4c55-b130-2117cf3c5352.gif",
+      "bytes": 3814321,
+      "sha256": "e7d77491b7b7671ccb7a9acab0a5c095d508ea392727b24dfcb730e699d6f449",
+      "asset_name": "hes-e7d77491b7b7671ccb7a9acab0a5c095.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-e7d77491b7b7671ccb7a9acab0a5c095.gif"
+    },
+    {
+      "path": "assets/images/cd5258e9-de11-47d7-8c78-539fb2da7a33.gif",
+      "bytes": 10438468,
+      "sha256": "97d86360f9ea3a6ee20877e9d446f6a8b3ce2cbc29b499807df4d2b22b13ae57",
+      "asset_name": "hes-97d86360f9ea3a6ee20877e9d446f6a8.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-97d86360f9ea3a6ee20877e9d446f6a8.gif"
+    },
+    {
+      "path": "assets/images/e6f6357b-6bfd-4e92-aac7-50f7f3a842a6.gif",
+      "bytes": 2603622,
+      "sha256": "662e1bc6feafd283b084f14f6dd9741f19ec8b5f0c0b474c9fcfc84761326b5c",
+      "asset_name": "hes-662e1bc6feafd283b084f14f6dd9741f.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-662e1bc6feafd283b084f14f6dd9741f.gif"
+    },
+    {
+      "path": "attachments/project_export/пп.pdf",
+      "bytes": 2353281,
+      "sha256": "b7d1493ba404245560cb8a3cd04f05e491dc7e7f7a46058c71e62d74db69d679",
+      "asset_name": "hes-b7d1493ba404245560cb8a3cd04f05e4.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-b7d1493ba404245560cb8a3cd04f05e4.pdf"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "b4a6f7d38981f7e750dd2d16f9ff91cdaa6d525b40a4d6da271838efecef7bd4",
+      "published_sha256": "0581dbb0cf0d3d3259631e1aa45d47263a1b156b9d8681f8ee6e89832d93ab18"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "77cd4afa3acc8b35a6083198966b4c23949d5d7fcb9b65ad6c658b6c20ef7552",
+      "published_sha256": "051c01ad5f63d5934de3b26e33516bddfb5a0c0adefd66dc1dcb30cfff642df3"
+    },
+    {
+      "path": "lessons/001.html",
+      "source_sha256": "f106971f4091edd3a1811831fde71dac54bb438fc416c080abf09546677c6937",
+      "published_sha256": "0ae212bc65107e2309551c03a59fd278c122201b3ef3bce57bed81f2c240c6e9"
+    },
+    {
+      "path": "lessons/002.html",
+      "source_sha256": "edf974c7e39b7388cf66f85322a09a4b6b7dcff1be452306e39dcac4d5cb1734",
+      "published_sha256": "575f79381f54e06f19c78ef048fcd85e92e11b386edec6b7e9e794da43a83f1a"
+    },
+    {
+      "path": "lessons/003.html",
+      "source_sha256": "4c7caeb7ad5c99f4eccefbeb1bd047c1325dc7868a2d846db3609fa6015a2674",
+      "published_sha256": "a0cd1873aef3a02feb839982418b350ef8d5a1f5bd22b1102fc29ccb4e16c5d5"
+    },
+    {
+      "path": "lessons/004.html",
+      "source_sha256": "1a8925707cf64366a684c83491eed7d164786f04e490a9677286a5c0a925b5cc",
+      "published_sha256": "3b160b5fed3e754fa1846b7b0e37c20f062c72620828fe6fdccc574e101e459a"
+    },
+    {
+      "path": "lessons/005.html",
+      "source_sha256": "b08f9208d75de4b6f11a0bbf6331a124c558676b3c165c59f994e8862b7d6357",
+      "published_sha256": "587cd3d79e80181c36303acb83b8312af352b50ed375bb728167f507ac00a2b2"
+    },
+    {
+      "path": "lessons/006.html",
+      "source_sha256": "31ed4e12a07432f366989fb5bfaff05c2957a8e5072f38f3bb1639c78f9e65f5",
+      "published_sha256": "4940fc8a09caa9edbb6c03e657fe40a963ba9416e905e597cc9e3be77296e9c2"
+    },
+    {
+      "path": "lessons/007.html",
+      "source_sha256": "358bc2ab77c11e74dea26811043f98310b80ec825e589fb6125d2a144cd9a460",
+      "published_sha256": "5e5498d6141e833063248d7fd5185f462dec1becabeeca0f47ad3e76e60aec32"
+    },
+    {
+      "path": "lessons/009.html",
+      "source_sha256": "7704088897e5c09922c3dcef5c33167dc295bdbee442e3b82d7bcf3d3a0fa778",
+      "published_sha256": "a1fbef8194c8b68b98a5c0ad7b167af0874e01ed9d3e9733e4e859b4f695ba1e"
+    },
+    {
+      "path": "lessons/011.html",
+      "source_sha256": "cbcbf4e4ade4afff80d450be1a5342e9bf812f44b94b369f0d1a84c1cea21f3e",
+      "published_sha256": "faf5b5566fcad6d0d6841d4f0116819af9c4f468011754fa65cec2803776aff5"
+    },
+    {
+      "path": "lessons/013.html",
+      "source_sha256": "c5cc6414ad063c6160408c44f315c15846de7cd18626e1216425942a87e63cf4",
+      "published_sha256": "d455f2aca4a00bc0e6618a00e18f2e4082f3f03a87172c7e0679e72d81dcd712"
+    },
+    {
+      "path": "lessons/014.html",
+      "source_sha256": "4596f523dd20cdd64ae5d59373a034d92141fc7bd5906672ef3d37a56c5cb8a0",
+      "published_sha256": "c03bb7a461f9fdb7fd9a4cd39183142aa1eda91a8ae3e24122ab89fa16e62c2c"
+    },
+    {
+      "path": "lessons/015.html",
+      "source_sha256": "4e1f793a24071d9b7fad87223dfb20ad7cab78311cc8e96c79aa13346af76b93",
+      "published_sha256": "08e956b233de8867606a2e9e9b074debe6baadb3a20f0d6853a6bafd60b9624a"
+    },
+    {
+      "path": "lessons/016.html",
+      "source_sha256": "e45c7ededd519139326440c70faeff22c643694b5baa031de956872afc67551d",
+      "published_sha256": "530f0b5cda040eab44e04af6dc63e873a80f9925bf3b189a46344f0a717ca40d"
+    },
+    {
+      "path": "lessons/018.html",
+      "source_sha256": "15fdb4193c4d69916f2df80060bdc4b6795ebd960b3304c17a23851e1d79a6ff",
+      "published_sha256": "199aed106e59f42dfa8da3e46c3dde7272c6ceda95e08a9d48daf9b8d6f2abbf"
+    },
+    {
+      "path": "lessons/020.html",
+      "source_sha256": "35022fe142bcec33e747c4a10a800d5618e4d6b54005578cb729c2c633e4d58e",
+      "published_sha256": "a34a076b8e829ad5214a91532913b55f1cd577bea87cd40b5a3229242e48b94e"
+    },
+    {
+      "path": "lessons/021.html",
+      "source_sha256": "579c18b4b28f059be6375f841605de2e7e475456162c515e7a86217982241269",
+      "published_sha256": "ed97666b8555b1e8b6a865b6159c8c28305fd0c739112f9f0d89c31f35c479ac"
+    },
+    {
+      "path": "lessons/023.html",
+      "source_sha256": "59ee836c7988306a36f65300c4e0d7008915582cf0d756493aeb8ff5b81ee968",
+      "published_sha256": "f73a544bf63902796522dc266b1b3a8d46d20015009e3b1864cfd5e54973b5f6"
+    },
+    {
+      "path": "lessons/024.html",
+      "source_sha256": "0c9683fb66426f93e8bdb26b3db957908d421aedae85d4450e53acd210cf06d4",
+      "published_sha256": "b70f5dbdc97420ab72f515553d559046fa359c0166d78bec7431475e3a1dfdbf"
+    },
+    {
+      "path": "lessons/025.html",
+      "source_sha256": "0980afcbbb198f7f112911a050da871455670f657de16e2ded16ad79c1953e7c",
+      "published_sha256": "5e53a21a568f8d98335f1809e6dbac694337e29316cdfe4498f1fefbcba6db53"
+    },
+    {
+      "path": "lessons/026.html",
+      "source_sha256": "46c22400923c15f668cd49a32d435e231e09acfccb62704aafdaf54f3f3b9955",
+      "published_sha256": "5b1007ea0bf29195e41cd9481557c907ca07addefd6367738eb691aca49ad957"
+    },
+    {
+      "path": "lessons/027.html",
+      "source_sha256": "770153d2d8ef22d29f6a6604a13c8b35ddf92e0eafbd565ad85438add3da62bd",
+      "published_sha256": "e9a9a56766863cb03321dd9aacce98c2aae55fdcabc94be43b8dd7d5df1bc96e"
+    },
+    {
+      "path": "lessons/029.html",
+      "source_sha256": "5f4e0492366a9a588ea2ecbbcf54e55b8da9f8a045fba2c11a45569429e503cf",
+      "published_sha256": "1e1106d13ea97f5f42427a627c79780d88964972f679c257770952ba1ae73f3b"
+    },
+    {
+      "path": "lessons/031.html",
+      "source_sha256": "b7cc9808e79bf490fd4ca586f4621e7d203db9111edeab9236013669420a384c",
+      "published_sha256": "e2897ccc87f3f60e29ef6756e5aff0705976201c2cf3e6de4fb5ca202dd5adb8"
+    },
+    {
+      "path": "lessons/038.html",
+      "source_sha256": "9a5303f95655c98db671ef6c6b3fab957b94eab1375e693b9efa82b208187671",
+      "published_sha256": "227314ac1f3cbbd0d913f895ea9b1578ef6b6dd4bd4960ca5668ee43cad21739"
+    },
+    {
+      "path": "lessons/039.html",
+      "source_sha256": "0d0e5630ef26d7ca65eed0b06e17af63fea65fc52432bf9b3d966b119bbd2e0b",
+      "published_sha256": "14513ace3d85b70155d5f0e25814f52e81fd2559490aebd8b5e7e806ae3e7e64"
+    },
+    {
+      "path": "lessons/041.html",
+      "source_sha256": "d2e88c5fad56048bb1f4783eb14a566f501bc1707ccd96ce5050fed1182eeabd",
+      "published_sha256": "611d76c3db4a1cf9787a6245ca6df822f6f1b1fe1a8319457f23ce663bf0dbae"
+    },
+    {
+      "path": "lessons/042.html",
+      "source_sha256": "ea7dec241c26c94ce964fa71c07d7a4411f411d002b753ae37e770e77d611d4b",
+      "published_sha256": "93606fdeee94d41342f2d6adaae92904f770e51f910a0cb814fec51216fa5eae"
+    },
+    {
+      "path": "lessons/043.html",
+      "source_sha256": "592592dc1445f173ab7782a994a50c58fa72ab4b36f05f298f4e09a84455e6aa",
+      "published_sha256": "68a4eb5c346bfa96c025e407357fad2da765def65a6c8d6cdee1620c9329a8ab"
+    },
+    {
+      "path": "lessons/044.html",
+      "source_sha256": "360d97c9e9d3273a0b4ea903972b6fce3367cb3094ea89628ca9d6d638e52514",
+      "published_sha256": "17d6ce348089bf1d8e52a6a1cbc626e7a9d8376d5429a79ada0819fe2fef842e"
+    },
+    {
+      "path": "lessons/045.html",
+      "source_sha256": "3a3b7eb38be4c053a8d36da2cd384f82096e77f20dfd6d8a98dacdd79f59cccb",
+      "published_sha256": "9d2b7c2e4917f5bc2c358a92629993128dc73bcc909f402819b073da411dc908"
+    },
+    {
+      "path": "lessons/046.html",
+      "source_sha256": "21531870d84d263a8b715bc588b7be343d0f4e90960e8fbc84e526b8b6a2b450",
+      "published_sha256": "f9db9bdf34e84bb525721a6097243859d57011886e5ab5cf85cc2bef1cbd23c5"
+    },
+    {
+      "path": "lessons/048.html",
+      "source_sha256": "a6d6be27ae562e49134c9a9174b0f1c680e9ba91aea397c556069e576d57fe3a",
+      "published_sha256": "a734037a460d9bd25c0375da9b9feb46d45fbbb79da6088e633d778f464510f3"
+    }
+  ],
+  "embedded_link_warnings": [
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../fonts/Bureausans-Regular.woff",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../fonts/Bureausans-Regular.otf",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../fonts/Bureausans-Bold.woff",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../fonts/Bureausans-Bold.otf",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../fonts/Price_Didone-webfont.woff",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../fonts/Price_Didone-webfont.woff2",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../fonts/Price_Didone-webfont.ttf",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/pen.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/paper-size.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/action.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/accounting.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/sensum.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/legaltech.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/culture.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/digital.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/education.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/finance.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/govfin.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/govorder.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/law.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/management.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/medicine.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/personnel.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/security.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/schoolstudent.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/digitalschool.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/stroy.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/prombezopasnost.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/compliance.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/logos/ecology.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/ua/mcfr_ua_color.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/kz/mcfr_kz_color.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/uz/action_mcfr.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/attention.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/note__img.png",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/warning.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/warning-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/circle-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/circle-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/circle.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/circle-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/starred.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/starred-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/starred-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/starred-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/hexagon.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/hexagon-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/hexagon-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/hexagon-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/star-rounded.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/star-rounded-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/star-rounded-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/star-rounded-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/waves.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/waves-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/waves-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/waves-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/rounded-square.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/rounded-square-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/rounded-square-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/rounded-square-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/45-square.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/45-square-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/45-square-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/45-square-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/square-cut.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/square-cut-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/square-cut-editable.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/list-borders/square-cut-editable-a4.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/input_lines.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/checkbox.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/small-img.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/small-img.svg",
+    "embeds\\interactive\\common\\css\\memo\\main.css: missing ../../images/memo/small-img.svg",
+    "embeds\\interactive\\common\\css\\memo\\styles.css: missing ../svg/pen.svg",
+    "embeds\\interactive\\common\\css\\memo\\styles.css: missing ../../fonts/Bureausans-Regular.woff",
+    "embeds\\interactive\\common\\css\\memo\\styles.css: missing ../../fonts/Bureausans-Regular.otf",
+    "embeds\\interactive\\common\\css\\memo\\styles.css: missing ../../fonts/Bureausans-Bold.woff",
+    "embeds\\interactive\\common\\css\\memo\\styles.css: missing ../../fonts/Bureausans-Bold.otf",
+    "embeds\\interactive\\common\\css\\memo\\styles.css: missing ../../images/pen.svg",
+    "embeds\\interactive\\common\\css\\memo\\styles.css: missing graph.png",
+    "embeds\\interactive\\common\\css\\sliders\\styles.css: missing ../svg/pen.svg",
+    "embeds\\interactive\\common\\css\\sliders\\styles.css: missing ../../fonts/Bureausans-Regular.woff",
+    "embeds\\interactive\\common\\css\\sliders\\styles.css: missing ../../fonts/Bureausans-Regular.otf",
+    "embeds\\interactive\\common\\css\\sliders\\styles.css: missing ../../fonts/Bureausans-Bold.woff",
+    "embeds\\interactive\\common\\css\\sliders\\styles.css: missing ../../fonts/Bureausans-Bold.otf",
+    "embeds\\interactive\\common\\css\\sliders\\styles.css: missing ../../images/pen.svg",
+    "embeds\\interactive\\common\\css\\sliders\\styles.css: missing graph.png"
+  ]
+}

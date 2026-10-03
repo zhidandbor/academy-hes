@@ -1,0 +1,355 @@
+{
+  "course": "course_razrabotchik_ppr",
+  "title": "Разработчик проекта производства работ",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_razrabotchik_ppr",
+  "entry": "index.html",
+  "files": 238,
+  "bytes": 26572576,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "attachments/files/c8e9548ca55042680ec5.pdf",
+      "bytes": 10211857,
+      "sha256": "c8e9548ca55042680ec5d9abb744defa8c9f13f5ab6835c124e9672906cf5601",
+      "asset_name": "hes-c8e9548ca55042680ec5d9abb744defa.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-c8e9548ca55042680ec5d9abb744defa.pdf"
+    },
+    {
+      "path": "attachments/files/project-originals/223bac05-8556-4d8d-bd8e-8f7a551cc3f0.docx",
+      "bytes": 2481543,
+      "sha256": "c54bfc832065784f16dceb4794c4f988384729948ba8930e2204d4b031742978",
+      "asset_name": "hes-c54bfc832065784f16dceb4794c4f988.docx",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-c54bfc832065784f16dceb4794c4f988.docx"
+    },
+    {
+      "path": "attachments/files/project-originals/d566dc15-01ea-41d4-a66b-429caa1c1152.docx",
+      "bytes": 5248523,
+      "sha256": "1d19b5b809031fabecc30428869a26ec5c0d21190a5ede2eefe653d5cdde258d",
+      "asset_name": "hes-1d19b5b809031fabecc30428869a26ec.docx",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-1d19b5b809031fabecc30428869a26ec.docx"
+    },
+    {
+      "path": "exports/Загрязнение почвы.pdf",
+      "bytes": 16019166,
+      "sha256": "da30e95d4f8dde9b58173ef59e0dda30309d2a2799246385d91fa5d225640b0d",
+      "asset_name": "hes-da30e95d4f8dde9b58173ef59e0dda30.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-da30e95d4f8dde9b58173ef59e0dda30.pdf"
+    },
+    {
+      "path": "exports/палатка сварщика.pdf",
+      "bytes": 12833861,
+      "sha256": "4bd936849ae6b3c52a9f6f66ea79bc0ad3825fa80c2ed47c1664ec1ce815aabc",
+      "asset_name": "hes-4bd936849ae6b3c52a9f6f66ea79bc0a.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-4bd936849ae6b3c52a9f6f66ea79bc0a.pdf"
+    },
+    {
+      "path": "exports/Работы повышенной опасности.pdf",
+      "bytes": 24768191,
+      "sha256": "89d41041310886b555d1fb8dc2d22bd403b31bbbd79bf8a5286ea59c758c1f49",
+      "asset_name": "hes-89d41041310886b555d1fb8dc2d22bd4.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-89d41041310886b555d1fb8dc2d22bd4.pdf"
+    },
+    {
+      "path": "exports/Раскладка трубы.pdf",
+      "bytes": 24021228,
+      "sha256": "3ae4e28640804c7eb78fc33615bad71c4daad706f5b5c4f21654d8de3b886faa",
+      "asset_name": "hes-3ae4e28640804c7eb78fc33615bad71c.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-3ae4e28640804c7eb78fc33615bad71c.pdf"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "92059ddc8abd73b046c025ddb91f5b745d7edf43a3d273985b1fca5e81963e76",
+      "published_sha256": "e6c6f341447712e903dbb9d79a5c76377d5fd50773f7e8b5dfa7a1289904eed7"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "5411d7f9b913f34653aef4d496aa30fab4235c57a63e417a01a17bb72f33a412",
+      "published_sha256": "ed91e01137cfecded38f9cb3f28197ba7bd3c6d4414cd084157801afc382914c"
+    },
+    {
+      "path": "lessons/01-01-01.html",
+      "source_sha256": "2493618524c6a0d5bb7f6fdaa3888e9ee1c17db76c4bcd5f9456335af8bc9dea",
+      "published_sha256": "6c36601d103d3170e3c4c9f7d1c4171add7c9312961f46b11719128292bc9351"
+    },
+    {
+      "path": "lessons/01-01-02.html",
+      "source_sha256": "be90cfea6fc5db0ae220712ee81300ca4ac728a4e59145e08681ffbd9c7796c8",
+      "published_sha256": "01e2ad401f25e507cb7c449f8a8cea75e17f8b875f7465f87d9e7ce2bf00c317"
+    },
+    {
+      "path": "lessons/01-01-03.html",
+      "source_sha256": "29505f03656f440699730da575d3b8078604028bff1607bc383f06a1f3e80892",
+      "published_sha256": "674954e8ef5b09d1dbddebb4b5545eba57f5742eacb8ea0402e763254712ce8d"
+    },
+    {
+      "path": "lessons/01-01-04.html",
+      "source_sha256": "9c2f45841468eacd3b054c5f046b284c01182d6ad4764992a41f3da17c904cad",
+      "published_sha256": "168bb475d07aac0d47c38084608a746f2f9ba16fcf50f2dea431fcb21bbed3a6"
+    },
+    {
+      "path": "lessons/01-01-05.html",
+      "source_sha256": "ec23033ecb57e724d420012ed0c5d9306f5a8883d20cdc06453e14b2a6b7ed97",
+      "published_sha256": "b3894ab10062145560b9c291f37629fea991ffe52c5966b56ce9f9cc0192dfdb"
+    },
+    {
+      "path": "lessons/01-01-06.html",
+      "source_sha256": "1b84cd734edba02085f5c8f5717ede7f6b47e32c8ae2777793e8202833b6fbaa",
+      "published_sha256": "e7f3f45dfb3fb01492c541800f2e50653435f0650565f494217cdbcd572a4095"
+    },
+    {
+      "path": "lessons/02-01-01.html",
+      "source_sha256": "6ff43539f3f89de1006b3c6750cadf4ceb92759985cf58f54da2a3ef232ebcf6",
+      "published_sha256": "54fa8c71ab38e783c6b35385975f7b3552946eaca02a2c9c8a56e106e8a7f271"
+    },
+    {
+      "path": "lessons/02-01-02.html",
+      "source_sha256": "b2e4e1e5f056fc94517096ef620edfc24a202bbd73167582106da1a7edf41a2d",
+      "published_sha256": "b4317b8167a114866654bff924b497fcd7ac71475bf5e081a833a31af3f34aef"
+    },
+    {
+      "path": "lessons/02-01-03.html",
+      "source_sha256": "b149c8f2d7524b56dfd83187697fa6e7744bab8db85ac9433bc9367d0430d2c9",
+      "published_sha256": "2c8385996cdba389b7bf5950710ea4c5f296d4bca073fbf64785ba0d9910c190"
+    },
+    {
+      "path": "lessons/02-01-04.html",
+      "source_sha256": "13fa7b325a1fc8377c1e5e0991afd592f921dec3becd36fe36632a77e22326c6",
+      "published_sha256": "f6530b9a400f473184580e8ced7af8e29509daef9104119f068aa41a59ad9e72"
+    },
+    {
+      "path": "lessons/02-02-01.html",
+      "source_sha256": "a39c3e188281f38524135f1c90d286dc44baf35e0819216e34904be902db7a69",
+      "published_sha256": "c7f134ccf9153f819910bf13285a721c138720d2b87be01988c5fda1c955c425"
+    },
+    {
+      "path": "lessons/02-02-02.html",
+      "source_sha256": "63a53fa11ddc0fe49a3031e1706e7d9192f2edffe4baf6deaa83b8b8496528d4",
+      "published_sha256": "f8508cc7b3e97bf28c20d841379c391a4f3d1c28bcef038b15d715c14000ff63"
+    },
+    {
+      "path": "lessons/02-02-03.html",
+      "source_sha256": "7549b0855c940566923739414e478a385021177919bdb7fa5460e7fa54bf0dd9",
+      "published_sha256": "07998ca6c582cd23a8658336c3f2442bd6ec8dc2eef160f9ca527ce20cc941d8"
+    },
+    {
+      "path": "lessons/02-02-04.html",
+      "source_sha256": "22e3c1b162c4360bdda5630c2c424ad59ca314d0912a772dbe2a81e185fcbd21",
+      "published_sha256": "605f89f6eed9527cbd3feaf47fc2273cc631364af1ba81cd845938d1fdcaa027"
+    },
+    {
+      "path": "lessons/02-02-05.html",
+      "source_sha256": "efb4727a040ebbaf16860e9c9efe0a119903c4654313b415c5469b280b646c1e",
+      "published_sha256": "50f94856172b3c305fca0777dc28cb3f3aac7a11029a2a2be6d6cdc7ea952c3f"
+    },
+    {
+      "path": "lessons/02-03-01.html",
+      "source_sha256": "bb07030c0558d6f9ff8b7189b535122288648c18f05f7ff55ab744df70d8e4c6",
+      "published_sha256": "19a52d4b632083bdc9aa7dac14b954dabb7111680b71f2f8d25c2d7edc484bf9"
+    },
+    {
+      "path": "lessons/02-03-02.html",
+      "source_sha256": "88df1739cb3284f42be39384cef3058d7f4db480e01c267f73d21b9d1521de37",
+      "published_sha256": "e63004a8148ae93819f1969b42243467d8b01e03d8da6bf3040d2ca69ef2c83f"
+    },
+    {
+      "path": "lessons/02-03-03.html",
+      "source_sha256": "5ba816d4f28f82b4ed677d7c60cf4bc35b0c0d66717d7806ed2029ca89815067",
+      "published_sha256": "d17e4d2b96b8af2c34b5795de2fc054f88ecb66a3a5d010f2c972c1c5353126c"
+    },
+    {
+      "path": "lessons/02-03-04.html",
+      "source_sha256": "a5061cc09a0e227c2cf7ca48fffb901b7f77989d5ec5a3b13f6d1575e78bdced",
+      "published_sha256": "8c61ec9d98ea71fbc08aaed210821e6a287e408e5feb0b695f30c5a95510e466"
+    },
+    {
+      "path": "lessons/03-01-01.html",
+      "source_sha256": "e9200b5453cbcafcfe069cfc3b75ba5503e7b76cafa1832ed57102785e3033d0",
+      "published_sha256": "8d5c3de5df2beed5447f6118480a8cf30e313772e9c7d75f5d9f3bcaff654dd0"
+    },
+    {
+      "path": "lessons/03-01-02.html",
+      "source_sha256": "c8efc4a66f93981921e24740682052520c03b59e5c1d1155f742dd9ec666e20a",
+      "published_sha256": "6f564bdf086e53622f4bdcaf85784fdb3d01dccd0dd1a518185ca4848593e7ca"
+    },
+    {
+      "path": "lessons/03-01-03.html",
+      "source_sha256": "9d8d6c7b7ef8b9acf783335ff75670f48adbcd328fa527c55fbb19adc72ebf3e",
+      "published_sha256": "4c9b714f2f02d0bc9b79985213d6b8d4adf958c4f2a37a7fd014c6e00681285e"
+    },
+    {
+      "path": "lessons/03-01-04.html",
+      "source_sha256": "867d3b2928f64ad028d7874f0e7f9507374dac3a21bba574e65be285f460c3ff",
+      "published_sha256": "bcfe2aa9b0e414a36087403ba4778675448d9107b06bea6998f8e1122d540dc9"
+    },
+    {
+      "path": "lessons/03-01-05.html",
+      "source_sha256": "7397fdc611f25675324ac4d17516a8dcb350b0f2cd4bd85ba46000afbd673044",
+      "published_sha256": "28c9fcce182e5a617a244fa76bb6f44f12cf8448928568e1a933f1e500710c5c"
+    },
+    {
+      "path": "lessons/03-02-01.html",
+      "source_sha256": "884c9f54a7cfcdcc7017cb60be020c106a23dcd559a33044eac63d7cf5757128",
+      "published_sha256": "2d34bc66f5589b616fa277376436d520d35b022f3882ea9f7cec3bdd48de94cc"
+    },
+    {
+      "path": "lessons/03-02-02.html",
+      "source_sha256": "7e5bce84588657c23f77f36fd972d7c838cff5d0581a5c6d06ad4127078f9c9b",
+      "published_sha256": "3d66030492e888ec31f73979fb3b0ded639b1816a27dbefb73c5064230cc2983"
+    },
+    {
+      "path": "lessons/03-02-03.html",
+      "source_sha256": "08fec7a53befc7896e5935b9d59d95772208a01be8243df198963862980fc043",
+      "published_sha256": "e8d04b6abac6f60e3645aa217d40754b0aad9d7379d118f82f87fafd5025b0cb"
+    },
+    {
+      "path": "lessons/03-02-04.html",
+      "source_sha256": "bb7a3570e290ac59b2c7e7189ad4026e83cc5863be06cd51ff45218a1721c8c8",
+      "published_sha256": "77d1f13e7a3535ef1fbcef05becd31445d9903e1d23d4b581d2ce4920478d5b8"
+    },
+    {
+      "path": "lessons/03-03-01.html",
+      "source_sha256": "dffac474ce189b89d73aee8a055d2e499035a529048c6815cc57b471ca45cf5d",
+      "published_sha256": "725114d83f7c3a7fcc6401babbb5670666ea7a0a38ff211107061af02b1124db"
+    },
+    {
+      "path": "lessons/03-03-02.html",
+      "source_sha256": "574e60b2cba0561ee0c9eb36143dfaee1d68201c1804667f322b9620b806fa98",
+      "published_sha256": "e10fd29814ecd291ecc689217cedac2d4290b9a4409947389beea740aa3514a1"
+    },
+    {
+      "path": "lessons/03-03-03.html",
+      "source_sha256": "cad6f7be91691b9351acafd04b6646c6c82ae47402a18f1463b2871ba2ec8175",
+      "published_sha256": "0fc218b23bb4a8682c7a2696bea04c9c51b9191e9b9220f39ccad7786be8ebdc"
+    },
+    {
+      "path": "lessons/03-03-04.html",
+      "source_sha256": "0e628d1b9a317eba782979812dbe387ed200e85e5d6bd4f11e44ebaa0a0e58bd",
+      "published_sha256": "ab731b587c2a3ca5ccd4716de925d538830a1b6d52a8121143d10e96857e4092"
+    },
+    {
+      "path": "lessons/04-01-01.html",
+      "source_sha256": "0f68c340d8b790f41bec37a1f82215cf3f878b8d31556076f743538e597b4d90",
+      "published_sha256": "6468e227039bd2273a87c6a63fc313e5c889d69deec28ecca58707cc90571001"
+    },
+    {
+      "path": "lessons/04-01-02.html",
+      "source_sha256": "21d39f0e0bc490f526b08b186d3e3be059175eec0ea4f9413dbf0e257707a309",
+      "published_sha256": "d3e6c2bde9b80f4654036698570e532340bdc6d9bb479f1fac03dcf02c6a4174"
+    },
+    {
+      "path": "lessons/04-01-03.html",
+      "source_sha256": "b1d157a9fece1c8f015840c55c6055bfe85e2e3f968b59e181261565db3254ad",
+      "published_sha256": "519112f623b5bafd007883abbe6cdc5f76e44f6c55c00d0cba349da74942753d"
+    },
+    {
+      "path": "lessons/04-01-04.html",
+      "source_sha256": "48690282ae9697e15f08263842739b543cb0ae8b96bed77d2b80f195dba39572",
+      "published_sha256": "545897ec6017f544279aac17fd869dde7af71d57428a140924382a0eefc520ca"
+    },
+    {
+      "path": "lessons/04-01-05.html",
+      "source_sha256": "685335304824468ae0369682740e2413c03de00e8d1723c27c8efb234904d2c1",
+      "published_sha256": "9a217d8f3cba78a1455a95b24ab69667fb40b1dc76816a1de5d323c7c1cd07e0"
+    },
+    {
+      "path": "lessons/04-02-01.html",
+      "source_sha256": "c268be9a8e67e69f235143eed40c06cf06af78cf3c91afc225cbd14aa1be52c3",
+      "published_sha256": "d8eccd64dde7114a4b9561068c016ca2b98999a7c3b06a72b7a1780a66203acf"
+    },
+    {
+      "path": "lessons/04-02-02.html",
+      "source_sha256": "8e009632f3fcf015558d72fde1eda773aa1779cdd768f03a9a5eafc21d859418",
+      "published_sha256": "2d3b2d18468c52fbeddf6c52e70c1225275ee259af9ac5292c57075f86fc6df4"
+    },
+    {
+      "path": "lessons/04-02-03.html",
+      "source_sha256": "d28346163a035e77c1fd38d180c5c33bb4b992f164f26c52aa9a316e43ec23a6",
+      "published_sha256": "7d8e45227218bab783c9979c8a0adb6a3124a7887e01e455781401a1be404e04"
+    },
+    {
+      "path": "lessons/04-02-04.html",
+      "source_sha256": "7cd5c64ee95ceb76cc8c7d1786152b302aa4e7e619106acee7043ab38db051a0",
+      "published_sha256": "944dcba4511d36a5a62e4bc5ec402f05f2b01461d12c0f48e41b313a05a795bf"
+    },
+    {
+      "path": "lessons/04-03-01.html",
+      "source_sha256": "724a4b879955f929c25a5645d2b22cd7c3d702f108e7695c2a3ee40b13226345",
+      "published_sha256": "72c4250ae226cc43d108db94e2ea309e41e30d34c77e379a1cbd6819d26fcf5a"
+    },
+    {
+      "path": "lessons/04-03-02.html",
+      "source_sha256": "e645569f0e0d275e003f1d1893364b9cb440075f44f54b1e31e526e1df75174f",
+      "published_sha256": "fe9324991f99495232ac0616d0549c00fb104e79793f1efdcba6e0d2a85b6ebe"
+    },
+    {
+      "path": "lessons/04-03-03.html",
+      "source_sha256": "45e685b33704b9fd9294090221f5a004c94062b34dd6abc4766d6016018b174b",
+      "published_sha256": "22f92de876aa2f7018305c628cabddce6a6160775015b7769f8e23818aec25cb"
+    },
+    {
+      "path": "lessons/04-03-04.html",
+      "source_sha256": "b1ac40093e1daf155b14fe06a504763eab4371882f87718840cbcaaffa12d58e",
+      "published_sha256": "1c8f78f425dd1b5c2ad428a1253e83e10fc3a3d649c895a171f4c73bd121b092"
+    },
+    {
+      "path": "lessons/04-03-05.html",
+      "source_sha256": "4c1180d001d53320ac5f0fc74db85811457aa66e12c52758c42b43ed4edb52b1",
+      "published_sha256": "d266abb1546ebb0c24ad3c335c716b4dcc5d3f467f800c03cac6803954ecfb35"
+    },
+    {
+      "path": "lessons/04-04-01.html",
+      "source_sha256": "0c2a55c545504ff132cc8926c627c8830d1635a1899f5affac83dcbd0c283eb2",
+      "published_sha256": "c16b921216952a5697049a44e9954526c927392ea6efcf03c72fd6850a8b21b9"
+    },
+    {
+      "path": "lessons/04-04-02.html",
+      "source_sha256": "2c7c9e61db58d284f34bd0263290e610c7cecb503e2dd3a8faa767b7359d2dc1",
+      "published_sha256": "5efe4caa7a404c416d1aa1bf31e594edca017123b16c190a48f5ef41338fdda2"
+    },
+    {
+      "path": "lessons/04-04-03.html",
+      "source_sha256": "53ea97e0e3e064b9662206fc804383790ad924cc90a78f83e2541b20ff1fee39",
+      "published_sha256": "50810604df51225dc727ec7446af60859669849625a3d9844d323673c3e949ea"
+    },
+    {
+      "path": "lessons/04-04-04.html",
+      "source_sha256": "0406253d586de566d362f55ce7f60f18e43d7170d1f17a3080c1e51fdad16eeb",
+      "published_sha256": "9459dbd0c83c71282bc708ebf196484eca4561bc70497f2fecb925eef9626bd9"
+    },
+    {
+      "path": "lessons/04-04-05.html",
+      "source_sha256": "9bb28b115197d24b8647645178e20ef179531f8a7b9a1ead6616869eb820b747",
+      "published_sha256": "861fd428c2ee712c1819eaaaf32f41f13383bb82a940f5bcba711ac295ff3360"
+    },
+    {
+      "path": "modules/01.html",
+      "source_sha256": "ed2f672ffc9cfc6b21fccf8e00c76d11204de1b911d7df1d9741f599b6fe5308",
+      "published_sha256": "1410d6a744bc1411b270421a2278e6ae8f407f78a833f278a73bd1dce77c60a9"
+    },
+    {
+      "path": "modules/02.html",
+      "source_sha256": "4c7b17c752f1e60be83ffdca6e172404abce6ebe31ff21abadf53c9f8bebe67c",
+      "published_sha256": "d80bb0d7f37265c350938a0ef60c8481babc373ceb1a62890f6ea93e69e4a1d3"
+    },
+    {
+      "path": "modules/03.html",
+      "source_sha256": "d6d3259668ed6bf98d1c5ba0886b3f6c68558ee978241c1f6f265d5c77715a74",
+      "published_sha256": "2e87e1b68977545335202a3ef88480476aeaa9386c42bc9bc93620e12eb3c10f"
+    },
+    {
+      "path": "modules/04.html",
+      "source_sha256": "731719119a86b3bd2237c5cfc71c061811b2e21691197a7f24d5656ac342db26",
+      "published_sha256": "de95d551735e24d01e3f78427d9c1cad452456918f21432b7dc65e55d2dcd628"
+    },
+    {
+      "path": "tests/index.html",
+      "source_sha256": "0dfbe9e3c8ea227ec7ec4954075619a83de4635d380649799e87ada68af35327",
+      "published_sha256": "767af83bbfb1dddb50c721b43628089f38925c553c645f5df3018ed0ca2a2a18"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+@media print {
+	
+	@page {
+	  size: A4;
+	  margin: 0 20px;
+	}
+
+	html, body {
+	  width: 210mm;
+	  max-width: 210mm;
+	  height: 286mm;
+	  max-height: 286mm;
+	}
+	
+	.poster-light,
+	.poster-dark {
+		background-image: none !important;
+		box-shadow: none;
+	}
+
+	.sidebar {
+	  display: none !important;
+	}
+	
+	.can-not {
+	  width: 210mm;
+	  max-width: 210mm;
+	  min-height: 283mm;
+	  height: 283mm;
+	  margin-right: 0;
+	  padding: 23px 40px 18px 15px;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	}
+
+	.can-not__head {
+	  flex: 1 0 100px;
+	  min-height: 942px;
+	  max-height: 100%;
+	  height: 100%;
+	  margin-right: 15px;
+	  padding: 3px 0;
+	}
+
+	.can-not__name,
+	.can-not__memo {
+	  flex: 0 1 6.5vw;
+	  margin-bottom: 14px;
+	  font-size: 25px;
+	}
+
+	.can-not__name-text,
+	.can-not__memo-text {
+	  padding-bottom: 2.2px;
+	  color: #000;
+	  border: none;
+	}
+
+	.can-not__name-input,
+	.can-not__memo-input {
+	  font-size: 18px;
+	}
+
+	.can-not__name-text::after,
+	.can-not__memo-text::after {
+	  display: none;
+	}
+
+	.can-not__logo {
+	  height: 14px;
+	  margin-bottom: 7px;
+	}
+
+	.can-not__body {
+	  flex: 1 0 433px;
+	  max-height: 100%;
+	  height: 100%;
+	}
+
+	.can-not__title {
+	  font-size: 78px;
+	  color: #000 !important;
+	}
+
+	.can-not__content {
+	  font-size: 32.7px;
+	}
+
+	.can-not__col:first-child {
+	  margin-bottom: 30px;
+	}
+
+	.can-not__possible {
+	  color: #17A16D !important;
+	}
+
+	.can-not__impossible {
+	  color: #e10000 !important;
+	}
+
+	.can-not__paragraph {
+	  color: #000 !important;
+	}
+
+	.can-not__paragraph:not(:last-child) {
+	  margin-bottom: 28px;
+	}
+
+	textarea {
+	  display: none !important;
+	}
+
+	.can-not__logo {
+	  -webkit-print-color-adjust:exact;
+	}
+
+    .can-not__title {
+        color: #000 !important;
+    }
+
+    .can-not__possible {
+        color: #17A16D !important;
+    }
+
+    .can-not__impossible {
+        color: #e10000 !important;
+    }
+
+    .can-not__paragraph {
+        color: #000 !important;
+    }
+	
+	.checklist {
+	  width: 210mm;
+	  max-width: 210mm;
+	  min-height: 283mm;
+	  height: 283mm;
+	  margin-right: 0;
+	  padding: 23px 40px 18px 15px;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	}
+
+	.checklist__name-text,
+	.checklist__memo-text {
+	  padding-bottom: 4px;
+	  color: #000;
+	  border: none;
+	}
+
+	.checklist__name-text::after,
+	.checklist__memo-text::after {
+	  display: none;
+	}
+
+	.checklist__title {
+	  flex: 0 1 466px;
+	  margin-right: 20px;
+	  color: #000 !important;
+	  font-size: 54px;
+	}
+
+	.checklist__edit {
+	  margin-bottom: 10px;
+	}
+
+	.checklist__name,
+	.checklist__memo {
+	  flex: 0 1 40px;
+	  font-size: 25px;
+	}
+
+	.checklist__name {
+	  margin-bottom: 10px;
+	}
+
+	.checklist__name-input,
+	.checklist__memo-input {
+	  font-size: 18px;
+	}
+
+	.checklist__info {
+	  flex: 0 1 200px;
+	  padding-top: 12px;
+	  padding-bottom: 7px;
+	}
+
+	.checklist__body {
+	  max-width: 700px;
+	}
+
+	.checklist__list {
+	  font-size: 32.7px;
+	}
+
+	.checklist__item {
+	  margin-bottom: 15px;
+	  padding-left: 35px;
+	  color: #000 !important;
+	}
+
+	.checklist__item::before {
+	  top: -5px;
+	  width: 26px;
+	  height: 26px;
+	}
+
+	.checklist__item::before,
+	.checklist__item--checked::before {
+	  -webkit-print-color-adjust: exact;
+	  color-adjust: exact;
+	}
+
+	.checklist__item::before {
+	  background-image: none !important;
+	}
+
+	.checklist__item--checked::before {
+	  background-image: none !important;
+	}
+	
+    .instruction {
+	  width: 210mm;
+	  max-width: 210mm;
+	  min-height: 283mm;
+	  height: 283mm;
+	  margin-right: 0;
+	  padding: 23px 40px 18px 15px;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	}
+
+	.instruction__head {
+	  min-height: 40px;
+	}
+
+	.instruction__edit {
+	  flex: 0 1 460px;
+	  height: 51px;
+	  margin-top: -5px;
+	}
+
+	.instruction__logo {
+	  height: 14px;
+	}
+
+	.instruction__name {
+	  margin-right: 20px;
+	}
+
+	.instruction__name,
+	.instruction__memo {
+	  font-size: 25px;
+	}
+
+	.instruction__name-text,
+	.instruction__memo-text {
+	  padding-bottom: 4px;
+	  border: none;
+	  color: #000;
+	}
+
+	.instruction__name-text::after,
+	.instruction__memo-text::after {
+	  display: none;
+	}
+
+	.instruction__name-input,
+	.instruction__memo-input {
+	  font-size: 18px;
+	}
+
+	.instruction__body {
+	  flex: 0 1 950px;
+	}
+
+	.instruction__title {
+	  max-width: 560px;
+	  color: #000 !important;
+	  font-size: 78px;
+	}
+
+	.instruction__col {
+	  flex: 0 1 43%;
+	  font-size: 22px;
+	  color: #000 !important;
+	}
+
+	.instruction__col:first-child {
+	  margin-right: 30px;
+	}
+
+	.instruction__paragraph {
+	  color: #000 !important;
+	}
+
+	.instruction__paragraph:not(:last-child) {
+	  margin-bottom: 18px;
+	}
+
+	.instruction__numbering .counter-2 {
+	  -webkit-print-color-adjust:exact;
+	}
+	
+	.instruction__numbering path {
+		fill: #fff !important;
+	}
+
+    .numbered-count {
+	  width: 210mm;
+	  max-width: 210mm;
+	  min-height: 283mm;
+	  height: 283mm;
+	  margin-right: 0;
+	  padding: 23px 40px 18px 15px;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	}
+
+	.numbered-count__head {
+	  min-height: 40px;
+	}
+
+	.numbered-count__edit {
+	  flex: 0 1 460px;
+	  height: 51px;
+	  margin-top: -5px;
+	}
+
+	.numbered-count__logo {
+	  height: 14px;
+	}
+
+	.numbered-count__name {
+	  margin-right: 20px;
+	}
+
+	.numbered-count__name,
+	.numbered-count__memo {
+	  font-size: 25px;
+	}
+
+	.numbered-count__name-text,
+	.numbered-count__memo-text {
+	  padding-bottom: 4px;
+	  border: none;
+	  color: #000;
+	}
+
+	.numbered-count__name-text::after,
+	.numbered-count__memo-text::after {
+	  display: none;
+	}
+
+	.numbered-count__name-input,
+	.numbered-count__memo-input {
+	  font-size: 18px;
+	}
+
+	.numbered-count__body {
+	  flex: 0 1 950px;
+	}
+
+	.numbered-count__title {
+	  max-width: 560px;
+	  font-size: 78px;
+	  color: #000 !important;
+	}
+
+	.numbered-count__title--focus {
+	  margin-bottom: -80px;
+	  margin-left: -25px;
+	  font-size: 360px;
+	}
+
+	.numbered-count__col {
+	  flex: 0 1 43%;
+	  font-size: 23px;
+	  color: #000;
+	}
+
+	.numbered-count__col:first-child {
+	  margin-right: 30px;
+	}
+
+	.numbered-count__paragraph {
+	  color: #000 !important;
+	}
+
+	.numbered-count__paragraph:not(:last-child) {
+	  margin-bottom: 18px;
+	}
+
+    .numbered-list {
+	  width: 210mm;
+	  max-width: 210mm;
+	  min-height: 283mm;
+	  height: 283mm;
+	  margin-right: 0;
+	  padding: 23px 40px 18px 15px;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	}
+
+	.numbered-list__head {
+	  min-height: 40px;
+	}
+
+	.numbered-list__edit {
+	  flex: 0 1 460px;
+	  height: 51px;
+	  margin-top: -5px;
+	}
+
+	.numbered-list__logo {
+	  height: 14px;
+	}
+
+	.numbered-list__name {
+	  margin-right: 20px;
+	}
+
+	.numbered-list__name,
+	.numbered-list__memo {
+	  font-size: 25px;
+	}
+
+	.numbered-list__name-text,
+	.numbered-list__memo-text {
+	  padding-bottom: 4px;
+	  border: none;
+	  color: #000;
+	}
+
+	.numbered-list__name-text::after,
+	.numbered-list__memo-text::after {
+	  display: none;
+	}
+
+	.numbered-list__name-input,
+	.numbered-list__memo-input {
+	  font-size: 18px;
+	}
+
+	.numbered-list__body {
+	  flex: 0 1 950px;
+	}
+
+	.numbered-list__title {
+	  max-width: 560px;
+	  font-size: 78px;
+	}
+
+	.numbered-list__col {
+	  flex: 0 1 43%;
+	  font-size: 23px;
+	}
+
+	.numbered-list__col:first-child {
+	  margin-right: 30px;
+	}
+
+	.numbered-list__paragraph {
+	  color: #000 !important;
+	}
+
+	.numbered-list__paragraph:not(:last-child) {
+	  margin-bottom: 18px;
+	}
+
+    .poster-text {
+	  width: 210mm;
+	  max-width: 210mm;
+	  min-height: 283mm;
+	  height: 283mm;
+	  margin-right: 0;
+	  padding: 23px 40px 18px 15px;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	}
+
+	.poster-text__head {
+	  min-height: 40px;
+	}
+
+	.poster-text__edit {
+	  flex: 0 1 460px;
+	  height: 51px;
+	  margin-top: -5px;
+	}
+
+	.poster-text__logo {
+	  height: 14px;
+	}
+
+	.poster-text__name {
+	  margin-right: 20px;
+	}
+
+	.poster-text__name,
+	.poster-text__memo {
+	  font-size: 25px;
+	}
+
+	.poster-text__name-text,
+	.poster-text__memo-text {
+	  padding-bottom: 4px;
+	  border: none;
+	  color: #000;
+	}
+
+	.poster-text__name-text::after,
+	.poster-text__memo-text::after {
+	  display: none;
+	}
+
+	.poster-text__name-input,
+	.poster-text__memo-input {
+	  font-size: 18px;
+	}
+
+	.poster-text__body {
+	  flex: 0 1 950px;
+	}
+
+	.poster-text__title {
+	  max-width: 560px;
+	  color: #000 !important;
+	  font-size: 78px;
+	}
+
+	.poster-text__col {
+	  flex: 0 1 43%;
+	  font-size: 22px;
+	}
+
+	.poster-text__col:first-child {
+	  margin-right: 30px;
+	}
+
+	.poster-text__paragraph {
+	  color: #000 !important;
+	}
+
+	.poster-text__paragraph:not(:last-child) {
+	  margin-bottom: 18px;
+	}
+
+    .scream {
+	  width: 210mm;
+	  max-width: 210mm;
+	  min-height: 283mm;
+	  height: 283mm;
+	  margin-right: 0;
+	  padding: 23px 40px 18px 15px;
+	  -webkit-background-size: cover;
+	  background-size: cover;
+	}
+
+	.scream__head {
+	  min-height: 40px;
+	}
+
+	.scream__edit {
+	  flex: 0 1 460px;
+	  height: 51px;
+	  margin-top: -5px;
+	}
+
+	.scream__logo {
+	  height: 14px;
+	}
+
+	.scream__name {
+	  margin-right: 20px;
+	}
+
+	.scream__name,
+	.scream__memo {
+	  font-size: 25px;
+	}
+
+	.scream__name-text,
+	.scream__memo-text {
+	  padding-bottom: 4px;
+	  border: none;
+	  color: #000;
+	}
+
+	.scream__name-text::after,
+	.scream__memo-text::after {
+	  display: none;
+	}
+	
+	.scream__name-input,
+	.scream__memo-input {
+	  font-size: 18px;
+	}
+
+	.scream__body {
+	  flex: 0 1 950px;
+	}
+
+	.scream__title {
+	  max-width: 560px;
+	  color: #000 !important;
+	  font-size: 78px;
+	}
+
+	.scream__col {
+	  flex: 0 1 43% !important;
+	  font-size: 19.8px;
+	  color: #000;
+	}
+
+	.scream__col:first-child {
+	  margin-right: 30px;
+	}
+
+	.scream__col:last-child {
+	  flex: 0 1 50% !important;
+	}
+
+	.scream__col:last-child p:not(.scream__highlight) {
+		max-width: 320px;
+	}
+
+	.scream__paragraph {
+	  color: #000 !important;
+	}
+
+	.scream__paragraph:not(:last-child) {
+	  margin-bottom: 18px;
+	}
+
+	.scream__highlight {
+	  font-size: 40px;
+	}
+}

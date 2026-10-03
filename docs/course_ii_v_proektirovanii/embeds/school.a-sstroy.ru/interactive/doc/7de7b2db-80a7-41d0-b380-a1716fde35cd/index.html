@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="google" content="notranslate" />
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '7de7b2db-80a7-41d0-b380-a1716fde35cd';
+    window.docName = "1";
+    window.locale = 'ru';
+    window.id = '3280';
+    window.moduleId = '243';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"images/1.png","mainText":"Объектные решения:<br />Потеря конкурентного преимущества","textHelper":"","type":"qa","buttons":[{"label":"Смотреть пример","isCorrect":"true"}],"result":{"src":"","text":"Уникальные узлы, нестандартные конструктивные схемы"},"nextButtonLabel":"Следующий вопрос"},{"img":"images/2.png","mainText":"Сметная информация:<br />Нарушение коммерческой тайны, потеря переговорной позиции","textHelper":"","type":"qa","buttons":[{"label":"Смотреть пример","isCorrect":"true"}],"result":{"src":"","text":"Стоимость материалов, прайсы поставщиков"},"nextButtonLabel":"Следующий вопрос"},{"img":"images/3.png","mainText":"Персональные данные:<br />Нарушение 152-ФЗ, штрафы","textHelper":"","type":"qa","buttons":[{"label":"Смотреть пример","isCorrect":"true"}],"result":{"src":"","text":"ФИО заказчиков, подрядчиков, сотрудников"},"nextButtonLabel":"Следующий вопрос"},{"img":"images/4.png","mainText":"Интеллектуальная собственность:<br />Утрата исключительных авторских прав","textHelper":"","type":"qa","buttons":[{"label":"Смотреть пример","isCorrect":"true"}],"result":{"src":"","text":"Авторские разработки, ноу-хау"},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = "";
+    var subtitle = "";
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

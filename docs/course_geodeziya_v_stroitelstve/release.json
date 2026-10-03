@@ -1,0 +1,38 @@
+{
+  "course": "course_geodeziya_v_stroitelstve",
+  "title": "Геодезия в строительстве",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_geodeziya_v_stroitelstve",
+  "entry": "index.html",
+  "files": 90,
+  "bytes": 18041279,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "assets/images/67cbd036-97ce-4500-993a-c5ab546d6b4e.png",
+      "bytes": 27126134,
+      "sha256": "c2365f4836c4dc5e141b80138100da369a009286b04831ceee403d1fc0831a55",
+      "asset_name": "hes-c2365f4836c4dc5e141b80138100da36.png",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-c2365f4836c4dc5e141b80138100da36.png"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "e739fc84c2d6af659249d5f7aaf766f5fdc6b349b864f5e985aab56b1beee282",
+      "published_sha256": "49aece1f0936ea5808a79d5705ecaeaa2953c9b9327b544d9bde90f5b72bf771"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "6859370c212d5fc42a0c61abd89408a5997183e5782e5cea34a14b77780a2382",
+      "published_sha256": "b81e84946bccf22b56d3e0930dcb85a6644f6ce6948ac9728073d641de6da5a6"
+    },
+    {
+      "path": "lessons/lesson-01-03.html",
+      "source_sha256": "ccaaf800c50661d49b4365bccb03570e7193910e04ef30b00a20f4ae40ae067d",
+      "published_sha256": "22c2308d00dedc6eb96d017ac9e3e08b0d2d54c10c0a6789621020e03a40203f"
+    }
+  ]
+}

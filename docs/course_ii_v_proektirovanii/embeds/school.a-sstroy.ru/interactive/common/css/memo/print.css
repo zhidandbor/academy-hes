@@ -1,0 +1,456 @@
+:root{
+  --scale: 1.334;
+  --scale-font: 1.65;
+}
+
+@media print {
+  @page {
+    /* size: A4; */
+    margin: 0 20px; }
+  .sidebar {
+    display: none; }
+  .note {
+    width: 280px !important;
+    height: 396px;
+    max-height: 396px;
+    min-height: unset;
+    margin: 10px 0;
+    -webkit-print-color-adjust: exact;
+            color-adjust: exact;
+    background-color: #fff; }
+
+  .print__A4.note.note--A4 {
+    width: 21cm !important;
+    height: 29.7cm  !important;
+    max-height: 30cm;
+    padding: 3.8% !important;
+  }
+
+  .note--A4 .note__logo-img {
+    height: 18px; 
+  }
+
+  .note--A4 .note--A6 .note__head {
+    font-size: 2.02vw;
+    line-height: 2.69vw;
+  }
+
+  .note--A4 .note__head .note__company > textarea {
+    font-size: 2.02vw;
+    line-height: 2.69vw;
+  }
+    
+  .note--A6,
+  .note--horizontal {
+    width: 396px !important;
+    height: 560px;
+    max-height: 560px; }
+    .note--A6 .note__head,
+    .note--horizontal .note__head {
+      border-width: 1px; }
+    .note--A6 .note__company > textarea,
+    .note--horizontal .note__company > textarea {
+      margin-top: -1.1px;
+      font-size: 10.66px; }
+    .note--A6 .note__logo-img,
+    .note--horizontal .note__logo-img {
+      height: 8px; }
+    .note--A6 .note__body,
+    .note--horizontal .note__body {
+      border-width: 1px; }
+    .note--A6 .note__title,
+    .note--horizontal .note__title {
+      margin-bottom: 5.33px;
+      font-size: 17.33px; }
+    .note--A6 .note__intro,
+    .note--horizontal .note__intro {
+      margin-top: 0 !important;
+      margin-bottom: 13.33px;
+      font-size: 10.66px; }
+    .note--A6 .note__intro--attention::before,
+    .note--horizontal .note__intro--attention::before {
+      width: 9.33px;
+      height: 9.33px;
+      margin-right: 2.66px;
+      font-size: 10.66px; }
+    .note--A6 .note__rubric,
+    .note--horizontal .note__rubric {
+      margin-bottom: 5.33px;
+      font-size: 10.66px; }
+    .note--A6 .note__rubric:not(:first-of-type),
+    .note--horizontal .note__rubric:not(:first-of-type) {
+      margin-top: 6.66px;
+      padding-top: 2.66px;
+      border-width: 1px; }
+    .note--A6 div.note__attention::before,
+    .note--horizontal div.note__attention::before {
+      width: 9.33px !important;
+      height: 9.33px !important;
+      font-size: 10.66px !important; }
+  .note--horizontal {
+    height: 280px; }
+    .note--horizontal .note__img {
+      -webkit-flex-basis: 158px;
+          -ms-flex-preferred-size: 158px;
+              flex-basis: 158px; }
+    .note--horizontal .note__title + .note__intro {
+      margin-top: 0; }
+  .note__head {
+    height: 17.33px;
+    border-width: 1px; }
+  .note__company {
+    height: 13.33px;
+    font-size: 10.66px; }
+    .note__company > textarea {
+      margin-top: 0;
+      font-size: 10.66px; }
+  .note__logo-img {
+    height: 8px; }
+  .note__body {
+    border-width: 1px; }
+  .note__title {
+    margin-bottom: 16.666px;
+    font-size: 17.33px; }
+    .note__title:not(.hidden) + .note__intro {
+      margin-top: -8.666px; }
+    .note__title + .note__intro {
+      margin-top: -8.666px; }
+  .note__intro {
+    margin-bottom: 14px;
+    font-size: 10.66px; }
+  .note__intro--attention::before {
+    width: 8.66px;
+    height: 8.66px;
+    margin-right: 2.66px;
+    font-size: 10px; }
+  .note__column .img-list > li {
+    margin-bottom: 2.66px;
+    font-size: 10.66px; }
+  .note__rubric {
+    margin-bottom: 5.33px;
+    font-size: 10.66px; }
+  .note__rubric:not(:first-of-type) {
+    margin-top: 6.66px;
+    padding-top: 2.66px;
+    border-width: 1px; }
+  ul + ul {
+    margin-top: 6.66px;
+    padding-top: 5.33px;
+    border-width: 1px; }
+  [class^="note__list note__list--"] .note__list > li::before {
+    width: 33.33px !important;
+    height: 29.33px !important;
+    padding-top: 5.33px; }
+  .note__list .note__attention::before {
+    width: 36.66px;
+    height: 31.33px;
+    padding-top: 5.33px; }
+  .note__list > li {
+    margin-bottom: 8px; }
+    .note__list > li::before {
+      width: 30.66px;
+      height: 26.66px;
+      margin-right: 6.66px;
+      padding: 4px 0 0;
+      font-size: 28px; }
+    .note__list > li.note__double-digit::before {
+      padding-top: 4px;
+      font-size: 20px; }
+    .note__list > li.note__item--editable .note__item-content {
+      -webkit-flex-basis: -webkit-calc(100% - 40px);
+          -ms-flex-preferred-size: calc(100% - 40px);
+              flex-basis: calc(100% - 40px);
+      max-height: 31px !important; }
+  .note__item-content {
+    font-size: 10.66px; }
+  li.note__attention .img-list__content::before,
+  div.note__attention::before {
+    width: 9.33px !important;
+    height: 9.33px !important;
+    font-size: 10.66px !important;
+    margin-right: 2.66px !important; }
+  .checklist > li {
+    margin-bottom: 4px;
+    padding-left: 13.33px;
+    font-size: 10.66px; }
+    .checklist > li::before {
+      width: 9.33px;
+      height: 9.33px; }
+    .checklist > li.checked::before {
+      top: -2.8933px;
+      width: 12.166px;
+      height: 13.16px; }
+  .small-list > li {
+    margin-bottom: 4px;
+    font-size: 10.66px; }
+  .small-list--white li::before,
+  .small-list--black li::before {
+    width: 9.33px;
+    height: 9.33px;
+    margin-right: 2.66px;
+    font-size: 10.66px; }
+  .note:not([class^="note note--"]) .img-list > li {
+    margin-bottom: 4px;
+    font-size: 10.66px; }
+  .note:not([class^="note note--"]) .img-list__img {
+    -webkit-flex-basis: 73.33px;
+        -ms-flex-preferred-size: 73.33px;
+            flex-basis: 73.33px;
+    height: 44px;
+    margin-right: 5.33px; }
+  .note:not([class^="note note--"]) .img-list--white .img-list__content::before,
+  .note:not([class^="note note--"]) .img-list--black .img-list__content::before {
+    width: 9.33px;
+    height: 9.33px;
+    margin-right: 2.66px;
+    font-size: 10.66px; }
+  .img-list--black .img-list__content::before,
+  .img-list--white .img-list__content::before {
+    width: 9.33px;
+    height: 9.33px;
+    margin-right: 2.66px;
+    font-size: 10.66px; }
+  .img-list--big-img .img-list__img {
+    -webkit-flex-basis: 106.66px;
+        -ms-flex-preferred-size: 106.66px;
+            flex-basis: 106.66px;
+    height: 66.66px; }
+  .img-list > li {
+    margin-bottom: 4px;
+    font-size: 10.66px; }
+  .img-list__item--wide,
+  .img-list__item--narrow {
+    font-size: 10.66px; }
+    .img-list__item--wide .img-list__img,
+    .img-list__item--narrow .img-list__img {
+      margin-bottom: 4px; }
+  .img-list__item--wide {
+    -webkit-flex-basis: 236px;
+        -ms-flex-preferred-size: 236px;
+            flex-basis: 236px;
+    margin-right: 5.33px; }
+    .img-list__item--wide .img-list__img {
+      height: 116px; }
+  .img-list__item--narrow {
+    -webkit-flex-basis: -webkit-calc(100% - 242px);
+        -ms-flex-preferred-size: calc(100% - 242px);
+            flex-basis: calc(100% - 242px); }
+    .img-list__item--narrow .img-list__img {
+      width: 85.33px;
+      -webkit-flex-basis: 74.66px;
+          -ms-flex-preferred-size: 74.66px;
+              flex-basis: 74.66px; }
+  .img-list__img {
+    -webkit-flex-basis: 73.33px;
+        -ms-flex-preferred-size: 73.33px;
+            flex-basis: 73.33px;
+    height: 44px;
+    margin-right: 5.33px; }
+  li.note__attention .img-list__content {
+    margin-top: 3px; }
+  .rules .note__attention {
+    margin-top: 2.66px; }
+  .rules > div {
+    margin-bottom: 8px;
+    font-size: 10.66px; }
+  .rules__img {
+    height: 80px;
+    margin-bottom: 5.33px; }
+  .rules__item--wide {
+    font-size: 10.66px; }
+    .rules__item--wide .rules__img {
+      -webkit-flex-basis: 258.66px;
+          -ms-flex-preferred-size: 258.66px;
+              flex-basis: 258.66px;
+      height: 120px;
+      margin-right: 5.33px; }
+  .small-subject > li {
+    font-size: 10.66px; }
+    .small-subject > li:first-child {
+      margin-right: 6.66px; }
+  .small-subject > li > img {
+    -webkit-flex-basis: 86.66px;
+        -ms-flex-preferred-size: 86.66px;
+            flex-basis: 86.66px;
+    margin-left: 6.66px; }
+  .big-subject__column {
+    font-size: 10.66px; }
+    .big-subject__column:first-child {
+      margin-right: 6.66px; }
+      .big-subject__column:first-child > li > img {
+        margin-bottom: 6.66px; }
+    .big-subject__column:last-child > li {
+      margin-bottom: 6.66px; }
+      .big-subject__column:last-child > li > img {
+        width: 86.66px;
+        margin-right: 6.66px; }
+  .print-hidden {
+    display: none !important; } }
+
+  .print__A4.note.note--A4 {
+    width: 21cm !important;
+    height: 29.7cm  !important;
+    max-height: 30cm;
+    padding: calc(var(--scale)*0.847cm) !important;
+    margin-right: 0px;
+    display: flex;
+    gap: calc(var(--scale)*0.423cm);
+    overflow: visible;
+  }
+  
+  .print__A4.note--A4 .note__head{
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+    padding-bottom: 0.246912114cm;
+    border-bottom: 0.0352731591cm dotted #000;
+  }
+  
+  .print__A4.note--A4 .note__company {
+    line-height: 0;
+  }
+  
+  .print__A4.note--A4 .note__company > textarea{
+    font-size: calc(var(--scale-font)*0.317cm);
+    line-height: calc(var(--scale-font)*0.413cm);
+    padding: 0px;
+  }
+  
+  .print__A4.note--A4 .note__logo-img{
+    height: calc(var(--scale)*0.317cm);
+  }
+  
+  .print__A4.note--A4 .note__logo{
+    height: calc(var(--scale)*0.317cm);
+    padding-top: 0;
+  }
+  
+  .print__A4.note--A4 .note__title {
+    margin-bottom: calc(var(--scale)*0.053cm);
+    font-size: calc(var(--scale-font)*0.456cm);
+    line-height: calc(var(--scale-font)*0.571cm);
+    word-break: break-word;
+    font-weight: 600;
+  
+  }
+  
+  .print__A4.note--A4 .note__intro{
+    margin-bottom: 0;
+    font-size: calc(var(--scale-font)*0.324cm);
+    line-height: calc(var(--scale-font)*0.447cm);
+    word-break: break-word;
+  }
+
+    
+  .print__A4.note--A4 .note__intro-content{
+    font-size: calc(var(--scale-font)*0.324cm);
+    line-height: calc(var(--scale-font)*0.447cm);
+  }
+
+  .print__A4.note--A4 .content,
+  .print__A4.note--A4 .note__list{
+    margin-top: calc(var(--scale)*0.317cm);
+  }
+
+  .print__A4.note--A4 .content{
+    overflow: hidden;
+    max-height: 100%;
+  }
+  
+  .print__A4.note--A4 .note__list>li{
+    margin-bottom: calc(var(--scale)*0.317cm);
+  }
+  
+  .print__A4.note--A4 .note__list>li::before{
+    min-width: auto;
+    margin-right: calc(var(--scale)*0.212cm);
+    font-size: 0.5575558cm;
+    width: calc(var(--scale)*0.9cm);
+    height: calc(var(--scale)*0.847cm);
+    padding-top: calc(var(--scale)*0.12cm);
+  }
+  
+  .print__A4.note--A4 .note__item-content{
+    font-size: calc(var(--scale-font)*0.344cm);
+    line-height: calc(var(--scale-font)*0.413cm);
+  }
+  
+  .print__A4.note--A4 .note__body{
+    padding-bottom: 0.56437055cm;
+    border-bottom: 0.0352731591cm dotted #000;
+    height: 100%;
+  }
+
+  .print__A4.note--A4 .note__intro--attention::before{
+    margin-right: calc(var(--scale)*0.106cm);
+    width: calc(var(--scale)*0.317cm);
+    height: calc(var(--scale)*0.317cm);
+    padding-top: 0.2cm;
+  }
+
+  .print__A4.note--A4 .img-list--black .img-list__content::before,
+  .print__A4.note--A4 .img-list--white .img-list__content::before,
+  .print__A4.note--A4 .small-list--white>li::before,
+  .print__A4.note--A4 .small-list--black>li::before {
+    width: 24px;
+    height: 20px;
+    font-size: 18.2px;
+    margin-right: 8px;
+  }
+
+
+  .print__A4.note--A4 .small-list>li{
+    font-size: calc(var(--scale-font)* 0.322cm);
+    line-height: calc(var(--scale-font)* 0.447cm);
+    margin-bottom: calc(var(--scale)*0.212cm);
+    padding-left: 36px;
+  }
+  
+  .print__A4.note--A4 .checklist>li{
+    font-size: calc(var(--scale-font)* 0.322cm);
+    line-height: calc(var(--scale-font)*0.447cm);
+    margin-bottom: calc(var(--scale)*0.212cm);
+  }
+
+  .print__A4.note--A4 .checklist>li::before {
+    width: calc(var(--scale)*0.423cm);
+    height: calc(var(--scale)*0.423cm);
+  }
+
+  .print__A4.note--A4 .checklist>li.checked::before {
+    top: 0;
+    width: calc(var(--scale)*0.463cm);
+    height: calc(var(--scale)*0.463cm);
+    background-size: cover;
+    background-position-y: -0.1cm;
+  }
+
+  .print__A4.note--A4 .note__rubric:not(:first-of-type){
+    margin-top: calc(var(--scale)*0.317cm);
+    border-top: 0.026cm dotted #000;
+    padding-top: calc(var(--scale)*0.317cm);
+    margin-bottom: calc(var(--scale-font) * 0.212cm);
+    font-size: calc(var(--scale-font) * 0.37cm);
+    line-height: calc(var(--scale-font) * 0.519cm);
+    font-weight: bold;
+  }
+
+  .print__A4.note--A4 .note__rubric{
+    font-size: calc(var(--scale-font) * 0.37cm);
+    line-height: calc(var(--scale-font) * 0.519cm);
+    font-weight: bold;
+    margin-bottom: calc(var(--scale-font) * 0.212cm);
+  }
+
+  .print__A4.note--A4 .img-list__content{
+    font-size: calc(var(--scale-font)*0.324cm);
+    line-height: calc(var(--scale-font)*0.447cm);
+  }
+
+  .print__A4.note--A4 .note__body .note__list > li.note__item--editable .note__item-content {
+    max-height: unset !important;
+    height: calc(var(--scale)*1.463cm);
+    -webkit-flex-basis: -webkit-calc(100% - 60px);
+    -ms-flex-preferred-size: calc(100% - 60px);
+    flex-basis: calc(100% - 60px);
+  }

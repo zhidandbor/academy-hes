@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-27",
+  "scope": "source_lesson_text_keyword_scan_and_official_designation_check",
+  "hits": [
+    {
+      "lesson": "lesson-01-06",
+      "source_url": "https://school.a-sstroy.ru/programs/226802/74dab021-12bc-4434-9cfc-139d03d72e72/9234a3ac-b036-4433-9d16-4ef114d95de6",
+      "match": "ГОСТ 51872-2024",
+      "context": "о место съемки участка или конструкции.Кроме того, в соответствии с требованием ГОСТ 51872-2024 на листе указываются данные о системе координат, системе высот и оборудовании, "
+    }
+  ],
+  "review": {
+    "lesson": "lesson-01-06",
+    "source_text": "ГОСТ 51872-2024",
+    "official_designation": "ГОСТ Р 51872-2024",
+    "status": "Действует",
+    "effective_date": "2024-11-01",
+    "official_url": "https://protect.gost.ru/gost/details/201cb77e-3cec-42a6-a47e-bad3caac224b",
+    "provision_check": "Exact clause about sheet data was not verified against the full official text; REVIEW_REQUIRED",
+    "scope_limit": "Targeted designation/status check, not full legal review"
+  }
+}

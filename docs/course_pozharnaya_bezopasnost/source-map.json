@@ -1,0 +1,205 @@
+{
+  "course": {
+    "title": "Обеспечение пожарной безопасности при строительстве",
+    "source_url": "https://school.a-sstroy.ru/programs/225021",
+    "local": "index.html"
+  },
+  "topics": [
+    {
+      "position": 1,
+      "title": "Как обеспечить пожарную безопасность на строительных объектах",
+      "block": "Как обеспечить пожарную безопасность на строительных объектах",
+      "source_url": "https://school.a-sstroy.ru/programs/225021/efad7f17-382c-4292-85c2-fb170b276ef0/6c783e74-e2fc-42cf-ae2e-0b9374d7ad8e",
+      "local": "modules/01.html",
+      "lessons": [
+        {
+          "position": 1,
+          "title": "Как организовать стройплощадку по требованиям ПБ",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/efad7f17-382c-4292-85c2-fb170b276ef0/6c783e74-e2fc-42cf-ae2e-0b9374d7ad8e",
+          "local": "lessons/01-01.html",
+          "frames": [
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb11.html",
+              "title": "interactive-internal"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Опасные факторы и особенности развития пожара",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/efad7f17-382c-4292-85c2-fb170b276ef0/2a93d39b-fe2e-4a4f-b5c8-3979a21e9a5d",
+          "local": "lessons/01-02.html",
+          "frames": [
+            {
+              "src": "https://school.a-sstroy.ru/interactive/doc/210d39b3-779a-41ea-a288-a5907c913994/index.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://school.a-sstroy.ru/interactive/doc/190ec225-72d5-4224-9a5d-b17f0bec218a/index.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb3.html",
+              "title": "interactive-internal"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Как применять первичные средства пожаротушения",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/efad7f17-382c-4292-85c2-fb170b276ef0/bb2f381e-69ec-4bc6-8a14-00d5f56f3aa0",
+          "local": "lessons/01-03.html",
+          "frames": [
+            {
+              "src": "https://school.a-sstroy.ru/interactive/doc/ce6935df-6854-4fc0-9670-9fc1db684cfa/index.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://school.a-sstroy.ru/interactive/doc/6f40115d-18fe-4471-b626-ef480c892ebf/index.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb9.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb16.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://view.genially.com/67d725df65e3607335df7959",
+              "title": "interactive-external"
+            },
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb2.html",
+              "title": "interactive-internal"
+            }
+          ]
+        },
+        {
+          "position": 4,
+          "title": "Эвакуация: пути, планы и практическая отработка",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/efad7f17-382c-4292-85c2-fb170b276ef0/8e9be3ec-2fa0-46a6-97e6-9731fb234521",
+          "local": "lessons/01-04.html",
+          "frames": [
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb4.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb15.html",
+              "title": "interactive-internal"
+            }
+          ]
+        },
+        {
+          "position": 5,
+          "title": "Как проводить и оформлять огневые работы",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/efad7f17-382c-4292-85c2-fb170b276ef0/bceb95d5-4fa1-44ac-b5d0-c9687059732d",
+          "local": "lessons/01-05.html",
+          "frames": [
+            {
+              "src": "https://school.a-sstroy.ru/interactive/doc/fe01440a-4ace-4bb3-8841-2f848123f3dc/index.html",
+              "title": "interactive-internal"
+            },
+            {
+              "src": "https://school.a-sstroy.ru/interactive/doc/7ce2a224-0d96-4458-8f42-f60b29748dc6/index.html",
+              "title": ""
+            },
+            {
+              "src": "https://grigoryevalexandra-lgtm.github.io/interactive/pb14.html",
+              "title": "interactive-internal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Как эффективно использовать системы противопожарной защиты",
+      "block": "Как эффективно использовать системы противопожарной защиты",
+      "source_url": "https://school.a-sstroy.ru/programs/225021/06b88718-b35b-4c21-a16c-58ac606fe8b3/6fdf9c27-1453-4b5c-a0b1-1d448315159c",
+      "local": "modules/02.html",
+      "lessons": [
+        {
+          "position": 1,
+          "title": "Автоматическая пожарная сигнализация. Основные сведения",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/06b88718-b35b-4c21-a16c-58ac606fe8b3/6fdf9c27-1453-4b5c-a0b1-1d448315159c",
+          "local": "lessons/02-01.html",
+          "frames": []
+        },
+        {
+          "position": 2,
+          "title": "Система оповещения и управления эвакуацией людей при пожаре",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/06b88718-b35b-4c21-a16c-58ac606fe8b3/e1732459-fb8d-4425-9345-21a9b2185bcc",
+          "local": "lessons/02-02.html",
+          "frames": [
+            {
+              "src": "https://view.genially.com/67d723b91bac69cfd120f673",
+              "title": "interactive-external"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Автоматические установки пожаротушения",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/06b88718-b35b-4c21-a16c-58ac606fe8b3/72248a6e-26e2-4a8b-8367-402776c6633a",
+          "local": "lessons/02-03.html",
+          "frames": []
+        },
+        {
+          "position": 4,
+          "title": "Огнезащитная обработка",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/06b88718-b35b-4c21-a16c-58ac606fe8b3/ca94a1d6-45f6-4a02-ac7e-646ac0d2ad2b",
+          "local": "lessons/02-04.html",
+          "frames": []
+        },
+        {
+          "position": 5,
+          "title": "Противодымная вентиляция",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/06b88718-b35b-4c21-a16c-58ac606fe8b3/f4eb7ba2-64a4-4026-8ca7-7c76857f8005",
+          "local": "lessons/02-05.html",
+          "frames": []
+        },
+        {
+          "position": 6,
+          "title": "Исполнительная документация СПЗ",
+          "source_url": "https://school.a-sstroy.ru/programs/225021/06b88718-b35b-4c21-a16c-58ac606fe8b3/ad637c88-c293-41c6-a9d2-8ffaae7c4a14",
+          "local": "lessons/02-06.html",
+          "frames": [
+            {
+              "src": "https://school.a-sstroy.ru/interactive/doc/3cbf54a8-1353-4c97-9f08-0be6a40e30a6/index.html",
+              "title": "interactive-internal"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме 1",
+      "local": "tests/index.html#topic-1",
+      "source_url": "https://school.a-sstroy.ru/programs/225021",
+      "availability": "online_server_logic"
+    },
+    {
+      "title": "Тест по теме 2",
+      "local": "tests/index.html#topic-2",
+      "source_url": "https://school.a-sstroy.ru/programs/225021",
+      "availability": "online_server_logic"
+    },
+    {
+      "title": "Тренировка перед итоговым тестом. По желанию!",
+      "local": "tests/index.html#practice",
+      "source_url": "https://school.a-sstroy.ru/programs/225021",
+      "availability": "online_server_logic"
+    },
+    {
+      "title": "Итоговый тест",
+      "local": "tests/index.html#final",
+      "source_url": "https://school.a-sstroy.ru/programs/225021",
+      "availability": "online_server_logic"
+    }
+  ]
+}

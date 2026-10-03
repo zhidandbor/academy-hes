@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="google" content="notranslate" />
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '44b1ee32-e509-4c8b-99f4-bb082126a000';
+    window.docName = "1";
+    window.locale = 'ru';
+    window.id = '3291';
+    window.moduleId = '243';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"images/1.png","mainText":"Проблема:<br />Огромное количество каталогов и сайтов","textHelper":"","type":"qa","buttons":[{"label":"Смотреть решение","isCorrect":"true"}],"result":{"src":"","text":"ИИ может обобщить информацию из десятков источников за минуту"},"nextButtonLabel":"Следующий вопрос"},{"img":"images/2.png","mainText":"Проблема:<br />Сложность поиска аналогов (особенно импортозамещение)","textHelper":"","type":"qa","buttons":[{"label":"Смотреть решение","isCorrect":"true"}],"result":{"src":"","text":"Поисковые системы с ИИ (Perplexity) находят аналоги с учётом технических характеристик"},"nextButtonLabel":"Следующий вопрос"},{"img":"images/3.png","mainText":"Проблема:<br />Необходимость сравнивать технические параметры","textHelper":"","type":"qa","buttons":[{"label":"Смотреть решение","isCorrect":"true"}],"result":{"src":"","text":"Модели умеют извлекать характеристики из текста и составлять таблицы сравнения"},"nextButtonLabel":"Следующий вопрос"},{"img":"images/4.png","mainText":"Проблема:<br />Частое отсутствие единого формата описания","textHelper":"","type":"qa","buttons":[{"label":"Смотреть решение","isCorrect":"true"}],"result":{"src":"","text":"ИИ может нормализовать данные (привести к единой структуре)"},"nextButtonLabel":"Следующий вопрос"},{"img":"images/5.png","mainText":"Проблема:<br />Риск использования устаревших или снятых с производства моделей","textHelper":"","type":"qa","buttons":[{"label":"Смотреть решение","isCorrect":"true"}],"result":{"src":"","text":"ИИ с доступом в интернет проверяет актуальность информации (Perplexity, ChatGPT с Web Browsing)"},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = "";
+    var subtitle = "";
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

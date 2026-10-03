@@ -1,0 +1,41 @@
+[
+  {
+    "lesson": 1,
+    "source_url": "https://view.genially.com/689f01dec4eaa4107688a8c9",
+    "status": "online only; external Genially material, no confirmed authorized export"
+  },
+  {
+    "lesson": 1,
+    "source_url": "https://view.genially.com/689f28a057ac5b852cf5a916",
+    "status": "online only; external Genially material, no confirmed authorized export"
+  },
+  {
+    "lesson": 1,
+    "source_url": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+    "status": "online only; external Genially material, no confirmed authorized export"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/226017",
+    "kind": "test",
+    "title": "Тест по теме 1",
+    "status": "listed in program; questions not exposed in accessible state"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/226017",
+    "kind": "test",
+    "title": "Тест по теме 2",
+    "status": "listed in program; questions not exposed in accessible state"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/226017",
+    "kind": "test",
+    "title": "Тренировка перед итоговым тестом",
+    "status": "listed in program; questions not exposed in accessible state"
+  },
+  {
+    "source_url": "https://school.a-sstroy.ru/programs/226017",
+    "kind": "test",
+    "title": "Итоговый тест",
+    "status": "listed in program; questions not exposed in accessible state"
+  }
+]

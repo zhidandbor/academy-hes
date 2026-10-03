@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Вертикальный плеер (iPhone)</title>
+    <style>
+        :root {
+            /* Подгонка внутреннего экрана под маску iPhone */
+            --v-top: 3%;      
+            --v-left: 7%;     
+            --v-width: 86%;   
+            --v-height: 94%;  
+            --v-round: 40px; 
+        }
+
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #ffffff;
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+        }
+
+        .main-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 50px;
+            width: 100%;
+            max-width: 1000px;
+        }
+
+        /* КОРПУС ТЕЛЕФОНА */
+        .phone-wrapper {
+            position: relative;
+            width: 280px;
+            height: 570px;
+            background: transparent; 
+            border: none;
+            flex-shrink: 0;
+            z-index: 2;
+        }
+
+        .phone-mask {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 10;
+            pointer-events: none;
+            object-fit: contain;
+        }
+
+        /* ЭКРАН */
+        .screen-area {
+            position: absolute;
+            top: var(--v-top);
+            left: var(--v-left);
+            width: var(--v-width);
+            height: var(--v-height);
+            background: #000000; 
+            overflow: hidden;
+            border-radius: var(--v-round);
+            z-index: 1;
+        }
+
+        .video-track {
+            display: flex;
+            width: 200%;
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.65, 0, 0.35, 1);
+        }
+
+        video {
+            width: 50%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* ТЕКСТОВАЯ ПАНЕЛЬ */
+        .carousel-side {
+            flex: 1;
+            max-width: 420px;
+        }
+
+        .prompt-box {
+            background: #fcfcfc;
+            border: 1px solid #eee;
+            border-radius: 25px;
+            padding: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.02);
+        }
+
+        .prompt-item { display: none; }
+        .prompt-item.active { display: block; animation: fadeIn 0.4s ease; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+        .header {
+            font-size: 11px;
+            font-weight: 700;
+            color: #000000; 
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 10px;
+        }
+
+        .text {
+            font-size: 15px;
+            line-height: 1.5;
+            color: #000000;
+            font-weight: 500;
+            margin-bottom: 25px;
+            min-height: 110px;
+        }
+
+        .nav { display: flex; gap: 12px; }
+
+        .btn {
+            width: 42px;
+            height: 42px;
+            border: 1px solid #000000;
+            border-radius: 50%;
+            background: #fff;
+            color: #000000;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: #000000;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<div class="main-container">
+    <div class="phone-wrapper">
+        <img src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-33ec1aa2879bb2cb84a357c2d7bf4a96.png" class="phone-mask" alt="iPhone">
+        <div class="screen-area">
+            <div class="video-track" id="videoTrack">
+                <video id="v0" playsinline muted loop>
+                    <source src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-1a40c4bf710e723094ce4cf8d1e0b3ed.mp4" type="video/mp4">
+                </video>
+                <video id="v1" playsinline muted loop>
+                    <source src="https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-737cd107b8fae9ab1b41f32984f47ffe.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+    </div>
+
+    <div class="carousel-side">
+        <div class="prompt-box">
+            <div id="p0" class="prompt-item active">
+                <div class="header">Grok </div>
+                <div class="text">Grok сразу уточняет недостающие данные и не переходит к созданию шаблона пояснительной записки.</div>
+            </div>
+            <div id="p1" class="prompt-item">
+                <div class="header">Qwen </div>
+                <div class="text">Qwen же не только запрашивает недостающие ему данные, но и готовит шаблон на основе уже имеющихся данных. Тем самым – в следующем запросе можно уже скорректировать и форму представления данных пояснительной записки.</div>
+            </div>
+
+            <div class="nav">
+                <button class="btn" onclick="move(-1)">←</button>
+                <button class="btn" onclick="move(1)">→</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let cur = 0;
+    const track = document.getElementById('videoTrack');
+    const prompts = [document.getElementById('p0'), document.getElementById('p1')];
+    const videos = [document.getElementById('v0'), document.getElementById('v1')];
+
+    // Автостарт первого видео
+    videos[0].play().catch(e => console.log("Auto-play blocked"));
+
+    function move(dir) {
+        videos[cur].pause();
+        videos[cur].currentTime = 0;
+
+        cur = (cur + dir + 2) % 2;
+        
+        track.style.transform = `translateX(-${cur * 50}%)`;
+        prompts.forEach((p, i) => p.classList.toggle('active', i === cur));
+        
+        videos[cur].play().catch(e => console.log("Play error"));
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'e1b3c411-c41c-463c-be88-d845dad3b778';
+    window.docName = 'ГЕОДЕЗИЯ';
+    window.locale = 'ru';
+    window.id = '2343';
+    window.moduleId = '243';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/images/1.png","mainText":"«Хитрый глаз»","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"Геодезист"},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/images/2.png","mainText":"Пошли в натуру","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"Выходим работать на местность"},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/images/3.png","mainText":"Штангист (Фиксик)","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"Помощник геодезиста"},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/images/4.png","mainText":"Рисовалка","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"Графическая программа для обработки данных и выполнения схем"},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/images/5.png","mainText":"Портянка","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"Проект"},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/images/6.png","mainText":"Плюс-минус трамвай","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"Большие допуски при работе"},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/images/7.png","mainText":"Живопись","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"Схема точек при съемке"},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

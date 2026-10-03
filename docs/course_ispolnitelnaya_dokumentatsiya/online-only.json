@@ -1,0 +1,1269 @@
+[
+  {
+    "lesson": "lessons/01.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a15e8447-89d1-478b-a30a-5f0b242d85ef/08c72d91-073a-41c0-b6aa-dc59ccdf7220",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/01.html",
+    "sourceUrl": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/01.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/02.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/b63f4dad-bfef-4909-9b3e-48d4bd1753fb/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/03.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a15e8447-89d1-478b-a30a-5f0b242d85ef/6cae8dbb-157e-4b1b-8330-60992c045d2e",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/03.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/d5d03f21-9300-4a77-b52e-5877cc3403ac/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/03.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/f8594407-ce8a-423d-81d5-df807fe0d8e0/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/04.html",
+    "sourceUrl": "https://kinescope.io/embed/ghaJs1B3Msx2VEKZzSyD1B",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/04.html",
+    "sourceUrl": {
+      "src": "https://kinescope.io/embed/ghaJs1B3Msx2VEKZzSyD1B",
+      "title": "Внешний видео плеер"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/04.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/aad5b746-9cc2-464d-9838-e6022e7f399a/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/04.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/10f1a24e-8100-47c1-80a8-47467389ba05/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/04.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/2b17e802-93aa-4f5d-b1b0-19ede2b7eb1b/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/05.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/5ec6eece-4b2b-4c61-adf1-575637f1ab3c/2cd7b9d0-cff6-43f5-b2e4-faecca162e04",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/05.html",
+    "sourceUrl": "https://view.genially.com/674456b2181fbb5ce2eb44f5",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/05.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/940bbcd3-d463-48d3-beed-24ceb8851dd4/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/05.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/1ef290a9-25d3-4e38-a8b8-fd1a2d97a15b/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/05.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/a8497d8e-ae7f-4238-85ed-6c9c59cad2f2/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/05.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8a13e4fc-f555-4bf4-93a1-d16401e3d927/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/05.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/674456b2181fbb5ce2eb44f5",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/06.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/5ec6eece-4b2b-4c61-adf1-575637f1ab3c/bce06329-996a-4489-a766-006d75e5de2d",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/06.html",
+    "sourceUrl": "https://view.genially.com/674456b2181fbb5ce2eb44f5",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/06.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/0e620bc7-f526-4ab3-95da-ee3b85f5d794/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/06.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8eaad81b-9042-4d39-a99e-9139dd28de3f/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/06.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/177ff17d-0f00-4acf-9bd1-e40d6967939e/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/06.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8a13e4fc-f555-4bf4-93a1-d16401e3d927/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/06.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/674456b2181fbb5ce2eb44f5",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/07.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/5ec6eece-4b2b-4c61-adf1-575637f1ab3c/8ca28e5d-c6e1-4213-8b56-bcda93b3472e",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/07.html",
+    "sourceUrl": "https://view.genially.com/67875c1d35acf924e50447ad",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/07.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/d36776b6-ded7-4326-a653-3744015ba57f/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/07.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8eaad81b-9042-4d39-a99e-9139dd28de3f/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/07.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8a13e4fc-f555-4bf4-93a1-d16401e3d927/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/07.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/67875c1d35acf924e50447ad",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/08.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/c76a2cb2-e35b-49aa-bc36-deebb808b628/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/08.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/b7428577-8c00-4c2b-b642-3af922962ec1/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/09.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/5ec6eece-4b2b-4c61-adf1-575637f1ab3c/5e27bb05-4049-4c3b-800c-abe02f6bdc84",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/09.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/920d4f9c-3b80-42b3-9522-0206d463b9e5/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/09.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/929f3dc2-3dc9-42d2-b621-6b9a9d099f5a/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/10.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/3715d1ae-99ce-4848-b74b-49c59730afa2/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/10.html",
+    "sourceUrl": {
+      "src": "https://1sstroy.ru/interactive/doc/c948ca56-7c13-4042-80fe-73e7fb7f6854/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/10.html",
+    "sourceUrl": {
+      "src": "https://1sstroy.ru/interactive/doc/20690d1d-61f8-4f21-9794-412d33f4d704/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/10.html",
+    "sourceUrl": {
+      "src": "https://1sstroy.ru/interactive/doc/06ff23e4-bf7b-4f21-b62e-a66691e7a44a/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/10.html",
+    "sourceUrl": {
+      "src": "https://1sstroy.ru/interactive/doc/7288b54f-d9ea-4e88-8021-d4fad7ed1d25/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/11.html",
+    "sourceUrl": {
+      "src": "https://1sstroy.ru/interactive/doc/29e7e48a-a5a2-4d5b-b210-20a21b23074b/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/11.html",
+    "sourceUrl": {
+      "src": "https://1sstroy.ru/interactive/doc/53ad8e70-650a-4240-b173-f424fa126b63/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/11.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/bc1affbe-1074-4b04-aa30-6aa876ca468f/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/12.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pa4ax809525",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/12.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pojhdfy3t25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/12.html",
+    "sourceUrl": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/12.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/848eb551-b33f-4f8f-9c06-286cc721399e/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/12.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pa4ax809525",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/12.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pojhdfy3t25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/12.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/690498f7ddfd95cd4a64f984",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/13.html",
+    "sourceUrl": "https://learningapps.org/watch?v=p3zq9urgn25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/13.html",
+    "sourceUrl": "https://view.genially.com/68ee72464c940173388a9bec",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/13.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=p3zq9urgn25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/13.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/30549da3-10ea-4b4e-a32b-4c79dd112e22/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/13.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/68ee72464c940173388a9bec",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/14.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/bd4d6567-c8e6-401c-ab08-956f831283a6/ceaa6d06-97d9-4d4e-9193-8a47822a2c61",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/14.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pi2wmav8525",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/14.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/3a015856-5e33-404f-946f-bdb67fd23ab5/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/14.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/7df53e00-ce7f-484e-b190-d94229c42af0/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/14.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/65c1ec4e-64fd-4b37-8505-2ffa15f31a8e/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/14.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/06c2588b-ac04-4f0f-88da-5d73121e4ffb/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/14.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pi2wmav8525",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/15.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/bd4d6567-c8e6-401c-ab08-956f831283a6/f8c733a5-cbb0-4395-ba08-d98f24750efa",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/15.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pwf3beq8j25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/15.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/801f04f8-c23c-4dd5-8649-447aa69d68fe/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/15.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/0eb56968-80ee-431a-a1ca-45090fb8fe8a/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/15.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pwf3beq8j25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/15.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/43946a03-45ea-48fe-b82b-9f09f2a1e12d/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/16.html",
+    "sourceUrl": "https://learningapps.org/watch?v=p5hzk0t7n25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/16.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/bd4d6567-c8e6-401c-ab08-956f831283a6/7ed7cbbd-3400-4960-83f4-e91a1bec1085",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/16.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pmc0w1szt25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/16.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/1d5ef9d9-390f-4835-b51c-4fbd6afe58bd/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/16.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=p5hzk0t7n25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/16.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pmc0w1szt25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/17.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/11916d8c-4d8a-45ec-ae9a-a46f8d82a603/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/17.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/57feabf6-20ac-409a-bb02-fa42de2c74dd/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/17.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/97981505-9048-43c6-912e-2451e63f371e/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pvn3g1b4t25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/e0134701-4941-4d62-99d8-d07f99427d3b/3ead2a46-5c0c-459d-ab65-f666c23ddc72",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/cf301939-dd25-4c7a-a8b5-87b47cbae53b/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/96a593de-a818-4bfb-a63e-9f1af35b75e7/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/7f1ad568-5076-4d42-8eff-4673c2df4f0d/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/af3b1ab4-aa8c-4993-a5a3-85316bae0170/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pvn3g1b4t25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/e391bf8e-7e62-4e1c-821d-1a9460d63baa/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/b0bbcbea-b84d-479c-a765-a870915d2b4d/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/4824cc1f-a9e7-4d33-b7da-46c197889dff/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/18.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/34c3abe4-d615-4ced-aa7c-595b30fdda16/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/19.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/e0134701-4941-4d62-99d8-d07f99427d3b/f5e469b2-fa5e-41ba-9340-066b34c778cc",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/20.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/e0134701-4941-4d62-99d8-d07f99427d3b/87fa1f01-df39-4bcc-916b-5f5fe1867c2a",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/20.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/a1505fbe-07f9-483b-a3b8-d72deba6a585/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/20.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/df5966f5-f696-44dd-8f84-d8445f3907f7/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/20.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/d0f4e1c8-500f-4d03-9286-e6b04f02fc96/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/20.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/68a8a529-4809-4f0f-bf56-664064a6867d/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/21.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/e0134701-4941-4d62-99d8-d07f99427d3b/f153ed71-d049-42d0-ae9b-7ecf369e19ea",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/21.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pv8bufihj25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/21.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pv8bufihj25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/22.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/12097d5f-354f-4b61-9db0-975663bebf29/fc87963d-0514-43f5-9a7d-7d438e0d0a83",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/24.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/4415cd96-d399-4f86-9e7a-4b029586f2a4/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/24.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/795a7bb1-1305-4059-8037-84bf360fa2b5/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/25.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/12097d5f-354f-4b61-9db0-975663bebf29/8c77c008-e2ca-4caf-93ba-35781f1ee5ea",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/25.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/b366adbc-a4c6-4a0c-8a47-143a56b53412/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/26.html",
+    "sourceUrl": "https://view.genially.com/68cd4de53af3bcd6d7f92c89",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/26.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/712884a5-c2f1-46f6-9c87-edc5a1d91391/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/26.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/68cd4de53af3bcd6d7f92c89",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/27.html",
+    "sourceUrl": "https://view.genially.com/68d39ee3691084bdf0ef1046",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/27.html",
+    "sourceUrl": "https://view.genially.com/68cd5489cc34ebed09a89cc7",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/27.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/eecd915c-cafd-4336-93b5-dd8cba8e6789/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/27.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/68d39ee3691084bdf0ef1046",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/27.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/68cd5489cc34ebed09a89cc7",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/27.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/a17f3ea3-efe3-407e-821a-5cba31c29374/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/28.html",
+    "sourceUrl": "https://view.genially.com/68cd58e7cc34ebed09ace3f9",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/28.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/2a6d5cbf-16fd-4ee5-b6d1-453aec099461/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/28.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/68cd58e7cc34ebed09ace3f9",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/29.html",
+    "sourceUrl": "https://view.genially.com/68d3a526bf307beed6327879",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/29.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/30ed89da-8b28-4923-bad8-185ba40be588/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/29.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/68d3a526bf307beed6327879",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/30.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/bb4d4dab-92a3-4b16-b241-33d7cbb739eb/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/30.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8a6a0478-77bf-43f3-9e7e-c39341c41a17/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/31.html",
+    "sourceUrl": "https://view.genially.com/68d2a0a5f6132fbb599b5cea",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/31.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/56032e72-5f82-4ee7-b57e-6cee8fd2c6da/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/31.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/68d2a0a5f6132fbb599b5cea",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/34.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/7fb2a2e0-f277-4d7f-a059-d50a493163f4/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/34.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/154097aa-5a10-4de6-bdd2-896b238ce852/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/35.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/71c8eabe-4d9a-4d23-b761-ffbb560b38bd/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/35.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/6be10bc7-6216-4953-ad96-9f3f0c1059ed/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/38.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a0509d6b-19b1-45fb-86ce-179f131cc403/f5151836-dbe7-4e99-b7cf-72154588d3f0",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/38.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a0509d6b-19b1-45fb-86ce-179f131cc403/f5151836-dbe7-4e99-b7cf-72154588d3f0",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/38.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a0509d6b-19b1-45fb-86ce-179f131cc403/f5151836-dbe7-4e99-b7cf-72154588d3f0",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/38.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/871e5f23-78b1-47b6-8929-cf1b30e85ea3/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/41.html",
+    "sourceUrl": "https://kinescope.io/embed/fy49EDGcw5LG73xkewmvWd",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/41.html",
+    "sourceUrl": {
+      "src": "https://kinescope.io/embed/fy49EDGcw5LG73xkewmvWd",
+      "title": "Внешний видео плеер"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/41.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/0a14cd87-7f2f-4ce1-8f55-2a8df9558508/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/41.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/eadbf0c9-988c-42c8-84fb-a23888622632/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/42.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8803076a-f647-4268-b113-1d671d740b39/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/42.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/899d90c7-07b5-45b8-a936-98e3d3578c7d/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/43.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/dbc25833-3e65-4093-b5de-9201022edbfd/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/44.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/3163ac78-bc01-4408-a9f9-f64e8199abdd/b69f6fed-5b8b-42ec-a16e-a7c5605d8a20",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/44.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/3163ac78-bc01-4408-a9f9-f64e8199abdd/b69f6fed-5b8b-42ec-a16e-a7c5605d8a20",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/44.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/3163ac78-bc01-4408-a9f9-f64e8199abdd/b69f6fed-5b8b-42ec-a16e-a7c5605d8a20",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/45.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/3163ac78-bc01-4408-a9f9-f64e8199abdd/e728541f-b145-4e6d-a5d5-d8c87dfd24d8",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/45.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/3163ac78-bc01-4408-a9f9-f64e8199abdd/e728541f-b145-4e6d-a5d5-d8c87dfd24d8",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/45.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/3163ac78-bc01-4408-a9f9-f64e8199abdd/e728541f-b145-4e6d-a5d5-d8c87dfd24d8",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/45.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/772df53c-01de-4b2e-8cfc-c46dcafdfd44/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/45.html",
+    "sourceUrl": {
+      "src": "https://1sstroy.ru/interactive/doc/2204ce84-e80a-4f74-9e13-d18116b57ad5/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/46.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/01f9f500-a25a-4931-9b29-6beccef693b1",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/46.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/36236458-da13-4ba1-ae47-db8aaf59370d/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/47.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/71478111-aae4-46c5-9906-ac878607275c",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/47.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/76673adc-1c64-425f-ab61-188828bdab7c/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/48.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/6150f62f-95b2-4e56-bb6d-edeb9b1d958c",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/48.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/ecabbeaa-8693-45eb-93b7-27d3e8914887/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/49.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/a991c959-7fff-4ebe-a0a1-915e834698c9",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/49.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/6017fff5-ef55-4cce-8575-2edd3fdc7dee/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/50.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/27e40901-1c72-47e5-a3fe-31f016484b06",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/50.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/121bfc1f-c818-47e7-9f43-70d663a3a077/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/51.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/05f344b7-ec83-4ac9-b516-76e0cb92b4eb",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/51.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/8654ef4e-42a4-4898-8e0c-61a135504a09/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/52.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/7d9d3f1c-cb58-4668-a1d4-a926e35078c3",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/53.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/cc8c9204-cf76-4c96-a2e2-0b5f928ca93c",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/54.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/14ed17a9-3afd-450c-9be3-d276891b7598",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/54.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/4d040836-3a85-4aba-9685-6f3e0a9f1cfe/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/55.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/4ba3ed89-abc8-4496-a510-26af4ba70b94",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/56.html",
+    "sourceUrl": "https://school.a-sstroy.ru/programs/223132/a344cf02-232a-429b-b2f8-b89b2470bc6f/134ae35c-42e4-4fb5-8368-9f6a942d0db4",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/57.html",
+    "sourceUrl": "https://learningapps.org/watch?v=phfbbun2c25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/57.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=phfbbun2c25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/58.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pok0q6i0525",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/58.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/6d076afb-88fe-4909-84b1-c06c528334dc/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/58.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pok0q6i0525",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/59.html",
+    "sourceUrl": "https://learningapps.org/watch?v=pk94f9xwn25",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/59.html",
+    "sourceUrl": {
+      "src": "https://learningapps.org/watch?v=pk94f9xwn25",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/64.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/562f6441-12f2-484c-a6f9-02c19286b3b5/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/64.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/9b9ebffd-7293-44e0-a9e5-3112508a2428/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/65.html",
+    "sourceUrl": "https://view.genially.com/67adf0a5ee2324136839a38e",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/65.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/67adf0a5ee2324136839a38e",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/65.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/092f9f89-f06a-40e5-9365-a6de33cfae61/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/66.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/1ea76e6a-c292-465c-9b30-5fe6257bf92f/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/67.html",
+    "sourceUrl": "https://view.genially.com/67add47b89f7d9c5c0fc6b59",
+    "reason": "внешний встроенный материал или видеоблок требует сети/платформы"
+  },
+  {
+    "lesson": "lessons/67.html",
+    "sourceUrl": {
+      "src": "https://view.genially.com/67add47b89f7d9c5c0fc6b59",
+      "title": "interactive-external"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/67.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/57ba8bd1-df44-4423-b31f-3b658b2f75fb/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  },
+  {
+    "lesson": "lessons/68.html",
+    "sourceUrl": {
+      "src": "https://school.a-sstroy.ru/interactive/doc/e62d96ba-a978-4083-b20d-54a4b0e3e74f/index.html",
+      "title": "interactive-internal"
+    },
+    "reason": "внешний встроенный материал требует сети"
+  }
+]

@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>РНС: Золотой стандарт проектировщика</title>
+    
+    <style>
+        :root {
+            --emerald: #064e3b;
+            --gold: #b4975a;
+            --paper: #fdfbf7;
+            --success: #059669;
+            --error: #991b1b;
+        }
+
+        body {
+            font-family: Georgia, serif;
+            background-color: #f0f4f8;
+            margin: 0; padding: 40px 20px;
+            display: flex; flex-direction: column; align-items: center;
+            min-height: 100vh;
+            background-image: url("data:image/svg+xml,%3Csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cpattern id='grid' width='100' height='100' patternUnits='userSpaceOnUse'%3E%3Cpath d='M 100 0 L 0 0 0 100' fill='none' stroke='rgba(6, 78, 59, 0.12)' stroke-width='1.5'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23grid)' /%3E%3Cpath d='M-100,400 C200,200 500,600 800,300 S1200,500 1600,200' stroke='%23b4975a' stroke-width='3' fill='none' opacity='0.5'/%3E%3Cpath d='M0,900 Q400,700 800,1000 T1600,800' stroke='%23064e3b' stroke-width='2' fill='none' stroke-dasharray='12,8' opacity='0.4'/%3E%3Cpath d='M300,0 Q150,400 450,800 T900,1400' stroke='%2394a3b8' stroke-width='1.5' fill='none' opacity='0.4'/%3E%3Ccircle cx='80%25' cy='25%25' r='140' stroke='%23b4975a' stroke-width='2' fill='none' opacity='0.3'/%3E%3Ccircle cx='80%25' cy='25%25' r='120' stroke='%23b4975a' stroke-width='1' fill='none' stroke-dasharray='6,6' opacity='0.4'/%3E%3Cpath d='M10%25,10%25 L20%25,20%25 M15%25,10%25 L25%25,20%25' stroke='%23064e3b' stroke-width='2' opacity='0.2'/%3E%3C/svg%3E");
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        .case-brief {
+            max-width: 900px; background: #fff; border-radius: 16px;
+            padding: 35px; margin-bottom: 40px; 
+            border-top: 6px solid var(--gold);
+            box-shadow: 0 20px 40px rgba(6, 78, 59, 0.1);
+            font-size: 1.1rem; line-height: 1.7; color: var(--emerald);
+            z-index: 10;
+        }
+
+        .board {
+            width: 100%; max-width: 1000px; 
+            background-color: var(--paper);
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.5' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.03'/%3E%3C/svg%3E");
+            border-radius: 40px; padding: 60px;
+            box-shadow: 0 50px 120px rgba(6, 78, 59, 0.15);
+            border: 1px solid rgba(180, 151, 90, 0.3);
+            position: relative;
+        }
+
+        .map-nav { display: flex; justify-content: space-between; margin-bottom: 70px; position: relative; padding: 0 40px; }
+        .map-nav::before { 
+            content: ''; position: absolute; top: 25px; left: 60px; right: 60px; height: 3px; 
+            background: repeating-linear-gradient(90deg, var(--gold) 0, var(--gold) 5px, transparent 5px, transparent 10px);
+            z-index: 1; opacity: 0.6;
+        }
+        .node { display: flex; flex-direction: column; align-items: center; gap: 12px; z-index: 2; cursor: pointer; }
+        .node-circle { 
+            width: 54px; height: 54px; border-radius: 50%; background: #fff; 
+            border: 3px solid var(--gold); display: flex; align-items: center; justify-content: center;
+            font-family: 'Cinzel'; font-weight: 900; transition: 0.5s;
+        }
+        .node.active .node-circle { background: var(--emerald); color: var(--gold); transform: scale(1.25); border-color: var(--emerald); box-shadow: 0 0 30px rgba(180, 151, 90, 0.4); }
+        .node-label { font-size: 0.75rem; font-family: 'Montserrat'; font-weight: 700; text-transform: uppercase; color: var(--emerald); letter-spacing: 1.5px; text-align: center; }
+
+        h2 { font-family: 'Playfair Display', serif; color: var(--emerald); text-align: center; font-size: 2rem; margin-top: 0; margin-bottom: 50px; }
+
+        /* ИЗМЕНЕНИЕ 1: ЭТАП 1 - Сделано 4 колонки вместо 2 */
+        .grid-docs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+        
+        .card { 
+            padding: 25px; background: #fff; border-radius: 16px; 
+            cursor: pointer; transition: 0.3s; font-size: 1rem; font-weight: 600; 
+            box-shadow: 0 4px 10px rgba(6, 78, 59, 0.05); border: 2px solid transparent;
+            position: relative; overflow: hidden;
+            display: flex; align-items: center; justify-content: center; text-align: center;
+        }
+        .card::before { content: ''; position: absolute; left: 0; top: 0; height: 100%; width: 6px; background: #e2e8f0; transition: 0.3s; }
+        .card.selected { background: #fdfaf3; border-color: rgba(180, 151, 90, 0.3); }
+        .card.selected::before { background: var(--gold); }
+        .card.correct { background: #ecfdf5; border-color: var(--success); }
+        .card.correct::before { background: var(--success); }
+        .card.wrong { background: #fef2f2; border-color: var(--error); }
+        .card.wrong::before { background: var(--error); }
+
+        /* ИЗМЕНЕНИЕ 2: ЭТАП 2 - Сделана сетка из 2 колонок вместо вертикального списка */
+        .source-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+        
+        .source-row { 
+            display: grid; grid-template-columns: 1.3fr 1fr; gap: 20px; align-items: center; 
+            padding: 20px 25px; background: #fff; border-radius: 16px; border: 2px solid transparent; 
+        }
+        .source-row.correct { border-color: var(--success); background: #ecfdf5; }
+        .source-row.wrong { border-color: var(--error); background: #fef2f2; }
+        select { padding: 14px; border-radius: 10px; border: 2px solid #e2e8f0; font-family: 'Montserrat'; outline: none; background: #f8fafc; width: 100%; }
+
+        /* ИЗМЕНЕНИЕ 3: ЭТАП 3 - Сделана сетка из 2 колонок вместо вертикального списка */
+        .sort-list { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; }
+
+        .sort-tile { 
+            padding: 22px 30px; background: #fff; border-radius: 16px; 
+            cursor: grab; display: flex; align-items: center; gap: 25px; 
+            box-shadow: 0 5px 15px rgba(6, 78, 59, 0.08); transition: transform 0.2s ease;
+        }
+        .sort-tile.correct { border: 2px solid var(--success); background: #ecfdf5; }
+        .sort-tile.wrong { border: 2px solid var(--error); background: #fef2f2; }
+        .drag-handle { color: var(--gold); font-size: 1.5rem; flex-shrink: 0; }
+
+        #toast { 
+            position: fixed; top: 40px; right: 40px; min-width: 350px; padding: 25px 40px; border-radius: 20px; 
+            font-family: 'Montserrat'; font-weight: 700; display: none; z-index: 2000;
+            box-shadow: 0 30px 70px rgba(0,0,0,0.25); color: #fff; text-transform: uppercase;
+        }
+
+        .footer-btns { display: flex; justify-content: center; margin-top: 60px; }
+        .btn-luxe { 
+            padding: 22px 70px; border-radius: 60px; border: none; font-family: 'Cinzel'; 
+            font-weight: 900; cursor: pointer; transition: 0.4s; text-transform: uppercase; 
+            letter-spacing: 3px; color: #fff;
+            background: linear-gradient(-45deg, #064e3b, #059669, #b4975a, #064e3b);
+            background-size: 400% 400%;
+            animation: goldShimmer 8s ease infinite;
+            box-shadow: 0 20px 40px rgba(6, 78, 59, 0.3);
+        }
+        @keyframes goldShimmer { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } }
+        .btn-luxe:hover { transform: translateY(-5px) scale(1.03); }
+
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+
+    <div class="case-brief">
+        <strong>Вы — владелец земельного участка в городе, на котором планируется возведение многоквартирного жилого дома площадью 3 тыс. м². Составьте пакет документов, а также определите правильную последовательность действий для получения РНС.</strong>
+    </div>
+
+    <div class="board" id="main-board">
+        <div class="map-nav">
+            <div class="node active" onclick="jump(1)"><div class="node-circle">I</div><span class="node-label">Документы</span></div>
+            <div class="node" id="n2" onclick="jump(2)"><div class="node-circle">II</div><span class="node-label">Источники</span></div>
+            <div class="node" id="n3" onclick="jump(3)"><div class="node-circle">III</div><span class="node-label">Регламент</span></div>
+        </div>
+
+        <div id="ph1">
+            <h2>1. Определите перечень документов для РНС</h2>
+            <div class="grid-docs" id="box1"></div>
+        </div>
+
+        <div id="ph2" class="hidden">
+            <h2>Где получить документы для РНС?</h2>
+            <div class="source-grid" id="box2"></div>
+        </div>
+
+        <div id="ph3" class="hidden">
+            <h2>3. Определите правильную последовательность действий</h2>
+            <div class="sort-list" id="box3"></div>
+        </div>
+
+        <div class="footer-btns">
+            <button class="btn-luxe" onclick="check()">Проверить этап</button>
+        </div>
+    </div>
+
+    <div id="toast"></div>
+
+<script>
+    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    function playOrganic(f, type, g, d) {
+        const t = audioCtx.currentTime;
+        const osc = audioCtx.createOscillator(); const gain = audioCtx.createGain();
+        osc.type = type; osc.frequency.setValueAtTime(f, t);
+        gain.gain.setValueAtTime(0, t);
+        gain.gain.linearRampToValueAtTime(g, t + 0.01);
+        gain.gain.exponentialRampToValueAtTime(0.001, t + d);
+        osc.connect(gain); gain.connect(audioCtx.destination);
+        osc.start(); osc.stop(t + d + 0.1);
+    }
+
+    const sClick = () => playOrganic(700, 'sine', 0.1, 0.1);
+    const sWin = () => { playOrganic(440, 'sine', 0.2, 0.8); setTimeout(()=>playOrganic(554, 'sine', 0.2, 0.8), 150); };
+    const sErr = () => playOrganic(90, 'triangle', 0.3, 0.4);
+    const sDrag = () => playOrganic(200, 'sine', 0.03, 0.05);
+
+    const data = [
+        { t: "Заявление о выдаче разрешения на строительство", c: true, s: "Госуслуги / Орган власти" },
+        { t: "Правоустанавливающие документы на землю (ЕГРН)", c: true, s: "Росреестр / Госуслуги" },
+        { t: "Градостроительный план земельного участка (ГПЗУ)", c: true, s: "Орган местного самоуправления" },
+        { t: "Проектная документация (6 обязательных разделов)", c: true, s: "Проектная организация (СРО)" },
+        { t: "Технические условия подключения (ТУ)", c: true, s: "Ресурсоснабжающая организация (РСО)" },
+        { t: "Заключение экспертизы проектной документации", c: true, s: "Аккредитованная организация" },
+        { t: "Приказ о назначении коменданта стройки", c: false },
+        { t: "Схема расположения мусорных баков", c: false }
+    ];
+
+    const steps = [
+        "Подготовка правоустанавливающих документов на земельный участок",
+        "Оформление градостроительного плана участка и схема расположения здания",
+        "Заказ архитектурного проектирования здания и инженерно-технических изысканий",
+        "Согласование технической возможности подключения сетей",
+        "Проведение необходимой экспертизы проектной документации",
+        "Формирование комплекта документов и подача заявления",
+        "Рассмотрение заявления органом местного самоуправления",
+        "Выдача разрешения на строительство или отказ"
+    ];
+
+    let current = 1;
+
+    function notify(msg, type) {
+        const t = document.getElementById('toast');
+        t.innerText = msg;
+        t.style.background = type === 'ok' ? 'linear-gradient(135deg, #059669, #064e3b)' : 'linear-gradient(135deg, #dc2626, #7f1d1d)';
+        t.style.display = 'block';
+        setTimeout(() => t.style.display = 'none', 3000);
+    }
+
+    function init() {
+        const b1 = document.getElementById('box1');
+        [...data].sort(() => Math.random() - 0.5).forEach(doc => {
+            const div = document.createElement('div');
+            div.className = 'card'; div.innerText = doc.t;
+            div.onclick = () => { if(current === 1) { div.classList.toggle('selected'); div.classList.remove('correct', 'wrong'); sClick(); }};
+            b1.appendChild(div);
+        });
+    }
+
+    function jump(s) {
+        document.querySelectorAll('.hidden, #ph1, #ph2, #ph3').forEach(el => el.classList.add('hidden'));
+        document.getElementById(`ph${s}`).classList.remove('hidden');
+        document.querySelectorAll('.node').forEach((n, i) => n.classList.toggle('active', i + 1 === s));
+        current = s;
+        if(s === 2) buildPh2();
+        if(s === 3) buildPh3();
+        sClick();
+    }
+
+    function check() {
+        if (current === 1) {
+            const sel = document.querySelectorAll('.card.selected');
+            let hits = 0;
+            sel.forEach(c => {
+                const item = data.find(d => d.t === c.innerText);
+                if(item.c) { c.className = 'card correct selected'; hits++; }
+                else c.className = 'card wrong selected';
+            });
+            if (hits === 6 && sel.length === 6) { sWin(); notify("ЭТАП ПРОЙДЕН. КОМПЛЕКТНОСТЬ ВЕРНА.", "ok"); }
+            else { sErr(); notify("ОШИБКА В СОСТАВЕ ПАКЕТА.", "err"); }
+        } 
+        else if (current === 2) {
+            let err = 0;
+            document.querySelectorAll('.source-row').forEach(row => {
+                const doc = row.querySelector('span').innerText;
+                const val = row.querySelector('select').value;
+                if(val !== data.find(d => d.t === doc).s) { row.className = 'source-row wrong'; err++; }
+                else row.className = 'source-row correct';
+            });
+            if (err === 0) { sWin(); notify("ИСТОЧНИКИ УТВЕРЖДЕНЫ.", "ok"); }
+            else { sErr(); notify("ЕСТЬ ОШИБКИ В ВЫБОРЕ ИНСТАНЦИЙ.", "err"); }
+        }
+        else if (current === 3) {
+            const tiles = document.querySelectorAll('.sort-tile');
+            let err = 0;
+            tiles.forEach((t, i) => {
+                const txt = t.querySelector('.step-text').innerText.trim();
+                if (txt === steps[i]) t.className = 'sort-tile correct';
+                else { t.className = 'sort-tile wrong'; err++; }
+            });
+            if (err === 0) { sWin(); notify("МАРШРУТ ПРОЙДЕН. РАЗРЕШЕНИЕ ПОЛУЧЕНО!", "ok"); }
+            else { sErr(); notify("ПОРЯДОК ДЕЙСТВИЙ НАРУШЕН.", "err"); }
+        }
+    }
+
+    function buildPh2() {
+        const b2 = document.getElementById('box2'); 
+        if (b2.children.length > 0) return;
+        const opts = ["Госуслуги / Орган власти", "Росреестр / Госуслуги", "Орган местного самоуправления", "Проектная организация (СРО)", "Ресурсоснабжающая организация (РСО)", "Аккредитованная организация"];
+        data.filter(d => d.c).forEach(doc => {
+            const div = document.createElement('div'); div.className = 'source-row';
+            div.innerHTML = `<span>${doc.t}</span><select><option>-- Инстанция --</option>${opts.sort(()=>Math.random()-0.5).map(o=>`<option>${o}</option>`).join('')}</select>`;
+            b2.appendChild(div);
+        });
+    }
+
+    function buildPh3() {
+        const b3 = document.getElementById('box3');
+        if (b3.children.length > 0) return;
+        [...steps].sort(() => Math.random() - 0.5).forEach(t => {
+            const d = document.createElement('div'); d.className = 'sort-tile'; 
+            d.innerHTML = `<span class="drag-handle">☰</span> <span class="step-text">${t}</span>`; d.draggable = true;
+            d.addEventListener('dragstart', () => { d.style.opacity = '0.5'; sDrag(); });
+            d.addEventListener('dragend', () => d.style.opacity = '1');
+            b3.appendChild(d);
+        });
+        b3.addEventListener('dragover', e => {
+            e.preventDefault(); const drag = document.querySelector('[style*="opacity: 0.5"]');
+            const after = [...b3.querySelectorAll('.sort-tile:not([style*="opacity: 0.5"])')].reduce((cl, ch) => {
+                const b = ch.getBoundingClientRect(); const off = e.clientY - b.top - b.height/2;
+                return (off < 0 && off > cl.offset) ? { offset: off, element: ch } : cl;
+            }, { offset: Number.NEGATIVE_INFINITY }).element;
+            if (!after) b3.appendChild(drag); else b3.insertBefore(drag, after);
+        });
+    }
+
+    init();
+
+    function sendHeight() {
+        const height = Math.max(
+            document.body.scrollHeight, 
+            document.documentElement.scrollHeight,
+            document.body.offsetHeight, 
+            document.documentElement.offsetHeight
+        );
+        window.top.postMessage({ frameHeight: height + 30 }, '*');
+    }
+
+    window.onload = sendHeight;
+    window.onresize = sendHeight;
+    document.addEventListener('click', () => {
+        setTimeout(sendHeight, 50);
+        setTimeout(sendHeight, 300);
+    });
+    const observer = new MutationObserver(sendHeight);
+    observer.observe(document.body, { attributes: true, childList: true, subtree: true });
+</script>
+</body>
+</html>

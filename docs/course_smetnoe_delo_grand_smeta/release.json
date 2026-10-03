@@ -1,0 +1,58 @@
+{
+  "course": "course_smetnoe_delo_grand_smeta",
+  "title": "Сметное дело в строительстве. ГРАНД-Смета",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_smetnoe_delo_grand_smeta",
+  "entry": "index.html",
+  "files": 212,
+  "bytes": 13884271,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "attachments/source/4f09091c-e701-41b7-abd4-1cb82e827df7.doc",
+      "bytes": 2347520,
+      "sha256": "5694ee6d99e859d689a83ed312e5027039bcb0f69a914d33c63757560c53189a",
+      "asset_name": "hes-5694ee6d99e859d689a83ed312e50270.doc",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-5694ee6d99e859d689a83ed312e50270.doc"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "1585b783908547d7aa463c570a3da9a014c29b78e415faff0968670fcf38ba4f",
+      "published_sha256": "bdde891dce1724b7c92f0f0203bd101e65184f87ed5de469293e040bece7095c"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "261f84780e9395a206e7fcc0bfe280d8bf62eb173eccf080fcaea9ddf5e55dd3",
+      "published_sha256": "4285aa200b8067abd6395d60a4c63f0abb4c366e5eca68e556c365e2d7a39634"
+    },
+    {
+      "path": "lessons/lesson-01-01.html",
+      "source_sha256": "db9d0ce983b3c2bf95b7b40b3dc5f7f47249d5f15814f36315a7d6120509465e",
+      "published_sha256": "a6d0fdcb0a716c24e512be0bc8b43a93d273eb1f496def1e9b8145551c505b17"
+    },
+    {
+      "path": "lessons/lesson-01-02.html",
+      "source_sha256": "581f9fd18799f6b6e5c1c871c2821ab3147912d2c890e130e40d7702ae99eeb2",
+      "published_sha256": "e2e5f6c897b7d5ac07a8985837fc5e43b248400491212f980e7fab528981441b"
+    },
+    {
+      "path": "lessons/lesson-01-03.html",
+      "source_sha256": "1dc917c27f794680f0bf4f6d73407c93fcfdf527369714c8f9257d1def67fcca",
+      "published_sha256": "d65c1239150d9bb4e76ac5db4e00dce56f03ff08c8d064a3f28bbdda4f668a00"
+    },
+    {
+      "path": "lessons/lesson-01-04.html",
+      "source_sha256": "ae299d315b40358692a1004b89f33c8ce761ac4f0e7229cb194dd2573536d7cd",
+      "published_sha256": "02bcda758ffe358a2691e1eb9cc20d143095271a66ffdbbefc70f5a8a2a368f2"
+    },
+    {
+      "path": "lessons/lesson-01-05.html",
+      "source_sha256": "b790768303b0f7776bcf756c6a704a61668f64d9c939a575fd8ed507ab71e71c",
+      "published_sha256": "0d63c968741b473a6f6938bba82b91fb8e282e3aa09b3199898a2e3dca32a74a"
+    }
+  ]
+}

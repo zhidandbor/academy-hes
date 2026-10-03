@@ -1,0 +1,1503 @@
+[
+  {
+    "lesson": "lessons/01.html",
+    "files": [
+      {
+        "path": "assets/6b07c4fe8b1ab1dc992c.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8744d16ebf7744f6a3df472f28a78e99_20241115T122813.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/02.html",
+    "files": [
+      {
+        "path": "exports/b63f4dad-bfef-4909-9b3e-48d4bd1753fb.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=b63f4dad-bfef-4909-9b3e-48d4bd1753fb&filename=b63f4dad-bfef-4909-9b3e-48d4bd1753fb.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/03.html",
+    "files": [
+      {
+        "path": "exports/d5d03f21-9300-4a77-b52e-5877cc3403ac.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=d5d03f21-9300-4a77-b52e-5877cc3403ac&filename=d5d03f21-9300-4a77-b52e-5877cc3403ac.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/6b07c4fe8b1ab1dc992c.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8744d16ebf7744f6a3df472f28a78e99_20241115T122813.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/04.html",
+    "files": [
+      {
+        "path": "exports/aad5b746-9cc2-464d-9838-e6022e7f399a.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=aad5b746-9cc2-464d-9838-e6022e7f399a&filename=aad5b746-9cc2-464d-9838-e6022e7f399a.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/10f1a24e-8100-47c1-80a8-47467389ba05.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=10f1a24e-8100-47c1-80a8-47467389ba05&filename=10f1a24e-8100-47c1-80a8-47467389ba05.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/2b17e802-93aa-4f5d-b1b0-19ede2b7eb1b.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=2b17e802-93aa-4f5d-b1b0-19ede2b7eb1b&filename=2b17e802-93aa-4f5d-b1b0-19ede2b7eb1b.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/e23055bb042ca4353fbe.jpg",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43275829/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/29fd3b4096dbe8443fee.jpg",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43274667/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/05.html",
+    "files": [
+      {
+        "path": "exports/940bbcd3-d463-48d3-beed-24ceb8851dd4.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=940bbcd3-d463-48d3-beed-24ceb8851dd4&filename=940bbcd3-d463-48d3-beed-24ceb8851dd4.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/8a13e4fc-f555-4bf4-93a1-d16401e3d927.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=8a13e4fc-f555-4bf4-93a1-d16401e3d927&filename=8a13e4fc-f555-4bf4-93a1-d16401e3d927.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/e6f24fcb68c8250dab87.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=9d22b4fe-e3bc-4f65-82d5-7b413c14590d",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/7a0629fa7385b7489e1a.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=8bca6c13-7eb3-4f92-82e1-979b528d640a",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ccc5a188090eb8f3b3c3.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=17870373-e797-48f4-967f-4e23ad0e4f6d",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/cf011b2b6b9541c4a47b.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=833f0d5e-5630-4c74-bccb-e500571bd915",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/28cdc8ccd0b47b2cd5f2.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=7118d12b-3803-465c-8929-f2f825412a2c",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6b123c28fa4e0bd21429.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=a460d434-15d9-4667-aa02-3f59779cbbcd",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/37a1ec2e18db0b3a16ea.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=582a85e8-d652-4c72-954f-f0592f87d293",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/0f5a4dca792d4c91a4ec.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=6968ae32-31bf-4f5f-af68-e82730bc8f74",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/c3d45b20be0278e57cae.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=7b8263d7-68f8-451e-aead-413c04f16198",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/be6ec1cdf9cacbc1c5d7.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=9db6a399-d9ed-4042-96b1-e5097aa3abad",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6b07c4fe8b1ab1dc992c.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8744d16ebf7744f6a3df472f28a78e99_20241115T122813.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/06.html",
+    "files": [
+      {
+        "path": "exports/0e620bc7-f526-4ab3-95da-ee3b85f5d794.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=0e620bc7-f526-4ab3-95da-ee3b85f5d794&filename=0e620bc7-f526-4ab3-95da-ee3b85f5d794.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/8a13e4fc-f555-4bf4-93a1-d16401e3d927.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=8a13e4fc-f555-4bf4-93a1-d16401e3d927&filename=8a13e4fc-f555-4bf4-93a1-d16401e3d927.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/dacf2d4cf116cf15f430.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=17505008-3dd9-418d-853e-892213e64ecb",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/25e2054b9cd949e124fa.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=b8eb6e88-2597-45e7-8b5b-e4c9da9034c9",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/81492bcdacb070daffad.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=c8d1c81f-f41b-4b73-92aa-f943ee2cabef",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ad8fb5a3f47cf27854ff.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=7af5cca4-398b-4dff-a3d2-96103a411b17",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/b71a9d24d2c38628296d.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=525106db-beb5-43ba-b651-6268277c26ad",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/a78a3fa03fd61b947b48.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=edaf7c71-f6f6-4628-bcab-e6d8f939d8b0",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/08569370c052b4032b7f.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=750ff0f2-a904-4b7f-9ad7-0801ef9c6c7f",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/f492a78d84e7eb6b0de1.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=c31b31b4-094e-4ec1-9f06-549608e5d076",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/d6083c848bb17d0ee952.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=68ba1253-4588-44d3-b07e-c69299de46c3",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/79601166173e2edce6ba.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=24671325-dc64-49ef-976d-2841738570fe",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/7c142346822252113bfd.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=4c0da76b-0229-4e98-82ee-3eab629ecf99",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/be6ec1cdf9cacbc1c5d7.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=fa6bbc19-5f2e-4f6c-9b52-495deb3f7db4",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6b07c4fe8b1ab1dc992c.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8744d16ebf7744f6a3df472f28a78e99_20241115T122813.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/07.html",
+    "files": [
+      {
+        "path": "exports/d36776b6-ded7-4326-a653-3744015ba57f.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=d36776b6-ded7-4326-a653-3744015ba57f&filename=d36776b6-ded7-4326-a653-3744015ba57f.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/8a13e4fc-f555-4bf4-93a1-d16401e3d927.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=8a13e4fc-f555-4bf4-93a1-d16401e3d927&filename=8a13e4fc-f555-4bf4-93a1-d16401e3d927.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/f24ef9bebf66bd450b8a.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=0e4ce9d3-62fd-4071-8a22-9828d6d7efe9",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/21447d9c2cbf195c9087.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=c36c0db8-055a-43f8-ae71-a71b8c053c52",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/cc667732ba2c548363e8.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=5b79b9a5-ac12-40ae-b2d7-808c270f8f23",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ce9bce2462df56a1e422.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=ea8604d3-de67-45e8-a147-0c64e9df4206",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/d68b63c06c727cbd2584.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=ee856116-f890-401c-9e5c-2df366b01b21",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/7528b32505d2bb4cd1e4.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=fcb5d4be-58e1-4bac-9a06-8a3b5fa6549f",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/af4ec3e66ec6aff42f4b.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=cd0063a5-6de2-441a-b196-ca872dc2a340",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/1f7d578e7897638652eb.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=b967836e-67db-472d-b428-ca12926202f0",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/7b699f7fcf3dd6a83466.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=486d51f6-3b7f-475d-9cef-96457372b2f1",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/a836e3e2bc6d18ba7d7b.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=d96bf36a-81a0-4794-8036-e5548e8f57e4",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/da1286266a8f3e7c69e8.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=fdc4d7d5-7d7a-4f07-9a8a-b3dfd3643cf5",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6c2bfc64259b1b9dee24.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=fa22dd2b-6f4b-4b59-a2aa-3811b2357293",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/43b185a97d475ff4f6a2.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=19ba1501-1390-4edc-b52e-d6e036edff9e",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6b07c4fe8b1ab1dc992c.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8744d16ebf7744f6a3df472f28a78e99_20241115T122813.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/08.html",
+    "files": [
+      {
+        "path": "assets/2ba1f55390873c235731.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=e6103e76-11c5-47e2-843b-96f3e069aae6",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/09.html",
+    "files": [
+      {
+        "path": "assets/3e8f6d88d6acc19cd8b6.jpg",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43263795/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/38372db059f7410cd2ca.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=25605d08-142d-4475-8642-1aa754453ffd",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/63a10444275026f69949.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=457f8dbe-22f6-4fcb-91c8-cd4f0223fa29",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/10.html",
+    "files": [
+      {
+        "path": "exports/c948ca56-7c13-4042-80fe-73e7fb7f6854.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=c948ca56-7c13-4042-80fe-73e7fb7f6854&filename=c948ca56-7c13-4042-80fe-73e7fb7f6854.pdf&companyName=&width=2.92in&height=4.13in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/20690d1d-61f8-4f21-9794-412d33f4d704.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=20690d1d-61f8-4f21-9794-412d33f4d704&filename=20690d1d-61f8-4f21-9794-412d33f4d704.pdf&companyName=&width=2.92in&height=4.13in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/06ff23e4-bf7b-4f21-b62e-a66691e7a44a.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=06ff23e4-bf7b-4f21-b62e-a66691e7a44a&filename=06ff23e4-bf7b-4f21-b62e-a66691e7a44a.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/7288b54f-d9ea-4e88-8021-d4fad7ed1d25.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=7288b54f-d9ea-4e88-8021-d4fad7ed1d25&filename=7288b54f-d9ea-4e88-8021-d4fad7ed1d25.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/e42f30e3388680b69ac8.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248842/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/7abc7b51e130750852ce.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248844/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/fe981a635b0008b96d5e.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248856/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/851f33ff02a13a66940f.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248866/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ac8700a84b86a8c02bc9.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248876/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/f01439c00c0a9cbd4470.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248347/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/48fba5a247597ee8af1c.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248879/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/3016e15bf325ff39f09e.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248881/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/d27b95486a7e2396eab6.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248884/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/4bd8323d5a215071dcec.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248887/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/b4c2c4d72f4625ddf563.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248890/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/69d66b3720d9a83dd729.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248896/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/8eee049604e70e6ec4cb.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248898/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/27372dc2ef235d7f8949.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248902/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/dab0eb71144c0a79968a.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248904/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/2ccc14aafc64ac805eb2.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248906/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/43fe176e75f44b4b37b8.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248908/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/d6c0c32fd3303fe59ce6.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248911/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/97dba80eb34fab6332ed.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248913/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/aa56df5e5956fc2dc481.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248916/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/7d0d6aeb76b573067840.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248918/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/34626ca0638ad3077df9.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248920/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/80a42bd52d5aa8dc0da2.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43248922/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/11.html",
+    "files": [
+      {
+        "path": "exports/29e7e48a-a5a2-4d5b-b210-20a21b23074b.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=29e7e48a-a5a2-4d5b-b210-20a21b23074b&filename=29e7e48a-a5a2-4d5b-b210-20a21b23074b.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/53ad8e70-650a-4240-b173-f424fa126b63.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=53ad8e70-650a-4240-b173-f424fa126b63&filename=53ad8e70-650a-4240-b173-f424fa126b63.pdf&companyName=&width=2.92in&height=4.13in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/ba0be2aaa6e67cf874fb.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43257559/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/e2125f158e5105ca9f74.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43257562/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6b07c4fe8b1ab1dc992c.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_8744d16ebf7744f6a3df472f28a78e99_20241115T122813.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/12.html",
+    "files": [
+      {
+        "path": "exports/848eb551-b33f-4f8f-9c06-286cc721399e.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=848eb551-b33f-4f8f-9c06-286cc721399e&filename=848eb551-b33f-4f8f-9c06-286cc721399e.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/4354620d43b1ce4e3574.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=4faa5b6f-fe26-4d5b-9105-f4157708997e",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/13.html",
+    "files": [
+      {
+        "path": "assets/a16c29f449cdac0bbc8c.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=76a921fd-c1c7-448a-b226-19f116ab83e6",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/14.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/15.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/16.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/17.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/18.html",
+    "files": [
+      {
+        "path": "exports/cf301939-dd25-4c7a-a8b5-87b47cbae53b.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=cf301939-dd25-4c7a-a8b5-87b47cbae53b&filename=cf301939-dd25-4c7a-a8b5-87b47cbae53b.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/af3b1ab4-aa8c-4993-a5a3-85316bae0170.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=af3b1ab4-aa8c-4993-a5a3-85316bae0170&filename=af3b1ab4-aa8c-4993-a5a3-85316bae0170.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/e391bf8e-7e62-4e1c-821d-1a9460d63baa.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=e391bf8e-7e62-4e1c-821d-1a9460d63baa&filename=e391bf8e-7e62-4e1c-821d-1a9460d63baa.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/19.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/20.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/21.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/22.html",
+    "files": [
+      {
+        "path": "assets/122b5ec0e0ba75c5d028.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=b0b4556c-d6d6-428d-b73e-a5a105a1ee15",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/23.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/24.html",
+    "files": [
+      {
+        "path": "exports/4415cd96-d399-4f86-9e7a-4b029586f2a4.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=4415cd96-d399-4f86-9e7a-4b029586f2a4&filename=4415cd96-d399-4f86-9e7a-4b029586f2a4.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/722195d013d20f6516ef.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=a0ca47c5-84f9-4e28-ad62-3f1cf5968a45",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/dddec77e87b5006e743e.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=608b3f84-85b6-4d93-a522-6398e7f09949",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/31bcab9a3c2a116f72a5.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=8ed4bb9f-db1e-4259-b555-815628b04b3a",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/4784518125da2e8b513d.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=122c1a8d-2dc9-4869-ad0c-26daf3b713cf",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/25.html",
+    "files": [
+      {
+        "path": "assets/0d477f908a373646ab1a.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=25e07cdc-dfbe-4cda-a0ae-deb1467be275",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/4cac2e34cc7f2a798728.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=fd14a97c-4103-447c-afb3-feeca4b06fed",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/447d58e36ae6011e4277.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=f2d75b0b-76dd-460e-9baa-41831d77e045",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/3117e338fb4369e3ba96.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=9969456c-28c9-4022-82be-4a2839c49658",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/39aad55eb201a0b3812d.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=d0f76753-9539-46e6-91ca-b1adb574e8fb",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/e8e8a106dd9c0ef7a408.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=6723226c-c1ad-4691-9e1a-df2c2f290660",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/26.html",
+    "files": [
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/27.html",
+    "files": [
+      {
+        "path": "exports/eecd915c-cafd-4336-93b5-dd8cba8e6789.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=eecd915c-cafd-4336-93b5-dd8cba8e6789&filename=eecd915c-cafd-4336-93b5-dd8cba8e6789.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/f566b30693c47bf66b63.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=64962533-d450-49ef-b522-1a14b5c3fec0",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/28.html",
+    "files": [
+      {
+        "path": "assets/c20ce9b4fbaa2192ac3a.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=869c6e25-3e83-4dd6-8cbc-3a5b0c4db390",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/29.html",
+    "files": [
+      {
+        "path": "assets/23da4d27a47a4b89ce74.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=812525ef-bcc1-4827-9a34-b07fcae60db3",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/2044fda8bcdbb6669672.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=d3a23d2f-0092-4d38-915c-e94eae9590e8",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/30.html",
+    "files": [
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/31.html",
+    "files": [
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/32.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/33.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/34.html",
+    "files": [
+      {
+        "path": "exports/7fb2a2e0-f277-4d7f-a059-d50a493163f4.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=7fb2a2e0-f277-4d7f-a059-d50a493163f4&filename=7fb2a2e0-f277-4d7f-a059-d50a493163f4.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/154097aa-5a10-4de6-bdd2-896b238ce852.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=154097aa-5a10-4de6-bdd2-896b238ce852&filename=154097aa-5a10-4de6-bdd2-896b238ce852.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/3f942cab17c4332f2bce.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=5266de8a-b7a1-4889-a54e-82d6a677d304",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/35.html",
+    "files": [
+      {
+        "path": "exports/71c8eabe-4d9a-4d23-b761-ffbb560b38bd.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=71c8eabe-4d9a-4d23-b761-ffbb560b38bd&filename=71c8eabe-4d9a-4d23-b761-ffbb560b38bd.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/6be10bc7-6216-4953-ad96-9f3f0c1059ed.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=6be10bc7-6216-4953-ad96-9f3f0c1059ed&filename=6be10bc7-6216-4953-ad96-9f3f0c1059ed.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/d690207e31cb356d72c8.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=a6a8a0d3-a42b-4b4c-872f-2fd7a51e3f9d",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/cf567728544f3f90f81d.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=2b7bb790-f622-40fa-8e5c-c5900e52b955",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/8c7ad152cd5fdefd6553.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=65165e4b-e332-4f48-b999-fcc658cb0d1c",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/36.html",
+    "files": [
+      {
+        "path": "assets/7cd09729fc0ed3d0d870.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=ced5de4d-66c9-4f54-bd16-7f497ac71482",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/b68ce10867cab356bd2d.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=d81382d3-0129-47a9-b256-505c5e204936",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/79a6214fcd99fb93319e.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=e9341e46-4498-4ba9-aa77-d5aa6ce07677",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/8509c24925fab0a550a0.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=a562a5fc-cba3-4ebb-8ebd-90e58128653c",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/5894639a334ea70d087f.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=2f913e8a-72dd-44dc-bde1-f6360fdb9a3b",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/d34b3979cdb7bbf3e127.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=aa5e3a50-5312-4f6e-8977-780ea8a9e547",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/37.html",
+    "files": [
+      {
+        "path": "assets/b6c3440552c4fa3c99fd.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=3de82bb7-e027-4fcc-9f46-c72c25a9f8c6",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/912149f41929c6868380.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=f575f34b-22f4-4397-bb12-cbf29fb0e51c",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ba178a6a33a5443df037.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=c0b46cd2-d32a-48e6-a58d-8653d76a98ec",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ae75c9a049a3ed3fa12c.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=7ba28dd4-83bf-461c-924e-81b378854661",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ff7d2161171ebd4a7f56.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=2678ae5e-2f8e-4860-a900-ec4360e27051",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6bc9664dfa3c88746264.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=a5996a5d-f97b-4b63-822d-7dfb6aeff427",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/3245c3959cdbfd797a25.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=d1d5075e-68a1-4379-abe1-0d677ccd9a77",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/c8d063f7bc0f0bcd7074.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=da84c354-ffc8-47ce-8a0f-964487eb662f",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/553730949b5387f743fa.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=afbb38e1-ef15-42f0-87bf-daafccc2b91b",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/86b8d00dd082c566db85.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=7cc8a57e-7353-44ba-8c9d-d65ac20dc0c6",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/e37cbbc985fcd06aa89d.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=5206c264-d5fe-49a3-9c09-866b784ae021",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/9a84ab96c41ea2c759ca.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_406236ad554146f2837d15571e4f43d2_20241118T125402.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/38.html",
+    "files": [
+      {
+        "path": "exports/871e5f23-78b1-47b6-8929-cf1b30e85ea3.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=871e5f23-78b1-47b6-8929-cf1b30e85ea3&filename=871e5f23-78b1-47b6-8929-cf1b30e85ea3.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/39.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/40.html",
+    "files": [
+      {
+        "path": "assets/b149daea468d0d02098b.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=1839fc4a-e448-4e3b-a9f7-1105686c3978",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/679522cd7b897257e415.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=43d0ad16-95af-4ec5-8cd3-96d84bb3c0fc",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/adc7dce55e65976c8ef8.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=b1b5e042-20ea-4873-8dab-c034b653b8b4",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/1624aedbd2fe87f6bb6a.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=507006a9-739a-4fb6-b7e9-ab9c68b60251",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/41.html",
+    "files": [
+      {
+        "path": "exports/0a14cd87-7f2f-4ce1-8f55-2a8df9558508.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=0a14cd87-7f2f-4ce1-8f55-2a8df9558508&filename=0a14cd87-7f2f-4ce1-8f55-2a8df9558508.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/eadbf0c9-988c-42c8-84fb-a23888622632.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=eadbf0c9-988c-42c8-84fb-a23888622632&filename=eadbf0c9-988c-42c8-84fb-a23888622632.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/42.html",
+    "files": [
+      {
+        "path": "exports/899d90c7-07b5-45b8-a936-98e3d3578c7d.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=899d90c7-07b5-45b8-a936-98e3d3578c7d&filename=899d90c7-07b5-45b8-a936-98e3d3578c7d.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/b96a3bc48ec0f8470ec0.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=31c4f1a1-faed-49f2-837a-84d4431f02b5",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/a38ccc2094a032f130c6.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=8501f3b0-f202-49d8-96cc-dc19349aee4f",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/62fc9d25e8269bdc300d.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=1d1adeb1-40bc-499f-9303-53b0352c94ab",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/43.html",
+    "files": [
+      {
+        "path": "exports/dbc25833-3e65-4093-b5de-9201022edbfd.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=dbc25833-3e65-4093-b5de-9201022edbfd&filename=dbc25833-3e65-4093-b5de-9201022edbfd.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/6818b3c378996eb783e6.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=568cfa70-15cd-40f5-892f-f564f78ee3c2",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/194a84728a5f79f262f1.png",
+        "sourceUrl": "https://api.school.glavbukh.ru/api/v2/file_download?id=78c11774-f410-42bf-9878-c96386e27bbb",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/44.html",
+    "files": []
+  },
+  {
+    "lesson": "lessons/45.html",
+    "files": [
+      {
+        "path": "exports/772df53c-01de-4b2e-8cfc-c46dcafdfd44.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=772df53c-01de-4b2e-8cfc-c46dcafdfd44&filename=772df53c-01de-4b2e-8cfc-c46dcafdfd44.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/2204ce84-e80a-4f74-9e13-d18116b57ad5.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=2204ce84-e80a-4f74-9e13-d18116b57ad5&filename=2204ce84-e80a-4f74-9e13-d18116b57ad5.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/4bf92fcfb439b9c1a0e2.gif",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43320554/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/9b72d2a03ac7c6ec51ed.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299035/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/3582a1cf82635cdead0f.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299037/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/2cb72fc2eb89d8ce132e.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299040/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/c62b40d675c8d39e1c10.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299042/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/89106590d18a2b2abd63.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299044/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/b33d250313c2372af9b2.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299046/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/f2c16b30f5bf9f210e60.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299048/",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/ece4a5561c69965ae570.png",
+        "sourceUrl": "https://1sstroy.ru/system/content/image/288/1/-43299050/",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/46.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/47.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/48.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/49.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/50.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/51.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/52.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/53.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/54.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/55.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/56.html",
+    "files": [
+      {
+        "path": "assets/7284275bc88ffa440bec.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_3c2dd59f521b40698d2d0fdb795a0dff_20250514T173550.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/57.html",
+    "files": [
+      {
+        "path": "assets/7f22a47fe12e8075db1d.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=08578810-d3a9-43d1-a3b0-a53f1413f1b3",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/7f9d0f18ac84bf546209.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=e0b72e2d-257d-49ae-97d1-aa076076e9e3",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/3d3230944d3d88839c53.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=45dfb608-7ccd-49d2-9407-7c80134f797b",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/4971f557540a8d5772df.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=066d329b-9b7d-42aa-a947-f37d0a17bfd8",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/654d646dfdb5f5bc0438.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=a21ec8d8-ff39-4ceb-b73b-3482a5c33f5f",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/bd5804c4c58e61fc58cb.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=e3820194-702a-43fe-a41d-84fc06e593b2",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/6bbd60fc491e8ac970aa.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=d8efcb08-45c4-44be-8771-568891a9bd10",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/58.html",
+    "files": [
+      {
+        "path": "exports/6d076afb-88fe-4909-84b1-c06c528334dc.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=6d076afb-88fe-4909-84b1-c06c528334dc&filename=6d076afb-88fe-4909-84b1-c06c528334dc.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/ec8a9135e07876b80571.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=de41f833-e924-4e0b-b8d9-41742d9be426",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/3658b6e618af924c778c.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=8e426d84-e0a9-451b-962b-2b32264b09aa",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/59.html",
+    "files": [
+      {
+        "path": "assets/43efa69906cc73903fc6.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=03d51cda-c9be-4e5f-be78-a67876ec0842",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/750b90e334b314702e9a.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=3ee07eab-b23e-44a9-9545-fa1f4324708b",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/f7d22a4361c3fe14741d.png",
+        "sourceUrl": "https://api.action-media.ru/school/service/api/v2/file_download?id=e2b62aa1-3a8b-4a84-b878-09236ae44225",
+        "origin": "исходное изображение"
+      },
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/60.html",
+    "files": [
+      {
+        "path": "assets/92f379c0cdf90cea8a85.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_5c339b23150c49ab8fcea8c525649d8e_20241115T122903.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/61.html",
+    "files": []
+  },
+  {
+    "lesson": "lessons/62.html",
+    "files": []
+  },
+  {
+    "lesson": "lessons/63.html",
+    "files": []
+  },
+  {
+    "lesson": "lessons/64.html",
+    "files": [
+      {
+        "path": "exports/562f6441-12f2-484c-a6f9-02c19286b3b5.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=562f6441-12f2-484c-a6f9-02c19286b3b5&filename=562f6441-12f2-484c-a6f9-02c19286b3b5.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "exports/9b9ebffd-7293-44e0-a9e5-3112508a2428.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=9b9ebffd-7293-44e0-a9e5-3112508a2428&filename=9b9ebffd-7293-44e0-a9e5-3112508a2428.pdf&companyName=&width=1280px&height=720px&companySite=",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/500deaa0eb512c216d4f.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_420ca77c0fb749a6aeae494dd0e50166_20250213T141324.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/65.html",
+    "files": [
+      {
+        "path": "assets/500deaa0eb512c216d4f.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_420ca77c0fb749a6aeae494dd0e50166_20250213T141324.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/66.html",
+    "files": [
+      {
+        "path": "exports/1ea76e6a-c292-465c-9b30-5fe6257bf92f.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=1ea76e6a-c292-465c-9b30-5fe6257bf92f&filename=1ea76e6a-c292-465c-9b30-5fe6257bf92f.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/500deaa0eb512c216d4f.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_420ca77c0fb749a6aeae494dd0e50166_20250213T141324.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/67.html",
+    "files": [
+      {
+        "path": "assets/500deaa0eb512c216d4f.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_420ca77c0fb749a6aeae494dd0e50166_20250213T141324.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  },
+  {
+    "lesson": "lessons/68.html",
+    "files": [
+      {
+        "path": "exports/e62d96ba-a978-4083-b20d-54a4b0e3e74f.pdf",
+        "sourceUrl": "https://school.a-sstroy.ru/interactive/export/api/v1/document/_get-pdf/?id=e62d96ba-a978-4083-b20d-54a4b0e3e74f&filename=e62d96ba-a978-4083-b20d-54a4b0e3e74f.pdf&companyName=&width=8.27in&height=11.70in",
+        "origin": "штатный PDF-экспорт"
+      },
+      {
+        "path": "assets/500deaa0eb512c216d4f.png",
+        "sourceUrl": "https://school.a-sstroy.ru/webcontent/images/photos/Author_420ca77c0fb749a6aeae494dd0e50166_20250213T141324.png",
+        "origin": "исходное изображение"
+      }
+    ]
+  }
+]

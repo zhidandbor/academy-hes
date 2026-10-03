@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="google" content="notranslate" />
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'cba0a53d-4f21-499c-9234-74f6b167cebb';
+    window.docName = 'ии';
+    window.locale = 'ru';
+    window.id = '3158';
+    window.moduleId = '243';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"","mainText":"У вас есть фрагмент СП 30.13330 (условный). Нужно найти все требования к диаметрам стояков холодной воды в жилых зданиях.<br />Сформулируйте промт для нейросети, используя принципы из раздела 3.<br />Оцените, какие элементы промпта важны для получения точного ответа.","textHelper":"","type":"qa","buttons":[{"label":"Смотреть ответ","isCorrect":"true"}],"result":{"src":"","text":"«Я загрузил файл СП 30.13330. Выдели все требования к диаметрам стояков холодной воды в жилых зданиях. Укажи номера пунктов. Если в документе есть таблицы с зависимостью диаметра от количества потребителей, включи их в ответ. Результат представь в виде структурированного списка»."},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

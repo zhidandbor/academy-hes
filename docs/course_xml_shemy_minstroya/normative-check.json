@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-09-27",
+  "scope": "Адресная сверка обозначений и источников, не полная правовая экспертиза или проверка всех действующих редакций",
+  "entries": [
+    {
+      "lesson": "lesson-01-02",
+      "source_designation": "Приказ Минстроя от 12.05.2017 № 789/пр",
+      "status": "REVIEW_REQUIRED",
+      "finding": "В доступном официальном указателе Минюста подтверждается иной приказ Минстроя № 789/пр от 05.12.2014, посвящённый квалификационному экзамену. Обозначение из урока по указанной дате не подтверждено; исходный текст сохранён без исправления.",
+      "official_source": "https://minjust.consultant.ru/documents/13964"
+    },
+    {
+      "lesson": "lesson-01-02",
+      "source_designation": "Приказ Минстроя от 02.11.2022 № 929/пр",
+      "status": "designation_verified",
+      "finding": "Минюст подтверждает дату, номер и предмет приказа; действующая редакция и применимость отдельных положений здесь не проверялись.",
+      "official_source": "https://minjust.consultant.ru/documents/33395"
+    },
+    {
+      "lesson": "lesson-01-02",
+      "source_designation": "Приказ Минстроя от 16.05.2023 № 344/пр",
+      "status": "designation_verified",
+      "finding": "Минюст подтверждает дату, номер и предмет приказа; действующая редакция и применимость отдельных положений здесь не проверялись.",
+      "official_source": "https://minjust.consultant.ru/documents/47785"
+    },
+    {
+      "lesson": "lesson-01-02",
+      "source_designation": "Приказ Минстроя от 02.12.2022 № 1026/пр",
+      "status": "designation_verified",
+      "finding": "Минюст подтверждает дату, номер и предмет приказа; действующая редакция и применимость отдельных положений здесь не проверялись.",
+      "official_source": "https://minjust.consultant.ru/documents/28915"
+    },
+    {
+      "lesson": "lesson-01-02",
+      "source_designation": "Письмо Минстроя от 12.02.2026 № 2982-ОГ/14",
+      "status": "REVIEW_REQUIRED",
+      "finding": "Обозначение встречается в коммерческих правовых базах; официальную публикацию полного текста при данной проверке не удалось подтвердить.",
+      "source_link_in_lesson": "https://1sstroy.ru/group?groupId=147518555&locale=ru&date=2026-01-20&isStatic=false&pubAlias=stroy.plus"
+    },
+    {
+      "lesson": "lesson-01-03",
+      "source_designation": "Актуальные XML-схемы Минстроя",
+      "status": "online_catalog",
+      "finding": "В уроке указан официальный каталог. Конкретные пакеты схем не скачивались: их редакции изменяются и состав нужно сверять на дату практического применения.",
+      "official_source": "https://minstroyrf.gov.ru/tim/xml-skhemy/"
+    }
+  ]
+}

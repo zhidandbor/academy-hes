@@ -1,0 +1,257 @@
+[
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "embeds/interactive/doc/b1d70eb8-cb70-48d0-9d98-c435048504d5/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/bc77607c-cdfc-4990-b72b-b82bbfad49fd.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/e7dacea5-b268-46ed-97f4-846dfceba914.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "embeds/interactive/doc/e1b3c411-c41c-463c-be88-d845dad3b778/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "embeds/interactive/doc/c3fe43d6-4059-40c3-818b-b28582b08236/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/40349139-2f91-4f24-812a-d4f357eb2d00.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/8f77d151-ff39-4b87-a104-aaba50cde691.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/67cbd036-97ce-4500-993a-c5ab546d6b4e.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/fb36bd41-0b65-4bf6-9697-99e819cb1d1f.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "embeds/interactive/doc/bc036c65-e10f-454c-a5a4-e5c82b723b50/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/bfb895af-d2eb-49aa-b457-b0f93f0044f0.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "embeds/interactive/doc/8f6fd79d-92a4-4fd0-ab00-f26e340ac81d/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "embeds/interactive/doc/d846c3b5-432c-4db7-8f0a-b27986caff6b/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/75fdd374-0acf-4db7-ab4b-67fdd193e8ac.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/4f1ec093-19ef-4080-a25c-1fff95856ee9.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "embeds/interactive/doc/d7643713-05dd-405e-b446-64426fca6ced/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/7c779a8a-a57c-44fa-baa7-628c44d34529.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "embeds/interactive/doc/2d75892a-4322-4ab8-ad2a-870205a88706/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/25cd2516-a760-434e-bef8-ae6b439bc65b.jpg",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/38f5db42-907d-44cf-8fc7-74ed9dd13454.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/ce3746ac-0b93-4944-b52d-3a81880de80c.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/38865955-d352-4bdc-af7e-d9ba3f387578.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/3a80117a-a026-4e9a-81cf-c2247588949e.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/03245a2b-8d5a-4a81-ae47-1713a16ac7fb.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/b91ef93c-898c-4fbd-ac4b-75c67ada9ee1.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "embeds/interactive/doc/2f53d1c5-5dd2-49fc-a4e6-04ec1ec87db9/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "embeds/interactive/doc/2742f7c5-f4ee-4425-aa2b-59adee2b4481/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "embeds/interactive/doc/74c2a694-dd16-4dca-af7a-2cdc6cb06ac5/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "embeds/interactive/doc/f85460eb-b426-4ca7-a74f-2e56a8074023/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "embeds/interactive/doc/54530d29-eb25-4593-86eb-38982ec52eaa/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "assets/images/f4d4c087-4a28-4488-9442-bb49bb005a79.jpg",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "assets/images/48b0afb6-5191-4a7c-9332-817838da37b6.jpg",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-06",
+    "path": "embeds/interactive/doc/4fd2f4ad-ad60-4b15-a806-6162af1f6667/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/802d4121-816a-4349-b4fd-f28afbc4b3aa.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/1368e4f4-200f-4643-84d5-9485c4325632.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/226eabe9-db51-4711-9874-133ea5d69b6c.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/01bc3410-5040-421b-a921-17dd227adf8e.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/c3e4f040-ccbb-436c-b187-a0e073764580.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/5ad4e6fa-0206-46b0-b3a9-00af19e1d813.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "assets/images/f7e43bd7-77e6-4941-ac0d-06ac4dc68d7a.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "source_external/learningapps/p6p0wyms525/images/01.png",
+    "binding": "external_exercise_image"
+  },
+  {
+    "lesson": "lesson-01-07",
+    "path": "source_external/learningapps/p6p0wyms525/data.js",
+    "binding": "external_exercise_data"
+  },
+  {
+    "lesson": "lesson-01-08",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-08",
+    "path": "embeds/interactive/doc/e5c7eef5-562e-4d48-8104-08c34a3dba65/index.html",
+    "binding": "localized_first_party_html_partial"
+  }
+]

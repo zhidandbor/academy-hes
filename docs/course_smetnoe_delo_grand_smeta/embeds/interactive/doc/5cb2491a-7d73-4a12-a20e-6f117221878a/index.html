@@ -1,0 +1,77 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Connect-cards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '5cb2491a-7d73-4a12-a20e-6f117221878a';
+    window.docName = 'Сокращения в сметной документации';
+    window.locale = 'ru';
+    window.id = '1767';
+    window.moduleId = '245';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var pairs = [{"leftCard":{"pairId":0,"text":"<p>ГЭСН</p>"},"rightCard":{"pairId":0,"text":"<p>Государственные элементные сметные нормы</p>"}},{"leftCard":{"pairId":1,"text":"<p>ФЕР</p>"},"rightCard":{"pairId":1,"text":"<p>Федеральные единичные расценки</p>"}},{"leftCard":{"pairId":2,"text":"<p>ТЕР</p>"},"rightCard":{"pairId":2,"text":"<p>Территориальные единичные расценки</p>"}},{"leftCard":{"pairId":3,"text":"<p>ФССЦ</p>"},"rightCard":{"pairId":3,"text":"<p>Федеральный сборник сметных цен</p>"}},{"leftCard":{"pairId":4,"text":"<p>СМР</p>"},"rightCard":{"pairId":4,"text":"<p>Строительно-монтажные работы</p>"}},{"leftCard":{"pairId":5,"text":"<p>ПД</p>"},"rightCard":{"pairId":5,"text":"<p>Проектная документация</p>"}},{"leftCard":{"pairId":6,"text":"<p>ФСПГ</p>"},"rightCard":{"pairId":6,"text":"<p>Федеральный сборник сметных цен на перевозку грузов</p>"}},{"leftCard":{"pairId":7,"text":"<p>ФСЭМ</p>"},"rightCard":{"pairId":7,"text":"<p>Федеральная сметная база эксплуатации машин</p>"}}];
+    var env = 'prod';
+    var title = 'Сокращения в сметном деле';
+    var description = 'Найти пару';
+    var comment = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+        if (window.env === 'dev' || window.env === 'test') {
+            window.WidgetLoader.dev();
+        }
+
+        if (window.env === 'rc') {
+            window.WidgetLoader.rc();
+        }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waConnectCards',
+                version: '1_0_0'
+            },
+            initConnectorCards
+        );
+    }
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initConnectorCards() {
+        window.ActionConnectCards.init(
+            {
+                title,
+                description,
+                pairs,
+                comment,
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

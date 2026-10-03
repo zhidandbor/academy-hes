@@ -1,0 +1,75 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'caabfccf-9aef-496c-a5ea-7130d90080ab';
+    window.docName = 'Новая статья WEB АРМ';
+    window.locale = 'ru';
+    window.id = '3896';
+    window.moduleId = '242';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"/interactive/doc/caabfccf-9aef-496c-a5ea-7130d90080ab/images/1.png","mainText":"Результаты операционного контроля должны быть отражены в общем и специальных журналах работ.","textHelper":"","type":"truefalse","buttons":[{"label":"Правда","isCorrect":"true"},{"label":"Ложь"}],"result":{"src":"","text":"Результаты операционного контроля должны быть отражены в общем и специальных журналах работ."},"nextButtonLabel":"Следующий вопрос"},{"img":"/interactive/doc/caabfccf-9aef-496c-a5ea-7130d90080ab/images/2.png","mainText":"Операционный контроль &ndash; это&nbsp;контроль результатов выполнения отдельных&nbsp;этапов работ, конструкций, участков сетей инженерно-технического обеспечения","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Ложь","isCorrect":"true"}],"result":{"src":"","text":"Операционный контроль &ndash; это проверка выполнения хода и технологии строительно-монтажных работ."},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,77 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Connect-cards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'e5c7eef5-562e-4d48-8104-08c34a3dba65';
+    window.docName = 'проф сленг гео';
+    window.locale = 'ru';
+    window.id = '1541';
+    window.moduleId = '245';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var pairs = [{"leftCard":{"pairId":0,"text":"<p>Линейка</p>"},"rightCard":{"pairId":0,"text":"<p>рейка</p>"}},{"leftCard":{"pairId":1,"text":"<p>Репер</p>"},"rightCard":{"pairId":1,"text":"<p>знак с известной высотой</p>"}},{"leftCard":{"pairId":2,"text":"<p>Разбей плиту</p>"},"rightCard":{"pairId":2,"text":"<p>вынеси в натуру контур плиты</p>"}},{"leftCard":{"pairId":3,"text":"<p>Продай ось</p>"},"rightCard":{"pairId":3,"text":"<p>вынеси в натуру оси</p>"}},{"leftCard":{"pairId":4,"text":"<p>Стреляй</p>"},"rightCard":{"pairId":4,"text":"<p>бери отсчет</p>"}},{"leftCard":{"pairId":5,"text":"<p>Одноглазый</p>"},"rightCard":{"pairId":5,"text":"<p>отражатель</p>"}},{"leftCard":{"pairId":6,"text":"<p>Прибор уплыл</p>"},"rightCard":{"pairId":6,"text":"<p>уровень прибора ушел за пределы допустимого диапазона</p>"}},{"leftCard":{"pairId":7,"text":"<p>Съемка в натуре</p>"},"rightCard":{"pairId":7,"text":"<p>работа на местности</p>"}},{"leftCard":{"pairId":8,"text":"<p>Пузырек</p>"},"rightCard":{"pairId":8,"text":"<p>круглый уровень</p>"}},{"leftCard":{"pairId":9,"text":"<p>Обнулиться</p>"},"rightCard":{"pairId":9,"text":"<p>установить уровень прибора в положение «0»</p>"}}];
+    var env = 'prod';
+    var title = 'Профессиональный сленг геодезистов';
+    var description = 'Определите соответствие профессионального сленга и его значение';
+    var comment = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+        if (window.env === 'dev' || window.env === 'test') {
+            window.WidgetLoader.dev();
+        }
+
+        if (window.env === 'rc') {
+            window.WidgetLoader.rc();
+        }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waConnectCards',
+                version: '1_0_0'
+            },
+            initConnectorCards
+        );
+    }
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initConnectorCards() {
+        window.ActionConnectCards.init(
+            {
+                title,
+                description,
+                pairs,
+                comment,
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

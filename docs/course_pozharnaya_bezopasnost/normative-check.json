@@ -1,0 +1,36 @@
+{
+  "checked_on": "2026-09-24",
+  "scope": "адресная сверка обозначений и одной спорной ссылки, не правовая экспертиза",
+  "items": [
+    {
+      "lesson": "lesson-01-01",
+      "reference": "69-ФЗ",
+      "finding": "Обозначение и название подтверждены; актуальная редакция положений не проверена",
+      "official_url": "https://mchs.gov.ru/dokumenty/840"
+    },
+    {
+      "lesson": "lesson-01-01",
+      "reference": "123-ФЗ",
+      "finding": "Обозначение и название подтверждены; актуальная редакция положений не проверена",
+      "official_url": "https://mchs.gov.ru/dokumenty/6661"
+    },
+    {
+      "lesson": "lesson-01-01",
+      "reference": "384-ФЗ",
+      "finding": "Обозначение и название подтверждены; актуальная редакция положений не проверена",
+      "official_url": "https://government.ru/docs/all/99400/"
+    },
+    {
+      "lesson": "lesson-01-01",
+      "reference": "Постановление Правительства РФ № 1479",
+      "finding": "Обозначение и название подтверждены; конкретные пункты не проверены",
+      "official_url": "https://mchs.gov.ru/dokumenty/inye-normativnye-pravovye-akty/prochie-normativnye-pravovye-akty/perechen-obyazatelnyh-trebovaniy/federalnyy-gosudarstvennyy-pozharnyy-nadzor"
+    },
+    {
+      "lesson": "lesson-02-06",
+      "reference": "СП 48.13330.2019",
+      "finding": "Действует с 25.06.2020, заменил СП 48.13330.2011, есть изменения № 1 и № 2; ссылка на пункт 2.4 о сигнализации требует ручной проверки",
+      "official_url": "https://protect.gost.ru/sp/details/278f4ffa-b29b-4733-b8ac-d9a5ff3775cc"
+    }
+  ]
+}

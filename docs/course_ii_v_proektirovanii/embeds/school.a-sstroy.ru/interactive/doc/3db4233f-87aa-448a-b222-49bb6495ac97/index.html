@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="google" content="notranslate" />
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '3db4233f-87aa-448a-b222-49bb6495ac97';
+    window.docName = 'пп7';
+    window.locale = 'ru';
+    window.id = '4075';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":{"title":"Функции Gamma","text":""},"cardList":[{"media":null,"question":"Какой способ создания презентации в Gamma наиболее подходит, если у Вас уже есть готовая пояснительная записка в Word?","answerList":[{"checked":true,"text":"«Import file» (загрузить файл)"},{"checked":false,"text":"«Generate with AI» (ввести тему)"},{"checked":false,"text":"«Paste in text» (вставить текст)"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Какое действие Gamma выполняет автоматически?","answerList":[{"checked":false,"text":"Проверяет расчеты на ошибки"},{"checked":true,"text":"Подбирает иконки и изображения по смыслу текста"},{"checked":false,"text":"Создаёт 3D-модель здания"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Что лучше сделать перед вставкой текста в Gamma для повышения качества презентации?","answerList":[{"checked":false,"text":"Добавить больше сложных технических терминов"},{"checked":true,"text":"Разбить текст на логические блоки с подзаголовками"},{"checked":false,"text":"Удалить все цифры, оставить только текст"}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

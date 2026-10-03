@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="google" content="notranslate" />
+    <title>Flipcard</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '7915684e-fefa-49e9-9a94-3b49224d06b4';
+    window.docName = 'ии';
+    window.locale = 'ru';
+    window.id = '6178';
+    window.moduleId = '242';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var cards = [{"img":"images/1.png","mainText":"«Согласно СП 60.13330.2020, для офисных помещений кратность воздухообмена должна быть не менее 150 1/ч».","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Галлюцинация","isCorrect":"true"}],"result":{"src":"","text":"Кратность 150 1/ч означала бы полную смену воздуха более двух раз в минуту – это нереалистично для офиса. В реальных нормах кратность порядка 1-3 1/ч."},"nextButtonLabel":"Следующий вопрос"},{"img":"images/2.png","mainText":"«СанПиН запрещает проектирование вентиляции в жилых домах».","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Галлюцинация","isCorrect":"true"}],"result":{"src":"","text":"Вентиляция в жилых домах обязательна, такое утверждение противоречит всем нормам и здравому смыслу."},"nextButtonLabel":"Следующий вопрос"},{"img":"images/3.png","mainText":"«В жилых домах необходимо размещать вентиляционное оборудование в специальных помещениях с противопожарными перегородками».","textHelper":"","type":"truefalse","buttons":[{"label":"Правда","isCorrect":"true"},{"label":"Галлюцинация"}],"result":{"src":"","text":"«В жилых домах необходимо размещать вентиляционное оборудование в специальных помещениях с противопожарными перегородками»."},"nextButtonLabel":"Следующий вопрос"},{"img":"images/4.png","mainText":"«СП 30.13330 требует, чтобы диаметр труб водоснабжения в жилых зданиях был не менее 200 мм».","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Галлюцинация","isCorrect":"true"}],"result":{"src":"","text":"Диаметр труб водоснабжения определяется гидравлическим расчетом и может быть менее 200 мм в жилых зданиях."},"nextButtonLabel":"Следующий вопрос"},{"img":"images/5.png","mainText":"«ГОСТ 30494 устанавливает, что температура в жилых помещениях должна быть не ниже +5 °С».","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Галлюцинация","isCorrect":"true"}],"result":{"src":"","text":"По ГОСТ 30494 нормальная температура в жилых комнатах +18…+24 °С. +5 °С – это опасный минимум."},"nextButtonLabel":"Следующий вопрос"},{"img":"images/6.png","mainText":"«СП 54.13330 требует, чтобы площадь кухни в однокомнатной квартире была не менее 5 м2».","textHelper":"","type":"truefalse","buttons":[{"label":"Правда","isCorrect":"true"},{"label":"Галлюцинация"}],"result":{"src":"","text":"Кухня должна быть не менее 5-8 м2."},"nextButtonLabel":"Следующий вопрос"},{"img":"images/7.png","mainText":"«СНиП 2.04.01-85 действует в 2026 году».","textHelper":"","type":"truefalse","buttons":[{"label":"Правда"},{"label":"Галлюцинация","isCorrect":"true"}],"result":{"src":"","text":"СНИП в 2026 году недействующий, взамен действует СП 30.13330.2020."},"nextButtonLabel":"Следующий вопрос"}];
+    var env = 'prod';
+    var title = '';
+    var subtitle = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+         if (window.env === 'dev' || window.env === 'test') {
+      window.WidgetLoader.dev();
+    }
+
+    if (window.env === 'rc') {
+      window.WidgetLoader.rc();
+    }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waFlipcards',
+                version: '1_0_0'
+            },
+            initFlipcard
+    );
+    };
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initFlipcard() {
+        window.ActionFlipCards.init(
+            {
+                title,
+                subtitle,
+                cards
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

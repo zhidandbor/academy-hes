@@ -1,0 +1,919 @@
+{
+  "assets/images/8adfe08a-77d8-45ba-88f8-04d1270cff36.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=8adfe08a-77d8-45ba-88f8-04d1270cff36",
+    "kind": "lesson_image",
+    "bytes": 885578,
+    "sha256": "906de06a7217cda86e4120c9e05c0f07acd3b76378f100eec7705383aefb8459",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "assets/images/0eb99097-5890-48d0-8c91-f3538d98be93.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=0eb99097-5890-48d0-8c91-f3538d98be93",
+    "kind": "lesson_image",
+    "bytes": 860115,
+    "sha256": "0838a99e5e3bab3266434e7fe75393745156ad4d3da633af3e690601de81a263",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "assets/images/4992cb61-fde1-47fb-8434-7bfb065ac99b.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=4992cb61-fde1-47fb-8434-7bfb065ac99b",
+    "kind": "lesson_image",
+    "bytes": 854700,
+    "sha256": "7235572b3d58d2256349e2ad92fa798ccef8ac6f94177139c91b4862b2c3c06c",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "assets/images/7ab0c7b3-30e3-475a-9671-a741d1308423.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=7ab0c7b3-30e3-475a-9671-a741d1308423",
+    "kind": "lesson_image",
+    "bytes": 702168,
+    "sha256": "a4444f87dd95a17f2d07402364fd25c691ce6ab1877dfd78fdc7781ec58a44d2",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "assets/images/9ae29eed-8682-4531-a77a-f80767ae0efc.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9ae29eed-8682-4531-a77a-f80767ae0efc",
+    "kind": "lesson_image",
+    "bytes": 490611,
+    "sha256": "52657d174a4581d7800c940a457ac0f1a484e1f6b5a5ff8462248166736c859c",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "assets/images/86a728ea-c8f2-4d20-9add-35f54280eff6.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=86a728ea-c8f2-4d20-9add-35f54280eff6",
+    "kind": "lesson_image",
+    "bytes": 670996,
+    "sha256": "184f43fb8b615097d1a7b9ae690e405323aac6d74d9a3273d7f86a057c400bd6",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "assets/images/d8da5bf0-e143-4944-a55e-9bf8941e77a2.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=d8da5bf0-e143-4944-a55e-9bf8941e77a2",
+    "kind": "lesson_image",
+    "bytes": 948896,
+    "sha256": "9c15f0aaed06ca0d4bca501cb09680a962612fb2971e901d242ee125dfda87c9",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "assets/images/e67fbdec49bad272.png": {
+    "source_url": "https://school.a-sstroy.ru/webcontent/images/photos/Author_34441f282510488990728d9051291ba0_20251227T231244.png",
+    "kind": "author_photo",
+    "bytes": 550532,
+    "sha256": "3b2b5df2c4c62b0503f6b768415530c625a6e26cd2b6de056190d97033f96182",
+    "content_type": "image/png",
+    "lessons": [
+      "01-01",
+      "01-02",
+      "01-03",
+      "01-04",
+      "02-01",
+      "02-02",
+      "02-03",
+      "02-04",
+      "03-01",
+      "03-02",
+      "03-03",
+      "03-04"
+    ]
+  },
+  "assets/images/ec2cd8c1-b367-4f85-b512-64fa560a81f1.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=ec2cd8c1-b367-4f85-b512-64fa560a81f1",
+    "kind": "lesson_image",
+    "bytes": 948922,
+    "sha256": "32ae119e26075ea9f2da7c9b8a4fa6db369c1853ed1731f9fa971de17c355664",
+    "content_type": "image/png",
+    "lessons": [
+      "01-02"
+    ]
+  },
+  "assets/images/3249c250-fa20-472c-a55e-936d89460ba4.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=3249c250-fa20-472c-a55e-936d89460ba4",
+    "kind": "lesson_image",
+    "bytes": 1293526,
+    "sha256": "4e337635070dab94d558310271c996f46ad4baa1bc164eb99c61c93fa8c6b33c",
+    "content_type": "image/png",
+    "lessons": [
+      "01-02"
+    ]
+  },
+  "assets/images/25446f3e-f768-48bd-8731-a9b0ded378fe.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=25446f3e-f768-48bd-8731-a9b0ded378fe",
+    "kind": "lesson_image",
+    "bytes": 407595,
+    "sha256": "b5225452e5c629b3bf8311091a1964f5732a6fc6b8203e6731e61fb80b30e721",
+    "content_type": "image/png",
+    "lessons": [
+      "01-02"
+    ]
+  },
+  "source_embeds/github-engineer6/index.html": {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/engineer6.html",
+    "kind": "source_embed_html",
+    "bytes": 19508,
+    "sha256": "c45c354d56a3a7bae90b0b2c1daa5c78d647a45a139d6d03f0b71003d3b3e163",
+    "content_type": "text/html",
+    "lessons": [
+      "01-02"
+    ]
+  },
+  "embeds/github/engineer6.html": {
+    "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/engineer6.html",
+    "kind": "localized_embed_html",
+    "bytes": 19297,
+    "sha256": "00b24ea5ca567f8b1ecd1048ae2a558517a8b97d14a7908fb73101be7541ca78",
+    "content_type": "text/html",
+    "lessons": [
+      "01-02"
+    ],
+    "change": "remote font link removed; system fonts substituted"
+  },
+  "assets/images/55a38634-8f61-4283-8efd-0272d70e0990.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=55a38634-8f61-4283-8efd-0272d70e0990",
+    "kind": "lesson_image",
+    "bytes": 1490383,
+    "sha256": "aa14b27f715498b4eeeaa87874591301f617ceee7d2468fd04b1dd3e9d2c3f81",
+    "content_type": "image/png",
+    "lessons": [
+      "01-03"
+    ]
+  },
+  "assets/images/e67088e8-5489-46e0-a7e0-0f81deaff146.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=e67088e8-5489-46e0-a7e0-0f81deaff146",
+    "kind": "lesson_image",
+    "bytes": 529677,
+    "sha256": "9669f5dba3f5d05de0dd5a55d72bd6069d7ce99d1689760871278121cbd23ced",
+    "content_type": "image/png",
+    "lessons": [
+      "01-04"
+    ]
+  },
+  "assets/images/5a65ac91-c068-437c-9707-9802e3b5b1c1.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=5a65ac91-c068-437c-9707-9802e3b5b1c1",
+    "kind": "lesson_image",
+    "bytes": 2444417,
+    "sha256": "ad967b5b1bb4c8871d5d8613eddd819e9b49e73c88d253331a0bdf8c45bb8d99",
+    "content_type": "image/png",
+    "lessons": [
+      "01-04"
+    ]
+  },
+  "assets/images/293e86fe-2625-4600-9236-890235725129.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=293e86fe-2625-4600-9236-890235725129",
+    "kind": "lesson_image",
+    "bytes": 574992,
+    "sha256": "3e712871d74eb68b445e7c60072820861b287216df9fb05901014373b6df55c6",
+    "content_type": "image/png",
+    "lessons": [
+      "01-04"
+    ]
+  },
+  "source_embeds/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html": {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html",
+    "kind": "source_embed_html",
+    "bytes": 3717,
+    "sha256": "b2b676e478efbe1453dacf20eb96e764501149ef3dca3c2d24420f054f8c9bed",
+    "content_type": "text/html",
+    "lessons": [
+      "01-04"
+    ]
+  },
+  "assets/images/711b3e0d-ca14-483c-b6c4-d7377ebf57bb.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=711b3e0d-ca14-483c-b6c4-d7377ebf57bb",
+    "kind": "lesson_image",
+    "bytes": 359451,
+    "sha256": "9ef213cf73eee92903ea632a8a1f556128eeaec8f747bb94e8d7c36cf07dc88b",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/a9b3306c-b18c-454a-90e3-52dc99c6ea88.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=a9b3306c-b18c-454a-90e3-52dc99c6ea88",
+    "kind": "lesson_image",
+    "bytes": 129410,
+    "sha256": "2bfcc1bdda38fa990aad9cb806aa100a73f0d6ebc40f800263370acd3d4fe333",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/f1caab0f-d6d1-4f47-b348-8e85475c8231.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=f1caab0f-d6d1-4f47-b348-8e85475c8231",
+    "kind": "lesson_image",
+    "bytes": 168829,
+    "sha256": "e53db654e231215c2f84ab8257d6c8e7b536088573f22fffa2abd42b30b7dfa7",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/b05617b4-24e5-453f-81ff-2f17d8e33839.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=b05617b4-24e5-453f-81ff-2f17d8e33839",
+    "kind": "lesson_image",
+    "bytes": 254823,
+    "sha256": "317a4f57c895068ef117823426ddc38fc3186cedcb0827826db065985c8596ac",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/6fd33075-3d82-49e1-9794-ab4681245798.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=6fd33075-3d82-49e1-9794-ab4681245798",
+    "kind": "lesson_image",
+    "bytes": 105600,
+    "sha256": "fe239d5fcac15477175ab216523c26b34bbd5077066a9291bd3cbbee0d39ab42",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/e79433b5-7894-4dc2-a6f2-4b374b121ea8.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=e79433b5-7894-4dc2-a6f2-4b374b121ea8",
+    "kind": "lesson_image",
+    "bytes": 130092,
+    "sha256": "e658400558483f62b67fcbc8a38b4c7a50fb52d95fa05619fa624dbcbd832ad5",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/3a12331d-5da8-41b2-83a2-04633d35275f.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=3a12331d-5da8-41b2-83a2-04633d35275f",
+    "kind": "lesson_image",
+    "bytes": 97941,
+    "sha256": "1b3772cb5a880b7dc421d42577f70d54a7fee7883d7b48d2cd7b1e037db34813",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/1ee5fc30-8ae4-4fa5-a89a-0fff04777917.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=1ee5fc30-8ae4-4fa5-a89a-0fff04777917",
+    "kind": "lesson_image",
+    "bytes": 123520,
+    "sha256": "0ba246a29730a8a683b6be1b42c7b33b6d2136fe93ddc5245acc93dc69db0662",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/5dc367ac-f84e-472e-bc49-ca784ced1235.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=5dc367ac-f84e-472e-bc49-ca784ced1235",
+    "kind": "lesson_image",
+    "bytes": 96540,
+    "sha256": "b164b9196ba2488d2e516dc706f6e5c0e46fb1a2dbb8d96e35bfaa0c7f299663",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/762a10c3-1603-4be7-b386-47a55cce2fa5.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=762a10c3-1603-4be7-b386-47a55cce2fa5",
+    "kind": "lesson_image",
+    "bytes": 48424,
+    "sha256": "c5b2cf0d7b4cc6592806cc20c2b02caf7ddb2f935b3c36b9a02e589a95dcd2dd",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/9462829a-0436-4c9c-ab14-b9ce0ec0a3ca.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9462829a-0436-4c9c-ab14-b9ce0ec0a3ca",
+    "kind": "lesson_image",
+    "bytes": 242599,
+    "sha256": "0838fca515e54d1e6dc75adfbf2f1aa10c3bbaf4e15cdb61de32daef9c112713",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/8d2fac32-426e-4b45-ad11-b52ac2f8f60b.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=8d2fac32-426e-4b45-ad11-b52ac2f8f60b",
+    "kind": "lesson_image",
+    "bytes": 65040,
+    "sha256": "6326feb463a9df347b51852101faf72c44d844da75658718a5d68a7c8e633ced",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/9eec6743-ce52-458b-bad9-2d5ad8800413.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=9eec6743-ce52-458b-bad9-2d5ad8800413",
+    "kind": "lesson_image",
+    "bytes": 93935,
+    "sha256": "c1649846111b155a9b1e978739a5b9686c10c972637ff0287de0299c56644ee7",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/ea99b60f-e871-4e58-b663-0c35f449162d.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=ea99b60f-e871-4e58-b663-0c35f449162d",
+    "kind": "lesson_image",
+    "bytes": 96603,
+    "sha256": "b504b62d28995d99b6185a96df31146c50fe1498561cb459081aaf33fa68b388",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/25b03204-c4ec-4bf2-ae23-eeca49a2e2ba.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=25b03204-c4ec-4bf2-ae23-eeca49a2e2ba",
+    "kind": "lesson_image",
+    "bytes": 123766,
+    "sha256": "20e49e556f4cead53a35ddf609ecab2fd2d068bc4b2480ca7088b22b7f678347",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/6236bca1-ec5e-432b-87b9-87f390b99fa3.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=6236bca1-ec5e-432b-87b9-87f390b99fa3",
+    "kind": "lesson_image",
+    "bytes": 160130,
+    "sha256": "25a49fadd8549e3f53be81b6939d3e106c6a145c4bdba285e33d1609d8c5bab5",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/670b3a4b-6250-4e7b-9f3e-977a08f6ed2d.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=670b3a4b-6250-4e7b-9f3e-977a08f6ed2d",
+    "kind": "lesson_image",
+    "bytes": 170771,
+    "sha256": "816a4dc87e98fa774d9e0c2f81fbbbd6b513a4ab2b35ff248c6b3c6440020306",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/3ba493d8-af77-4e97-9cc2-f324f91a664d.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=3ba493d8-af77-4e97-9cc2-f324f91a664d",
+    "kind": "lesson_image",
+    "bytes": 175481,
+    "sha256": "d9e03d31f7171b2294b1a210514b5cf153f7dabec7f2df042806009886adf324",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/8972c528-598f-4a35-8ce5-81dc33697a50.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=8972c528-598f-4a35-8ce5-81dc33697a50",
+    "kind": "lesson_image",
+    "bytes": 174669,
+    "sha256": "17f4280d49c36d124e3da8d1646f9a86a7c7c67fbee9029db7be62a5981ea469",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/f97185ec-ff41-437d-9295-2488d352c619.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=f97185ec-ff41-437d-9295-2488d352c619",
+    "kind": "lesson_image",
+    "bytes": 174821,
+    "sha256": "692d0935253b50938024761e279f3f01319779258e896db4f11c53a8a661db28",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/03f24f99-9cb0-46e9-a4a2-b968a4b2e82c.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=03f24f99-9cb0-46e9-a4a2-b968a4b2e82c",
+    "kind": "lesson_image",
+    "bytes": 188074,
+    "sha256": "5fb027116c197c3a76983d8c4f3def8b94044d68bff2951a35ee0491656bf643",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/5cf76ac1-d8b9-4bde-b7e3-b0e64c0d4801.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=5cf76ac1-d8b9-4bde-b7e3-b0e64c0d4801",
+    "kind": "lesson_image",
+    "bytes": 189844,
+    "sha256": "d865d139704bd0a0d6be2e05fc202e9b26ff1e7811b5536c18826d3e6cb973bd",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/920ba2f6-6353-49c8-98b1-5eb90b7abd22.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=920ba2f6-6353-49c8-98b1-5eb90b7abd22",
+    "kind": "lesson_image",
+    "bytes": 197182,
+    "sha256": "3b4598af8d638489332e1d9e371ad38e7f7e4bf3d9381ab3c4dca7577f6183ce",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/db1af3da-50bf-4124-9265-490def9bcee9.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=db1af3da-50bf-4124-9265-490def9bcee9",
+    "kind": "lesson_image",
+    "bytes": 447386,
+    "sha256": "43c8c21eab9ffb6dc3c95e7df69c4e0284e3c1c446d2257793da23ceb29c92fa",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/217865ec-d8da-491d-84f2-3185a2dd45ce.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=217865ec-d8da-491d-84f2-3185a2dd45ce",
+    "kind": "lesson_image",
+    "bytes": 53870,
+    "sha256": "3d89f6ca2e952e1201c1ae2492dbd13a34851210b63e273118c656194fe11566",
+    "content_type": "image/png",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "assets/images/0f96fc9e-4ec8-43d5-bd3c-8e9c58edfa34.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=0f96fc9e-4ec8-43d5-bd3c-8e9c58edfa34",
+    "kind": "lesson_image",
+    "bytes": 2061490,
+    "sha256": "a6ec2a62f2c5f7c9791c9215c92a373f691d44815d0c75f411c9792329990338",
+    "content_type": "image/png",
+    "lessons": [
+      "02-02"
+    ]
+  },
+  "assets/images/830ffe44-1792-4ed2-8512-03290ef96a15.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=830ffe44-1792-4ed2-8512-03290ef96a15",
+    "kind": "lesson_image",
+    "bytes": 838802,
+    "sha256": "4de597c6a4ba8fa56ec9173db200f43a9e1d08f776b6104aa3a80922961fa5bf",
+    "content_type": "image/png",
+    "lessons": [
+      "02-02"
+    ]
+  },
+  "assets/images/b1b7fa37-7c6e-416a-bc44-0fd542f8c4b7.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=b1b7fa37-7c6e-416a-bc44-0fd542f8c4b7",
+    "kind": "lesson_image",
+    "bytes": 97425,
+    "sha256": "1780b99fd2e96489cda37673805efe1cdbc7f4d9622316d632a4f1f9c3313638",
+    "content_type": "image/png",
+    "lessons": [
+      "02-02"
+    ]
+  },
+  "assets/images/cf810a48-661b-4098-b81c-af9fa07a4094.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=cf810a48-661b-4098-b81c-af9fa07a4094",
+    "kind": "lesson_image",
+    "bytes": 42649,
+    "sha256": "552d6727fe64f9f1f4c5b0f50c8b9bcf721aa46f41a9c5edf2ecf33ec955d44f",
+    "content_type": "image/png",
+    "lessons": [
+      "02-03"
+    ]
+  },
+  "assets/images/86af0921-2bdb-4f14-84e8-6e29cbe70e6e.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=86af0921-2bdb-4f14-84e8-6e29cbe70e6e",
+    "kind": "lesson_image",
+    "bytes": 597620,
+    "sha256": "2d7ae1a38eace3a394bb75c89f549cc218aab7b53c5ce67228ce01713d02a739",
+    "content_type": "image/png",
+    "lessons": [
+      "02-03"
+    ]
+  },
+  "assets/images/eb04c07d-73bb-4ae5-9e30-d54bd14d8340.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=eb04c07d-73bb-4ae5-9e30-d54bd14d8340",
+    "kind": "lesson_image",
+    "bytes": 1257268,
+    "sha256": "e166b664bdeca26b86d25c47ac6317e66785335d71485d68cd3601b10712d8ae",
+    "content_type": "image/png",
+    "lessons": [
+      "02-04"
+    ]
+  },
+  "assets/images/930815ab-62ff-4ce8-a9fe-035e529af9d9.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=930815ab-62ff-4ce8-a9fe-035e529af9d9",
+    "kind": "lesson_image",
+    "bytes": 705617,
+    "sha256": "9c6e1a44c6cfe0ce24bd8c3353cd925381336c48c06eb8040b7e887ab3fa5323",
+    "content_type": "image/png",
+    "lessons": [
+      "02-04"
+    ]
+  },
+  "assets/images/acb5f683-caa7-4b80-b336-c6122d2b034f.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=acb5f683-caa7-4b80-b336-c6122d2b034f",
+    "kind": "lesson_image",
+    "bytes": 1132892,
+    "sha256": "e412cb520fe9b0759f66031b0603e251d38d3c36ca2f4ced75277c5bd6cd832c",
+    "content_type": "image/png",
+    "lessons": [
+      "02-04"
+    ]
+  },
+  "assets/images/a9c5ae7e-e8c6-4a47-836e-a64691a2aba3.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=a9c5ae7e-e8c6-4a47-836e-a64691a2aba3",
+    "kind": "lesson_image",
+    "bytes": 630221,
+    "sha256": "1a41b4eba92304b153dac3e464df89c9b2552f104ef77bd78a89bc99c5578d63",
+    "content_type": "image/png",
+    "lessons": [
+      "02-04"
+    ]
+  },
+  "assets/images/68c24d3e-9314-4390-b98e-16800d50cce5.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=68c24d3e-9314-4390-b98e-16800d50cce5",
+    "kind": "lesson_image",
+    "bytes": 960611,
+    "sha256": "94f520397952f00721720e732850a5ec2e43083e0f40606642772f9137eb7cda",
+    "content_type": "image/png",
+    "lessons": [
+      "02-04"
+    ]
+  },
+  "assets/images/cc82796b-83de-4205-9564-0b9d3025a613.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=cc82796b-83de-4205-9564-0b9d3025a613",
+    "kind": "lesson_image",
+    "bytes": 890685,
+    "sha256": "4b5abf81eef3f8d379c2e7de6a1b9715b0aec7f99d0b46aa5f33cd4d6735eaa8",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/e39ca72f-47c9-45c0-80ff-467415f725ae.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=e39ca72f-47c9-45c0-80ff-467415f725ae",
+    "kind": "lesson_image",
+    "bytes": 638079,
+    "sha256": "e7de47018097fb34710cc1bf9c4d4b642f19f2ec67c0511412e7157e0187684c",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/78e9f92b-f927-40c7-91f7-4da09a2d830d.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=78e9f92b-f927-40c7-91f7-4da09a2d830d",
+    "kind": "lesson_image",
+    "bytes": 877486,
+    "sha256": "17a64a23aaff544dbfbdcfcc0b072fabcc5fdae5d7d9be2f51cc534f88c76c05",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/78945e26-ff54-43f4-a004-edf23fb7ff3a.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=78945e26-ff54-43f4-a004-edf23fb7ff3a",
+    "kind": "lesson_image",
+    "bytes": 392612,
+    "sha256": "edfbf18ad9d7ab4efadc4c4aa64fffc34f970fd7604ea417378422a5a2c46c2c",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/b03e0fbc-fb7e-4d93-8bb5-6c0aae87cdfc.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=b03e0fbc-fb7e-4d93-8bb5-6c0aae87cdfc",
+    "kind": "lesson_image",
+    "bytes": 309516,
+    "sha256": "3549fa63e1fb0b1d150db8c2bba00a0240b3602b9dd394e27ad3a252071e6538",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/7f92cf80-790d-49cb-93e9-eef13acec217.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=7f92cf80-790d-49cb-93e9-eef13acec217",
+    "kind": "lesson_image",
+    "bytes": 347517,
+    "sha256": "938c09ad0ce870d4e4404226674440b4f361795b6c7091603308eddbebe6ab7a",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/44adba73-8a9d-42a2-ab3c-c91f6f5540c4.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=44adba73-8a9d-42a2-ab3c-c91f6f5540c4",
+    "kind": "lesson_image",
+    "bytes": 256471,
+    "sha256": "ec97d314ecdc0a9a87fb6412910d5c20ecfb28ea34cf86327d6f6469bf8b18a2",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/47b2fdad-de39-478b-9b7c-9b932cf4718b.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=47b2fdad-de39-478b-9b7c-9b932cf4718b",
+    "kind": "lesson_image",
+    "bytes": 184477,
+    "sha256": "ba0c36722eb35934c9d466ca82756f4e341e46ca4dfce56fa441d9b320fb75a4",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/bdd77b81-5256-4693-82fa-41b7563a3dcc.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=bdd77b81-5256-4693-82fa-41b7563a3dcc",
+    "kind": "lesson_image",
+    "bytes": 620799,
+    "sha256": "e02f7f20459011312fe3c87f2de8b07f39cacdb35f942c2b39c5e9af921e64ec",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/282dc2b9-34f2-4f06-9aa4-52edab5e880e.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=282dc2b9-34f2-4f06-9aa4-52edab5e880e",
+    "kind": "lesson_image",
+    "bytes": 417823,
+    "sha256": "eec74a8989289d27fc2ffd8e03bdb5a78d8e9dda4ebf362445928c715feb404e",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/754e607f-25f5-4773-9d06-454080987174.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=754e607f-25f5-4773-9d06-454080987174",
+    "kind": "lesson_image",
+    "bytes": 352674,
+    "sha256": "98eabd4cda6e89ea51e96790ba1241ecbd2645e075616ae20f82ff662a47ed6f",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/f5098530-9c76-488e-9d5b-98877043d9a9.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=f5098530-9c76-488e-9d5b-98877043d9a9",
+    "kind": "lesson_image",
+    "bytes": 695974,
+    "sha256": "323ae9181bc4495de95148375b987a98c5641d349b393363eb0d3ad9538883be",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "assets/images/ddb10a44-84a4-475a-b75c-fffcef78c4d0.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=ddb10a44-84a4-475a-b75c-fffcef78c4d0",
+    "kind": "lesson_image",
+    "bytes": 138864,
+    "sha256": "1689978dd59a11f0ade696ba6ac51975ff4fdd57b0d2872788c54cbf31f64162",
+    "content_type": "image/png",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "source_embeds/307ec20b-d760-43bf-b026-851b5fe471a4/index.html": {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/index.html",
+    "kind": "source_embed_html",
+    "bytes": 3614,
+    "sha256": "e56443fe9b4897d0ccd0dd59d50f11d1c7482454a859ae56a5fa302d49886751",
+    "content_type": "text/html",
+    "lessons": [
+      "03-03"
+    ]
+  },
+  "assets/images/a2f383b4-cbce-46b1-a03e-1e0e62288148.png": {
+    "source_url": "https://api.action-media.ru/school/service/api/v2/file_download?id=a2f383b4-cbce-46b1-a03e-1e0e62288148",
+    "kind": "lesson_image",
+    "bytes": 1875715,
+    "sha256": "bf0dd3ab1e551eff6bea81b4e45190281f1e2bdb20a99d84249156cb1c6e683b",
+    "content_type": "image/png",
+    "lessons": [
+      "03-04"
+    ]
+  },
+  "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf": {
+    "source_url": "https://school.a-sstroy.ru/storage/pdf/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+    "kind": "course_additional_material",
+    "bytes": 211015,
+    "sha256": "3310ff59d20da573c235f6d61711f862d467ae2e21936b985c3411ff8b9b21b1",
+    "content_type": "application/octet-stream",
+    "lessons": [
+      "01-01",
+      "01-02",
+      "01-03",
+      "01-04",
+      "02-01",
+      "02-02",
+      "02-03",
+      "02-04"
+    ]
+  },
+  "source_embeds/school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/images/1.png": {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/images/1.png",
+    "kind": "embed_image",
+    "bytes": 212495,
+    "sha256": "34fdccc9899384a5bbfacc4aabcd7b42ded733137ed8c76a9cdea47b8ff7fbae",
+    "content_type": "image/png",
+    "lessons": [
+      "03-03"
+    ]
+  },
+  "source_embeds/school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/images/2.png": {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/images/2.png",
+    "kind": "embed_image",
+    "bytes": 212495,
+    "sha256": "34fdccc9899384a5bbfacc4aabcd7b42ded733137ed8c76a9cdea47b8ff7fbae",
+    "content_type": "image/png",
+    "lessons": [
+      "03-03"
+    ]
+  },
+  "source_embeds/school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/images/3.png": {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/images/3.png",
+    "kind": "embed_image",
+    "bytes": 212495,
+    "sha256": "34fdccc9899384a5bbfacc4aabcd7b42ded733137ed8c76a9cdea47b8ff7fbae",
+    "content_type": "image/png",
+    "lessons": [
+      "03-03"
+    ]
+  },
+  "source_embeds/school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/images/1.png": {
+    "source_url": "https://school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/images/1.png",
+    "kind": "embed_image",
+    "bytes": 212495,
+    "sha256": "34fdccc9899384a5bbfacc4aabcd7b42ded733137ed8c76a9cdea47b8ff7fbae",
+    "content_type": "image/png",
+    "lessons": [
+      "01-04"
+    ]
+  },
+  "source_pages/lesson-01-01.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/d8be9d6a-592e-4787-989f-f7fbfd7eb5bd",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=d8be9d6a-592e-4787-989f-f7fbfd7eb5bd&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=d8be9d6a-592e-4787-989f-f7fbfd7eb5bd&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "kind": "source_api_snapshot",
+    "bytes": 9741,
+    "sha256": "837c2a33ca9cc1ee33390878ed241c1117b43afb3b19194a35859d90b54003e0",
+    "content_type": "application/json",
+    "lessons": [
+      "01-01"
+    ]
+  },
+  "source_pages/lesson-01-02.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/6ea22acd-40a1-43af-81e9-77b7732b9b48",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=6ea22acd-40a1-43af-81e9-77b7732b9b48&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=6ea22acd-40a1-43af-81e9-77b7732b9b48&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "kind": "source_api_snapshot",
+    "bytes": 15488,
+    "sha256": "f56baf2e1895559c3b34b3e91d5e2e874e0a4d3882b860121dbba6b61ba935cb",
+    "content_type": "application/json",
+    "lessons": [
+      "01-02"
+    ]
+  },
+  "source_pages/lesson-01-03.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/1cf5de8f-43d6-4ab5-9026-ace3a03b5990",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=1cf5de8f-43d6-4ab5-9026-ace3a03b5990&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=1cf5de8f-43d6-4ab5-9026-ace3a03b5990&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "kind": "source_api_snapshot",
+    "bytes": 7370,
+    "sha256": "dbdf032809e0ec9544b39a80ab1622aa5e00a6af4b8172e7c990f33213237e9a",
+    "content_type": "application/json",
+    "lessons": [
+      "01-03"
+    ]
+  },
+  "source_pages/lesson-01-04.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/6c3f46e4-57e6-468f-9e76-7c02cb3d09e7/bd34de8b-8bb0-4008-ad92-87a3bce4bc68",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=bd34de8b-8bb0-4008-ad92-87a3bce4bc68&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=bd34de8b-8bb0-4008-ad92-87a3bce4bc68&courseId=6c3f46e4-57e6-468f-9e76-7c02cb3d09e7",
+    "kind": "source_api_snapshot",
+    "bytes": 10122,
+    "sha256": "300f88f48740f594933ea8c0576bb55f3e133a68182774f5732e4f33c171d618",
+    "content_type": "application/json",
+    "lessons": [
+      "01-04"
+    ]
+  },
+  "source_pages/lesson-02-01.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/f006bd7b-0afa-4e74-9778-059ddb50c5c6",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=f006bd7b-0afa-4e74-9778-059ddb50c5c6&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=f006bd7b-0afa-4e74-9778-059ddb50c5c6&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "kind": "source_api_snapshot",
+    "bytes": 13111,
+    "sha256": "77192441bdbd815ee6d8f74299aa014219e4131f379e7dbe1f0d8d88bc894fec",
+    "content_type": "application/json",
+    "lessons": [
+      "02-01"
+    ]
+  },
+  "source_pages/lesson-02-02.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/0bfd269a-279e-4fa6-b1fa-bf2252f0c274",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=0bfd269a-279e-4fa6-b1fa-bf2252f0c274&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=0bfd269a-279e-4fa6-b1fa-bf2252f0c274&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "kind": "source_api_snapshot",
+    "bytes": 9584,
+    "sha256": "7861a929be25c4f6f4661b1b4c354c17cd0e02608f898ac8683537170cdbed09",
+    "content_type": "application/json",
+    "lessons": [
+      "02-02"
+    ]
+  },
+  "source_pages/lesson-02-03.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/7165fd9e-ec12-4774-be4b-d963fa68a208",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=7165fd9e-ec12-4774-be4b-d963fa68a208&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=7165fd9e-ec12-4774-be4b-d963fa68a208&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "kind": "source_api_snapshot",
+    "bytes": 6864,
+    "sha256": "6dbe7ed3b50ea4b147e1e5e59778b843c5abe759c15e3764f6a47cff72137182",
+    "content_type": "application/json",
+    "lessons": [
+      "02-03"
+    ]
+  },
+  "source_pages/lesson-02-04.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/0064f823-8d0a-4abf-90bb-474b7ff2841f/660f4de8-e37a-40b7-993e-c859060d294f",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=660f4de8-e37a-40b7-993e-c859060d294f&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=660f4de8-e37a-40b7-993e-c859060d294f&courseId=0064f823-8d0a-4abf-90bb-474b7ff2841f",
+    "kind": "source_api_snapshot",
+    "bytes": 11309,
+    "sha256": "89923edf363a923b67c9078f41c35674258dfa1b5f00e8b8eb854b24d72d5e10",
+    "content_type": "application/json",
+    "lessons": [
+      "02-04"
+    ]
+  },
+  "source_pages/lesson-03-01.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/dc3b62bc-a983-4833-85de-e5eb7743cff6",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=dc3b62bc-a983-4833-85de-e5eb7743cff6&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=dc3b62bc-a983-4833-85de-e5eb7743cff6&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "kind": "source_api_snapshot",
+    "bytes": 6161,
+    "sha256": "4ff12c116263f1ce353fc3fbe22dad42ecb163f67112988215d1caacfc7cc848",
+    "content_type": "application/json",
+    "lessons": [
+      "03-01"
+    ]
+  },
+  "source_pages/lesson-03-02.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/151f2f64-461a-4866-905a-9ba446afecbd",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=151f2f64-461a-4866-905a-9ba446afecbd&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=151f2f64-461a-4866-905a-9ba446afecbd&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "kind": "source_api_snapshot",
+    "bytes": 11947,
+    "sha256": "c5d38998c5df2a76714ef7be263551e0e7fe28ebec06827994bd34cedf4b4096",
+    "content_type": "application/json",
+    "lessons": [
+      "03-02"
+    ]
+  },
+  "source_pages/lesson-03-03.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/58281bb3-b92d-48ac-8c55-54fae52ddf1d",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=58281bb3-b92d-48ac-8c55-54fae52ddf1d&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=58281bb3-b92d-48ac-8c55-54fae52ddf1d&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "kind": "source_api_snapshot",
+    "bytes": 5149,
+    "sha256": "3148a444d4ccbe6f125a027e52b6570d0796519a0e5b140ae2de71832a125ab3",
+    "content_type": "application/json",
+    "lessons": [
+      "03-03"
+    ]
+  },
+  "source_pages/lesson-03-04.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439/327d7b24-0d19-4967-b670-f5aa9502a3a1/25d62eeb-eaef-41a7-abff-96a4ec16fb31",
+    "api_content_url": "https://school.a-sstroy.ru/api/v1/lesson-content_get?programId=229439&lessonId=25d62eeb-eaef-41a7-abff-96a4ec16fb31&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "api_base_url": "https://school.a-sstroy.ru/api/v1/lesson-base-info_get?programId=229439&lessonId=25d62eeb-eaef-41a7-abff-96a4ec16fb31&courseId=327d7b24-0d19-4967-b670-f5aa9502a3a1",
+    "kind": "source_api_snapshot",
+    "bytes": 3906,
+    "sha256": "925064f02a9af46fdd132926cd9617ed0d70941386af79ae83cbf74d4eb63857",
+    "content_type": "application/json",
+    "lessons": [
+      "03-04"
+    ]
+  },
+  "assets/css/style.css": {
+    "source_url": null,
+    "kind": "copied_reference_style_with_local_extensions",
+    "bytes": 21901,
+    "sha256": "5a34b538b2cbf0e379b6d0fc16f3ea73f16d63f3cdaf8111cc926bf0b3125bfd",
+    "content_type": "text/css",
+    "lessons": []
+  },
+  "assets/images/course-cover.png": {
+    "source_url": "https://school.a-sstroy.ru/webcontent/files/51612e02-ebe5-4385-a67d-f80e727eea24.png",
+    "kind": "program_cover",
+    "bytes": 72699,
+    "sha256": "b4f1ee6b9d861163c55fb8be772a51757625d5e4019d83f251e18738d3b26019",
+    "content_type": "image/png",
+    "lessons": []
+  },
+  "source_pages/program.json": {
+    "source_url": "https://school.a-sstroy.ru/programs/229439",
+    "kind": "source_program_observation",
+    "bytes": 1670,
+    "sha256": "bf29c9d308ac816550f72e407a4147cb713926fade3af0585a7f65862899b607",
+    "content_type": "application/json",
+    "lessons": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "checked_on": "2026-09-27",
+  "scope": "Адресная сверка обозначений и состояния документов, упомянутых в уроках; не полная правовая экспертиза содержания курса.",
+  "notes": [
+    {
+      "lessons": ["lesson-01-01", "lesson-01-05", "lesson-01-06", "lesson-02-02"],
+      "source_designation": "СП 60.13330 / СП 60.13330.2020",
+      "finding": "Росстандарт указывает действующим СП 60.13330.2020; изменение № 6 введено 07.07.2026. Упоминание без года не определяет редакцию для практического применения.",
+      "official_url": "https://protect.gost.ru/sp/details/b00f766e-b861-4cc7-a448-c65906490262",
+      "amendment_url": "https://protect.gost.ru/sp/changesdetails/25d65837-dfb6-408b-948f-e7f254851ded",
+      "status": "designation_checked_specific_clause_not_checked"
+    },
+    {
+      "lessons": ["lesson-02-03"],
+      "source_designation": "СП 30.13330",
+      "finding": "Росстандарт указывает действующим СП 30.13330.2020 и перечисляет изменения № 1–5. Упоминание без года требует уточнения применяемой редакции.",
+      "official_url": "https://protect.gost.ru/sp/details/8cd57a35-8503-4bb8-802a-324b64f3e0e7",
+      "status": "designation_checked_specific_clause_not_checked"
+    },
+    {
+      "lessons": ["lesson-02-01"],
+      "source_designation": "СП 281.1325800",
+      "finding": "Росстандарт указывает действующим СП 281.1325800.2016 и перечисляет изменения № 1–2. Упоминание без года требует уточнения применяемой редакции.",
+      "official_url": "https://protect.gost.ru/sp/details/1f695d98-05d6-46ea-b688-052560d25553",
+      "status": "designation_checked_specific_clause_not_checked"
+    },
+    {
+      "lessons": ["lesson-01-04"],
+      "source_designation": "152-ФЗ «О персональных данных»; статья 183 УК РФ",
+      "finding": "Обозначения в уроке требуют проверки по актуальному официальному тексту перед применением. Таблица урока связывает категории данных и конкретные последствия; состав правонарушения и размер ответственности здесь не проверялись. Статья 183 УК РФ изменялась Федеральным законом от 24.06.2025 № 175-ФЗ.",
+      "official_url": "https://publication.pravo.gov.ru/document/0001202506240041",
+      "status": "manual_legal_review_required"
+    }
+  ]
+}

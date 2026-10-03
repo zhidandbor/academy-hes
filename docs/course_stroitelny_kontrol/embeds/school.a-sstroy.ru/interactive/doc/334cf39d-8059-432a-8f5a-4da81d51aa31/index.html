@@ -1,0 +1,81 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>CardsDeck</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = '334cf39d-8059-432a-8f5a-4da81d51aa31';
+    window.docName = 'Новая статья WEB АРМ';
+    window.locale = 'ru';
+    window.id = '1003';
+    window.moduleId = '247';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var cardsStack = [{"cards":[{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/1.jpg"},{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/2.jpg"},{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/3.jpg"},{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/4.jpeg"}],"columnId":"1","imageUrl":null,"title":"Принимаем работы"},{"cards":[{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/5.jpg"},{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/6.jpg"},{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/7.jpg"},{"text":null,"imageUrl":"/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/images/8.jpg"}],"columnId":"2","imageUrl":null,"title":"Не принимаем работы"}];
+        var env = 'prod';
+        var title = 'Приемочный контроль';
+        var description = 'Внимательно изучите фото работ и определите, принимать ли их строительному контролю';
+        var comment = '';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waCardsDeck',
+                    version: '1_0_0'
+                },
+                initCardsDeck
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initCardsDeck() {
+            window.ActionCardsDeck.init({
+                title,
+                description,
+                comment,
+                cardsStack
+            });
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

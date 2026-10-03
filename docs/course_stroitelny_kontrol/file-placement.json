@@ -1,0 +1,432 @@
+[
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "exports/f350f09f-3491-4ed5-a794-60f5b54225d6.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/other-b5fbb24a4add.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/other-f6f488d3440e.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/other-e4e160cf81cf.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/6b70caa3-1f1b-48d5-9148-e5b0996f5165.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/4629e4b6-29b0-4ff5-a34e-f787c6bfab62.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/c71e604a-d9f1-49f2-9045-d825420eadb9.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/bdbeaf31-bcbf-4e43-aa7d-887929989425.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/a47117e1-d642-4a16-975f-42874f8e664e.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "exports/bdcb5a4f-306d-48f8-9ed9-9503609b7ad6.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/school.a-sstroy.ru/interactive/common/images/stroy.svg",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "exports/47a7c588-19f1-49c6-89e3-58cb1936501d.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/school.a-sstroy.ru/interactive/common/images/stroy.svg",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/65686919-3dc5-4f74-996c-2eeeef22b450/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/2c5354ba-f1c2-40cb-aab3-504e09f748d8.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/87910a1c-080d-43fe-b4da-b34a03ec4448.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/353e45d1-595a-43c3-af20-bd373d07f6d4.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "exports/2580140b-4e51-4d83-b8b3-15e3333f7ad4.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "embeds/school.a-sstroy.ru/interactive/common/images/stroy.svg",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "exports/48e43af7-538e-48fa-8e85-c9c5d23eee75.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/5e301247-0f31-47f7-9f5d-e7f222bff110.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "exports/86911208-71b4-443b-a82b-419ed4ab513e.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/334cf39d-8059-432a-8f5a-4da81d51aa31/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/2b4154da-b3df-4125-b023-9e7aadd3a18a.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/e82d4c8b-476f-449c-9487-9b09522dd3a1.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/6c2980e5-2b3b-4f73-bd35-b6ccdcabdae0.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "exports/e2a12b04-d8b6-4d5e-a535-2690c0814996.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/e2a12b04-d8b6-4d5e-a535-2690c0814996/images/1.png",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/e0817279-accd-4ae5-a32b-57a8921bdfe8.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/9303f25c-8f3b-4648-84c7-ff9e4ab13b25.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/f9ace778-eb21-42d8-b556-65c82e0303b3.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/a47909dc-8511-4e9b-920c-18f3b1bdf19f.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "exports/c8a0ad0e-03c3-429b-9e0e-a1c2977efccf.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "embeds/school.a-sstroy.ru/interactive/common/images/stroy.svg",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/2297dd07-ef7f-4d84-9b09-25f0944f3654.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "exports/17636293-5da9-4e3a-86c5-cc0cad24cb5f.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "embeds/school.a-sstroy.ru/interactive/common/images/stroy.svg",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/da241351-cf58-4219-bfa5-c5fffbb90d7e.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/988ccddd-8810-44fa-bc2a-23baa3b63abf.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/cef26369-e296-4c8d-8c36-bca5a9c75b0c.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/301e52f8-fe26-41ea-bd28-a99909aa821c/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/c544a589-e693-41bc-be09-98276eb69035.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/205d3deb-1f9a-43a8-8849-87ed31ad6125/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/205d3deb-1f9a-43a8-8849-87ed31ad6125/images/1.png",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/a32d0eca-d2c8-4b59-990a-7f799c05eb9a.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/600e2e48-410c-4299-b53b-c4b4b0c9bcda.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "exports/da57997d-19e2-487a-9f87-2405b2163e3e.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "embeds/school.a-sstroy.ru/interactive/common/images/stroy.svg",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "assets/images/18b837e4-2f6f-44d1-9485-dd16108975c9.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "assets/images/cf6816f7-b53e-428a-832b-702e6714bfc5.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "assets/images/dd01d0cb-914b-4f03-a0d9-07038cb0789c.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "assets/images/b69de296-5ca9-48c2-9e03-e369a1487b9f.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/8f23ebd9-0d68-4a36-81ec-c2d8bb7c9f51/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/8f23ebd9-0d68-4a36-81ec-c2d8bb7c9f51/images/1.png",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-02-07",
+    "path": "exports/ac3b3f5f-004f-49d8-82fa-05931e5d2cfb.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-02-08",
+    "path": "assets/images/author-db7cf746016d.png",
+    "binding": "author_photo"
+  },
+  {
+    "lesson": "lesson-02-08",
+    "path": "assets/images/6aac0578-fe85-4c50-935c-86dd455391e1.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-08",
+    "path": "assets/images/3a7e5dff-5eb5-4781-aa81-7da45beea75a.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-08",
+    "path": "assets/images/7c419565-c2ad-4813-a835-052df6978aed.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-08",
+    "path": "assets/images/316764c6-3c43-4cf7-82af-f9c2f7123311.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-08",
+    "path": "assets/images/6db7f7c9-a96b-452a-b295-23601246b54b.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-02-08",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/9d4103c0-52c1-43a2-b44f-74079efb52c6/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "exports/2e3b55a8-3fe1-4698-ab8a-8317dd5603da.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "embeds/school.a-sstroy.ru/interactive/common/images/stroy.svg",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "exports/3596d37c-d254-487f-8484-89aad10e41c8.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/3596d37c-d254-487f-8484-89aad10e41c8/images/1.png",
+    "binding": "image_in_first_party_embed"
+  },
+  {
+    "lesson": "lesson-03-02",
+    "path": "assets/images/7c3c1cfb-6557-4855-a30a-c4378adf9e82.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "exports/a51a014f-f5a2-40a4-98d4-91cdedee744f.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/other-20f61ec7f21b.bin",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/b595142e-80b2-45c5-b77d-f81b354076b2/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "assets/images/other-080209692600.bin",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "exports/1d2af21d-4562-457e-aa7e-fe26a7b227c7.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/caabfccf-9aef-496c-a5ea-7130d90080ab/index.html",
+    "binding": "localized_first_party_html_partial"
+  },
+  {
+    "lesson": "lesson-03-03",
+    "path": "exports/007abe4f-0d64-469b-a174-4f3de75ed1ea.pdf",
+    "binding": "official_export_empty_personal_fields"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "path": "assets/images/43f03055-4d08-47ab-a539-af0c820ffe5c.png",
+    "binding": "source_lesson_image"
+  },
+  {
+    "lesson": "lesson-03-04",
+    "path": "embeds/school.a-sstroy.ru/interactive/doc/25d319f6-1d44-4987-8a1b-8ebcdb4da0c9/index.html",
+    "binding": "localized_first_party_html_partial"
+  }
+]

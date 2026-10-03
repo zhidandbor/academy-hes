@@ -1,0 +1,45 @@
+{
+  "course": "course_stroitelny_kontrol",
+  "title": "Строительный контроль объектов капитального строительства",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_stroitelny_kontrol",
+  "entry": "index.html",
+  "files": 389,
+  "bytes": 32836975,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "assets/images/cef26369-e296-4c8d-8c36-bca5a9c75b0c.png",
+      "bytes": 2050439,
+      "sha256": "5347e5fa843f52f02584007ecb99e68207690bca5e208d401dccc9c978558da8",
+      "asset_name": "hes-5347e5fa843f52f02584007ecb99e682.png",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-5347e5fa843f52f02584007ecb99e682.png"
+    },
+    {
+      "path": "exports/c8a0ad0e-03c3-429b-9e0e-a1c2977efccf.pdf",
+      "bytes": 3435947,
+      "sha256": "9cfcba24daadedc438b8f06c99cd425b7403e70fd448169132cd54300b1a268e",
+      "asset_name": "hes-9cfcba24daadedc438b8f06c99cd425b.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-9cfcba24daadedc438b8f06c99cd425b.pdf"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "3705033f612b5c663385393621a42d0f22b68956e6f8176e891d05212d1cb229",
+      "published_sha256": "d902baedd0bdca50fae317a57fb64218df6369f463afcc4b0de124410b5aac10"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "6b980c463c39674baf792122b5634aef9b96d4930c7ce131b13dbfd02e7c014a",
+      "published_sha256": "db2d98b1b64020562ea7ce78c67ec115fbd89154a624b1d8db3e388cbc4aeccb"
+    },
+    {
+      "path": "lessons/lesson-02-06.html",
+      "source_sha256": "553e1c7c39adf3ebf47c1e642fc540fd6a42f75e6af8efb78facffc7e5a43c8b",
+      "published_sha256": "be364c50c51efcd0cd5823e02568da54e712f5f4e6def44f9ec008af62799d0a"
+    }
+  ]
+}

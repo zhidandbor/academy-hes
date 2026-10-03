@@ -1,0 +1,24 @@
+.online-embed .embed-frame[hidden],
+.online-embed .embed-fallback[hidden] {
+  display: none;
+}
+
+.online-embed .embed-frame {
+  width: 100%;
+  min-height: 440px;
+}
+
+.online-embed iframe {
+  display: block;
+  width: 100%;
+  height: min(70vh, 640px);
+  min-height: 440px;
+  border: 0;
+  background: #fff;
+}
+
+@media (max-width: 600px) {
+  .online-embed iframe {
+    min-height: 360px;
+  }
+}

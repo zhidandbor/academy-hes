@@ -1,0 +1,215 @@
+{
+  "01-01": {
+    "images": [
+      "assets/images/8adfe08a-77d8-45ba-88f8-04d1270cff36.png",
+      "assets/images/0eb99097-5890-48d0-8c91-f3538d98be93.png",
+      "assets/images/4992cb61-fde1-47fb-8434-7bfb065ac99b.png",
+      "assets/images/7ab0c7b3-30e3-475a-9671-a741d1308423.png",
+      "assets/images/9ae29eed-8682-4531-a77a-f80767ae0efc.png",
+      "assets/images/86a728ea-c8f2-4d20-9add-35f54280eff6.png",
+      "assets/images/d8da5bf0-e143-4944-a55e-9bf8941e77a2.png",
+      "assets/images/e67fbdec49bad272.png"
+    ],
+    "embeds": [],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "01-02": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/ec2cd8c1-b367-4f85-b512-64fa560a81f1.png",
+      "assets/images/3249c250-fa20-472c-a55e-936d89460ba4.png",
+      "assets/images/25446f3e-f768-48bd-8731-a9b0ded378fe.png"
+    ],
+    "embeds": [
+      {
+        "source_url": "https://grigoryevalexandra-lgtm.github.io/interactive/engineer6.html",
+        "source_snapshot": "source_embeds/github-engineer6/index.html",
+        "local_primary": "embeds/github/engineer6.html"
+      }
+    ],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "01-03": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/55a38634-8f61-4283-8efd-0272d70e0990.png"
+    ],
+    "embeds": [],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "01-04": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/e67088e8-5489-46e0-a7e0-0f81deaff146.png",
+      "assets/images/5a65ac91-c068-437c-9707-9802e3b5b1c1.png",
+      "assets/images/293e86fe-2625-4600-9236-890235725129.png"
+    ],
+    "embeds": [
+      {
+        "source_url": "https://school.a-sstroy.ru/interactive/doc/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html",
+        "source_snapshot": "source_embeds/6b7c5291-552e-49ca-99c9-6b5ba1c0ec6c/index.html",
+        "local_primary": null
+      }
+    ],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "02-01": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/711b3e0d-ca14-483c-b6c4-d7377ebf57bb.png",
+      "assets/images/a9b3306c-b18c-454a-90e3-52dc99c6ea88.png",
+      "assets/images/f1caab0f-d6d1-4f47-b348-8e85475c8231.png",
+      "assets/images/b05617b4-24e5-453f-81ff-2f17d8e33839.png",
+      "assets/images/6fd33075-3d82-49e1-9794-ab4681245798.png",
+      "assets/images/e79433b5-7894-4dc2-a6f2-4b374b121ea8.png",
+      "assets/images/3a12331d-5da8-41b2-83a2-04633d35275f.png",
+      "assets/images/1ee5fc30-8ae4-4fa5-a89a-0fff04777917.png",
+      "assets/images/5dc367ac-f84e-472e-bc49-ca784ced1235.png",
+      "assets/images/762a10c3-1603-4be7-b386-47a55cce2fa5.png",
+      "assets/images/9462829a-0436-4c9c-ab14-b9ce0ec0a3ca.png",
+      "assets/images/8d2fac32-426e-4b45-ad11-b52ac2f8f60b.png",
+      "assets/images/9eec6743-ce52-458b-bad9-2d5ad8800413.png",
+      "assets/images/ea99b60f-e871-4e58-b663-0c35f449162d.png",
+      "assets/images/25b03204-c4ec-4bf2-ae23-eeca49a2e2ba.png",
+      "assets/images/6236bca1-ec5e-432b-87b9-87f390b99fa3.png",
+      "assets/images/670b3a4b-6250-4e7b-9f3e-977a08f6ed2d.png",
+      "assets/images/3ba493d8-af77-4e97-9cc2-f324f91a664d.png",
+      "assets/images/8972c528-598f-4a35-8ce5-81dc33697a50.png",
+      "assets/images/f97185ec-ff41-437d-9295-2488d352c619.png",
+      "assets/images/03f24f99-9cb0-46e9-a4a2-b968a4b2e82c.png",
+      "assets/images/5cf76ac1-d8b9-4bde-b7e3-b0e64c0d4801.png",
+      "assets/images/920ba2f6-6353-49c8-98b1-5eb90b7abd22.png",
+      "assets/images/db1af3da-50bf-4124-9265-490def9bcee9.png",
+      "assets/images/217865ec-d8da-491d-84f2-3185a2dd45ce.png"
+    ],
+    "embeds": [],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "02-02": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/0f96fc9e-4ec8-43d5-bd3c-8e9c58edfa34.png",
+      "assets/images/830ffe44-1792-4ed2-8512-03290ef96a15.png",
+      "assets/images/b1b7fa37-7c6e-416a-bc44-0fd542f8c4b7.png"
+    ],
+    "embeds": [],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "02-03": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/cf810a48-661b-4098-b81c-af9fa07a4094.png",
+      "assets/images/86af0921-2bdb-4f14-84e8-6e29cbe70e6e.png"
+    ],
+    "embeds": [],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "02-04": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/eb04c07d-73bb-4ae5-9e30-d54bd14d8340.png",
+      "assets/images/930815ab-62ff-4ce8-a9fe-035e529af9d9.png",
+      "assets/images/acb5f683-caa7-4b80-b336-c6122d2b034f.png",
+      "assets/images/a9c5ae7e-e8c6-4a47-836e-a64691a2aba3.png",
+      "assets/images/68c24d3e-9314-4390-b98e-16800d50cce5.png"
+    ],
+    "embeds": [],
+    "course_materials": [
+      {
+        "path": "attachments/2d9df58b-e194-4793-9520-b08a1c1ee36f.pdf",
+        "title": "Индикаторы риска и их последствия",
+        "binding": "course-level additional material repeated on first two blocks; not a lesson-specific attachment"
+      }
+    ]
+  },
+  "03-01": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png"
+    ],
+    "embeds": [],
+    "course_materials": []
+  },
+  "03-02": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/cc82796b-83de-4205-9564-0b9d3025a613.png",
+      "assets/images/e39ca72f-47c9-45c0-80ff-467415f725ae.png",
+      "assets/images/78e9f92b-f927-40c7-91f7-4da09a2d830d.png",
+      "assets/images/78945e26-ff54-43f4-a004-edf23fb7ff3a.png",
+      "assets/images/b03e0fbc-fb7e-4d93-8bb5-6c0aae87cdfc.png",
+      "assets/images/7f92cf80-790d-49cb-93e9-eef13acec217.png",
+      "assets/images/44adba73-8a9d-42a2-ab3c-c91f6f5540c4.png",
+      "assets/images/47b2fdad-de39-478b-9b7c-9b932cf4718b.png",
+      "assets/images/bdd77b81-5256-4693-82fa-41b7563a3dcc.png",
+      "assets/images/282dc2b9-34f2-4f06-9aa4-52edab5e880e.png",
+      "assets/images/754e607f-25f5-4773-9d06-454080987174.png",
+      "assets/images/f5098530-9c76-488e-9d5b-98877043d9a9.png",
+      "assets/images/ddb10a44-84a4-475a-b75c-fffcef78c4d0.png"
+    ],
+    "embeds": [],
+    "course_materials": []
+  },
+  "03-03": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png"
+    ],
+    "embeds": [
+      {
+        "source_url": "https://school.a-sstroy.ru/interactive/doc/307ec20b-d760-43bf-b026-851b5fe471a4/index.html",
+        "source_snapshot": "source_embeds/307ec20b-d760-43bf-b026-851b5fe471a4/index.html",
+        "local_primary": null
+      }
+    ],
+    "course_materials": []
+  },
+  "03-04": {
+    "images": [
+      "assets/images/e67fbdec49bad272.png",
+      "assets/images/a2f383b4-cbce-46b1-a03e-1e0e62288148.png"
+    ],
+    "embeds": [],
+    "course_materials": []
+  }
+}

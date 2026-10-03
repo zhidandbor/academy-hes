@@ -1,0 +1,195 @@
+{
+  "course": {
+    "title": "Excel для инженеров-строителей: средний уровень",
+    "source_url": "https://school.a-sstroy.ru/programs/226430",
+    "local_page": "index.html",
+    "description": "Научитесь использовать продвинутые формулы Excel для автоматизации расчетов, анализа данных и создания условий в таблицах. Освоите инструменты для анализа, обработки и визуализации больших объемов данных, чтобы они могли принимать обоснованные решения и представлять результаты в наглядной форме."
+  },
+  "topics": [
+    {
+      "order": 1,
+      "title": "Excel: от формул к аналитике и визуализации",
+      "source_url": "https://school.a-sstroy.ru/programs/226430",
+      "local_page": "modules/01.html",
+      "units": [
+        {
+          "title": "Работа с формулами в Excel",
+          "description": "",
+          "lesson_numbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "title": "Аналитика и визуализация данных в Excel",
+          "description": "",
+          "lesson_numbers": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "order": 1,
+      "topic": 1,
+      "unit": "Работа с формулами в Excel",
+      "title": "Функция ЕСЛИ",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/33a3a99c-d560-4ce4-a340-928a60aaefc7/2f605696-b1ec-4451-8539-aab6aabdc493",
+      "local_page": "lessons/01.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 1
+    },
+    {
+      "order": 2,
+      "topic": 1,
+      "unit": "Работа с формулами в Excel",
+      "title": "Комбинации И() и ИЛИ()",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/33a3a99c-d560-4ce4-a340-928a60aaefc7/a0a0dd21-ef07-4744-8b1a-32b6e5f0e5c8",
+      "local_page": "lessons/02.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 1
+    },
+    {
+      "order": 3,
+      "topic": 1,
+      "unit": "Работа с формулами в Excel",
+      "title": "СУММЕСЛИ и СРЗНАЧЕСЛИ",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/33a3a99c-d560-4ce4-a340-928a60aaefc7/2a405636-906c-4d87-ae8f-81fe47d75b8f",
+      "local_page": "lessons/03.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 2
+    },
+    {
+      "order": 4,
+      "topic": 1,
+      "unit": "Работа с формулами в Excel",
+      "title": "Функция ВПР",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/33a3a99c-d560-4ce4-a340-928a60aaefc7/5d861339-6d2d-44e0-9730-f131934648e6",
+      "local_page": "lessons/04.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 3,
+      "source_frame_count": 1
+    },
+    {
+      "order": 5,
+      "topic": 1,
+      "unit": "Работа с формулами в Excel",
+      "title": "ИНДЕКС + ПОИСКПОЗ",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/33a3a99c-d560-4ce4-a340-928a60aaefc7/c7d7dbc9-6d18-421c-9ff0-5823d37bf3fe",
+      "local_page": "lessons/05.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 1
+    },
+    {
+      "order": 6,
+      "topic": 1,
+      "unit": "Аналитика и визуализация данных в Excel",
+      "title": "Создание сводной таблицы",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/855ca7ee-3b7f-46f6-aa59-cdb3eac2a6b0/1ec56fa6-c1e5-44c4-87c5-ff5cce4c8d0b",
+      "local_page": "lessons/06.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 4,
+      "source_frame_count": 0
+    },
+    {
+      "order": 7,
+      "topic": 1,
+      "unit": "Аналитика и визуализация данных в Excel",
+      "title": "Фильтры и срезы",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/855ca7ee-3b7f-46f6-aa59-cdb3eac2a6b0/fa3c40b9-89f3-4a8c-b55f-8a0703bb9d2a",
+      "local_page": "lessons/07.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 1,
+      "source_frame_count": 0
+    },
+    {
+      "order": 8,
+      "topic": 1,
+      "unit": "Аналитика и визуализация данных в Excel",
+      "title": "Расчетные поля",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/855ca7ee-3b7f-46f6-aa59-cdb3eac2a6b0/942174c9-96bf-41d5-b227-0341bebb7a46",
+      "local_page": "lessons/08.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 0
+    },
+    {
+      "order": 9,
+      "topic": 1,
+      "unit": "Аналитика и визуализация данных в Excel",
+      "title": "Диаграммы Ганта",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/855ca7ee-3b7f-46f6-aa59-cdb3eac2a6b0/2680a4f8-48ec-40ac-8708-e31263d7c3b8",
+      "local_page": "lessons/09.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 0
+    },
+    {
+      "order": 10,
+      "topic": 1,
+      "unit": "Аналитика и визуализация данных в Excel",
+      "title": "Тепловые карты",
+      "source_url": "https://school.a-sstroy.ru/programs/226430/855ca7ee-3b7f-46f6-aa59-cdb3eac2a6b0/53f079ea-3ebe-4e7f-96fc-8fbc7c14c4ea",
+      "local_page": "lessons/10.html",
+      "authors": [
+        "Ильфак Валиев"
+      ],
+      "source_image_count": 2,
+      "source_frame_count": 0
+    }
+  ],
+  "tests": [
+    {
+      "order": 1,
+      "title": "Тест по теме",
+      "source_url": "https://school.a-sstroy.ru/programs/226430",
+      "local_page": "tests/index.html",
+      "availability": "listed in program; questions not exposed in accessible state"
+    },
+    {
+      "order": 2,
+      "title": "Тренировка перед итоговым тестом",
+      "source_url": "https://school.a-sstroy.ru/programs/226430",
+      "local_page": "tests/index.html",
+      "availability": "listed in program; questions not exposed in accessible state"
+    },
+    {
+      "order": 3,
+      "title": "Итоговый тест",
+      "source_url": "https://school.a-sstroy.ru/programs/226430",
+      "local_page": "tests/index.html",
+      "availability": "listed in program; questions not exposed in accessible state"
+    }
+  ]
+}

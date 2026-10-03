@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-09-27",
+  "scope": "Address-level identification of acts cited in lessons and the common PDF; not a full legal review",
+  "acts": [
+    {
+      "designation": "Градостроительный кодекс Российской Федерации, Федеральный закон от 29.12.2004 № 190-ФЗ",
+      "source_lessons": ["01-01", "01-02", "01-03"],
+      "cited_provisions": ["ст. 49", "ст. 51", "ст. 54"],
+      "official_source": "https://mchs.gov.ru/dokumenty/757",
+      "verified": "act designation and title",
+      "not_verified": "current consolidated wording of each cited provision as of 2026-09-27"
+    },
+    {
+      "designation": "Постановление Правительства РФ от 05.03.2007 № 145",
+      "source_lessons": ["01-02"],
+      "official_source": "https://gkh.kostroma.gov.ru/osushchestvlenie-otdelnykh-gosudarstvennykh-polnomochiy-po-kontrolyu-nadzoru/regionalnyy-gosudarstvennyy-stroitelnyy-nadzor/federalnoe-zakonodatelstvo.php",
+      "verified": "act number, date and title in an official regional GSN legislation index",
+      "not_verified": "current consolidated wording and applicability of cited provisions"
+    },
+    {
+      "designation": "Кодекс Российской Федерации об административных правонарушениях, Федеральный закон от 30.12.2001 № 195-ФЗ",
+      "source_lessons": ["02-04"],
+      "cited_provisions": ["ст. 9.4", "ст. 9.5"],
+      "official_source": "https://mchs.gov.ru/dokumenty/bazovye-normativnye-pravovye-akty/federalnye-zakony/789",
+      "verified": "act designation and title",
+      "not_verified": "current sanction amounts and applicability of penalties stated in the original two-page PDF"
+    }
+  ],
+  "original_files_modified": false,
+  "manual_review_required": true
+}

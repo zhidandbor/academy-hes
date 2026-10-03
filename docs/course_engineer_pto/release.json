@@ -1,0 +1,1770 @@
+{
+  "course": "course_engineer_pto",
+  "title": "Инженер производственно-технического отдела",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_engineer_pto",
+  "entry": "index.html",
+  "files": 731,
+  "bytes": 78788569,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "assets/images/2f62e2c98a869bfab7c5.gif",
+      "bytes": 2666844,
+      "sha256": "2f62e2c98a869bfab7c556a07ec23fa74729a351def51779439246ef7d8e1325",
+      "asset_name": "hes-2f62e2c98a869bfab7c556a07ec23fa7.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-2f62e2c98a869bfab7c556a07ec23fa7.gif"
+    },
+    {
+      "path": "assets/images/35c24eec7b297e12d743.gif",
+      "bytes": 29404759,
+      "sha256": "35c24eec7b297e12d7431ff39d6e1499d73a80659d759efbb8c92035e6e671cb",
+      "asset_name": "hes-35c24eec7b297e12d7431ff39d6e1499.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-35c24eec7b297e12d7431ff39d6e1499.gif"
+    },
+    {
+      "path": "assets/images/4499d82919b0c71463fa.gif",
+      "bytes": 56741423,
+      "sha256": "4499d82919b0c71463fab9a5cf101b615c4ca42250f811ba6e120e03c4e08f46",
+      "asset_name": "hes-4499d82919b0c71463fab9a5cf101b61.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-4499d82919b0c71463fab9a5cf101b61.gif"
+    },
+    {
+      "path": "assets/images/4b3fa9e25b4bf8bb6f66.gif",
+      "bytes": 7161327,
+      "sha256": "4b3fa9e25b4bf8bb6f66d7b208650206fcf621c60d8de6a15110fc5fba6c9f25",
+      "asset_name": "hes-4b3fa9e25b4bf8bb6f66d7b208650206.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-4b3fa9e25b4bf8bb6f66d7b208650206.gif"
+    },
+    {
+      "path": "assets/images/5347e5fa843f52f02584.png",
+      "bytes": 2050439,
+      "sha256": "5347e5fa843f52f02584007ecb99e68207690bca5e208d401dccc9c978558da8",
+      "asset_name": "hes-5347e5fa843f52f02584007ecb99e682.png",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-5347e5fa843f52f02584007ecb99e682.png"
+    },
+    {
+      "path": "assets/images/7d2f714ac939d0cddaf5.gif",
+      "bytes": 6028513,
+      "sha256": "7d2f714ac939d0cddaf5aa53e4c17e88fcac880708a61a2c048fbbadcd406f66",
+      "asset_name": "hes-7d2f714ac939d0cddaf5aa53e4c17e88.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-7d2f714ac939d0cddaf5aa53e4c17e88.gif"
+    },
+    {
+      "path": "assets/images/7de3e5830644420b1777.gif",
+      "bytes": 25103410,
+      "sha256": "7de3e5830644420b177708b42e464509106f3414d1aaaab569aa4df189e52af4",
+      "asset_name": "hes-7de3e5830644420b177708b42e464509.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-7de3e5830644420b177708b42e464509.gif"
+    },
+    {
+      "path": "assets/images/8c40461567a74abbec9d.gif",
+      "bytes": 3031805,
+      "sha256": "8c40461567a74abbec9da924bb5d8b22745e9045d6b28a1d43096c6cb9d920bc",
+      "asset_name": "hes-8c40461567a74abbec9da924bb5d8b22.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-8c40461567a74abbec9da924bb5d8b22.gif"
+    },
+    {
+      "path": "assets/images/8cbff56e388548d7445e.gif",
+      "bytes": 23096832,
+      "sha256": "8cbff56e388548d7445e68787b4215d388a09197a9a9598f48b61bf4564a4d53",
+      "asset_name": "hes-8cbff56e388548d7445e68787b4215d3.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-8cbff56e388548d7445e68787b4215d3.gif"
+    },
+    {
+      "path": "assets/images/8edd2701dcaecd74cf75.gif",
+      "bytes": 6147594,
+      "sha256": "8edd2701dcaecd74cf75b04404582e378779f4270cc2d602de155ddd7b51c6d6",
+      "asset_name": "hes-8edd2701dcaecd74cf75b04404582e37.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-8edd2701dcaecd74cf75b04404582e37.gif"
+    },
+    {
+      "path": "assets/images/a6a1d6f2ecc264aa3606.gif",
+      "bytes": 52078139,
+      "sha256": "a6a1d6f2ecc264aa36060a2aeeb7b70db3ca28b39df9c2261ddad51a837de6f0",
+      "asset_name": "hes-a6a1d6f2ecc264aa36060a2aeeb7b70d.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-a6a1d6f2ecc264aa36060a2aeeb7b70d.gif"
+    },
+    {
+      "path": "assets/images/b320aea508f14ffef2dd.gif",
+      "bytes": 23085090,
+      "sha256": "b320aea508f14ffef2dd1e0415f12ed6b94c3771c1758d10c68b59591b94a815",
+      "asset_name": "hes-b320aea508f14ffef2dd1e0415f12ed6.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-b320aea508f14ffef2dd1e0415f12ed6.gif"
+    },
+    {
+      "path": "assets/images/cd224b6d60da15607ba3.gif",
+      "bytes": 80790032,
+      "sha256": "cd224b6d60da15607ba3ab8cbd392c6c5805d2a9b151012279266d9a6cec5796",
+      "asset_name": "hes-cd224b6d60da15607ba3ab8cbd392c6c.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-cd224b6d60da15607ba3ab8cbd392c6c.gif"
+    },
+    {
+      "path": "assets/images/d2d0cd056eaedf5f0d33.gif",
+      "bytes": 53219521,
+      "sha256": "d2d0cd056eaedf5f0d338e0dd800280025e3fb2b0dfdc8bb2272950be84d6576",
+      "asset_name": "hes-d2d0cd056eaedf5f0d338e0dd8002800.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-d2d0cd056eaedf5f0d338e0dd8002800.gif"
+    },
+    {
+      "path": "assets/images/d5657e583554f596308b.gif",
+      "bytes": 8619461,
+      "sha256": "d5657e583554f596308b94dba3125db86595275cd4d09dfeb847423d956d2184",
+      "asset_name": "hes-d5657e583554f596308b94dba3125db8.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-d5657e583554f596308b94dba3125db8.gif"
+    },
+    {
+      "path": "assets/images/dc9f7cf88d976eff8bc1.gif",
+      "bytes": 41937618,
+      "sha256": "dc9f7cf88d976eff8bc1e33ccd5694b2b700785fc73600d2ec92c75d570733f6",
+      "asset_name": "hes-dc9f7cf88d976eff8bc1e33ccd5694b2.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-dc9f7cf88d976eff8bc1e33ccd5694b2.gif"
+    },
+    {
+      "path": "assets/images/dec7f1779112bf28e8d7.gif",
+      "bytes": 35988922,
+      "sha256": "dec7f1779112bf28e8d7c3a95b46c4be21b8ab05eecd25f1ff65f6e6dc12e5d7",
+      "asset_name": "hes-dec7f1779112bf28e8d7c3a95b46c4be.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-dec7f1779112bf28e8d7c3a95b46c4be.gif"
+    },
+    {
+      "path": "assets/images/ea003079d7b48e047052.gif",
+      "bytes": 5380840,
+      "sha256": "ea003079d7b48e04705206f370b2de459e2e58ecbcf2de10caa3794d20e2103d",
+      "asset_name": "hes-ea003079d7b48e04705206f370b2de45.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-ea003079d7b48e04705206f370b2de45.gif"
+    },
+    {
+      "path": "assets/images/f3254631bf7c748f0aa8.png",
+      "bytes": 2148537,
+      "sha256": "f3254631bf7c748f0aa887080b8350a0eca68952468d905adbd162c497a105e7",
+      "asset_name": "hes-f3254631bf7c748f0aa887080b8350a0.png",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-f3254631bf7c748f0aa887080b8350a0.png"
+    },
+    {
+      "path": "assets/images/f9285b0c09a3db01ff1d.gif",
+      "bytes": 18041460,
+      "sha256": "f9285b0c09a3db01ff1dd8974faed188471ac33c530ef4ddc1d3e5c927c3da7d",
+      "asset_name": "hes-f9285b0c09a3db01ff1dd8974faed188.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-f9285b0c09a3db01ff1dd8974faed188.gif"
+    },
+    {
+      "path": "attachments/interactive-export/f10be24d72b065df.pdf",
+      "bytes": 3435947,
+      "sha256": "9cfcba24daadedc438b8f06c99cd425b7403e70fd448169132cd54300b1a268e",
+      "asset_name": "hes-9cfcba24daadedc438b8f06c99cd425b.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-9cfcba24daadedc438b8f06c99cd425b.pdf"
+    },
+    {
+      "path": "attachments/pdf/rabochaya-dokumentatsiya-17-zl-pir-r-ov1-dlya-zadaniya_91f615c0.pdf",
+      "bytes": 37954592,
+      "sha256": "6fa8eace06050195b75f99f462bf4d522f31dd9bc643e1b1d99094de9f0842c0",
+      "asset_name": "hes-6fa8eace06050195b75f99f462bf4d52.pdf",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-6fa8eace06050195b75f99f462bf4d52.pdf"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "6269da8f2ce0d0a04cd647fa5653f8958bfa16fd030bbce0de5ac5ac91fd8b57",
+      "published_sha256": "b673bb4ad954eadaa959414e90faa1408a581ffdac928377a82298a086275146"
+    },
+    {
+      "path": "external-materials/index.html",
+      "source_sha256": "1338d475eeedacdacb46f6d80679e71776809ba11c02d03fe4cbaaf838971d0d",
+      "published_sha256": "2dd50ade0eb0936fcb3a23d67ebf49856f08a774799c7bcb8ba132cf40e656cd"
+    },
+    {
+      "path": "external-materials/interactive/042ca0282bbd3c3f.html",
+      "source_sha256": "565c8ae03de061fc41b9ce5568c35a2385f937be26aa711a7f9c61dae654f9c5",
+      "published_sha256": "5264bf43865437a7ed5875ec932a30c25dc8ea57f3479bda8caf69d5ed889639"
+    },
+    {
+      "path": "external-materials/interactive/04375076833067e7.html",
+      "source_sha256": "f8b981539dcb61ede39c75e38d68db5082eba60a84dd3d1a0f913fa1e0cd3157",
+      "published_sha256": "224de20c7f1e406ef08821e9940f7f3d290b0b7de8f578815f1fee4efa57d9d9"
+    },
+    {
+      "path": "external-materials/interactive/0439910623da1d92.html",
+      "source_sha256": "9e61e0567bfddd2d5c34547fd2c28e181721521bec68eaf0c75f0999c6ea0a7e",
+      "published_sha256": "85477e4881bf7df82f061146c47eb7bf60f43bfba65452ce79eb1b8379927d74"
+    },
+    {
+      "path": "external-materials/interactive/05a16f9695865816.html",
+      "source_sha256": "ad6cb3234b56774465a912eb3d170aaf81256e33018f5d5da71bc87b0643db64",
+      "published_sha256": "1cdd93f15bf1c399dbb14f5c26062d6d4e212f9cdfed17235082c13432fe0afc"
+    },
+    {
+      "path": "external-materials/interactive/069f578df74b4c37.html",
+      "source_sha256": "4c9f4c9756ff44226fafe38ae6d1796b3ad8f787d662a62f4f9879636226f9d6",
+      "published_sha256": "d3a75d31b7af845d61ef07cd3ae031fa6134ff36e50c4d21145a979c10571af6"
+    },
+    {
+      "path": "external-materials/interactive/0b222176c840151e.html",
+      "source_sha256": "7d918b63908fa1ccb1525aac5273ba584f3e08d10a57c753994f9df0d7827214",
+      "published_sha256": "4d33d31913a18cc0159ab878dc81c5cb7a946945ca252f882c56b4a71b358e16"
+    },
+    {
+      "path": "external-materials/interactive/0b573a8ab7ca42a5.html",
+      "source_sha256": "023eff259947b450d9d240751f2881315fcdc2dac3217fbf9f4732ec469e870e",
+      "published_sha256": "7d6d24271076c42a828142315a59b3857262e75299346677d8206179b5d04051"
+    },
+    {
+      "path": "external-materials/interactive/0b88eb8b86383504.html",
+      "source_sha256": "4ff5aeba24ae126967cef60877a3a627abb3cbb280d0c93111d022d5f837c691",
+      "published_sha256": "f51df3b28955af3422c5d3158222c826cf37fdc9d10c52062d4ab395d3aab8ac"
+    },
+    {
+      "path": "external-materials/interactive/1229dadd0d55ea70.html",
+      "source_sha256": "9a0b2243fb14a14560815be08605f7e6b06b778d0af2e1744c29835e132a0a06",
+      "published_sha256": "d58dda190a6a8220322fe786ab89315931f6d2c46c47b0876c9a0fcf44346d31"
+    },
+    {
+      "path": "external-materials/interactive/12c2595942074910.html",
+      "source_sha256": "163151fe9667a28d052f7c24a22f5411bb45011e23634a35bc7ede3830a58f33",
+      "published_sha256": "58df681178183bacbbc9c7a1a08ef39f134577cde97b6f76706f5a1639af82ec"
+    },
+    {
+      "path": "external-materials/interactive/12c89444a6c86964.html",
+      "source_sha256": "68642ff5aebf82b83beef720a75709640a2778230910adf8b2656b64ed06be40",
+      "published_sha256": "64c84f738f33f6ef963ad6094db0c341c90f88431364045e71a9004c95e9ead3"
+    },
+    {
+      "path": "external-materials/interactive/132fbe0b8b8c5458.html",
+      "source_sha256": "5e43543a24b28b58027ad99f321aed17663028263f3d7d0e55b37487744dac2d",
+      "published_sha256": "ae8294c9f97aa6bca86ee55a747e32a3b0718d117aa15ae757fc7f9f65436ae1"
+    },
+    {
+      "path": "external-materials/interactive/1379925278bfadc8.html",
+      "source_sha256": "f8936bab7b2b62f3fd4f09594a47de7577a1ac577002e6c0a40468f90093fdb1",
+      "published_sha256": "0d4199df26663dac9d9982425353dde52f45201e55fc7c5ace9070f944c1bf67"
+    },
+    {
+      "path": "external-materials/interactive/1488098d932f7656.html",
+      "source_sha256": "83ac3928c89c7c9aa9dd1446eddc1ef763ce1398762d3af5b743a421a641d982",
+      "published_sha256": "a4b01b8503454c3000b0e79f3cc69ac86793d4eac2184b64247b91ac6f64240f"
+    },
+    {
+      "path": "external-materials/interactive/14b33bdf9c0962d5.html",
+      "source_sha256": "969805e3e0b99fcf37b2810e98bc192beb86acd8a2c5a01d8b5116e6e7b5da97",
+      "published_sha256": "42b7214f0e9327e6b60308ce83d682045cdc45ede221302aae8ffaf231f8948d"
+    },
+    {
+      "path": "external-materials/interactive/16409f1780f1cb8a.html",
+      "source_sha256": "ff7871543083bc9b5695fb772116072be4dc67e1d8ba5af5d0713c8509706768",
+      "published_sha256": "4276dc586de89aca4f6a4cd8905984f2d52da5ca16dd4b85172089b5d5d60383"
+    },
+    {
+      "path": "external-materials/interactive/172ccaf3a711c4fc.html",
+      "source_sha256": "d5a5b694a6df1484b006ca3b285a2be7310c632c319a9a7b0accb5dba94b2353",
+      "published_sha256": "0ba39dcc2cc614915aac10fcd5bf9623cf23e912ab6ac23c4390210c361dd477"
+    },
+    {
+      "path": "external-materials/interactive/1752607de30dd74d.html",
+      "source_sha256": "2d03fb2c0f2f2d7961cc2f5fbfd95dcbc4c9759bdecb729d22a27bbfe48b9d06",
+      "published_sha256": "af1632796cf1e2b5d026b0e906570ae3578cf366ada535a28142f13af98bf842"
+    },
+    {
+      "path": "external-materials/interactive/18abd3c516543dee.html",
+      "source_sha256": "874932562dd40f331aa2c3bef5f55ff76e82af275da38cb706c51814b8a2dc8d",
+      "published_sha256": "f3ae29f3a2421b5b00a79434bfe0e519b3089c7addbed5c534a063d639366d02"
+    },
+    {
+      "path": "external-materials/interactive/1a347a9fcbd3e693.html",
+      "source_sha256": "a6a1e1ff4175b623875bb184a1489ad2d0ea2172e9649fc08941f6e8239e7e2f",
+      "published_sha256": "812adda2149486d3017253d2fd147ddb6d3faff46529e34cbef66893e7e4dc26"
+    },
+    {
+      "path": "external-materials/interactive/1d48f8e3aa33fc83.html",
+      "source_sha256": "03fc1f3e88aac1645021c6f666673e0271215ad6224700bc37547322a6e397d0",
+      "published_sha256": "cf6afc4de14c0b35d5773fed36833bb6a85ad78bf1833f043b8aee3bd108ddee"
+    },
+    {
+      "path": "external-materials/interactive/1ddb643522a44953.html",
+      "source_sha256": "392a75e8f43cd217baf1aa7c5c0d3bb6d34dc223a22a534a600694178d3a70f0",
+      "published_sha256": "ac9fd8b53769b174c74d5819526fbd39833ddb124d556014b8901bc1d063c7bf"
+    },
+    {
+      "path": "external-materials/interactive/1e38607fc6dd286e.html",
+      "source_sha256": "9618cda69e5189476b18f96fdff04fea26bc4ef5557a85b088277d1483c6db13",
+      "published_sha256": "3cb73488f33b83ef4c6df60e973d38b01b6ee662502b510f1539c3ca93d629ce"
+    },
+    {
+      "path": "external-materials/interactive/1e647bb79a484f48.html",
+      "source_sha256": "6dd0f8de4a6703dbb73b192b472d5c95442aadd845c1e9e16eb22416ead92540",
+      "published_sha256": "a33bd68c698f3b414c64b6ec0339c314f8b3db891bc8e65601b074497f2d5b94"
+    },
+    {
+      "path": "external-materials/interactive/1ed489f3a5cc9c75.html",
+      "source_sha256": "964db00ff4e4d97c0468216c1d270faf88a29b6de16bd0b3bdfc45c41220c474",
+      "published_sha256": "f1770f504bc6c8d1ca60f093caa1b2af6cd0921ff86c3193880d47b99a22fa47"
+    },
+    {
+      "path": "external-materials/interactive/1ff9fad0eca8b71b.html",
+      "source_sha256": "0f78a9e8f8fb087eb3897d6e3921f41f58c4615f9c38cbeaf49917cec0936191",
+      "published_sha256": "e8cf3de6330edcea53c2c79de13b666dba600ab8c6a25a15a3a97af07954e5e5"
+    },
+    {
+      "path": "external-materials/interactive/202a5518d782fa24.html",
+      "source_sha256": "10a8e2fc22d605dc006e6b34fccb35a50d1d1ee4795b582aa7bd89f7c106346c",
+      "published_sha256": "771e53dd76de3b73f0f4fbce7a94a41ca7b5fc79f397868b0adabbfe3dffb85b"
+    },
+    {
+      "path": "external-materials/interactive/206a119116363350.html",
+      "source_sha256": "a6ca4e3157c96efc5c62b1efd800ceacedb4541c34b5f13beadb61e3c1135de7",
+      "published_sha256": "704aae5db6b91fccdab5ae6973300bd465a99ea34082abb9c93d177dfe8244d6"
+    },
+    {
+      "path": "external-materials/interactive/220bceab6342fb31.html",
+      "source_sha256": "ca850f6a1b87a9c4d5d683250e11566cd8c452aefe63bde020df29c7cdcd19e9",
+      "published_sha256": "df4d5bb6a9be7e69dd2a7f56b13c7bffd4731b5ad0b92c76a9bb90b494f2eb74"
+    },
+    {
+      "path": "external-materials/interactive/22c90401088e9925.html",
+      "source_sha256": "6c7d47ca9ec8a9296faff99959ed583a80dd6d0e1b2ba99327d1e6373b00782c",
+      "published_sha256": "5100b171d79a6d0c9c0ba21f3419b3339f6b570c65e2c9a4bfb752a286395c41"
+    },
+    {
+      "path": "external-materials/interactive/238bd03fe7109e3b.html",
+      "source_sha256": "5b205948fe75a44b9b95169fe4568ca878520f58ae00428689c361cc799f54db",
+      "published_sha256": "af5776ca1cf43ef2e723d71eb8cb6673be1b24c8455e9debd6617a41440fcb88"
+    },
+    {
+      "path": "external-materials/interactive/25e5ced530587c0f.html",
+      "source_sha256": "ff73d84a35396175ea375291f16bc8ac78cc45533e09b298ae9ac23d4d9261bf",
+      "published_sha256": "8d2bbd773b17ed085009155ee354c2c69d30e3170e807a2e19e5c2c43774ca46"
+    },
+    {
+      "path": "external-materials/interactive/281afdbfac3ec775.html",
+      "source_sha256": "c760c58e8bfbafa78ebb6828e07aad65ecd0198a66fec63eb5c6b32fdb6e5401",
+      "published_sha256": "23cc743b400e49b0b144938d821b0c9a820549f7f31dba00fafced3643efef3e"
+    },
+    {
+      "path": "external-materials/interactive/293f29709c899f9d.html",
+      "source_sha256": "17021b15fe9af00dc6a46bc3fdca015d4e0b625d51290b31261d576eac889885",
+      "published_sha256": "47ae08e36b258ac8fec7c94fd89073e78e2d2c6cceb373a3be07b91830f7431c"
+    },
+    {
+      "path": "external-materials/interactive/297a50b4645573b1.html",
+      "source_sha256": "17f050739e908ba74f9606a31f157e92471d4848fbeaf24db70b0430b36543c5",
+      "published_sha256": "0467eb033c6c8ba99bae78bc765d6fdbe931c6189217abb8c571e856f011b7ce"
+    },
+    {
+      "path": "external-materials/interactive/2ab151c8f9ed9d07.html",
+      "source_sha256": "946e1f183c5f66ea0929f6524c628673d64b6e476aae356669eae8b9a9b5aa78",
+      "published_sha256": "21114099a90ecd81ef1e51089d4b58622187de2b986d5f64d19bcf7d9ebaca79"
+    },
+    {
+      "path": "external-materials/interactive/2b8a8ef4284151b0.html",
+      "source_sha256": "22c5b2f1b5b95ebc906dc259c6121df77fb051f3bd7461ab5c202fd4d8f17a3c",
+      "published_sha256": "6d3c6ec88ff6ee201994e1ca078cfe33747487cb2347b708cddf083fb83c18e5"
+    },
+    {
+      "path": "external-materials/interactive/2be0273116b3b50a.html",
+      "source_sha256": "1dad29aa49fc6573f0cbd1af3d7be0962e86b4772d5a561b2f3dc6851226ed4b",
+      "published_sha256": "5e0b538b722dd8104e5b60e30c73519337cb4a24d1a03c71b9c737cbd8daee4c"
+    },
+    {
+      "path": "external-materials/interactive/2d422ca70c8e58f9.html",
+      "source_sha256": "188f77801d056cf60da50852ccbb29285686542944603eaa70573d6c953f0c41",
+      "published_sha256": "db34b1dae3161d1d16366a9bec2012acbecba93ba5e02f1e2176edcfe195f745"
+    },
+    {
+      "path": "external-materials/interactive/2e454d70adc6a5aa.html",
+      "source_sha256": "a063b5775427f9a319a723c434112d9b23b2f7cc618fddfa04e0c85242345e4b",
+      "published_sha256": "d8e5eeccf1d3987fa5394fe97bfaf585edd1decc5e3809fb59631cb05f0b6f90"
+    },
+    {
+      "path": "external-materials/interactive/2edf6572a4ec0b0c.html",
+      "source_sha256": "9f8f98b12bd717485b869c1c73202e554d6d30ad9f5bdc467ecfd6d076076e8b",
+      "published_sha256": "55366fc91c00eea6d6c3cbb0e9814f562e3be4c78795cfcad65a1b9683fa1cb3"
+    },
+    {
+      "path": "external-materials/interactive/3100739aaa9a8cd0.html",
+      "source_sha256": "902dbe14b6482516d03f1c49110cf5deea5d9308ed39ab7bca7c13467fad5b79",
+      "published_sha256": "dcc9e2bcef6c30c3c80f7ba5a0ac08011ad6495ff57b1cbdd3adc973f8923840"
+    },
+    {
+      "path": "external-materials/interactive/315b076017289142.html",
+      "source_sha256": "fa035db8d1ddcc7903ee8bf83e2b6f7f9b0e8499e8200be5ab3fd590f9956555",
+      "published_sha256": "683d385749b5f66e2c0b88e385f7d661ad9fb30f69203d422a7977b199021c81"
+    },
+    {
+      "path": "external-materials/interactive/31dd5638991d27ad.html",
+      "source_sha256": "22e75a22e74c7535112a9c923887a90eaf54b4cda414d71924546dc13fbaeeeb",
+      "published_sha256": "333f7bcdeea6922c22f360d81e6aaad7954771fe4608a8f61a065dca92201bba"
+    },
+    {
+      "path": "external-materials/interactive/322dfe42f3ae62a1.html",
+      "source_sha256": "d397bd01b354ed5a70c11b9c10714ed851c4c48416ea81643bf0ef270c4cc934",
+      "published_sha256": "0382330ed90676f43ccb2ca9119b83282190d94b1817f890cdd8b088a565f226"
+    },
+    {
+      "path": "external-materials/interactive/33d84b54a9a9ec28.html",
+      "source_sha256": "49cb2f371cd5a0b3fb5aaa9664439048db8aa96ff3b5709a7cf135b614c9ec59",
+      "published_sha256": "03b9f966ef3c7057cd2e4b28dbcafa1f8c83f09e57d97a83985d98caad28d661"
+    },
+    {
+      "path": "external-materials/interactive/3b9bd2bde6979ed0.html",
+      "source_sha256": "21ccef20ae4d25796442fd7dc11f0103c855313a95c3e4ebe14d5ac974e85098",
+      "published_sha256": "cda0aee121e49e0f0c34baf457e81fe6fda1045bfe5445037f34a49bc87e87f1"
+    },
+    {
+      "path": "external-materials/interactive/3c8f7c155821992d.html",
+      "source_sha256": "b68a74dbb2fc902ca3b1bd2b50565fc502e61a4bfa9be21cdbfb99fdd36f6160",
+      "published_sha256": "fdd3257362aa2a2f2fba3d35aba117d363fd6b9454120b85dca6f0045330272e"
+    },
+    {
+      "path": "external-materials/interactive/3d35357c94dd926b.html",
+      "source_sha256": "a2f6694b8f4dfc5170412dd44a8fe26dfb6d196ceba0181948d10ae6989d25d5",
+      "published_sha256": "881bb64dfe36a4d2ae598922987e4aeda939a83501a80e1862e57ad3d2a1973d"
+    },
+    {
+      "path": "external-materials/interactive/3faa5804101f4189.html",
+      "source_sha256": "3b050d7607ab17ad6bbad40a7badb70a90a2df321781fb074444d1c19c569f82",
+      "published_sha256": "6b9b44fba0c2533c4d82a179e7ae4692aefac5082bf249ec468a3e7fea46e147"
+    },
+    {
+      "path": "external-materials/interactive/403997769e6caa25.html",
+      "source_sha256": "67e117b251af94403e31c588d86b4767309541f89a4bd0530cbe3c5c2b6e446e",
+      "published_sha256": "e5720b008f23061898b626e3d47dab0511a2ecef97d0e2ccec57c83dbd5e9f4d"
+    },
+    {
+      "path": "external-materials/interactive/40f2983c6faeaf33.html",
+      "source_sha256": "0caf6dc79cbb5f3aeba956f673eaa671631e4a589e0aed0f84c4bd1282ca2035",
+      "published_sha256": "830f14ee28a59f02092f5fe4de582a107b48d59805c197fe42171220dea22e53"
+    },
+    {
+      "path": "external-materials/interactive/412469e8e6a7c293.html",
+      "source_sha256": "a053adffd5c59e7cc4a46f57e58f8af831013400e95dbfee98e0c9a3fec2726b",
+      "published_sha256": "88eefbf2104793fcfd29328fef78aa51b0f2d8abd13b650a5759e3a5b4a26bb2"
+    },
+    {
+      "path": "external-materials/interactive/419c2bc608e73325.html",
+      "source_sha256": "b7c9ce693050b0384144590ea69e543f497c5c45ce3b0bb9532cd3265dba2e36",
+      "published_sha256": "6828cf774681161692c8772d48aa92b96976174705e561e282dc99b1f234788b"
+    },
+    {
+      "path": "external-materials/interactive/41f08711e92c11f0.html",
+      "source_sha256": "aefedb1f1e07b2e4b5bbdb8099204c3c02ee4621feba02b05b1104bb1a999d01",
+      "published_sha256": "527a34966b0d06a5b4a497bc348da5a0856e83dc18dc5fe26186ee88870550c6"
+    },
+    {
+      "path": "external-materials/interactive/42b14c8e67ef8ba8.html",
+      "source_sha256": "dcced198178323d7f6107d07eb8a5869106cdcb301fe1e5f16256aa10190f6fa",
+      "published_sha256": "5c97f201201b4b5b3ca245e11e375385ce224f8d6ec77aa901af175f2704f28f"
+    },
+    {
+      "path": "external-materials/interactive/43c4a56ced494f41.html",
+      "source_sha256": "09aa30b53f38785b4aef18154c5341b45870663261fc4f0f57c4811886c365a7",
+      "published_sha256": "7e0c5bb714b5f9629dc153c52481ec27a6fb67e913ae3a4c5391218f885c795c"
+    },
+    {
+      "path": "external-materials/interactive/4504ee32004bf934.html",
+      "source_sha256": "302fd837e5298066a3978ea23a023c0fead28265f162e44e65e8b86346f9327b",
+      "published_sha256": "94bd6f0c744742dab4d23e505fcea6f085e04a3d5b18beaaf100ad5f181c1b1e"
+    },
+    {
+      "path": "external-materials/interactive/474aafa199065c65.html",
+      "source_sha256": "2662460085b3d8355bf2d970a50b66ccf68025a31d90dad2b6d19786d64afcfa",
+      "published_sha256": "f8b28926cd2173660d8f67a7b407c01b2a688be6bd2e53d5adabbcfb65ab3f4e"
+    },
+    {
+      "path": "external-materials/interactive/48358f9acb379f53.html",
+      "source_sha256": "62cd001975c65d0a7e0e23932cc2f915b923a305a65549537acf22a6b4b9b129",
+      "published_sha256": "c5bffe8e52792ed08c244a79d10164f88edbcbc4394051e5b8cecabdba58816f"
+    },
+    {
+      "path": "external-materials/interactive/4cbef8f142d0423a.html",
+      "source_sha256": "9648443bcb4ded96a773432416cc2444bc2b81c43f878f44304b498381ed2d0f",
+      "published_sha256": "f42ab0b701590e10d690dbc40407e257600a8f735fa7742d5d0655c1b02b7459"
+    },
+    {
+      "path": "external-materials/interactive/4d70c825805536bb.html",
+      "source_sha256": "afd830f4879250451712e2180f369bb5610fb69fa9e25317a201387688547bde",
+      "published_sha256": "4fed2c1283f92671d1fc117936803ffaf71df347c89715583a4d95e7c19877dc"
+    },
+    {
+      "path": "external-materials/interactive/4ded6c3c58bb9074.html",
+      "source_sha256": "39f6c583d53a4f62215676d162b213882173a219cc484d8426f91fc4ad83d115",
+      "published_sha256": "1a0e48b7dca8661f175a069b2a96134be3e568e8ab2fa60f6aab30dfd3310fc3"
+    },
+    {
+      "path": "external-materials/interactive/4e53501166c6de40.html",
+      "source_sha256": "08adda8189026ad8e61eef27845fa7154e0e4a972c7f778b21eefb76dbd12d2d",
+      "published_sha256": "d0b6f1279ac4f440d9505b591a0b6b70208b1857f258a79135bfc357b76c756b"
+    },
+    {
+      "path": "external-materials/interactive/4ed7e073b5abd7cf.html",
+      "source_sha256": "a30071709ee18400edddaae3186da672adfbdf8814b48fc0caab7743f1e64afe",
+      "published_sha256": "208c2106ecfc348fffd9d5794fb57c0dab09b662ac93f65d30f5e981c002c7a6"
+    },
+    {
+      "path": "external-materials/interactive/4f0a7af0d9e70c86.html",
+      "source_sha256": "6fe426700fed96b9fbe834ed146b4a4bd1f77744fd196541fccfb4885a5cee5c",
+      "published_sha256": "b3308a0f2bd7e152b7a804b59975e951a3c1d8a49d74371ffee0ec124576df1d"
+    },
+    {
+      "path": "external-materials/interactive/4f51ffb3448943e1.html",
+      "source_sha256": "87eb5fb134cf52a9ea65ed959ea24cde4c228f882e35d1cc1fa48002b978c9bd",
+      "published_sha256": "f62e94540a4bde3a2e594df5ab07d88003a43227a5a0c6207173998e2ae16743"
+    },
+    {
+      "path": "external-materials/interactive/5207e26d08a7e94c.html",
+      "source_sha256": "2759d8eab601470c5d479634306965896fc017a2b75069ec7c8ca95854d8bb0c",
+      "published_sha256": "e64d75d59f0ca8ad6e5750b2db5752f7745a0d1f2a6a5c12f9c80aceca38f2e0"
+    },
+    {
+      "path": "external-materials/interactive/52f50bbed4de24f4.html",
+      "source_sha256": "750ec8215f7b69b705961cb63a99aecd101b60ec09aa275849914e71cc106587",
+      "published_sha256": "6adff919d12e0cd84ba98d020593d57f04857d5a94bb8b29369f73c4dd330710"
+    },
+    {
+      "path": "external-materials/interactive/56757579c8d79fab.html",
+      "source_sha256": "30927d2e4266fe7b64449c48ede72027bca77dfeea477947a9031792854825d6",
+      "published_sha256": "03c2d62dc242e9dd2c8247b40920f1fe6c81e348b245bfd6eec0974235c6e41e"
+    },
+    {
+      "path": "external-materials/interactive/5a1efea4819c8973.html",
+      "source_sha256": "f189e0fdc7b52dc2bed90491904892ef30ef4ff3918d50ff8712edd5a589cac5",
+      "published_sha256": "9a6cb25b971cb7d67ae6fbd90f5beb3a42103526d7f6c7b98ce8cedb9b8b60af"
+    },
+    {
+      "path": "external-materials/interactive/5ba710930273c3d5.html",
+      "source_sha256": "38c6087d7ee9a4541388079c1d424ddaebaffdce4c8f39e49616cbb2ab71ecab",
+      "published_sha256": "ed3a6c23a132857cec390ec7bc10f7c8494a0dcbcaac15d18d926e060b56e313"
+    },
+    {
+      "path": "external-materials/interactive/5be2bba946bc8fa2.html",
+      "source_sha256": "0d779c65e367bbef4d8a07bea33c5dff13603baff2c312f1336f4d1f8c4b514b",
+      "published_sha256": "13ef7d8f833d73efa0994ac20044cd1bc654fd46322483a6704bfa9a0a286abe"
+    },
+    {
+      "path": "external-materials/interactive/5caa70e7f53f69aa.html",
+      "source_sha256": "d3b5f9a1f9b822334670281924067aafb8424dbe8616bcf236325c1b311d05a8",
+      "published_sha256": "b248f5efef8675353f1a0c0a78500726c8619827ab7ef8d31cd50c55a60fd981"
+    },
+    {
+      "path": "external-materials/interactive/5fb044519f552497.html",
+      "source_sha256": "6a6f8fe3ed063acddd398da39d7456351d49bc0a3f7b9f311037f05912b33f5f",
+      "published_sha256": "95eb66c8f3805b6c42798fcc5fff5b7e7d2c8f5ef9070ce25302e7efc64ec40b"
+    },
+    {
+      "path": "external-materials/interactive/61a0ba15cd6c8661.html",
+      "source_sha256": "d05657c5b22719137dd265c6d225877e3ded17f0047095c1156316ee6caef525",
+      "published_sha256": "202ca9ed951793b22db1f6f6672d76978e9f3a8a07cfc14f36f6ef59657a30b3"
+    },
+    {
+      "path": "external-materials/interactive/62e6e921be4291ba.html",
+      "source_sha256": "f0f053d87d840cf273d071b4bd27c2aa1eae48ce0b57f08aed5bafaa2e20a930",
+      "published_sha256": "b5979eba33dcdedbed0eebf5c7e2707ad342e523ecde2dbccc024f47ed74f75c"
+    },
+    {
+      "path": "external-materials/interactive/648d9d99187ca123.html",
+      "source_sha256": "0d5c3a5774be0f45b6c3ecb7c4002d77db59b841d75a7e710c56a0e7e0020359",
+      "published_sha256": "49cc72c0ab5f824d5f367dc63be6975dc3e501241878b654a4c57504124a241e"
+    },
+    {
+      "path": "external-materials/interactive/665fd5ceaface2fe.html",
+      "source_sha256": "5e96a54ada44268769251504b2465d2b38caba651af1069a7478ed750082a021",
+      "published_sha256": "7cfc5109c62dfe2878bcdc80b3836f3ba74722dffea75a3819d58ab44f46e062"
+    },
+    {
+      "path": "external-materials/interactive/67ac807f0e3660a8.html",
+      "source_sha256": "8ac93a6017daf3e011d340152b34a5b66b688ff6dfe1b841a9f0fc062395f0e3",
+      "published_sha256": "5834eeda46cb392c7a54295499a9c8714a780fa8b8a5a3b42956b265f8c598d5"
+    },
+    {
+      "path": "external-materials/interactive/68c5224d66c0499c.html",
+      "source_sha256": "7f0374d62dc02c91bee0746257a0400df75efa0a287f1e469a87bad595b299b1",
+      "published_sha256": "6ee6b0634b48509d4e8e89c8cfc702ca991a2298206c1f204a66c32a94e036d3"
+    },
+    {
+      "path": "external-materials/interactive/6a62f321c6388ad8.html",
+      "source_sha256": "088a8eb2e0cfeb538fe1566e3aac351b4cd8e2f9213472fddf1cb79b3548f222",
+      "published_sha256": "1585c3063b9e6c0ada6eb47d57254e41be2824c5517ed617b126bdac439e529f"
+    },
+    {
+      "path": "external-materials/interactive/6b06990f6f93e455.html",
+      "source_sha256": "5db48ec09eab6082ab8cfe22dda142e757a9b9233123b9cef9bb3f5831505bf2",
+      "published_sha256": "7e56a7906e07cee3861c82103e9d5eff397d3f31e93ad42b369ef543e05144ba"
+    },
+    {
+      "path": "external-materials/interactive/6d5303873a47ccd1.html",
+      "source_sha256": "d4067d1d97df90a24e66b1c69922ea8b0435c018374231db3256b9b7a5d0eaa4",
+      "published_sha256": "f0f92227b5a4906fdd8aa3ce95669ba34a5caf8f31ae1a82010c8686ae509be4"
+    },
+    {
+      "path": "external-materials/interactive/6e4ed1356c419544.html",
+      "source_sha256": "2561dc0211aca9a0645c44c1366483f4661d8cf0e0565e87c5f04869389c2766",
+      "published_sha256": "afb1b3f8790791b4cc7e3a148a4a365e6dd6fbb8446094cb0f540eb287e2b261"
+    },
+    {
+      "path": "external-materials/interactive/6f5333c1a8463d74.html",
+      "source_sha256": "04acedc2da68604fe0b248da844368d479646c5c33a03f2bb6e935fa3fef9e3a",
+      "published_sha256": "6209f9386515dd8c2b1954ec34281312e54dfa86921b886a82dfa122ffa6035f"
+    },
+    {
+      "path": "external-materials/interactive/73f13e0821136125.html",
+      "source_sha256": "4c7682257923087717fe0e0190a281f7491e980796a6e2be7ac309301764baf3",
+      "published_sha256": "0271fcc2c165cd1df0806bcdfc1d27e12085ae3202b6de415e36bbe18df902ef"
+    },
+    {
+      "path": "external-materials/interactive/740f0e7dcd148882.html",
+      "source_sha256": "1ce9cf47b7599ad90e2c966103d8f73678ebad344faf1d07d283ee55e2ef547a",
+      "published_sha256": "9d69067cce0a3e60b100dd7d03f0ed5438e2a8fe84019de35322b1f24f85dfd2"
+    },
+    {
+      "path": "external-materials/interactive/7616dc7e5e2257a3.html",
+      "source_sha256": "e7fe368ba5cec80495c53fa54082753ad2897027fa9e0c5078bdf8d6ae885995",
+      "published_sha256": "002a69904a7a697b0b66d638e908d2c214c2a3f36c6997bb99280926b4a96dc8"
+    },
+    {
+      "path": "external-materials/interactive/76d4cd259a7ac01e.html",
+      "source_sha256": "29808421fbef5cb0324d942ed21e9d0a4eeec6f8b155295b25ca743a3ee377a5",
+      "published_sha256": "bb6b280ec35e3cc6f1c5a9eb90ee0ca529022e43af906e99455dae52254ca942"
+    },
+    {
+      "path": "external-materials/interactive/77da73d635a87ffe.html",
+      "source_sha256": "1295c0ceacd6f52a1e04e76ffdd66c5aee13edfac84722dbf0382c862ed0e524",
+      "published_sha256": "86756e2f2e7c0c7c2c6fc29ece7ffb0ab3e5f33fc6a6bcb51dd9ab4d8bcfe64e"
+    },
+    {
+      "path": "external-materials/interactive/787cd8fe8a409bd2.html",
+      "source_sha256": "7bd8beedc9b64c8c1695b4b85f9725a1d5929c1ab5351fb7ff3cd388b4006f3d",
+      "published_sha256": "52e16a039ffc3a8bdaa714d52328a0637d412ae3cd943689282d0d537d1ca383"
+    },
+    {
+      "path": "external-materials/interactive/78c56d2b2eaa8a9b.html",
+      "source_sha256": "7b02d57a58129d498bcf4e2275c4bd122fdc395f375fe09ed77774ffd3c41dea",
+      "published_sha256": "2ba4afda31ed2163f9751cdf2104fcf71c688dc4ae8398156487c8834790a45f"
+    },
+    {
+      "path": "external-materials/interactive/78edac64762f2682.html",
+      "source_sha256": "c357bd7974dda7ae15938b227c543002410cbc51eef8388547962e13abe43aac",
+      "published_sha256": "48646cacd55b94f5f550b098c300c3ef4006b9580be16581e5acbecbc1eeac57"
+    },
+    {
+      "path": "external-materials/interactive/7aab76352d2d5c3d.html",
+      "source_sha256": "ade6ee17422e716f174df8c571aa9382ef2a2ac76b19fef892411aba3caf6f27",
+      "published_sha256": "79dde83ef244a1d82b4185251f88ea1fb291a17f9921a5b217e070310c0c4326"
+    },
+    {
+      "path": "external-materials/interactive/7be65c6f0608d3be.html",
+      "source_sha256": "025203d488afb16c5083aa489bf4e1ffa2ec6018d1b3673c97a9900c66e43a66",
+      "published_sha256": "c4368abd4a08f25002e11546333b0ba6d4f5f8f567155a1c87663aa036daa93e"
+    },
+    {
+      "path": "external-materials/interactive/7be878a77875ea48.html",
+      "source_sha256": "cbc174964115cd106f52cd82f733caf9d2872081243b83bdbb9b28e59bb3f03e",
+      "published_sha256": "2d1f3c99da8081542c3753f0ae3e9e3908b9a34b8179c4740efe310240676e6a"
+    },
+    {
+      "path": "external-materials/interactive/7e06f1f1eb4fccea.html",
+      "source_sha256": "6d5770b0ca8e9bd5ebbbad1e4056f4d517ad86632977e77c56432a3b0206354b",
+      "published_sha256": "1cdd2fcd68b5c42f2cdba5c85215577a352f90aee226cc33f9be053b9e1c38f1"
+    },
+    {
+      "path": "external-materials/interactive/80935a108a8fba1a.html",
+      "source_sha256": "a5c3b20a25e6ea9778b41b389b3de7cc0102f18aa3f39f4d6c89dfd641ec035f",
+      "published_sha256": "b5c0eedf9753f2bbdb6da3bab7a4b09119ddd5bfc4ca39a2a02dfc94d30ffd3d"
+    },
+    {
+      "path": "external-materials/interactive/81769a1510eafc13.html",
+      "source_sha256": "17f11651876ec9e3fe3fea5378041f9d216effc29f03a170817989c5074e1258",
+      "published_sha256": "b41d25f847090d187e30118531f0d4d8e6866585ef29df073759aeb6dac49d91"
+    },
+    {
+      "path": "external-materials/interactive/81aeca4591fb9234.html",
+      "source_sha256": "6847e1b741e838e15de578704f127324860e348417b2b785c2b512cd43185d0d",
+      "published_sha256": "a67a74d00c8cc0bbc30e9a7270429be2df1d06c95183256820bd36dee1fc7653"
+    },
+    {
+      "path": "external-materials/interactive/83379021ded5f8c2.html",
+      "source_sha256": "ffd1ca8d137fc57c7908649b50d7257d0a477f56f090e10198364028f123345d",
+      "published_sha256": "c0b45a56d06991fef79228162b125996dc1918938be29a0ad03bdda35d134ab8"
+    },
+    {
+      "path": "external-materials/interactive/83f876c0a08d40f9.html",
+      "source_sha256": "4ac6fa96cf867bf2de273d496dfa52c5533cfc3ce01328755bbc92a48556dc08",
+      "published_sha256": "1a91d3adf929e5c8dfcdab79372eb6378918e57997569276b99b8e67999dfa6b"
+    },
+    {
+      "path": "external-materials/interactive/8500fde5e660e181.html",
+      "source_sha256": "6bf51399e3f2401e3e34a8864e9e36403487ed4a90b64e52e56a5e7b6b5261ea",
+      "published_sha256": "cf767258d0e594473a63993ca3cf77265004366a84a1f46c6ccb892859fb9a4f"
+    },
+    {
+      "path": "external-materials/interactive/881927603fcc6e8f.html",
+      "source_sha256": "15cdd8cd124bed1225f48e5c47a276df8f00441ff3ef5cb09c150edcb59cb0f6",
+      "published_sha256": "ffeb5734bb5a74a8a7077c9b3ba32f66394a1edcf1b3104cafd908e9b9fa0066"
+    },
+    {
+      "path": "external-materials/interactive/89c1b081ebac60c7.html",
+      "source_sha256": "080bf8ae886cbdca74857752b7fd6ddb9c2d417d077b67f0e580a6f641fcf932",
+      "published_sha256": "0bebf3729884d4b8c163054ac6d82b1b09d0b1149a6efe402ed478d65c8772d6"
+    },
+    {
+      "path": "external-materials/interactive/8b96afca08a6f891.html",
+      "source_sha256": "350f6af65103a05e151148eaf6b03da03268010f58e09a0538af648e5d399be5",
+      "published_sha256": "19160b7de7085dd3309a7b30a5b7494a15e2e0475032212fbdb0ea0d743239f4"
+    },
+    {
+      "path": "external-materials/interactive/8c1e40c0aca3b381.html",
+      "source_sha256": "cb431912333dfc7ea627d837af627b31e3e0806ba0329dbca6ef6de63ada9b2f",
+      "published_sha256": "ef96e49206fb1f88cc52d05bb1f8494f94970c44ed0594e3f7488ccc3b474b73"
+    },
+    {
+      "path": "external-materials/interactive/8dee40e6c1d3ed20.html",
+      "source_sha256": "791e107a5a00270f00c8899606fea8e741374b991973a7a285c0f64c7f7d9c57",
+      "published_sha256": "3f128708c3968526e27b58ec328c72cd70cd8c04c0bfea70440ff582c2e5f17b"
+    },
+    {
+      "path": "external-materials/interactive/8e65b1e409aa252c.html",
+      "source_sha256": "e6e327205ff0da8128739c8662bc97141abf8bfdace7d31217b0fc63c0ac1bf3",
+      "published_sha256": "e313ab36bbdcaf118cfb1d7009a9ee4c44afcbb091985fc010b979510f437304"
+    },
+    {
+      "path": "external-materials/interactive/8ea4388cbffaf249.html",
+      "source_sha256": "f309a7867a13339741bd62be01814705b8c16068e80d0dc734173b2421044bcf",
+      "published_sha256": "b66eb8232b2e30f722dcef8194e86a410296cf1ce58d52b781bf24771cbdb812"
+    },
+    {
+      "path": "external-materials/interactive/8f1593b7b245de98.html",
+      "source_sha256": "9b272d70a035dec3573d59296966e91adeb8a73ce3f8661b58d47b6f582edba0",
+      "published_sha256": "c57567463d24b9452a1cb0470a40bc84e568e59d648efb4a17194e97f2eb6d71"
+    },
+    {
+      "path": "external-materials/interactive/9206ab0513753833.html",
+      "source_sha256": "6300317928c2f8cac0fdcc8c8c23d02deafe1d3dc95f2b7d7a76cd09b94d5050",
+      "published_sha256": "4ee3946a9751fc559cfb0c2cad90eebe20a56bc510820b095744577ecec330a1"
+    },
+    {
+      "path": "external-materials/interactive/92241eff2242eb79.html",
+      "source_sha256": "c8cb7c8f2f13b4f6430121edf9bbd7154ce3fcdc7b7b43fd7b50cc7b2db5c839",
+      "published_sha256": "bdaf630790eaf7784c60193549977d128c329826117c82e6636e51ca10b59428"
+    },
+    {
+      "path": "external-materials/interactive/98a1dcee4d043bba.html",
+      "source_sha256": "c955affb8c772a6601a828046c406e43c25cd87d4436808a0f8a9074b0e49666",
+      "published_sha256": "7973e238dd0df120921b78791b3c6bee50ff9f9f280dc2740673388ac266520d"
+    },
+    {
+      "path": "external-materials/interactive/98a391c3d8a3d0d3.html",
+      "source_sha256": "a2c17034410d0afa0c5488ab15734dde8c1696ab624a359d6757ad0ff6a599f6",
+      "published_sha256": "c88784641824525bfe8aaf7e04f74bcc216eff339f63b7073f0c03ce89261211"
+    },
+    {
+      "path": "external-materials/interactive/98b683c4bd2e2ebb.html",
+      "source_sha256": "53c3037c0f4e88df9ae8273b11b6085d93d6c2f0a76d375c26ace4559d285862",
+      "published_sha256": "0ff4c55ce7891c0534055a677a401a504daefb2a6dd0bbe91b64f5a66a0a34e0"
+    },
+    {
+      "path": "external-materials/interactive/99e415720ed6dcf6.html",
+      "source_sha256": "e93ced4662452a0af79144fc7b0e8849190f780bbd9b51b0f0eda1a93bef86a3",
+      "published_sha256": "f2af6874ad49fa1c94db4086e7c545f06353ce5d6859898c9971e996a00c39dc"
+    },
+    {
+      "path": "external-materials/interactive/9b10c8425ee53ff4.html",
+      "source_sha256": "00d2e2ccdec05137bd701506d89e19fbb4b17b1e4a58b9117d8609c1ddfb3f63",
+      "published_sha256": "dc82dcfe534465a0d5f7059a1681f34b35118018e756592605079584d5483fde"
+    },
+    {
+      "path": "external-materials/interactive/9c004c2dd11950f2.html",
+      "source_sha256": "5db97d22d1a87f3d90b4a87a8fd0c1926dc5bf57859ed87ec76320c7b4f6b073",
+      "published_sha256": "c52de9be5abfe118d1d8a48d8427388df78d6ec2424d0b1da19a49e4bb8c7254"
+    },
+    {
+      "path": "external-materials/interactive/9c265b02c3eb99d0.html",
+      "source_sha256": "2ed3b355fb69f5acee53dac0946a87e7612341f592e948d21b5869491806a758",
+      "published_sha256": "789536a330b0310289669390dd48105c9138bee3476a0ae7efb7308e06fe8fa9"
+    },
+    {
+      "path": "external-materials/interactive/9cdf9e926def7fbc.html",
+      "source_sha256": "cea62358f9dd0dc8406f19599307d892e9ab8f34c4dcf94b48c88cb3f07411ec",
+      "published_sha256": "2458f1c82478b54e98700f77e7281ad3d433a25d5e6b3991de17c898f76f54a5"
+    },
+    {
+      "path": "external-materials/interactive/9ea48d65737297a9.html",
+      "source_sha256": "f609893317b7c0e51cd26c9bac291b000b58908205e6848276b526b513b091ea",
+      "published_sha256": "5491316585a13c89b43874fc3a07bf50d70aba8f063b7162a7338e137eadd5e1"
+    },
+    {
+      "path": "external-materials/interactive/a23d8b649c3d1620.html",
+      "source_sha256": "8b3e6aac5f9e00fa9e6debcbc9dfdf1124cdfd289089f60610c79a8d735007a0",
+      "published_sha256": "438b8916f285e732542275dbe648bd128c78981d7bb5c4c589800d9dbc016943"
+    },
+    {
+      "path": "external-materials/interactive/a25c5230f326c60a.html",
+      "source_sha256": "1ce25fdda4d863df4cfa4fcd07d7f209331c3f16be36c9396722a9f9811e6261",
+      "published_sha256": "331e32e35fb7daaaf2b669a7ff54d3ef43099ec4b414600343009e4e3736d9a2"
+    },
+    {
+      "path": "external-materials/interactive/a2bb931ddd76c8b3.html",
+      "source_sha256": "6752f6c57e83b695fc92a8822d898ce907032dfcb9dcc8609349b231c0025d54",
+      "published_sha256": "ef1423044edf407b85c01faa7a4bfcfc6916994da10b11012ba21c813c349fc6"
+    },
+    {
+      "path": "external-materials/interactive/a3774b5b19817f8f.html",
+      "source_sha256": "c1e464d7e266d5f6aa5aff769a3a4334b1daa5367714900905529a542acef2af",
+      "published_sha256": "99a46437134b1a44fdba4b8ce88fcc52ea1a5ee7f2123f88e3792cddde9fe434"
+    },
+    {
+      "path": "external-materials/interactive/a4351b019f874c57.html",
+      "source_sha256": "b7350ffd45a65f640df0a02148b50dab58dff42ec5045a57cc5d90ec111a054b",
+      "published_sha256": "73b5e2abea3ccc82d3444133b1a49078a0821502ff14f229e3ce075aea09ecc7"
+    },
+    {
+      "path": "external-materials/interactive/a4adbf5384d5cbce.html",
+      "source_sha256": "a2cd4474a6357e7d147744b72cbccfa68ed1adb78fb53eb38e42eb202ae007c2",
+      "published_sha256": "376a19019dcd877310c50a3cbd9c0f39618a02094f7248a0dc2d4125bdf184b9"
+    },
+    {
+      "path": "external-materials/interactive/a7726e8e4d09df58.html",
+      "source_sha256": "b3fcda27f893d7ddb7fb3092381b01a61c1ef218fa76056fc92e9dfb812ef8f7",
+      "published_sha256": "73a30ce12718c6ead3863d468395e0eee959d6dd1b790d21132d7a8cf96aaf5f"
+    },
+    {
+      "path": "external-materials/interactive/a903808b4336e454.html",
+      "source_sha256": "84f818f887d2fdbfb5b0dd3e878357e1c40a03e0e7705804463a84c0b1c0eeeb",
+      "published_sha256": "431123c423bd76353e3e3ae8b891e2331632a445d176e1950dcf4576bcffff7e"
+    },
+    {
+      "path": "external-materials/interactive/ab736f21fd547aa4.html",
+      "source_sha256": "b5460db7b7c43e317499a46fb3c2baa3ea9a00ea0f6c832ec090bd2e9a4750a2",
+      "published_sha256": "b10e39fd3675509e41dcd5d9b62d1c1b078dacf2b267efb8f4172c205930d4cb"
+    },
+    {
+      "path": "external-materials/interactive/ab7c556853821825.html",
+      "source_sha256": "ce6e9272b55696a161ac4b91836f368fb37d476830b768ac9b5b0a44979e34ac",
+      "published_sha256": "af5d974eaa3071c346af30486d4a39549ce5b05558f06264f70bedcbd719b4a9"
+    },
+    {
+      "path": "external-materials/interactive/ad28cc37bc6f7dc1.html",
+      "source_sha256": "79b8bc828f27bc84c5cded8cc72cd19edd994f417b6b4abbba80356254adfae2",
+      "published_sha256": "94eb4b41db22ed4feed0bf0845d94242d6db3122ab238ce28424d8ad271552f4"
+    },
+    {
+      "path": "external-materials/interactive/ae4b14403567536c.html",
+      "source_sha256": "b035ea71b06ffb32c805197e38d6ccd0f959cd78533ae0c817efa859fa5af0e7",
+      "published_sha256": "f08b58debd3a9b03b99b408b386f8f99245ec660d389965a9f4bc51c3eedcb04"
+    },
+    {
+      "path": "external-materials/interactive/af62e687cb064bc7.html",
+      "source_sha256": "1e475eb4ea78020a37e8163492b408275d60440fa7049e439ffc83fa0dbdb6b5",
+      "published_sha256": "c262cc801e3da822f15b8c5a339ca10c7a299b825c38b2942e2c953636c19dbc"
+    },
+    {
+      "path": "external-materials/interactive/b19e390ae5cf8214.html",
+      "source_sha256": "ba5e63c3b47b5499f83b90e54b47b27cfcc32bb24a3076f8d12c28c78e6065ec",
+      "published_sha256": "f9bed2e1044367af590730c6dc6d684e2ca8edbfe19d97ee2aa21727bdc0fc02"
+    },
+    {
+      "path": "external-materials/interactive/b2e576fe4a7f0435.html",
+      "source_sha256": "70bfdd62a93d8649703027f163e8788c75d046add4a5bbb02c96842ea56170a5",
+      "published_sha256": "f7275db5cda815f5d8f2e3213d2a12c578ecfbbf8a3e123707b91dbd0cc063d0"
+    },
+    {
+      "path": "external-materials/interactive/b5f522e877f5eeec.html",
+      "source_sha256": "10619376c4f16a5e829f3c5986ce63a03ea460a9d5cd0673e2ec0100149abee0",
+      "published_sha256": "362ff29a794a2b8db9cd4be1a4cf333527153ea95294373ffe7a605208e2193a"
+    },
+    {
+      "path": "external-materials/interactive/b64599c00230a580.html",
+      "source_sha256": "8d573dfd59682d3e86585a6de858fc5867b9b70eb1d5322de6b3c4d85712c3c1",
+      "published_sha256": "c62f9e444b65b5608b6c19dc3aa73f3d93b64906097d02398a383b9b41233e58"
+    },
+    {
+      "path": "external-materials/interactive/b754f69347e3c13a.html",
+      "source_sha256": "b8f54aa60f679871e71805a8f3ea260348d4d618c58fe25de335bc44d3e8ef5a",
+      "published_sha256": "e838344218fd04f2871f3e55a10ea7bfebd5c94f00b4b8ab0d45c6b7b16c8737"
+    },
+    {
+      "path": "external-materials/interactive/b775702009e24459.html",
+      "source_sha256": "07c35efb5ae93d59da22ca007f80f49120b1e64a6dbedebaadea1febc65c8e52",
+      "published_sha256": "49a736430eefef644d6d168259e5b16bb8071cca253a3aa98f6fd6f2d675ed4a"
+    },
+    {
+      "path": "external-materials/interactive/b851887a73b914a1.html",
+      "source_sha256": "59af39e2422c365098cd87078e54c9b5c33695b0aad4edc0127a52862d225685",
+      "published_sha256": "642559a27ed6ec7c85eef8e1da520a31828f2e53afa17e19c6ac2c89e3ea710f"
+    },
+    {
+      "path": "external-materials/interactive/bdaf9627306abe19.html",
+      "source_sha256": "ac21ebf5980b96279fa28ab12b5abeb0567e0828394a73a702f66bdaab06c11a",
+      "published_sha256": "f9f5e681b0ffd1b22fda78b1a107bc9c15cdfd75f6185235dcac37887018d8dd"
+    },
+    {
+      "path": "external-materials/interactive/be774d9e28184150.html",
+      "source_sha256": "d45662798c2dea54aaa11c1b00ec1199cd3f754f09f748090979d211582b17df",
+      "published_sha256": "0d30d6686777c38db62712e50bdcf5ef5302d66bfcf89661929ebfa23bd5d6c9"
+    },
+    {
+      "path": "external-materials/interactive/beaa5482ab1a3437.html",
+      "source_sha256": "2fea6a106858aa5343d80af3e15530bd123e97af63506322ecd9e24c828100b4",
+      "published_sha256": "b49f6a463b4b2611ba045882a1aec925521c4d4bfb4165053b81065fec197c25"
+    },
+    {
+      "path": "external-materials/interactive/bebf7cec9800338c.html",
+      "source_sha256": "d8f2412258d4d84216b29bb83ce43251eaec21c1deb8fc17f644f93f9cf3b1fb",
+      "published_sha256": "f3ff6695567ad5fbdd59b65998fb3c4707b17c7aacc5d722629d30329899c984"
+    },
+    {
+      "path": "external-materials/interactive/c2d8fc574076cc44.html",
+      "source_sha256": "426e306ccbb4c8c2e22a29ee961b7b063dfb22f2af1ef6a5feb40ce7e67aa2a6",
+      "published_sha256": "8f92381424e581cfe8968e6951e03630458517439a0a36e3f35656b9278b0e9d"
+    },
+    {
+      "path": "external-materials/interactive/c2eae2a70c5e9fde.html",
+      "source_sha256": "14ad9a66e94a35a1722e726a5cf228afa2d4eebffeeab26003c79ab4c4e0e89b",
+      "published_sha256": "58c0a2a71d7ab2c7bb4116fa6f47da4ff631f63a83ca358cffa68bc3a3341c21"
+    },
+    {
+      "path": "external-materials/interactive/c3bff184df93e75d.html",
+      "source_sha256": "b1605fb15cc1e344f7544b95d9e4fb59d00fb9e6f7380edf9a67c0c7e1504961",
+      "published_sha256": "207c26e61fb749fc5f9294503c651671a94c4637a303a63d6aa3505009b0ccd7"
+    },
+    {
+      "path": "external-materials/interactive/c5d8204fb01b1712.html",
+      "source_sha256": "19073b708d6652d7b7bea50a65d76a61d8690df66d04fee129e0051fc54dfecb",
+      "published_sha256": "c955ec79aeb3c2bf7b223ff01950d3a7374967dc2346059020ca6c343cb011f5"
+    },
+    {
+      "path": "external-materials/interactive/c6a0dd7d23369295.html",
+      "source_sha256": "f694318592082bb6e3b8505e1bbcca437dc4008ef28a04a387a21096656c1e7d",
+      "published_sha256": "d622dcedcf5926424a2fae1c506e60d3b640f6cc8db24004c2b56b95efd7ff5e"
+    },
+    {
+      "path": "external-materials/interactive/c948971452dde457.html",
+      "source_sha256": "fd6a7e09e60c144fc8e60ba32685dde8703cc5bc4f17e621d80baaebce50368f",
+      "published_sha256": "45880087f9b614d7989323140b01196d9af4c0b3dc1ece63d7f0bade548f48a0"
+    },
+    {
+      "path": "external-materials/interactive/cb2ab0aeb4423401.html",
+      "source_sha256": "533adbcc64e0884ddcff6a86975767f5e18e7644553231dfafa500e7a1050590",
+      "published_sha256": "35c900b634ddad19feb042668d3ee232284e7f72207280dd6294dc7f96089ba6"
+    },
+    {
+      "path": "external-materials/interactive/cb8132347d0da987.html",
+      "source_sha256": "52aaff6262fde2ed4e1f213e6ea81cf038f4e409507a3d3ddd5180b5864943ba",
+      "published_sha256": "78c5b57686e021b98c4f4bb510e1c70bd0cc8cb09666d775e8d44a95034d2a8d"
+    },
+    {
+      "path": "external-materials/interactive/cdfabf2b4e86e0dd.html",
+      "source_sha256": "97b80cfae864ce44d117119bb79a20026c2fa77628856dd6623024b444ddd812",
+      "published_sha256": "0ddf1ecb9be5b6fe1a797528871d5358c82aa7547fc8eb818c3eced8b5057ad6"
+    },
+    {
+      "path": "external-materials/interactive/ce676f396cff3ebb.html",
+      "source_sha256": "e691bfc3dbc24cf24416b43ffc090dc4db5496400bdd78b27859be1d59893f24",
+      "published_sha256": "579826adc307cae16479d4a2d7f5e8d937bd3528a57cb8ead76342c8c1f6b54a"
+    },
+    {
+      "path": "external-materials/interactive/cfb9d6373426a450.html",
+      "source_sha256": "63d56f113d515f5ef415062927a65b4d7bbf849046761f9b72f369ba173ee7e7",
+      "published_sha256": "5b1528a5d4d4fc39d34ec6ec85184eb846705daab1769576945c6b04fb59484d"
+    },
+    {
+      "path": "external-materials/interactive/d00db5cfd2cc36ca.html",
+      "source_sha256": "214f0a2600a243ab93eed2e491e5bc04c49c096405490c6b7238b14336c6246e",
+      "published_sha256": "4b4165e7b7f62620ddab9ccc7aa692b4ad878fa072d2dcfdd6e97589ce584c65"
+    },
+    {
+      "path": "external-materials/interactive/d014be158e4c06a8.html",
+      "source_sha256": "1641f798832f4b6365f0c541266f8712f885c8152656192ae05772ecc5a0ce6a",
+      "published_sha256": "7e7360cfb9054ce6194525e9846a709cc46783a6f2740bf84b3935d0cd48f653"
+    },
+    {
+      "path": "external-materials/interactive/d01ff339932b3c50.html",
+      "source_sha256": "afab0e8b60e7894dca6f25b3389d501e1d2b688c600b04a2894bd5dc3c63d40b",
+      "published_sha256": "4c2c3b4eafb480e4bb5148226d8f1c06aa15c8eed116f715643034abe359c8ac"
+    },
+    {
+      "path": "external-materials/interactive/d2ba461b3a7d7263.html",
+      "source_sha256": "3093d9d139eed61dac28a5bbaaf199080f97cc074dfd125e555e3315fa4ca81a",
+      "published_sha256": "03704668d49dbbc6cccd5468f856e4134da9da22b6ba5cfe508867c60773fb7a"
+    },
+    {
+      "path": "external-materials/interactive/d2edb1376f6a668a.html",
+      "source_sha256": "e71df8c7cc6395c165723f10ed6015c03ac093d16ec61dc5fdcb50e9df7b7990",
+      "published_sha256": "b6c33bebb49c570757e7c304a83871fff9b7df1510d7426aa459c506899af27b"
+    },
+    {
+      "path": "external-materials/interactive/d32fab37f3a0a7c6.html",
+      "source_sha256": "7e77620f0ebe59bffea345cfcd577da0db9df75bfff171fd0d2618aa50d4af89",
+      "published_sha256": "60ee2002d45e26cd7eb0ce92fbde2c0df0372b4e36ec5c14ed910a5b4f408dfb"
+    },
+    {
+      "path": "external-materials/interactive/d341e77dea2f19f0.html",
+      "source_sha256": "ca517d6f4193ab24e32b939b4f3b30eca818558217686f39db4cc8fbd8df8fde",
+      "published_sha256": "ccd1babb44c80d3c4b9de1531b9d6c4fd14333bdbbd57168cda259bed0510fa7"
+    },
+    {
+      "path": "external-materials/interactive/d4b71f9b2b454306.html",
+      "source_sha256": "60b7d4c5707831c2697310c30e51478b319f9d2f1d27590d26e9fa7f2ee36159",
+      "published_sha256": "40b818b26752d955d16134d90550538230147b0ce01a73b199aaeab1ff2b8da5"
+    },
+    {
+      "path": "external-materials/interactive/d59b5073976d352c.html",
+      "source_sha256": "b57402acfd5df3d70d6827e40e2422ce37bbd7290ea8c8e5d6d8220b9d12ffb2",
+      "published_sha256": "0b74d6a1c4a75ca804ff29add5dc4f34ccd4cf49ca8ed6f6b224f12880db1261"
+    },
+    {
+      "path": "external-materials/interactive/d5fd1749983de04a.html",
+      "source_sha256": "009fe1e1e2592c209d6c078315f2724f4253298e167a3a4f4c02a215098a0704",
+      "published_sha256": "ef140839821c022a57a744f1472e11933a4e4cf636980034e0906fae475e492f"
+    },
+    {
+      "path": "external-materials/interactive/d696ac45aebce230.html",
+      "source_sha256": "1484177e78475f5868ca07694181cea2e5a7a966e5d5237948a7a5788115638f",
+      "published_sha256": "d341d8b1e5684a35176b32ee6a86cab3ec053ea2e34ec4d90e8a5e416e00d7da"
+    },
+    {
+      "path": "external-materials/interactive/d6e104361e295151.html",
+      "source_sha256": "361a544b167d1afe43595d806200908a1da0a03d26b95ec66850b5045e1aca1f",
+      "published_sha256": "ab39367fd8c8fb88e7840ab69f8b1f0afefddcc78f8d3596703004feb18df962"
+    },
+    {
+      "path": "external-materials/interactive/da3fe25cb887e9c2.html",
+      "source_sha256": "4144cd4c8aa55ff9dd9a1894f099d23507ba24fea100d651649e36ea040fbfaf",
+      "published_sha256": "e7ee1ce1780e90aeb06adc8c99e60c889c2c9566e714cee3ae524cb214fd12e0"
+    },
+    {
+      "path": "external-materials/interactive/db856cd3931bc9b1.html",
+      "source_sha256": "1b364eb90b6314bf8890628e22c5ddc3074b9222668cbe95e471c338849e9cf7",
+      "published_sha256": "c47d06747e46e143915757e767c9bf39736fcccd49873d9c6f1012cc393df88a"
+    },
+    {
+      "path": "external-materials/interactive/dbea3de53f6bf55f.html",
+      "source_sha256": "0d984bf9b45ee3a18fa308671e4418dc83dd463471edd9a01f800738521d8b65",
+      "published_sha256": "a1c9e5e70279f16c7da00827117edd597f407f582a1a352c0bcfc29ee76fb874"
+    },
+    {
+      "path": "external-materials/interactive/dbf94a2e6ca10adc.html",
+      "source_sha256": "0a91ebac9c21e427a9a5b111e0a39eb4535072e295d0e60066f7fb08f4b21375",
+      "published_sha256": "a6baa420d2d1ae8089e34a57536030cc8ad4a79e9c9b5b824e3fda452d93ab4a"
+    },
+    {
+      "path": "external-materials/interactive/dc23696e7a13c6de.html",
+      "source_sha256": "d972f3f79ce1fbd66f603e22118cad55d97e0722ab6d7dcd991515b7be21384e",
+      "published_sha256": "59e4f4a214bea885dd935c8544e8eda0abf1791b9377552bafa9850c8e40decf"
+    },
+    {
+      "path": "external-materials/interactive/dd206eade585d2e8.html",
+      "source_sha256": "08f501aa011ba7f18748eaa0cdb314558889607fee18280ff37181942f2b824c",
+      "published_sha256": "a120dc6dab07ac5b06caf85eb1fa34a1c33df8d28016c5437a6b047789cc13bb"
+    },
+    {
+      "path": "external-materials/interactive/de0c454ac5ca5ad8.html",
+      "source_sha256": "07ed1058cb932ad7ec9190da4838a28643c62ecdd6f703416091c083d31519a5",
+      "published_sha256": "eebab6ff9abd3a29f0678973479b8869c31ff1ea0da7ac1a6efc038d9a7403fc"
+    },
+    {
+      "path": "external-materials/interactive/dfce7af7b568ac51.html",
+      "source_sha256": "df4645655469c3e32079b89133e7036814d050c94a93523939eb74452b15abab",
+      "published_sha256": "d0f324bd5813b11cb17252e7c38e29b05b62a741c02ab028681aa8c3fcda1a3d"
+    },
+    {
+      "path": "external-materials/interactive/e009f4bc1587c4ad.html",
+      "source_sha256": "9c52e68624aa13c3dd0475a8afec0e78324e36bedb4488ad2f8ba3a8343f45fe",
+      "published_sha256": "6438ef096fe24ff1c9dc784d7a594e137019ee261dbea04b79a20f54c73527db"
+    },
+    {
+      "path": "external-materials/interactive/e06e86dd94f9ecfb.html",
+      "source_sha256": "f2c2193af3f2ea4054a7fcc52f9c922210862f0d64c4de549bca97f9746c2332",
+      "published_sha256": "5a94dc84e937fa4ab1a46147f4643cb0ef2c426c1aa045e60537b0d2c51f9fdf"
+    },
+    {
+      "path": "external-materials/interactive/e1a905ac74928220.html",
+      "source_sha256": "e3c675a7ba3e8e61479bf16f385c1af7848c03c1d8dc9ac8465e854b325576f5",
+      "published_sha256": "b1c50e9abbd12942efb51ec6956f651bb23d803583978a165691413d1bac18f2"
+    },
+    {
+      "path": "external-materials/interactive/e52e1b444a82a896.html",
+      "source_sha256": "03debd4da3a5402bdb4adf8f909c3d895be8bb1560efbd3d7c1a41d000c49cea",
+      "published_sha256": "684117673ea50aa8f7e9833a00c8c52bcf3d139bd7798f04241db0603933bfd9"
+    },
+    {
+      "path": "external-materials/interactive/e768f80208b3ce93.html",
+      "source_sha256": "ae27bf7ec07fe5c60ace4cebab440cc0b293cf470523f780175afca9373fe0aa",
+      "published_sha256": "88cd1ed7437614a92fea2e85ca83f6fc2ec28057fe79db72515498ef3eba2926"
+    },
+    {
+      "path": "external-materials/interactive/e7e6692b647bde17.html",
+      "source_sha256": "f1ae34c810dc00f91e459722a2bc5ef94aaf4035d56748bc2c4327c32b2e0197",
+      "published_sha256": "b0c3c43b2fbe5a1d53df8d11b5d94a50278c21cf99f4de5617f73278b3315d53"
+    },
+    {
+      "path": "external-materials/interactive/e8e914a13a2a7d2d.html",
+      "source_sha256": "24d3636ad7f1a6347651a58606a660013215a61c5047f29deb9941649f09b641",
+      "published_sha256": "1ae4a77f428ab9ac2d7cc7951ba48297ad0d18c55910e20d2108ab820cfee4ea"
+    },
+    {
+      "path": "external-materials/interactive/eae56cfb32261551.html",
+      "source_sha256": "0bbe0f31a0ead848cd0ca7fa2e4bab37b2cad305f013e0c6ca4eb70b3f7e3a0d",
+      "published_sha256": "485f5897e44d5f04cdc534d35d1ea51f6e60bd96dcb87c2fe4dec82e23bede4b"
+    },
+    {
+      "path": "external-materials/interactive/eae7d4382cb9ac6b.html",
+      "source_sha256": "14f04480212bacf30221364c18d2aff79a98314e49a3a4a6e85b2855d720e557",
+      "published_sha256": "039b66e8413838f6e68da35d0148db61e085ff37538aacf1c9be2818cae345c7"
+    },
+    {
+      "path": "external-materials/interactive/ec3417e5da6b559c.html",
+      "source_sha256": "de514892b5269b9e3da7943616d4a7be9be333282872d0aca71e89b5cda5a06e",
+      "published_sha256": "8e0ec80fb593b81f876031481310b64e20ca0fe714cfb074d6ac34d396ff7eab"
+    },
+    {
+      "path": "external-materials/interactive/ec83d963f535b3f5.html",
+      "source_sha256": "67bcdc3bdf9a3b938c7ac356ac9ecf076e76d6845fed095d24fa6aa128b3496a",
+      "published_sha256": "c1a4be4764f82beb2d54ba98a2e123f900e370a636a56bf2cf250a317e5ff1e6"
+    },
+    {
+      "path": "external-materials/interactive/edf2a9b1a8263de6.html",
+      "source_sha256": "70949782a7a74a6fb3772ac6deb7aee23361093859d4fe2de163c42d0aff3ee0",
+      "published_sha256": "2eca9416ff9dcf70d0985c7ddbcbbf5a94e5f88ccbd6affe043b2f08856a96e6"
+    },
+    {
+      "path": "external-materials/interactive/ee038f680ffaa90d.html",
+      "source_sha256": "90771350d4e6f21eaa148714e2ea403d0394312a5072da687b4bf1166191620e",
+      "published_sha256": "5b8ecb4f4c6cfafba40198a04eea70aeb0c8b3a20ca813b99d8da38a3aeaeb22"
+    },
+    {
+      "path": "external-materials/interactive/ee08c06b706ba211.html",
+      "source_sha256": "480f0f4bfdd3b691332c93511c417474d439f13d0512484546039181e1e25cfe",
+      "published_sha256": "20a35ad37600ccc5ca9ec0b671768fb49c00387c8697b5e699df2d4c77f3814a"
+    },
+    {
+      "path": "external-materials/interactive/ee164a873b51d7ec.html",
+      "source_sha256": "95afe740971c02d82848f9585376ed61a1cdab8fcfdf5eb259de4acee2e6bac2",
+      "published_sha256": "d989769d3ba9a0626fd2fb68df55e96029f917bdc2693d60783294a2dedc7581"
+    },
+    {
+      "path": "external-materials/interactive/eff2e90b7cb0b197.html",
+      "source_sha256": "7404db8afd400dd34b78a89dd3ba6d68bc8372f2e9086416b5b22968577c9f81",
+      "published_sha256": "f67a57e8e79a8b00d009119770145cc8f875ce50eeaf12952e1ed1eb0a88ff76"
+    },
+    {
+      "path": "external-materials/interactive/f08c6d280fd464d4.html",
+      "source_sha256": "3926a4c72a650a2734dbacd7824d8692b57ee47c9a1867344f238cf036004799",
+      "published_sha256": "4240286bb4aef3bcdf0ae7fd87bc0cc4cec6f5e4cdd8a395eb24543b546ee9ed"
+    },
+    {
+      "path": "external-materials/interactive/f10be24d72b065df.html",
+      "source_sha256": "bec12e4949a162d496d023b4b5b54515543fafa547cc22e2714c9f80a1a2826e",
+      "published_sha256": "cd25b9f0022ba6484d616c04403037782cd2ee6bb8bdb564e7dd3c8e9df4228b"
+    },
+    {
+      "path": "external-materials/interactive/f223e5e47c396bab.html",
+      "source_sha256": "45f937c8d23ad5c7cd7a42d2e266e3ad8301234eb18267d6d68e6a9375b98cca",
+      "published_sha256": "689819a07b38e2cd38b1c69b91cd2d8bd88b50eb3bbdb90c0f3b2ad80ff66b9f"
+    },
+    {
+      "path": "external-materials/interactive/f33c6bd0e2a2684b.html",
+      "source_sha256": "b134d8cdfe3c1e7b456b670f46c5aa3b0f3d2f58df4aa606b123c7703b6b37ea",
+      "published_sha256": "50cba063a131b469d56e44f2582c5050ed4dda8cf4ec6eaa39f322df9033718c"
+    },
+    {
+      "path": "external-materials/interactive/f74a7fa2162becd6.html",
+      "source_sha256": "b3e4e957b2583a9f8ba06c06ce4fffcaac64a08c5dbf3ef01c04aa0193529775",
+      "published_sha256": "eece2b800227ddfaf20b215d2eced4ae2dc072bf727e62bbaf951fdaa73464b2"
+    },
+    {
+      "path": "external-materials/interactive/fa63ad3f9669679d.html",
+      "source_sha256": "1fcc07908a9b04c66c4c7b77f2dc935a8ce490f14e68ea525e7af5492f40e9e1",
+      "published_sha256": "1c3d3e382882dac986b73ca67a8b43ea757784f939a8d033c4768bb6e96cbaa3"
+    },
+    {
+      "path": "external-materials/interactive/fa6a1233f56990ef.html",
+      "source_sha256": "61ff9a385fdf679f9d976e5ae642657c4f4aa725467bd193a85a16d3414cc803",
+      "published_sha256": "0884dffa2dea734fa4c72722595832d7a6c2ea0e136497d43dfcd7be0ce225e6"
+    },
+    {
+      "path": "external-materials/interactive/fc6bbde072f7cf71.html",
+      "source_sha256": "9408bb4e651065bf03df18cd851513ac80f740c98ead63e241fab6e0a3789fc8",
+      "published_sha256": "cb99f2e8084f60ec5d527f8b905b771cc307479a2aeb099c4ae690cc0c865f23"
+    },
+    {
+      "path": "external-materials/interactive/ff149fbd9edf4fd0.html",
+      "source_sha256": "5deccbdc03f434b725d8fe3151607fc4112e284a1259b133ca647e495e3bcb26",
+      "published_sha256": "66b7189bd90cb1a5abd38302367ec96e29657a552387b8bc3e15d83b21a7ed20"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "51dddda142215e476fb622c9ad846cbc24abc0dee078f8e79914b7b4d8198243",
+      "published_sha256": "0f821a9f2ad6d63ea5b98f720d3f20917570222fce92ee8d7f1d0ed2d2507849"
+    },
+    {
+      "path": "lessons/01-01-01_pochemu-ni-odna-stroitelnaya-kompaniya-ne-obhoditsya-be.html",
+      "source_sha256": "987703093f44e1e02247069bbfe0583e87c04918211158b9d5c7c1a6842f9051",
+      "published_sha256": "2e970f00862ecd59ad59a17c3cb79cd66fd926ee3ce80d126f167db384a64ac3"
+    },
+    {
+      "path": "lessons/01-01-02_chem-zanimayutsya-spetsialisty-pto.html",
+      "source_sha256": "6c8d12c5331a86610ff83385717597bf7fe8e444eedcaf1257b2d5181980e0cf",
+      "published_sha256": "e605b9a95cfc67b23a581e0e4e40e6bfc914c4f8dc8101b055fa989251aa6163"
+    },
+    {
+      "path": "lessons/01-01-03_trebovaniya-k-kvalifikatsii-obrazovanie-i-opyt-vostrebo.html",
+      "source_sha256": "37e19ff689b0f50599914e31cf5d959ff3f6f91a45b93c45daf7a21420339054",
+      "published_sha256": "063ae607a56485ffdce2626dc37062c3722fe8dc66b9dbb022cc4267aa853214"
+    },
+    {
+      "path": "lessons/01-01-04_obyazannosti-inzhenera-pto-sovety-professionala.html",
+      "source_sha256": "8690d58f313b2c230fb5947c96cfa51712bc818e1bfc4b868f64510ee130cd94",
+      "published_sha256": "06fe39d363289b31dd04ad75d721420e46e02cf40b856744a5a171e46bc08b02"
+    },
+    {
+      "path": "lessons/01-01-05_chto-dolzhen-znat-i-umet-spetsialist-pto.html",
+      "source_sha256": "3605608584cfa9572e85e363c31f99caceefc0b54d8df2debca9aec3cbdbca71",
+      "published_sha256": "b011ab84a60a85fe2048d3757ed78e34f96ec558690ca3e325758a204dc3f6bf"
+    },
+    {
+      "path": "lessons/01-01-06_kak-vzaimodeystvuyut-uchastniki-stroitelstva.html",
+      "source_sha256": "2e60432e52dc2dbdaac8cd062cdff2e890c40fcafea053286fd502fab8328da7",
+      "published_sha256": "01bcc55dde2c5810388f86a43b174a95e1b3bf7cea95c1e571875ce90a29c36a"
+    },
+    {
+      "path": "lessons/02-01-01_razbiraemsya-v-proektnoy-i-rabochey-dokumentatsii.html",
+      "source_sha256": "e9d7f1760fd94bc1292122c1be707f55cd272ca6550383d82120122aa5cbed12",
+      "published_sha256": "c6eec1ed246fbd54b266a9d4e3ba8db1f91ac9ac99afebc7f8dd359add3fc0d6"
+    },
+    {
+      "path": "lessons/02-01-02_opredelyaem-vidy-i-konstruktivnye-osobennosti-zdaniy-i.html",
+      "source_sha256": "6d2bfc1d828bc5e5a98430f043651f11723c8ceed48739782237769b66e7cbb1",
+      "published_sha256": "33995ee5509726428a1d6e1b5cf922beea1b7ff5499f639d52c9e4fd0678c259"
+    },
+    {
+      "path": "lessons/02-01-03_uchimsya-chitat-chertezhi.html",
+      "source_sha256": "f1056d7fe86c8bb9e0088611dc29c587d49c166e3d2b7a6f54d1dca4b4948644",
+      "published_sha256": "7d3d3aea2e74e99ca9ab5bd2dd53b92fd85badc7ba0ad5fd1931955d4a0be03c"
+    },
+    {
+      "path": "lessons/02-01-04_analiziruem-chertezhi-i-shemy-osnovnyh-konstruktivnyh-e.html",
+      "source_sha256": "ea3c5c33d34a46e20fe21320afa3019a6bb57e71f31260a41bf55218a4526f65",
+      "published_sha256": "6a24e8987b0699c30fe0f9b83b49cc8b4a479b5ac6b4daaae60a50e4f493ee05"
+    },
+    {
+      "path": "lessons/02-01-05_analiziruem-chertezhi-sistem-vodosnabzheniya-i-vodootve.html",
+      "source_sha256": "5c18df17a180b9c2db61fe1ab62bc1167495cb9ee5ccb430fffaff1245e97a07",
+      "published_sha256": "9db6042b2172766660922e6faaf26faf55b931c285a0ba47ee048b90f0d5e938"
+    },
+    {
+      "path": "lessons/02-01-06_analiziruem-chertezhi-sistem-otopleniya-ventilyatsii-ko.html",
+      "source_sha256": "53f933e0424ba36a004dec6adf679cb43ed9379d1b87765ee496cf2384f3cd2b",
+      "published_sha256": "c767e96f81f5521af4d9bafccd2e7b4f5c3294ba676b6ce9ffc090e7577f90f7"
+    },
+    {
+      "path": "lessons/02-01-07_vnosim-izmeneniya-v-pd-i-rd.html",
+      "source_sha256": "534eabc7f21064520515e3572fdbb7445c187612f3ee93451bf7f2ab37d1fcef",
+      "published_sha256": "f2f05f69136e0a43530277e72fae1872fd25feee1c4a362bd0cf125e91596337"
+    },
+    {
+      "path": "lessons/03-01-01_uchimsya-sostavlyat-ppr-po-pravilam.html",
+      "source_sha256": "f3adbe366259d3235b73a2b0f193040a8cd106cdb8ca804e620aa894329bcf53",
+      "published_sha256": "e94979cb6c46dbf6840529e8a91acb6e4c8f21a4ae53931bfc11287f2ae1d1a4"
+    },
+    {
+      "path": "lessons/03-01-02_razrabatyvaem-idealnyy-stroygenplan.html",
+      "source_sha256": "44b04bcaaa72ff3273a08259f3b1a68df932e897108dba1f22de6cf62917b493",
+      "published_sha256": "02eadc45d9ade1ed0986842510381d0df4589c7164277e67244aac5b0e302522"
+    },
+    {
+      "path": "lessons/03-01-03_oformlyaem-grafiki-po-rekomendatsiyam-eksperta.html",
+      "source_sha256": "3731a00fbe7b7c6a16a888b99aba9eb798109e63243c9a30fad089473216aa5b",
+      "published_sha256": "38879fac4885d194b8ae996e9bc6555d82d2e150d5336acd58f9e1f9df059620"
+    },
+    {
+      "path": "lessons/03-01-04_sostavlyaem-poyasnitelnuyu-zapisku-k-ppr-bez-oshibok.html",
+      "source_sha256": "973abd1f88265a5653ae513b91cd7f59fe7e518121fc87ce90dcd3d375e6e130",
+      "published_sha256": "f0c62a917a390224ac88b51f503982205a7cb2aaec757b9f18bbd99744bdc7ea"
+    },
+    {
+      "path": "lessons/03-01-05_podbiraem-kachestvennyy-stroitelnyy-kran.html",
+      "source_sha256": "57d18c5e02e4c47a977f919c9ca059b458dc1285cddc0aa3462ebde092fced33",
+      "published_sha256": "4aec0194e8c9da6920c2601f5f485457091d8a1a7ac747b8e2c2b46651bfae35"
+    },
+    {
+      "path": "lessons/03-01-06_master-klass-po-vyboru-nadezhnogo-ekskavatora.html",
+      "source_sha256": "4e4265b9485f2b23208e86804e9810bd1488b610045ff6cedb72460a258e0c2d",
+      "published_sha256": "b5877acb91dc6c081e0af8ef3c5305aa9e8f80b32544a35037c68adc46999337"
+    },
+    {
+      "path": "lessons/03-02-01_vidy-osnovnyh-organizatsionno-tehnologicheskih-dokument.html",
+      "source_sha256": "39cf6b56c789bbd12a9cd60763a8b3701341e6c4c0f1138c29ed3558b01a0731",
+      "published_sha256": "a33bb1d28ea77cbdf3f9b60723a02669143cdd0728b3ebefbdfa0b4f8543d66e"
+    },
+    {
+      "path": "lessons/03-02-02_uchimsya-uverenno-zapolnyat-tehnologicheskie-karty-tk.html",
+      "source_sha256": "e3ac89fc7f6e3b8f5231643e00789c3d7b774591cdebb0ba60091bf5d910737c",
+      "published_sha256": "e9289ddd20ae3f1043854a524225b9efcead479e35698905521e214c16a70cfc"
+    },
+    {
+      "path": "lessons/03-02-03_oformlyaem-proekt-proizvodstva-rabot-podemnymi-sooruzhe.html",
+      "source_sha256": "437bae20ebf898657f3512ab1259c6a1021fae9fa466191a1217b6855a21eb7e",
+      "published_sha256": "54a5e1e8fd9803a1bc594eeaa3504897b4a44ee1918c439d8d9c4839255834ee"
+    },
+    {
+      "path": "lessons/03-02-04_zapolnyaem-plan-proizvodstva-rabot-na-vysote-pprv.html",
+      "source_sha256": "7e0477b9e67cc7e3b57457de8c47eff3762e6a218baf8d1344bab71634b665f1",
+      "published_sha256": "383955cde4f9f8333b040e3539de137a18a3b7f471920d2b85a32111c92b4ba0"
+    },
+    {
+      "path": "lessons/04-01-01_chto-takoe-pervichnaya-uchetnaya-dokumentatsiya-osnovny.html",
+      "source_sha256": "d7df4937f47a849e50c9c3ec7675d626db5190d29dadac59d7362e333b2e7621",
+      "published_sha256": "f577e5ddef1764a245a8005c8166e9ac54b9835cad421afced86eb384082aff2"
+    },
+    {
+      "path": "lessons/04-01-02_kak-podtverdit-obemy-i-kachestvo-vypolnennyh-rabot-zapo.html",
+      "source_sha256": "e051cb0e357b4cfb34db729abc960dd88857d786a312358f1ae96a62846f3259",
+      "published_sha256": "d04dbf89f0d28fb6cc175e028b7fcd28abec50d6a4e646b7346d45fd18c98935"
+    },
+    {
+      "path": "lessons/04-01-03_kak-vesti-zhurnal-ucheta-stroitelno-montazhnyh-rabot-fo.html",
+      "source_sha256": "ca9b9f6cc4bd6d066d45380887e414ca04efb963e1a53a31e2c630360ebe44c4",
+      "published_sha256": "8ebf5942333b54602c291a156ec1f16fcaa78e9d944b898b376ec0c7e39ffe8c"
+    },
+    {
+      "path": "lessons/04-01-04_kak-rabotat-s-aktami-priemki-zakonchennogo-stroitelstvo.html",
+      "source_sha256": "ddac81e15c5b962ffe2db4dbe41f880f1a56658f4da099aa64a881a7e3790d4b",
+      "published_sha256": "2be502d1dbcf0567afaac2236e9806f4d8a0941e9018c9bf799b97ed33e1e53e"
+    },
+    {
+      "path": "lessons/04-01-05_ezhenedelnyy-ritm-kontrolya-kak-pervichnaya-dokumentats.html",
+      "source_sha256": "7bfa342b275e4af1c0e0cb2a7126541a354ea54d3dcfddfb0c40df6ee40ce980",
+      "published_sha256": "6a79b44171d81f75f9187c3f5778a3b63ed49ca40c5e29af70f74f4d7809c300"
+    },
+    {
+      "path": "lessons/04-02-01_kak-oformit-akt-o-sdache-v-ekspluatatsiyu-vremennogo-ne.html",
+      "source_sha256": "2bafa59e0b3f0fecc407e599b9002261d47ccdbbd1dd7758757f4f3b95b2445b",
+      "published_sha256": "b000ecdd358d36ed2b07b0c34f78a5a658ba50fff9a2db5f0ccffc84ec519189"
+    },
+    {
+      "path": "lessons/04-02-02_uchimsya-zapolnyat-akt-o-razborke-vremennyh-netitulnyh.html",
+      "source_sha256": "34d66637fe359ba07ff47fc0f1489b16445e1e1edb13f54a0e3cf624a2761b59",
+      "published_sha256": "1bccfe8c265a02de91339eb4a1dea5c5f3d78dec546b4b5f12f69b36e932fb07"
+    },
+    {
+      "path": "lessons/04-02-03_akt-ob-otsenke-podlezhaschih-snosu-zdaniy-sooruzheniy-i.html",
+      "source_sha256": "f72a9563afa2fbe7c3967ebc46ced8e6ee997f8e7fddb5c2ef11dfe006f37884",
+      "published_sha256": "f7dbd2e0dd74e4bd0b1085a8c69eef8e40a2457b551858ce3292887e9a38ad54"
+    },
+    {
+      "path": "lessons/04-02-04_kak-zapolnit-akty-po-formam-os-14-os-15-os-16.html",
+      "source_sha256": "a0dfdae63311e711ff16179304adc2625fb472b4df052f5888b0879d74ee643d",
+      "published_sha256": "5a541a26975791178a5e2607254d630f2cb4c7a1cd808ab1ae588bb8fa69ddff"
+    },
+    {
+      "path": "lessons/04-02-05_kak-sostavit-dokumenty-po-formam-m8-i-m35.html",
+      "source_sha256": "50b41c04547b38927893efeb90a79e1822ad4a43e32815c3224ff793d009aa1e",
+      "published_sha256": "c922d8d37fc48b9c42c317f3158dfb133975989eafe0eccce8d74683a25f2457"
+    },
+    {
+      "path": "lessons/05-01-01_kakie-funktsii-vypolnyaet-ispolnitelnaya-dokumentatsiya.html",
+      "source_sha256": "66ded865dab1fc1dfdd1289039f23e911a3a6c0dad1be5379b7c6b1108960e1f",
+      "published_sha256": "cda53ed1f8c3d4819d8862051daf05876650328417f09bb4e610ac71916f89d6"
+    },
+    {
+      "path": "lessons/05-01-02_zapominaem-sostav-id-s-pomoschyu-pamyatki.html",
+      "source_sha256": "f650fbb2b67bf26d5c7e51abf3794f4340e102f037cb67528a30637fbf5ae40b",
+      "published_sha256": "e78501b26237515270fce7a4c09efbeb742651b6cd03af0b4bce27bab31e64ca"
+    },
+    {
+      "path": "lessons/05-01-03_kak-effektivno-formirovat-i-vesti-id.html",
+      "source_sha256": "261f7c8989d66a7dae76e9c6f967f0246bbd5c1914f23a8e1b0e5bdd19a9ff58",
+      "published_sha256": "49ffe7b3399c95f8a85263b0e66aadad387f13594b55b0efe6d97d9a1a2b0152"
+    },
+    {
+      "path": "lessons/05-01-04_kak-izbezhat-slozhnostey-pri-sdache-id-zakazchiku-posha.html",
+      "source_sha256": "3e5b4ac3dc267526a9bcec1c6381ba8613417dd685793a9f2e69b9bff3c72673",
+      "published_sha256": "bfa7fe03bee84bfcf8e821abbcc75b4e4219d984e60b7159a696cd27481a49fa"
+    },
+    {
+      "path": "lessons/05-02-01_kak-sostavlyat-akt-osvidetelstvovaniya-skrytyh-rabot-ao.html",
+      "source_sha256": "1baa715a721a2c0309094ecda6381ef4bb1a6e60d6ded29ca92975837725d23f",
+      "published_sha256": "9af7cd51fad6b3072be6f2493c8322ac69d57e97c33b4e5ea17e8029bec8751f"
+    },
+    {
+      "path": "lessons/05-02-02_prostoy-sposob-sostavit-akt-osvidetelstvovaniya-otvetst.html",
+      "source_sha256": "3a2e74053a7f3e5bfb0d819c5a258f79d02fd6160c0c045177f1b409973ab5f2",
+      "published_sha256": "f6f09d1287e2068c21975c124945de3e31c0eeda29fd43ec4c7a85dd9589afb9"
+    },
+    {
+      "path": "lessons/05-02-03_sostavlyaem-akt-osvidetelstvovaniya-uchastkov-setey-inz.html",
+      "source_sha256": "c69f455775f240a50b56ff63ad60975e8cc4e268101b7697e5ff2cfa16965b24",
+      "published_sha256": "d11fe4387ddb0b39305593b6a7b313e314da58cb5505e9fc64d5f2dc66dcc638"
+    },
+    {
+      "path": "lessons/05-02-04_akty-osvidetelstvovaniya-geodezicheskoy-razbivochnoy-os.html",
+      "source_sha256": "76bc008af78b83c7a8b73691f4ef7053b6799aa7ddb35728e14def11617f6bd4",
+      "published_sha256": "a08f6a05ce373ad22b5b429df2c789173be2c5ea5e353001c3564519db4989c2"
+    },
+    {
+      "path": "lessons/05-02-05_v-chem-zalog-uspeha-ispolnitelnoy-shemy.html",
+      "source_sha256": "90e7becdab2a3d621bc1b452e769ce32231a234f02f4c7fe30a0725d21521a62",
+      "published_sha256": "b437aff961ce330dd685fd8a11634ed30676a76fe7041ac7c0ddb055a907e3d3"
+    },
+    {
+      "path": "lessons/05-02-06_algoritm-zapolneniya-obschego-zhurnala-rabot-s-pervogo.html",
+      "source_sha256": "7d8ed6c12232e56d25186a6e8b76fef3e912f45471ae3f779abf9d92811c0425",
+      "published_sha256": "9c30a06f79dfd79a044f111efd53baf1e7dafd6b0dde57bf2be47ef1654cdc12"
+    },
+    {
+      "path": "lessons/05-02-07_sekrety-kachestvennogo-zhurnala-i-aktov-vhodnogo-kontro.html",
+      "source_sha256": "6948e32ce5522ecb288e31963efe396b1488527d6b2297caddd6ff73f74333d0",
+      "published_sha256": "8d077d5abd85f5ec7b96211347f230afd9689a0ced083e8880bfe95fc0f31b74"
+    },
+    {
+      "path": "lessons/06-01-01_kak-stroykontrol-vliyaet-na-kachestvo-i-bezopasnost-obe.html",
+      "source_sha256": "9a396de3d42f532044bd27f8104e3fb7770a8c06bba2dada0c101232e2a3563c",
+      "published_sha256": "adfc7edb7e22c316b588d0c2f14c93fe6f03d95397ea14004aa0d33b550cdcc9"
+    },
+    {
+      "path": "lessons/06-01-02_kak-proishodit-stroitelnyy-kontrol-podryadchika.html",
+      "source_sha256": "87ef7768166385154294a2ef585055083e19df76b67a6092563ab984d2c99aca",
+      "published_sha256": "1b7de1c734d4fd9abc2839ccf05aa711071accc84665c9e534142dec552dde38"
+    },
+    {
+      "path": "lessons/06-01-03_akty-predpisaniya-uchimsya-snimat-tak-chtoby-ne-ostaval.html",
+      "source_sha256": "001bd13349105f05c0a96c50ab0076d1e7d8032279fb22b276e84563155c1da0",
+      "published_sha256": "6a8d014241b64597dff72f2511d94dad95900e827a76fe85cf352d6001506ce2"
+    },
+    {
+      "path": "lessons/06-01-04_kak-vzaimodeystvovat-so-stroitelnym-kontrolem-pri-nacha.html",
+      "source_sha256": "797eaad1444571617e23810797b60c4962f4fcfe7652521394e13030cfe011c0",
+      "published_sha256": "b4a215b39be60868727a2b969954dca9edf298910d0833fa4df543c327e6731c"
+    },
+    {
+      "path": "lessons/06-01-05_kak-vzaimodeystvovat-so-stroitelnym-kontrolem-v-protses.html",
+      "source_sha256": "51b68a8a05ae3e6089c7a7a84d6779134cff18b689ef786e4e0eb5de85daf01a",
+      "published_sha256": "c1d0326676287863e9525a7ebfbe872c8655619302987f76e0aaca4d1b94e370"
+    },
+    {
+      "path": "lessons/06-02-01_kak-na-vas-otrazyatsya-novye-obyazannosti-sk-podryadchi.html",
+      "source_sha256": "1b35409554ab30443dd8dff48a03d08bf9b24d8ad0e3351471af54e9d85a1eb5",
+      "published_sha256": "4a956a35f2a3127e1539731c2d6a1484e940b32fd848b85f1a965d2aff6ccc47"
+    },
+    {
+      "path": "lessons/06-02-02_kak-teper-organizovan-stroykontrol.html",
+      "source_sha256": "82e519978b0ba2183859506c749b2ad90715dfebc1784b7412f5412d09ba523f",
+      "published_sha256": "5fa437774e08f6b45e0fc9655e1b9731afaa6a65b223d13f3168e068e709bfc6"
+    },
+    {
+      "path": "lessons/06-02-03_kak-rabotat-s-izmeneniyami-po-raznym-vidam-stroykontrol.html",
+      "source_sha256": "ac4e346c73ca08ad475c0bf1484ef75bbae6a6f3a8130c2e7983ec983a0d3a6d",
+      "published_sha256": "a816225ae7d8fddf83a9296c4cae500e7f2f970a165402d2a4ca9751bf98f548"
+    },
+    {
+      "path": "lessons/06-02-04_kak-primenyat-dubliruyuschie-pravila-novogo-sp.html",
+      "source_sha256": "b22bd58f8b0eb91ac59a79c08b52c596a3674aa3333cce733c6c269c5fea44c3",
+      "published_sha256": "3058ae37dece85749d52d18e1685637d0945f9aac702c8f0ce073c4681922f92"
+    },
+    {
+      "path": "lessons/06-03-01_vhodnoy-kontrol.html",
+      "source_sha256": "172834ddfe13835dc7da305535307014a8986becb4edabbc63bf55b244766b05",
+      "published_sha256": "0e66a401179ccae2e22ab8e25af86960e1736b4b6457633172f0300021636ffc"
+    },
+    {
+      "path": "lessons/06-03-02_operatsionnyy-kontrol.html",
+      "source_sha256": "71b9eacb81496e722230a934123b262cc541448174a6dc11f994413f15d41d77",
+      "published_sha256": "9f819c1e8413b9e311ab5b200004224b7cbde37bc75a323bc320e14566794692"
+    },
+    {
+      "path": "lessons/06-03-03_priemochnyy-kontrol.html",
+      "source_sha256": "645490bd45ecc640cad5037aa18f67f1a6b749dcda4b712db4f4cb023f0c23c7",
+      "published_sha256": "d71c21800f842ab022543034845de05558b6b0c9d1798cd7f525908f4da79559"
+    },
+    {
+      "path": "lessons/06-03-04_fotofiksatsiya-rabot.html",
+      "source_sha256": "64d46e0f12d1d2dd20c6769d655478a6f569dc41c4232501ec1107481c86c30e",
+      "published_sha256": "9d5b6d8442b5a008392f3433e565db9b51efb195591f586b14bddf524af69d85"
+    },
+    {
+      "path": "lessons/06-03-05_akty-predpisaniya.html",
+      "source_sha256": "1c5f3bb6001a619ed9a0f3a814405ab87c223eaab1c99c2b45e938435dd101b1",
+      "published_sha256": "a2158538343edc1f52df22103ab9b4b7247aecfe4c531ad0512537312264bed1"
+    },
+    {
+      "path": "lessons/06-03-06_nerazrushayuschiy-kontrol.html",
+      "source_sha256": "ac0c461969aa0b28569b6998ab14c535a5d9e028371ab67a450cf08fe55e797f",
+      "published_sha256": "6e650ff7ea9b2ef2c959ed5f6b560b860fcc25b79f445e18bb57a2dd179f4a8d"
+    },
+    {
+      "path": "lessons/06-03-07_vizualno-izmeritelnyy-kontrol.html",
+      "source_sha256": "c5fb77c0d6eeda4a07cad7c544c99e9fb778afd7b2e32da823a31c468f5db1d9",
+      "published_sha256": "c6fb949f344f0c1298a8f26446abab86d8a44627dbda0346cc04ac1f295eb5d8"
+    },
+    {
+      "path": "lessons/06-03-08_geodezicheskiy-kontrol.html",
+      "source_sha256": "cd409c1e717cbdafd91b86f23ae9cbab9f508d7570b1d6abb7efa84d2961d953",
+      "published_sha256": "6712488d016fe9d5700e12ccc8ceefda42886db61f7dd43d00b374f46450ad8d"
+    },
+    {
+      "path": "lessons/07-01-01_zachem-nuzhna-smetnaya-dokumentatsiya-i-iz-chego-ona-so.html",
+      "source_sha256": "ddffc64e5acdc861a253a5d3e2cb31277616657ce83d18da10aa4dcb37ad527a",
+      "published_sha256": "4e125573da73d82b1bccf705a31c83f95dba012c3a5a092f163a86758c98eddc"
+    },
+    {
+      "path": "lessons/07-01-02_uchimsya-opredelyat-smetnuyu-stoimost-stroitelstva.html",
+      "source_sha256": "070db72be32c027e898d4191285e7daad24478aa348a31367aa35d08fe61e72c",
+      "published_sha256": "ec1dbe5cc7c0ea44870b8f0fef6219251d4db76385747277b23410a022ff0fa3"
+    },
+    {
+      "path": "lessons/07-01-03_pryamye-zatraty-v-sostave-smetnoy-stoimosti.html",
+      "source_sha256": "d39bcf385f0941ad86a6e79fc9f33067609e7383c5f517ddf5a47cbfae666eaf",
+      "published_sha256": "c12f90ae5e8225bc0db2eea91f8160ef5fc154288fc4d2e1c6454c104efb62cf"
+    },
+    {
+      "path": "lessons/07-01-04_sostavlenie-smetnoy-dokumentatsii-resursno-indeksnym-me.html",
+      "source_sha256": "c035d8cdbb820487f6bec785fcbc22fe7d4f8511636caf19745aa6b32decf41d",
+      "published_sha256": "6224f3c4bf2b12c2faa0474498126731934495d0fdba614d0d89106646067cc4"
+    },
+    {
+      "path": "lessons/07-01-05_stoimost-oborudovaniya-sostav-prochih-zatrat-v-svodnom.html",
+      "source_sha256": "79e7b3db47a8a599e108cf264088dc299523513116ec8de0bf2ef0feb420122c",
+      "published_sha256": "eed43ed6bd7ff517248d970629711b5ac54d15f3db28aa40c017d6882cac2b2d"
+    },
+    {
+      "path": "lessons/08-01-01_kto-otvechaet-za-bezopasnost-i-ohranu-truda-v-stroitels.html",
+      "source_sha256": "3a605b641553dc760a18ef950cbe83b5379aa1192067a9900556d4a039f4211a",
+      "published_sha256": "864682301bb59533c825d2c9ebf9d6a3e70ec5ad7d1cb54385f1296699381632"
+    },
+    {
+      "path": "lessons/08-01-02_kak-razrabotat-organizatsionno-tehnologicheskuyu-dokume.html",
+      "source_sha256": "2ff45f64eec761eabc4356ea6508c07389ae5929393e211e901b8e3849c38b7e",
+      "published_sha256": "3bb838b008c7749bc1b8397f6c2a26f1b3e5ded23c41072b5527a5291a23cea1"
+    },
+    {
+      "path": "lessons/08-01-03_kak-otsenit-urovni-professionalnyh-riskov-p-5-pot.html",
+      "source_sha256": "b9fdc44187f301a83fedc302f489f59c3131a65f5e4e140ba13bf9f6c45aa2ae",
+      "published_sha256": "05fb6bae9cf95a11ff1c7a26d3372ddce87a942e376c2712793c46e92cf7f342"
+    },
+    {
+      "path": "lessons/08-01-04_kak-oformit-akt-dopusk-i-naryad-dopusk.html",
+      "source_sha256": "3f87058948c12d838ef2a0ee27eb15918d577da6ac4e61994345c5374317f0e0",
+      "published_sha256": "5d915ac535264e048050af1d4fcfc3da2c325f0ba4fd7bb2095931508e52be80"
+    },
+    {
+      "path": "lessons/08-01-05_kakie-nuzhny-organizatsionnye-meropriyatiya-rabotodatel.html",
+      "source_sha256": "5f527c9de0e872735b3064ec17ad18a1b1c06dcc7ed58e0c567de0cccffafbc4",
+      "published_sha256": "23cf71541e2333007dc4bde811fba7a3b861bd88acc065fa4aaa623258164d00"
+    },
+    {
+      "path": "lessons/08-01-06_kak-predotvratit-narusheniya-ohrany-truda.html",
+      "source_sha256": "92ab30947d3277cd3fe5a0327d4767a910e847c9c18ee58b58375e0e6bf4e29a",
+      "published_sha256": "95a3554c52c4f1a75b6c82bc6e3881dd293ec27185625cfb2fdb5db1789ba25c"
+    },
+    {
+      "path": "lessons/08-02-01_kakie-trebovaniya-ohrany-truda-predyavlyayut-k-proizvod.html",
+      "source_sha256": "35e3bcf035a70883cad96afdfc3a8ae182bbffd693955a0c0e0bea51fc2a2594",
+      "published_sha256": "73e53ae19d365f487c30435d73fc23e09935542ec4558100876b99bb8dc211ef"
+    },
+    {
+      "path": "lessons/08-02-02_izuchaem-trebovaniya-ohrany-truda-k-organizatsii-raboch.html",
+      "source_sha256": "886e8efe10331690c26365004fa84cd810c4711e62d35f2fc1eaad633c9acd25",
+      "published_sha256": "da57707979d1c99beb364439ae43cb599d7b015fbede59f0394f35302ddbfaa3"
+    },
+    {
+      "path": "lessons/08-02-03_bezopasnost-v-deystvii-trebovaniya-ohrany-truda-pri-rab.html",
+      "source_sha256": "3138c03a8fabf1faf1f3906ef9f5a4f72473442a6e09a60caa88b57559eb1c63",
+      "published_sha256": "1dc275258d1cfdf5001b4e83e754aa60ce4f4480d4ae2e10c37ed0a643f9807c"
+    },
+    {
+      "path": "lessons/08-02-04_sudebnaya-praktika-analiziruem-sluchai-narusheniy-pravi.html",
+      "source_sha256": "2619d4702092a95d67ffca2f16cde2e408390df278ef7424200c30a15e06c6da",
+      "published_sha256": "95e54b41cf5f86fd8880fde89711d6225210bc8a155ac0ae747704a94b17d7bb"
+    },
+    {
+      "path": "lessons/09-01-01_osnovy-raboty.html",
+      "source_sha256": "954e8f1bd02547fa8053bf1246accdcd42c4cfc0fe5c42cd863f452c0415a8d5",
+      "published_sha256": "e5f56bf3269045a1a403932e4e452fe11781f8481dc83fc039f054d0cbe28d30"
+    },
+    {
+      "path": "lessons/09-01-02_vvod-dannyh.html",
+      "source_sha256": "5128c66c1c7cbb05cdaa8fd4015a1f5a44ce3783061d49bd9b749abd810a3657",
+      "published_sha256": "0587807e243684d2b1817256c53a64c4f43d2eb7363810bc8dab115d4ffb29f3"
+    },
+    {
+      "path": "lessons/09-01-03_sohranenie-faylov.html",
+      "source_sha256": "f351328e6c051a5ae7e0bf485c5dd6a0981deecbaa30569f31bd38fa360c7371",
+      "published_sha256": "c91822f6c61b09e009f6e14d32747798a830b756ee21d827ac719d107552ba8f"
+    },
+    {
+      "path": "lessons/09-01-04_shrifty-i-granitsy.html",
+      "source_sha256": "1e4cf8d1dbe7f1627955b3fe9f54c562f11e4dcaf18c75d1d9e432a2f41738a1",
+      "published_sha256": "6a0fb8c1542ab625613aad0dbe878f642666634dbe1ebcea2f2006f861479103"
+    },
+    {
+      "path": "lessons/09-01-05_uslovnoe-formatirovanie.html",
+      "source_sha256": "571d8bc12ffe787ee7fdc05b95bd20cbad4931607868eaac61152c17f3c6dd90",
+      "published_sha256": "efa3909d3ad2f8aae24abaf8009f170b51506543f9a122ffc5e02acd19f3186e"
+    },
+    {
+      "path": "lessons/09-02-01_slozhenie-i-vychitanie.html",
+      "source_sha256": "3d02eacf8b746d743169ee9c3d235cfafb96223c1cbcd3bafc79226acbbf1696",
+      "published_sha256": "b584154c51a6c08addd35055b2c36a36798ff7ea1b08b73bbb59d6013851e5e1"
+    },
+    {
+      "path": "lessons/09-02-02_umnozhenie-i-delenie.html",
+      "source_sha256": "28246be72778331409ad8a303fa53b3f04ee79956d6020d851f9d6f93899205d",
+      "published_sha256": "6f54df246d8b415f12ded2c0056b8122335cd6d4ef9b2664de559ba4008068c7"
+    },
+    {
+      "path": "lessons/09-02-03_protsenty.html",
+      "source_sha256": "4abeaf002d6bbb1ecfac0518cc2bf741419393eb8cc645e327c99ba969fa920b",
+      "published_sha256": "2312ffce4d076ef0cb9729e88efe5cc468875869f1e4e73aef2e10085148999e"
+    },
+    {
+      "path": "lessons/09-02-04_rabota-s-datami.html",
+      "source_sha256": "5b7cd7a94b45b26e0d0abd0f813adace664f4726ce6dc63dde02d59b3fba383c",
+      "published_sha256": "2342d338cd2f72f4330b01867c38bd75a035dafa091c8247043e961496d81a84"
+    },
+    {
+      "path": "lessons/09-03-01_sortirovka.html",
+      "source_sha256": "7988eba444526842527b29eb608bb64144568e90e04e3617cdcf0b4af49ce96e",
+      "published_sha256": "359740e98216da1ee319a399a117c507509b43e76ca3f8aae2fc23e52bb8ed5d"
+    },
+    {
+      "path": "lessons/09-03-02_filtratsiya.html",
+      "source_sha256": "1a7c63a44fbfee4422e6dd5d84827a56f3070489d5c88795f1da369dbb469aec",
+      "published_sha256": "4912e6e2899e4a880c6ed1d25699418d2e5509433296f7866d0c20629b3b2cfc"
+    },
+    {
+      "path": "lessons/09-03-03_prostye-diagrammy.html",
+      "source_sha256": "0d1cacc553645220e63eae75ce2389fc4c934e4c88a45625c92b68c893bfdc55",
+      "published_sha256": "d872ba705087ee2ed2ef457c532cb8de76040a61c8d9b9048bdd9f40ebedf7b5"
+    },
+    {
+      "path": "lessons/09-03-04_nastroyka-stranits.html",
+      "source_sha256": "ac702bb7250bfe605f922f53009efde5b536adbe0d20fd8662894e2e16b04c80",
+      "published_sha256": "1f660b2371e5438ea76e461b9b9ccbc7c937b84375f6c53b0b49ae6884cf3a97"
+    },
+    {
+      "path": "lessons/09-04-01_chto-takoe-format-xml-i-xml-shemy.html",
+      "source_sha256": "05ed8c7de123e73d6f41d9cd51d222f3e30f1d4a1567ce07cff2fc1b74c589ef",
+      "published_sha256": "5a36c2d2ffe4434af91acda55b89e99b2a8877c1d48cb0613e16bd8224306d70"
+    },
+    {
+      "path": "lessons/09-04-02_kak-chitat-xml-shemu.html",
+      "source_sha256": "d2112abee25c504293595b69eaffaf92cce44803f603b0eff486a6357bd15ad1",
+      "published_sha256": "23bc863377ab4f29e2c9e72486ec03f12d83f0559c10a97ed353afb206503130"
+    },
+    {
+      "path": "lessons/09-04-03_gde-primenyayut-xml-shemy.html",
+      "source_sha256": "184de942f9922013e9df60e18aa1d33a6cadccefced5954e769741f7267e6099",
+      "published_sha256": "e54ada93a536ed59f35834b1a984593247a90765fb1f23d22873ded80400a683"
+    },
+    {
+      "path": "lessons/09-04-04_kak-formirovat-dokumenty-v-formate-xml.html",
+      "source_sha256": "77b61d8f72ebb85653cf856c66f0cb2292d7ce2a1ef6ffae65e04fe1e5a42e7d",
+      "published_sha256": "7106aa91e4a7070e85581a5cf07b9808aebcdcb69cb531296b2fbddd327097ff"
+    },
+    {
+      "path": "lessons/09-04-05_gde-nayti-aktualnye-xml-shemy.html",
+      "source_sha256": "aebb803214a74254531e63fc99d3d34cebadf542407cadd2fcd771d3513eaf52",
+      "published_sha256": "f48b0eca3b630d1c21fac0878fa3563a6a4f637dc4523bd95887dea249443c92"
+    },
+    {
+      "path": "modules/01.html",
+      "source_sha256": "d72a82fe2ba13893476b4cb045519de7c74ea924261ba3231fc8a8b8acbff1d4",
+      "published_sha256": "723d1b402198819588145cd84dd6bcf9b0a59663390f84fe726555bc3e0304e7"
+    },
+    {
+      "path": "modules/02.html",
+      "source_sha256": "c38263db0f1d929283408accc8b6f2846895a57c0d011fd5029174dfe69f76b6",
+      "published_sha256": "adc3a20bb99d6c06dae7d5923d721648dbb87027791d9e802fbb8850a799f0dd"
+    },
+    {
+      "path": "modules/03.html",
+      "source_sha256": "fa9339b0cdb580b2061959d308991397cbd9c92f97bff92cea88e60faced5466",
+      "published_sha256": "8a34ff21dcaef236123d44b24611420ffcb189eeeed7bf37fcef478967d10b0b"
+    },
+    {
+      "path": "modules/04.html",
+      "source_sha256": "43e38ea19a0fe0a6f3a8ad1a1543dae306e7e129882deba5fd8107851dcbe8ae",
+      "published_sha256": "394e9e0d4a3a038137d9bd55ae04e2be8dcaaa2e893919b47685eb1ffbdcecba"
+    },
+    {
+      "path": "modules/05.html",
+      "source_sha256": "91298b2ed84b94b8f5dad4556a92ec1daba71bead9bfe9d2502e3b7e7d5c1f68",
+      "published_sha256": "27a5eec4b85b9c4e6c912c4cd07db6265b925371086c34a3605633d950199fd4"
+    },
+    {
+      "path": "modules/06.html",
+      "source_sha256": "b72e8501ce3d9b84757d6cdaa933f902f2178f2393160f5b55d73b81d3b54170",
+      "published_sha256": "3a0290cf2787520693e842b17837e1a14ff1b0a3d33d4c5de43e1c683f44d88b"
+    },
+    {
+      "path": "modules/07.html",
+      "source_sha256": "8463728fb74d4a6d38701d17503de44432b3ed7e0f5a2e2e0c7104803870792d",
+      "published_sha256": "12b21d5418cf9c8fa3ab765014c429535a9e0aef968ba90ae567cd2f957c30a4"
+    },
+    {
+      "path": "modules/08.html",
+      "source_sha256": "4860d7d30394e7c179c7c88a618434193cfc1e631ddf69769ee732a503b28b52",
+      "published_sha256": "f2df0cfefd067c51a2467952406d4705a8382aaeedebdccd9d8b067b226d5d5a"
+    },
+    {
+      "path": "modules/09.html",
+      "source_sha256": "2623af0fee7b9259112e09d072db0e38fa67c2d64a15b3ac314fcb9681cd2603",
+      "published_sha256": "b5c00bb427cab1e9db6067a7375cae79aab7675f93ea676af260a972afd1432c"
+    },
+    {
+      "path": "tests/01.html",
+      "source_sha256": "68c4b1780d4df69accbef5caab007bc32295036e3737816836317fa500ed281f",
+      "published_sha256": "b9ec17c44151f8b8dc6ffa729cd525dd0fbf2459bee124f227b8ee1212ce7c79"
+    },
+    {
+      "path": "tests/02.html",
+      "source_sha256": "52fc3cd27e77fb6514dffc185db31c0b06e10e6b0c1701ac5f89987f0f711d2d",
+      "published_sha256": "5bc81485bc82596d63ce6971d665ed80673df69fe1225e506da0e02be48443e0"
+    },
+    {
+      "path": "tests/03.html",
+      "source_sha256": "f19ff3938b8dc3cc888caef44df75e9f0084977d683a28b776675da9d78ee6aa",
+      "published_sha256": "cf4351e513398395eb23ddc5ec11341102fdb5dc27c05bcc9a6b6c71f17cd958"
+    },
+    {
+      "path": "tests/04.html",
+      "source_sha256": "e0e1d1d0a1c8723d6c4899a4719531159af48c889b0395639d532c5a64a3d7cd",
+      "published_sha256": "c68c17ef108a0982a46a6b96dd0927d49615f4f1a86faaa40f6a2c171b667896"
+    },
+    {
+      "path": "tests/05.html",
+      "source_sha256": "262253d54a2bc592bc69eb9c9f800efa82ddcbd8df94b15dc2f6f313de6fda44",
+      "published_sha256": "bc6277cb0b7638b5e8a10e50ef2469737d670dfc795fa74d128abe5e2a610b6b"
+    },
+    {
+      "path": "tests/06.html",
+      "source_sha256": "5a3c2df003e10e97f57ffc67dd91685225b672464dda39ac608a17c6c010f1b2",
+      "published_sha256": "71e9a491a9cc5850f065d5d1acaf28578fe530893650103f191704005fe9bbea"
+    },
+    {
+      "path": "tests/07.html",
+      "source_sha256": "ab518d3b9041651d6f7d11b7a552d8866f2f61841b9c35991f73547e215ac088",
+      "published_sha256": "7ea778f7049936612017504489a2169c088a9ddb07a3645e6e76ab14ae056cc7"
+    },
+    {
+      "path": "tests/08.html",
+      "source_sha256": "bec19b66bf125d5869e98a387c09153948fae195f0584b7f04406c549d0d1892",
+      "published_sha256": "e0368199e4670025198d0c3d2619c0ed359805d3818a1cf1c8906570adccade4"
+    },
+    {
+      "path": "tests/09.html",
+      "source_sha256": "ca74971b78b714246e9dd49a158c0a84c4f5416ca913282ec18a9051f602e6a4",
+      "published_sha256": "a41bb0ecbbe99a19bf0c4132fc2f2253e9a2ea7a81aebd69fe69249b5d608ccf"
+    },
+    {
+      "path": "tests/10.html",
+      "source_sha256": "6a18f39402d1efe088052dd4c32a07a28b9ab4411dcba914edf37ce3d975b25c",
+      "published_sha256": "62f68d66b2487813893558dd898709ed6f91b78f3d036baadeb27699e6771ad7"
+    },
+    {
+      "path": "tests/11.html",
+      "source_sha256": "27694c233e1b7b719f38f76dbfa3a9f319cd667436093d9123ae5d12243317cd",
+      "published_sha256": "a81c0658c9a476911edc41c7c69d5bec1481c481733c258a46313fcf6a08ba05"
+    }
+  ]
+}

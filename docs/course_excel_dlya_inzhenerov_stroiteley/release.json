@@ -1,0 +1,237 @@
+{
+  "course": "course_excel_dlya_inzhenerov_stroiteley",
+  "title": "Excel для инженеров-строителей: базовый уровень",
+  "source_repository": "zhidandbor/HES",
+  "source_revision": "818aebd5f45f878ed195f0daf939550ed35bc0be",
+  "source_path": "course_offline/course_excel_dlya_inzhenerov_stroiteley",
+  "entry": "index.html",
+  "files": 79,
+  "bytes": 5737657,
+  "media_release_tag": "hes-media-2026-10-03",
+  "media_repository": "zhidandbor/academy-hes",
+  "external_assets": [
+    {
+      "path": "assets/images/07aa4d3ad09ef7a57db1.gif",
+      "bytes": 25103410,
+      "sha256": "7de3e5830644420b177708b42e464509106f3414d1aaaab569aa4df189e52af4",
+      "asset_name": "hes-7de3e5830644420b177708b42e464509.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-7de3e5830644420b177708b42e464509.gif"
+    },
+    {
+      "path": "assets/images/0fa6d66cf706a0bec8b2.gif",
+      "bytes": 8619461,
+      "sha256": "d5657e583554f596308b94dba3125db86595275cd4d09dfeb847423d956d2184",
+      "asset_name": "hes-d5657e583554f596308b94dba3125db8.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-d5657e583554f596308b94dba3125db8.gif"
+    },
+    {
+      "path": "assets/images/10d3e7b05c8bf222eb0e.gif",
+      "bytes": 7161327,
+      "sha256": "4b3fa9e25b4bf8bb6f66d7b208650206fcf621c60d8de6a15110fc5fba6c9f25",
+      "asset_name": "hes-4b3fa9e25b4bf8bb6f66d7b208650206.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-4b3fa9e25b4bf8bb6f66d7b208650206.gif"
+    },
+    {
+      "path": "assets/images/19b1efd00f1c1350162b.gif",
+      "bytes": 23096832,
+      "sha256": "8cbff56e388548d7445e68787b4215d388a09197a9a9598f48b61bf4564a4d53",
+      "asset_name": "hes-8cbff56e388548d7445e68787b4215d3.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-8cbff56e388548d7445e68787b4215d3.gif"
+    },
+    {
+      "path": "assets/images/1f4400271f38866ed9ba.gif",
+      "bytes": 2666844,
+      "sha256": "2f62e2c98a869bfab7c556a07ec23fa74729a351def51779439246ef7d8e1325",
+      "asset_name": "hes-2f62e2c98a869bfab7c556a07ec23fa7.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-2f62e2c98a869bfab7c556a07ec23fa7.gif"
+    },
+    {
+      "path": "assets/images/29c78fb181ad661470a5.gif",
+      "bytes": 5380840,
+      "sha256": "ea003079d7b48e04705206f370b2de459e2e58ecbcf2de10caa3794d20e2103d",
+      "asset_name": "hes-ea003079d7b48e04705206f370b2de45.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-ea003079d7b48e04705206f370b2de45.gif"
+    },
+    {
+      "path": "assets/images/32fb2555e0536c1bfac6.gif",
+      "bytes": 29404759,
+      "sha256": "35c24eec7b297e12d7431ff39d6e1499d73a80659d759efbb8c92035e6e671cb",
+      "asset_name": "hes-35c24eec7b297e12d7431ff39d6e1499.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-35c24eec7b297e12d7431ff39d6e1499.gif"
+    },
+    {
+      "path": "assets/images/4cfe1c3e01823c243f62.gif",
+      "bytes": 3031805,
+      "sha256": "8c40461567a74abbec9da924bb5d8b22745e9045d6b28a1d43096c6cb9d920bc",
+      "asset_name": "hes-8c40461567a74abbec9da924bb5d8b22.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-8c40461567a74abbec9da924bb5d8b22.gif"
+    },
+    {
+      "path": "assets/images/7098fb69e2f6d8505362.gif",
+      "bytes": 18041460,
+      "sha256": "f9285b0c09a3db01ff1dd8974faed188471ac33c530ef4ddc1d3e5c927c3da7d",
+      "asset_name": "hes-f9285b0c09a3db01ff1dd8974faed188.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-f9285b0c09a3db01ff1dd8974faed188.gif"
+    },
+    {
+      "path": "assets/images/79779287c380d8acb57e.gif",
+      "bytes": 23085090,
+      "sha256": "b320aea508f14ffef2dd1e0415f12ed6b94c3771c1758d10c68b59591b94a815",
+      "asset_name": "hes-b320aea508f14ffef2dd1e0415f12ed6.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-b320aea508f14ffef2dd1e0415f12ed6.gif"
+    },
+    {
+      "path": "assets/images/8066b0fbb90e61f58b58.gif",
+      "bytes": 80790032,
+      "sha256": "cd224b6d60da15607ba3ab8cbd392c6c5805d2a9b151012279266d9a6cec5796",
+      "asset_name": "hes-cd224b6d60da15607ba3ab8cbd392c6c.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-cd224b6d60da15607ba3ab8cbd392c6c.gif"
+    },
+    {
+      "path": "assets/images/90e2e8e7032aff98b14f.gif",
+      "bytes": 35988922,
+      "sha256": "dec7f1779112bf28e8d7c3a95b46c4be21b8ab05eecd25f1ff65f6e6dc12e5d7",
+      "asset_name": "hes-dec7f1779112bf28e8d7c3a95b46c4be.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-dec7f1779112bf28e8d7c3a95b46c4be.gif"
+    },
+    {
+      "path": "assets/images/96c48a288d3f66369861.gif",
+      "bytes": 6028513,
+      "sha256": "7d2f714ac939d0cddaf5aa53e4c17e88fcac880708a61a2c048fbbadcd406f66",
+      "asset_name": "hes-7d2f714ac939d0cddaf5aa53e4c17e88.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-7d2f714ac939d0cddaf5aa53e4c17e88.gif"
+    },
+    {
+      "path": "assets/images/a033ee9c86c6809d7f6f.gif",
+      "bytes": 52078139,
+      "sha256": "a6a1d6f2ecc264aa36060a2aeeb7b70db3ca28b39df9c2261ddad51a837de6f0",
+      "asset_name": "hes-a6a1d6f2ecc264aa36060a2aeeb7b70d.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-a6a1d6f2ecc264aa36060a2aeeb7b70d.gif"
+    },
+    {
+      "path": "assets/images/a364b54ad0d400aff014.gif",
+      "bytes": 41937618,
+      "sha256": "dc9f7cf88d976eff8bc1e33ccd5694b2b700785fc73600d2ec92c75d570733f6",
+      "asset_name": "hes-dc9f7cf88d976eff8bc1e33ccd5694b2.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-dc9f7cf88d976eff8bc1e33ccd5694b2.gif"
+    },
+    {
+      "path": "assets/images/b0556a267ea8983c39b4.gif",
+      "bytes": 6147594,
+      "sha256": "8edd2701dcaecd74cf75b04404582e378779f4270cc2d602de155ddd7b51c6d6",
+      "asset_name": "hes-8edd2701dcaecd74cf75b04404582e37.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-8edd2701dcaecd74cf75b04404582e37.gif"
+    },
+    {
+      "path": "assets/images/d3f96835592dac1f8660.gif",
+      "bytes": 56741423,
+      "sha256": "4499d82919b0c71463fab9a5cf101b615c4ca42250f811ba6e120e03c4e08f46",
+      "asset_name": "hes-4499d82919b0c71463fab9a5cf101b61.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-4499d82919b0c71463fab9a5cf101b61.gif"
+    },
+    {
+      "path": "assets/images/efd4bd586b97ba3016ac.gif",
+      "bytes": 53219521,
+      "sha256": "d2d0cd056eaedf5f0d338e0dd800280025e3fb2b0dfdc8bb2272950be84d6576",
+      "asset_name": "hes-d2d0cd056eaedf5f0d338e0dd8002800.gif",
+      "url": "https://github.com/zhidandbor/academy-hes/releases/download/hes-media-2026-10-03/hes-d2d0cd056eaedf5f0d338e0dd8002800.gif"
+    }
+  ],
+  "rewritten_files": [
+    {
+      "path": "attachments/index.html",
+      "source_sha256": "058bd98656129adf9038ad1c6f633e7a8ddfd32ba2027bd3a912d6e6d35270f2",
+      "published_sha256": "b3527f2fa8ee390b3596b8a6b3b1aa1e5d9bee1c961b55290dc7f833baad8f60"
+    },
+    {
+      "path": "index.html",
+      "source_sha256": "e1004dc8337486a3c91ce0f414320386829763be22acfed0cf1684e594e6c9c1",
+      "published_sha256": "5628e28662495f78cd8852e01efbe379b851f14ad5bc0c8c46846f8fa10ca6d6"
+    },
+    {
+      "path": "lessons/01.html",
+      "source_sha256": "685e1dcb8c9efd10720be9cc8d94e9cc9a0a3e0a51061ee7f7a98c126403c03d",
+      "published_sha256": "21b447cd9156362c8118a0f57de3870f22d651330ab5518caa6c87f589262448"
+    },
+    {
+      "path": "lessons/02.html",
+      "source_sha256": "8fe35b6ef44569dc0503c5c5613d50ba49902f95d804a2586cf76cf792e0cfa9",
+      "published_sha256": "747eebf9a5b7843f67408965c60afba153520a3a201d599aca78fd7ce8af5922"
+    },
+    {
+      "path": "lessons/03.html",
+      "source_sha256": "0da3a72074ab4f4dbce266f407d6facad496f75404acbb167409e1553dc6df92",
+      "published_sha256": "551d30fea187edefe59927b1b4c9093341f4f7e8248820cbd6c4dc488e55dfd2"
+    },
+    {
+      "path": "lessons/04.html",
+      "source_sha256": "04e47e393777c4af9df24fe0d285d1b8df5e28dc0bd2442cfc05fba37511072c",
+      "published_sha256": "7d9ab552f0bb53ef88c7cfd12f80f9564010fb2474c0e086d447eca2b5b836dc"
+    },
+    {
+      "path": "lessons/05.html",
+      "source_sha256": "a01b4c4ba5f752f8a90c18bfc8b2ac3cb7f90f7c7584e8c8ce8bbe83dedbdf22",
+      "published_sha256": "76f88dc3537819b7011aad47970ea73c256aabc3b43ff10d00f494816b621db8"
+    },
+    {
+      "path": "lessons/06.html",
+      "source_sha256": "ab07b930ccc982201a6152652085108c44796143af95c0c796d8214539fccff9",
+      "published_sha256": "03159db9fdddea2bbd75c2b168dfc97e39fc1a0da4b8becea86dbb450cf3c314"
+    },
+    {
+      "path": "lessons/07.html",
+      "source_sha256": "91e3f606d53fe0408617dc82f9e54ac825267380c754bdab7ec7f36fc12ec896",
+      "published_sha256": "98d6f4469d5c9987f9d09275e73f242bb77699b0e1a440fc98e82b2a27cbda03"
+    },
+    {
+      "path": "lessons/08.html",
+      "source_sha256": "cc39235a2e48cbd8181e2c89502cb937db577f695ec8094d57f80ab677a2a8a7",
+      "published_sha256": "6eaf7ac11700ccd232616f357be858a7746a746dca64c49f58a0b73da6f3de6d"
+    },
+    {
+      "path": "lessons/09.html",
+      "source_sha256": "f5857ed32643fc1b168c3fe8c6de5023293c14cb9fabd76dcb1ea942a0bc683b",
+      "published_sha256": "9c23b7986af267776a292a34943224e7229c2c4dd7ad8230db251bbc32e48b2f"
+    },
+    {
+      "path": "lessons/10.html",
+      "source_sha256": "964268c21431b0493786fd2842c8f0f9b7a0f3e50ed1047f0e0fdda363a2c47b",
+      "published_sha256": "b27c5d9cafdb56b4f833bfd64459fc12e3db7dffbab145988487b2047a2dfa81"
+    },
+    {
+      "path": "lessons/11.html",
+      "source_sha256": "04bf6cc06de329f852c556f332b0a837067e9e777c495a24054a569fdcb279b4",
+      "published_sha256": "596a2844f95d01a060df7870c01b5e658c64943acb04fc17301ce61e82fe8bc0"
+    },
+    {
+      "path": "lessons/12.html",
+      "source_sha256": "98fb52a3c0be214499ff8c9ce71b407d7ecdd30f3592e6da83750c2997f64f3c",
+      "published_sha256": "8e0dd1f2f6815c0b7119600e28b83cdd4f350bf4a6f08a15d226c7a2b0211f4b"
+    },
+    {
+      "path": "lessons/13.html",
+      "source_sha256": "ac52c81c888655a0eb3c6139daa5b2da76c8d2591ab8423d810b014f712334ab",
+      "published_sha256": "35b899a1c0db7d1016ae8174f75e263178ed084590e079d93ec31e30c46bb230"
+    },
+    {
+      "path": "lessons/14.html",
+      "source_sha256": "c4a9f030ce643764a60abbf1f687e5db49092dee70e5f206876daea8b8f08e77",
+      "published_sha256": "019431047f53e9b25a84ad3385ed67d70bcc850c3ed5ab4f2b64b52d93411514"
+    },
+    {
+      "path": "modules/01.html",
+      "source_sha256": "663e7ba24d9091eda237b4b23e5f960d2cec24a625ce2511e5a1ad2bd256aa56",
+      "published_sha256": "fa360d442b7dca74bed85dd1df209fc442921ea33456e2036e56ad84c16b6357"
+    },
+    {
+      "path": "modules/02.html",
+      "source_sha256": "77f7fb35b8355f2f52a5744fee8512d3cc0852721ce37a0ca7e97b3bd734627b",
+      "published_sha256": "155da9f9be3ab6585c1fb73571389e6a8393ec8f2058db84a20c16167eeec315"
+    },
+    {
+      "path": "tests/index.html",
+      "source_sha256": "1b3f94b8cdccc39a2a3f4c9a566c2201169cf0ece40bfd185df3ab0ffb3793aa",
+      "published_sha256": "8d385546ccbd04d39e13b061332a44f37fce59ea2cd8457abb755cce8e1da636"
+    }
+  ]
+}

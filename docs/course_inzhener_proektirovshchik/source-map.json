@@ -1,0 +1,622 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/229224",
+  "title": "Инженер-проектировщик",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Основы проектирования и нормативное регулирование",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Введение в профессию инженера-проектировщика",
+          "description": "Разберетесь в профстандартах инженера-проектировщика и разберетесь, какие компетенции требуются для систем ВК, ОВ, ЭМ и СС",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/4d482e34-0325-4928-b350-5414c2e8dff1/fe8ae32d-12f3-4a40-83c5-f1da9792993c",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 1,
+              "title": "Как стать крутым инженером-проектировщиком",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/4d482e34-0325-4928-b350-5414c2e8dff1/fe8ae32d-12f3-4a40-83c5-f1da9792993c",
+              "local": "lessons/001.html",
+              "source_snapshot": "source_pages/block-01-first.json"
+            },
+            {
+              "position": 2,
+              "number": 2,
+              "title": "Что такое Профстандарт и зачем он нужен",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/4d482e34-0325-4928-b350-5414c2e8dff1/0a3a60b7-0f08-4244-b851-b33740311987",
+              "local": "lessons/002.html",
+              "source_snapshot": "source_pages/lesson-002.json"
+            },
+            {
+              "position": 3,
+              "number": 3,
+              "title": "Язык строительства: как говорить на терминах и не бояться нормативки",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/4d482e34-0325-4928-b350-5414c2e8dff1/f0f2da32-9563-4d3b-a4ec-ed8754e53488",
+              "local": "lessons/003.html",
+              "source_snapshot": "source_pages/lesson-003.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Нормативная база и работа со смежными документами",
+          "description": "Освоите алгоритм анализа задания на проектирование (ЗнП) и научитесь извлекать ключевые требования для успешного старта проекта",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/d8981187-725d-4648-97eb-d04111b7d297/20279c31-82cb-4df9-9e06-c3c4c21c4fb4",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 4,
+              "title": "Как легко читать и интерпретировать ГОСТ, СП, СНиП",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/d8981187-725d-4648-97eb-d04111b7d297/20279c31-82cb-4df9-9e06-c3c4c21c4fb4",
+              "local": "lessons/004.html",
+              "source_snapshot": "source_pages/block-02-first.json"
+            },
+            {
+              "position": 2,
+              "number": 5,
+              "title": "Анализ задания на проектирование или с какой стороны подойти к проекту",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/d8981187-725d-4648-97eb-d04111b7d297/a5a4d1d0-4f0c-41cc-8eda-36d1bfae86dd",
+              "local": "lessons/005.html",
+              "source_snapshot": "source_pages/lesson-005.json"
+            },
+            {
+              "position": 3,
+              "number": 6,
+              "title": "Важные моменты из чертежей конструкторов и архитекторов",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/d8981187-725d-4648-97eb-d04111b7d297/bfddf3db-9039-4f05-aa34-fdf811327b36",
+              "local": "lessons/006.html",
+              "source_snapshot": "source_pages/lesson-006.json"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Основы работы с программами для инженеров-проектировщиков",
+          "description": "Научитесь выбирать программу под конкретные задачи проектирования. Разберетесь с семействами Revit, шаблонами DWT и ключевыми инструментами для создания нормативной документации",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/801791b0-9dec-47d1-ac95-81c4009a1138/ce710eb7-9f9e-4736-963a-f5e90e97a134",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 7,
+              "title": "Обзор программ для инженеров проектировщиков",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/801791b0-9dec-47d1-ac95-81c4009a1138/ce710eb7-9f9e-4736-963a-f5e90e97a134",
+              "local": "lessons/007.html",
+              "source_snapshot": "source_pages/block-03-first.json"
+            },
+            {
+              "position": 2,
+              "number": 8,
+              "title": "Обзор Revit",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/801791b0-9dec-47d1-ac95-81c4009a1138/ab7c63d4-4219-4664-8fb8-b673a5cc709e",
+              "local": "lessons/008.html",
+              "source_snapshot": "source_pages/lesson-008.json"
+            },
+            {
+              "position": 3,
+              "number": 9,
+              "title": "Обзор AutoCAD",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/801791b0-9dec-47d1-ac95-81c4009a1138/6bac3438-4089-41f6-8cf9-c182f084f086",
+              "local": "lessons/009.html",
+              "source_snapshot": "source_pages/lesson-009.json"
+            }
+          ]
+        },
+        {
+          "position": 4,
+          "title": "Основы документации",
+          "description": "Разберетесь в шифровке разделов ПД (АР, КР, ИОС, ПОС), освоите оформление чертежей, рамок, масштабов и условных обозначений. Научитесь оформлять текстовую и графическую части ПД",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/db7b4235-7ba1-4b42-a94a-4e3c11046c1a/2274d872-4287-43ef-8ee5-19b2479e7745",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 10,
+              "title": "Первое знакомство с Проектной документацией",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/db7b4235-7ba1-4b42-a94a-4e3c11046c1a/2274d872-4287-43ef-8ee5-19b2479e7745",
+              "local": "lessons/010.html",
+              "source_snapshot": "source_pages/block-04-first.json"
+            },
+            {
+              "position": 2,
+              "number": 11,
+              "title": "Как читать Текстовую часть проектной документации и не потеряться в шифрах",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/db7b4235-7ba1-4b42-a94a-4e3c11046c1a/363f431c-1efe-4bb4-bc16-c1d55a8eed28",
+              "local": "lessons/011.html",
+              "source_snapshot": "source_pages/lesson-011.json"
+            },
+            {
+              "position": 3,
+              "number": 12,
+              "title": "Графическая часть ПД",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/db7b4235-7ba1-4b42-a94a-4e3c11046c1a/b5903b26-0d53-4765-a9a4-71cbd09bb20d",
+              "local": "lessons/012.html",
+              "source_snapshot": "source_pages/lesson-012.json"
+            },
+            {
+              "position": 4,
+              "number": 13,
+              "title": "Рабочая документация – как превратить проект в чертеж, по которому можно строить",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/db7b4235-7ba1-4b42-a94a-4e3c11046c1a/6e294ad8-ed8f-4f40-a025-b5752cc36bea",
+              "local": "lessons/013.html",
+              "source_snapshot": "source_pages/lesson-013.json"
+            },
+            {
+              "position": 5,
+              "number": 14,
+              "title": "Выдача заданий смежным разделам. Как связать проект в единое целое",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/db7b4235-7ba1-4b42-a94a-4e3c11046c1a/3482ff06-e80d-4604-9e44-8c5dc946f54d",
+              "local": "lessons/014.html",
+              "source_snapshot": "source_pages/lesson-014.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Системы водоснабжения и водоотведения (ВК)",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "modules/02.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Проектирование внутренних систем ВК",
+          "description": "Научитесь проектировать системы ВК по СП 30.13330.2020. Освоите вероятностный метод расчета расходов воды, гидравлику стоков и типовые узлы",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/080a1583-4695-4119-a08f-4aec43300b64/20d7174e-cb29-414f-916a-bc299ce1c9e5",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 15,
+              "title": "Основные принципы проектирования ВК (СП 30.13330.2020)",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/080a1583-4695-4119-a08f-4aec43300b64/20d7174e-cb29-414f-916a-bc299ce1c9e5",
+              "local": "lessons/015.html",
+              "source_snapshot": "source_pages/block-05-first.json"
+            },
+            {
+              "position": 2,
+              "number": 16,
+              "title": "Расчеты: расходы, диаметры, уклоны канализации",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/080a1583-4695-4119-a08f-4aec43300b64/55823432-e62b-40ed-b018-96b6537a696c",
+              "local": "lessons/016.html",
+              "source_snapshot": "source_pages/lesson-016.json"
+            },
+            {
+              "position": 3,
+              "number": 17,
+              "title": "Типовые решения и нестандартные задачи",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/080a1583-4695-4119-a08f-4aec43300b64/c1d5b2af-6f18-41e5-99d8-a92649189e03",
+              "local": "lessons/017.html",
+              "source_snapshot": "source_pages/lesson-017.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "BIM и документооборот для ВК",
+          "description": "Освоите координацию ВК с другими разделами в Revit/Navisworks. Разберетесь в приоритетах трассировки и разрешении коллизий по 30.13330.2020.",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/71a9ad03-95fe-413a-bdf6-dc2d887a9b6f/5c16f861-469c-4714-aeb8-3d52f3a786af",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 18,
+              "title": "Работа в Revit: создание систем водоснабжения и канализации",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/71a9ad03-95fe-413a-bdf6-dc2d887a9b6f/5c16f861-469c-4714-aeb8-3d52f3a786af",
+              "local": "lessons/018.html",
+              "source_snapshot": "source_pages/block-06-first.json"
+            },
+            {
+              "position": 2,
+              "number": 19,
+              "title": "Оформление ПД и РД по ГОСТ Р 21.101-2020",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/71a9ad03-95fe-413a-bdf6-dc2d887a9b6f/94edbd41-a5d7-4b01-9a11-635258cae102",
+              "local": "lessons/019.html",
+              "source_snapshot": "source_pages/lesson-019.json"
+            },
+            {
+              "position": 3,
+              "number": 20,
+              "title": "Проверка коллизий, согласование с ОВ, ЭМ, архитектором",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/71a9ad03-95fe-413a-bdf6-dc2d887a9b6f/a84f3e09-89ce-41ea-a148-02d93438aeea",
+              "local": "lessons/020.html",
+              "source_snapshot": "source_pages/lesson-020.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Системы отопления, вентиляции и кондиционирования (ОВ)",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "modules/03.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Проектирование внутренних систем ОВ",
+          "description": "Освоите проектирование систем ОВиК. Научитесь подбирать вентиляционные установки, радиаторы, автоматику и огнезадерживающие клапаны",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/26465700-cea2-4ef8-a072-81d7f2ccdb23/30c7b60d-6465-4809-b41e-5621ffe97749",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 21,
+              "title": "Расчет теплопотерь и воздухообмена (СП 60.13330.2020)",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/26465700-cea2-4ef8-a072-81d7f2ccdb23/30c7b60d-6465-4809-b41e-5621ffe97749",
+              "local": "lessons/021.html",
+              "source_snapshot": "source_pages/block-07-first.json"
+            },
+            {
+              "position": 2,
+              "number": 22,
+              "title": "Выбор оборудования: вентустановки, радиаторы, автоматика",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/26465700-cea2-4ef8-a072-81d7f2ccdb23/e1741f8a-a2d0-489a-8221-9d02d6255828",
+              "local": "lessons/022.html",
+              "source_snapshot": "source_pages/lesson-022.json"
+            },
+            {
+              "position": 3,
+              "number": 23,
+              "title": "Противопожарные требования (СП 7.13130.2020)",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/26465700-cea2-4ef8-a072-81d7f2ccdb23/01bf67dc-e19e-4399-8149-b1c638312561",
+              "local": "lessons/023.html",
+              "source_snapshot": "source_pages/lesson-023.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "BIM-моделирование и координация ОВ",
+          "description": "Разберете моделирование ОВиК в Revit. Научитесь координировать ОВиК с АР/КР/ЭОМ через Navisworks, протоколы и матрицы рисков",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/4c500208-6f1c-49b6-8330-284123b3990e/74c37323-529d-479f-b504-5ca7ceb7ae50",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 24,
+              "title": "Создание систем вентиляции и отопления в Revit",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/4c500208-6f1c-49b6-8330-284123b3990e/74c37323-529d-479f-b504-5ca7ceb7ae50",
+              "local": "lessons/024.html",
+              "source_snapshot": "source_pages/block-08-first.json"
+            },
+            {
+              "position": 2,
+              "number": 25,
+              "title": "Детализация узлов, фрагментов, спецификаций",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/4c500208-6f1c-49b6-8330-284123b3990e/e7b38faa-c4bd-4727-8f40-3481cf33e130",
+              "local": "lessons/025.html",
+              "source_snapshot": "source_pages/lesson-025.json"
+            },
+            {
+              "position": 3,
+              "number": 26,
+              "title": "Согласование с архитектурой и конструкциями",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/4c500208-6f1c-49b6-8330-284123b3990e/3320e9d2-2bf4-4220-b11d-6e21abcfeb5a",
+              "local": "lessons/026.html",
+              "source_snapshot": "source_pages/lesson-026.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Системы электроснабжения и электрооборудования (ЭМ)",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "modules/04.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Проектирование внутренних систем ЭМ",
+          "description": "Освоите фундаментальные принципы устройства внутренних электросетей и научитесь безошибочно подбирать сечения кабелей и защитное оборудование для различных типов нагрузок",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/3550137d-dc99-4a8e-bcf2-09ddfbdb9c0e/0ebbfc7a-7049-4cc5-b0a2-8a30e27ba5f7",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 27,
+              "title": "Основы проектирования внутренних сетей ЭОМ",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/3550137d-dc99-4a8e-bcf2-09ddfbdb9c0e/0ebbfc7a-7049-4cc5-b0a2-8a30e27ba5f7",
+              "local": "lessons/027.html",
+              "source_snapshot": "source_pages/block-09-first.json"
+            },
+            {
+              "position": 2,
+              "number": 28,
+              "title": "Аварийное освещение и щитовое оборудование",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/3550137d-dc99-4a8e-bcf2-09ddfbdb9c0e/44c4c187-d0cd-4818-a1b0-c32df83f3ccf",
+              "local": "lessons/028.html",
+              "source_snapshot": "source_pages/lesson-028.json"
+            },
+            {
+              "position": 3,
+              "number": 29,
+              "title": "Требования пожарной безопасности и заземления",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/3550137d-dc99-4a8e-bcf2-09ddfbdb9c0e/e6164cc0-fc80-447f-a76b-5bb522d1d36c",
+              "local": "lessons/029.html",
+              "source_snapshot": "source_pages/lesson-029.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "BIM для электрики и слаботочные системы",
+          "description": "Разберетесь в тонкостях BIM-моделирования раздела ЭОМ в Revit и сумеете эффективно подготовить документацию для успешного согласования проекта в СО, Энергосбыте и Ростехнадзоре",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/810bee0a-320b-4270-9b21-ea2b34bec3a8/02b41234-3d23-4e7d-a300-b26abadd8179",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 30,
+              "title": "Проектирование систем ЭОМ в Revit",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/810bee0a-320b-4270-9b21-ea2b34bec3a8/02b41234-3d23-4e7d-a300-b26abadd8179",
+              "local": "lessons/030.html",
+              "source_snapshot": "source_pages/block-10-first.json"
+            },
+            {
+              "position": 2,
+              "number": 31,
+              "title": "Роль и место спецификаций в проектной документации",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/810bee0a-320b-4270-9b21-ea2b34bec3a8/952f8bb2-d1a1-4414-bb2a-d872f9eea2f4",
+              "local": "lessons/031.html",
+              "source_snapshot": "source_pages/lesson-031.json"
+            },
+            {
+              "position": 3,
+              "number": 32,
+              "title": "Координация с ОВ и ВК: избегаем коллизий",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/810bee0a-320b-4270-9b21-ea2b34bec3a8/c60aa7de-e3ab-4d8b-9e79-90df3ccc1fd7",
+              "local": "lessons/032.html",
+              "source_snapshot": "source_pages/lesson-032.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Слаботочные системы и интеллектуальные решения (СС)",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "modules/05.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Проектирование СКС, СОУЭ, видеонаблюдения",
+          "description": "Освоите проектирование слаботочных систем. Научитесь работать с моделями OSI/TCP-IP, IP-адресацией, маркировкой, подбором оборудования и расчетами для реальных объектов",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/bdc76efe-a2f9-4f98-9c67-b3c3cab95fc8/47644eab-a05c-4637-8f35-36d37151265a",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 33,
+              "title": "Проектирование слаботочных сетей как инженерная задача",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/bdc76efe-a2f9-4f98-9c67-b3c3cab95fc8/47644eab-a05c-4637-8f35-36d37151265a",
+              "local": "lessons/033.html",
+              "source_snapshot": "source_pages/block-11-first.json"
+            },
+            {
+              "position": 2,
+              "number": 34,
+              "title": "Адресация, узел, шкаф: основные понятия",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/bdc76efe-a2f9-4f98-9c67-b3c3cab95fc8/b6da8c85-ac77-4aee-97ba-d76daa0855e4",
+              "local": "lessons/034.html",
+              "source_snapshot": "source_pages/lesson-034.json"
+            },
+            {
+              "position": 3,
+              "number": 35,
+              "title": "Интеграция с системами пожарной безопасности",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/bdc76efe-a2f9-4f98-9c67-b3c3cab95fc8/7357c35c-eff5-40e7-bcaf-2333b8cefc63",
+              "local": "lessons/035.html",
+              "source_snapshot": "source_pages/lesson-035.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Современные технологии и автоматизация",
+          "description": "Разберете интеграцию систем (CO, освещение, UPS, SCADA), применение BIM, требования к IT-инфраструктуре и пожарной безопасности для автоматизированных зданий",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/999e9200-078a-4b35-b151-0a49c5767579/ec61214f-dd06-4954-8dba-95486e3520c3",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 36,
+              "title": "От «Умного дома» к «Умному зданию»",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/999e9200-078a-4b35-b151-0a49c5767579/ec61214f-dd06-4954-8dba-95486e3520c3",
+              "local": "lessons/036.html",
+              "source_snapshot": "source_pages/block-12-first.json"
+            },
+            {
+              "position": 2,
+              "number": 37,
+              "title": "Согласование сетей связи с эксплуатирующими организациями",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/999e9200-078a-4b35-b151-0a49c5767579/673371c5-192d-4b45-9df6-8f6754d7fa1a",
+              "local": "lessons/037.html",
+              "source_snapshot": "source_pages/lesson-037.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Управление проектом и сдача документации",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "modules/06.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Подготовка и защита проектной документации",
+          "description": "Научитесь отвечать на замечания экспертизы и вносить изменения в ПД/РД через РВИ. Освойте управление проектом: планирование сроков, риски, изменения по ГОСТ Р 21.101-2020",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/49c70308-49da-4399-b8e2-d2a308a1f150/0b901768-4024-44e2-9787-1dede6840a27",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 38,
+              "title": "Внесение изменений в ПД и РД по ГОСТ Р 21.101-2020",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/49c70308-49da-4399-b8e2-d2a308a1f150/0b901768-4024-44e2-9787-1dede6840a27",
+              "local": "lessons/038.html",
+              "source_snapshot": "source_pages/block-13-first.json"
+            },
+            {
+              "position": 2,
+              "number": 39,
+              "title": "Ответы на замечания экспертизы: алгоритм и шаблоны",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/49c70308-49da-4399-b8e2-d2a308a1f150/020f6d22-368d-4449-a25d-2858077590fa",
+              "local": "lessons/039.html",
+              "source_snapshot": "source_pages/lesson-039.json"
+            },
+            {
+              "position": 3,
+              "number": 40,
+              "title": "Управление сроками, рисками, изменениями",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/49c70308-49da-4399-b8e2-d2a308a1f150/74986468-4dba-494d-8585-93f3c89f8a62",
+              "local": "lessons/040.html",
+              "source_snapshot": "source_pages/lesson-040.json"
+            },
+            {
+              "position": 4,
+              "number": 41,
+              "title": "Защита проекта: презентация перед заказчиком и экспертами",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/49c70308-49da-4399-b8e2-d2a308a1f150/7004550d-72d4-49ba-8a19-5a432df004df",
+              "local": "lessons/041.html",
+              "source_snapshot": "source_pages/lesson-041.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Как быстро и эффективно защитить проект с помощью ИИ",
+          "description": "",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/8a128dbb-7bbc-438d-bedd-a042b2f4a9f9/877342d1-43af-446d-b684-0db6f1595ea3",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 42,
+              "title": "Работаем с нормативной документацией",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a128dbb-7bbc-438d-bedd-a042b2f4a9f9/877342d1-43af-446d-b684-0db6f1595ea3",
+              "local": "lessons/042.html",
+              "source_snapshot": "source_pages/block-14-first.json"
+            },
+            {
+              "position": 2,
+              "number": 43,
+              "title": "Как сгенерировать эскизы и концепции для инженерных систем",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a128dbb-7bbc-438d-bedd-a042b2f4a9f9/19ca01b9-e1fb-4632-b14c-079b607899e1",
+              "local": "lessons/043.html",
+              "source_snapshot": "source_pages/lesson-043.json"
+            },
+            {
+              "position": 3,
+              "number": 44,
+              "title": "Как быстро подготовить презентацию проекта",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a128dbb-7bbc-438d-bedd-a042b2f4a9f9/ca375cd2-3507-4e94-8907-f237437a33a2",
+              "local": "lessons/044.html",
+              "source_snapshot": "source_pages/lesson-044.json"
+            },
+            {
+              "position": 4,
+              "number": 45,
+              "title": "Формируем правильные ответы на замечания экспертизы и надзора",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a128dbb-7bbc-438d-bedd-a042b2f4a9f9/d9e050b4-f292-4a55-ba69-b965177dc122",
+              "local": "lessons/045.html",
+              "source_snapshot": "source_pages/lesson-045.json"
+            },
+            {
+              "position": 5,
+              "number": 46,
+              "title": "Используем ИИ для создания спецификаций",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a128dbb-7bbc-438d-bedd-a042b2f4a9f9/1d23ff44-0d03-4f0b-ba8e-83f5361cec8d",
+              "local": "lessons/046.html",
+              "source_snapshot": "source_pages/lesson-046.json"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Управление командой и координация разделов",
+          "description": "Освоите лидерство, командную работу, а также неформальное управление без должности. Разберете коммуникацию, разрешение конфликтов, делегирование и стандарты командной работы",
+          "source_url": "https://school.a-sstroy.ru/programs/229224/8a704769-72b7-42ef-b968-dcd3a779566c/55fa4c84-8dae-4b6d-aa2e-2e3144bb65e9",
+          "lessons": [
+            {
+              "position": 1,
+              "number": 47,
+              "title": "Как перестать быть «исполнителем» и стать «точкой опоры»",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a704769-72b7-42ef-b968-dcd3a779566c/55fa4c84-8dae-4b6d-aa2e-2e3144bb65e9",
+              "local": "lessons/047.html",
+              "source_snapshot": "source_pages/block-15-first.json"
+            },
+            {
+              "position": 2,
+              "number": 48,
+              "title": "Как управлять командой инженеров (даже если вы не начальник)",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a704769-72b7-42ef-b968-dcd3a779566c/fd6210c7-d49b-4282-8c50-6299fd20707f",
+              "local": "lessons/048.html",
+              "source_snapshot": "source_pages/lesson-048.json"
+            },
+            {
+              "position": 3,
+              "number": 49,
+              "title": "Как заменить руководителя и не сгореть",
+              "source_url": "https://school.a-sstroy.ru/programs/229224/8a704769-72b7-42ef-b968-dcd3a779566c/945fdad5-aa2f-4a60-8547-7d217fb98ef7",
+              "local": "lessons/049.html",
+              "source_snapshot": "source_pages/lesson-049.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме",
+      "topic": 1,
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    },
+    {
+      "title": "Тест по теме",
+      "topic": 2,
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    },
+    {
+      "title": "Тест по теме",
+      "topic": 3,
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    },
+    {
+      "title": "Тест по теме",
+      "topic": 4,
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    },
+    {
+      "title": "Тест по теме",
+      "topic": 5,
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    },
+    {
+      "title": "Тест по теме",
+      "topic": 6,
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    },
+    {
+      "title": "Тренировка перед итоговым тестом",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    },
+    {
+      "title": "Итоговый тест",
+      "source_url": "https://school.a-sstroy.ru/programs/229224",
+      "local": "tests/index.html",
+      "status": "completed_program_tests_inaccessible"
+    }
+  ]
+}

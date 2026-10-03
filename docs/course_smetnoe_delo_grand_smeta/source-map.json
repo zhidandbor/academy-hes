@@ -1,0 +1,271 @@
+{
+  "course_url": "https://school.a-sstroy.ru/programs/228006",
+  "title": "Сметное дело в строительстве. ГРАНД-Смета",
+  "topics": [
+    {
+      "position": 1,
+      "title": "Введение в сметное дело",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "modules/01.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Основы сметного дела",
+          "description": "Разберете этапы составления смет в строительстве и ключевые документы, с которыми работает инженер-сметчик",
+          "source_url": "https://school.a-sstroy.ru/programs/228006/6d27445d-483c-460e-9eb6-772dab7aea22/805065bb-2d4d-42a1-a0b7-4aeae10a8d1c",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Основы сметного дела",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/6d27445d-483c-460e-9eb6-772dab7aea22/805065bb-2d4d-42a1-a0b7-4aeae10a8d1c",
+              "local": "lessons/lesson-01-01.html",
+              "source_snapshot": "source_pages/lesson-01-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Понятие сметы в строительстве",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/6d27445d-483c-460e-9eb6-772dab7aea22/af1d6f97-8e3d-4187-8b75-22fef18b5c39",
+              "local": "lessons/lesson-01-02.html",
+              "source_snapshot": "source_pages/lesson-01-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Основополагающие документы инженера-сметчика",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/6d27445d-483c-460e-9eb6-772dab7aea22/00a9c894-a786-49d4-ba69-dc0716eb4ce2",
+              "local": "lessons/lesson-01-03.html",
+              "source_snapshot": "source_pages/lesson-01-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Преимущества ГРАНД-Сметы +",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/6d27445d-483c-460e-9eb6-772dab7aea22/c1a56f97-e3f1-4730-b8e9-6358f9cf64fc",
+              "local": "lessons/lesson-01-04.html",
+              "source_snapshot": "source_pages/lesson-01-04.json"
+            },
+            {
+              "position": 5,
+              "title": "Этапы составления сметных расчетов",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/6d27445d-483c-460e-9eb6-772dab7aea22/0206464d-6dc6-4ede-a536-66213b557ea7",
+              "local": "lessons/lesson-01-05.html",
+              "source_snapshot": "source_pages/lesson-01-05.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Виды сметных расчетов",
+          "description": "Освоите структуру и взаимосвязь различных видов сметных расчетов — от локальных до сводного сметного расчета",
+          "source_url": "https://school.a-sstroy.ru/programs/228006/0a498a18-061d-4f19-ba42-928c753b53eb/a85a4f39-5880-42c9-8df0-39a7393a244c",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Сводка затрат",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/0a498a18-061d-4f19-ba42-928c753b53eb/a85a4f39-5880-42c9-8df0-39a7393a244c",
+              "local": "lessons/lesson-02-01.html",
+              "source_snapshot": "source_pages/lesson-02-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Сводный сметный расчет",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/0a498a18-061d-4f19-ba42-928c753b53eb/d92b415f-4276-41b9-91bd-435f3680ac68",
+              "local": "lessons/lesson-02-02.html",
+              "source_snapshot": "source_pages/lesson-02-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Объектные сметы",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/0a498a18-061d-4f19-ba42-928c753b53eb/add63d9c-f479-4710-957a-cf55e5487871",
+              "local": "lessons/lesson-02-03.html",
+              "source_snapshot": "source_pages/lesson-02-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Локальные сметы",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/0a498a18-061d-4f19-ba42-928c753b53eb/8133579d-f9da-4aee-bc3f-153823e16b21",
+              "local": "lessons/lesson-02-04.html",
+              "source_snapshot": "source_pages/lesson-02-04.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Локальные сметы",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "modules/02.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Составление базовой сметы",
+          "description": "Научитесь формировать базовую смету с нуля — от заполнения параметров до загрузки расценок и указания объемов работ",
+          "source_url": "https://school.a-sstroy.ru/programs/228006/63cd0cbd-ef08-41a5-9125-fcbaae16c00e/b8a6454e-43d7-4bd4-8a57-eb436b8a1c43",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Создание новой сметы",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/63cd0cbd-ef08-41a5-9125-fcbaae16c00e/b8a6454e-43d7-4bd4-8a57-eb436b8a1c43",
+              "local": "lessons/lesson-03-01.html",
+              "source_snapshot": "source_pages/lesson-03-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Заполнение параметров",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/63cd0cbd-ef08-41a5-9125-fcbaae16c00e/b907fa39-9141-40ac-b211-a50b706af528",
+              "local": "lessons/lesson-03-02.html",
+              "source_snapshot": "source_pages/lesson-03-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Загрузка расценок",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/63cd0cbd-ef08-41a5-9125-fcbaae16c00e/176d9629-3323-4f89-b08f-3596c607dab6",
+              "local": "lessons/lesson-03-03.html",
+              "source_snapshot": "source_pages/lesson-03-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Объемы работ",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/63cd0cbd-ef08-41a5-9125-fcbaae16c00e/32422626-d994-4239-bd4d-f2ab3ab114c3",
+              "local": "lessons/lesson-03-04.html",
+              "source_snapshot": "source_pages/lesson-03-04.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Загрузка необходимых данных",
+          "description": "Разберетесь в понятиях региона и зоны, влияющих на формирование сметы и применяемые коэффициенты. Научитесь загружать актуальные цены и выводить готовые сметные расчеты на печать",
+          "source_url": "https://school.a-sstroy.ru/programs/228006/e4ed182f-4588-4500-ad03-065da5a27de7/b073ca4b-beff-44d5-be8c-9f437f57e8c1",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Понятие региона и зоны",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/e4ed182f-4588-4500-ad03-065da5a27de7/b073ca4b-beff-44d5-be8c-9f437f57e8c1",
+              "local": "lessons/lesson-04-01.html",
+              "source_snapshot": "source_pages/lesson-04-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Загрузка текущих цен",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/e4ed182f-4588-4500-ad03-065da5a27de7/0b14afe7-86f4-45ab-9c49-ab62d46c65a7",
+              "local": "lessons/lesson-04-02.html",
+              "source_snapshot": "source_pages/lesson-04-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Вывод на печать",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/e4ed182f-4588-4500-ad03-065da5a27de7/d6aacc79-7ade-4717-8a9d-2fd63003494b",
+              "local": "lessons/lesson-04-03.html",
+              "source_snapshot": "source_pages/lesson-04-03.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Слагаемые сметной стоимости",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "modules/03.html",
+      "blocks": [
+        {
+          "position": 1,
+          "title": "Прямые затраты и себестоимость сметы",
+          "description": "Освоите структуру прямых затрат и себестоимости сметы, включая оплату труда, материалы и эксплуатацию техники. Разберетесь, как формируются нормы, расценки и накладные расходы",
+          "source_url": "https://school.a-sstroy.ru/programs/228006/c30e35e6-2bb4-4406-98ed-e76eeea9607b/4c235084-808b-43b7-b22d-be6b4c4305bf",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Средства на оплату труда и фонд оплаты труда (ФОТ)",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/c30e35e6-2bb4-4406-98ed-e76eeea9607b/4c235084-808b-43b7-b22d-be6b4c4305bf",
+              "local": "lessons/lesson-05-01.html",
+              "source_snapshot": "source_pages/lesson-05-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Сметные цены на материалы и оборудование",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/c30e35e6-2bb4-4406-98ed-e76eeea9607b/35ac3018-bb16-43bb-a607-406ab9890bdf",
+              "local": "lessons/lesson-05-02.html",
+              "source_snapshot": "source_pages/lesson-05-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Нормы и расценки на эксплуатацию строительных машин и механизмов",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/c30e35e6-2bb4-4406-98ed-e76eeea9607b/d265e6dc-2cad-4693-90c9-753ca6b96e98",
+              "local": "lessons/lesson-05-03.html",
+              "source_snapshot": "source_pages/lesson-05-03.json"
+            },
+            {
+              "position": 4,
+              "title": "Накладные расходы",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/c30e35e6-2bb4-4406-98ed-e76eeea9607b/f20d557a-d65c-42fa-a2e1-49d4809400d6",
+              "local": "lessons/lesson-05-04.html",
+              "source_snapshot": "source_pages/lesson-05-04.json"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Прочие составляющие сметной стоимости",
+          "description": "Научитесь учитывать прочие составляющие сметной стоимости, а также поймете, как они влияют на итоговую сумму сметы и отражают реальные условия выполнения строительных работ",
+          "source_url": "https://school.a-sstroy.ru/programs/228006/4e3aae76-12ff-4788-876e-c767252d978d/113029be-b6a8-4cbc-9794-8a708501c3be",
+          "lessons": [
+            {
+              "position": 1,
+              "title": "Сметная прибыль",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/4e3aae76-12ff-4788-876e-c767252d978d/113029be-b6a8-4cbc-9794-8a708501c3be",
+              "local": "lessons/lesson-06-01.html",
+              "source_snapshot": "source_pages/lesson-06-01.json"
+            },
+            {
+              "position": 2,
+              "title": "Коэффициенты, отражающие условия производства работ",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/4e3aae76-12ff-4788-876e-c767252d978d/781ff610-3108-49e4-85b1-742bf8e419c5",
+              "local": "lessons/lesson-06-02.html",
+              "source_snapshot": "source_pages/lesson-06-02.json"
+            },
+            {
+              "position": 3,
+              "title": "Лимитированные затраты",
+              "source_url": "https://school.a-sstroy.ru/programs/228006/4e3aae76-12ff-4788-876e-c767252d978d/b778a250-1009-4c33-a17f-8eeba41e91bc",
+              "local": "lessons/lesson-06-03.html",
+              "source_snapshot": "source_pages/lesson-06-03.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "title": "Тест по теме «Введение в сметное дело»",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "tests/index.html#topic-1",
+      "availability": "online_only"
+    },
+    {
+      "title": "Тест по теме «Локальные сметы»",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "tests/index.html#topic-2",
+      "availability": "online_only"
+    },
+    {
+      "title": "Тест по теме «Слагаемые сметной стоимости»",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "tests/index.html#topic-3",
+      "availability": "online_only"
+    },
+    {
+      "title": "Тренировка перед итоговым тестом. По желанию!",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "tests/index.html#practice",
+      "availability": "online_only"
+    },
+    {
+      "title": "Итоговый тест",
+      "source_url": "https://school.a-sstroy.ru/programs/228006",
+      "local": "tests/index.html#final",
+      "availability": "online_only"
+    }
+  ]
+}

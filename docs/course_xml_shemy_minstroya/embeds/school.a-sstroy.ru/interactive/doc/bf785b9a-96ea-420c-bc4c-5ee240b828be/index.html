@@ -1,0 +1,77 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="google" content="notranslate">
+    <title>Connect-cards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'bf785b9a-96ea-420c-bc4c-5ee240b828be';
+    window.docName = 'хмл';
+    window.locale = 'ru';
+    window.id = '2329';
+    window.moduleId = '245';
+</script></head>
+
+<body>
+<script type="text/javascript">
+    var pairs = [{"leftCard":{"pairId":0,"text":"<p>Вам нужно быстро составить&nbsp;<strong>Ведомость объемов работ</strong>, не устанавливая лишнего ПО на компьютер.</p>"},"rightCard":{"pairId":0,"text":"<p>XMLonline.ru</p>"}},{"leftCard":{"pairId":1,"text":"<p>Заказчик просит подготовить&nbsp;<strong>Задание на проектирование</strong> через бесплатный государственный сервис.</p>"},"rightCard":{"pairId":1,"text":"<p>СФЗП</p>"}},{"leftCard":{"pairId":2,"text":"<p>Вам необходимо сформировать&nbsp;<strong>Сметную документацию</strong> и проверить расчеты.</p>"},"rightCard":{"pairId":2,"text":"<p>КПСР</p>"}},{"leftCard":{"pairId":3,"text":"<p>Вам нужно подготовить Пояснительную записку, при этом вы хотите автоматически подтянуть данные об организациях по их ИНН</p>"},"rightCard":{"pairId":3,"text":"<p>XML1.ru</p>"}}];
+    var env = 'prod';
+    var title = 'Выбор сервиса под задачу';
+    var description = 'Вы работаете над комплектом ПД. Распределите, в каких сервисах вы будете формировать следующие документы';
+    var comment = '';
+    var locale = 'ru';
+</script>
+<script type="text/javascript">
+    (function(){
+        const script = document.createElement('script');
+
+
+        script.async = true;
+        script.src = 'https://cdn.action-mcfr.ru/widgets/loader.js';
+        script.onload = onLoad;
+        script.onerror = onError;
+
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+
+    function onLoad() {
+        if (window.env === 'dev' || window.env === 'test') {
+            window.WidgetLoader.dev();
+        }
+
+        if (window.env === 'rc') {
+            window.WidgetLoader.rc();
+        }
+
+        window.WidgetLoader.load(
+            {
+                name: 'waConnectCards',
+                version: '1_0_0'
+            },
+            initConnectorCards
+        );
+    }
+
+    function onError() {
+
+    }
+
+    // Настройки конкретного виджета смотри на странице описания виджета
+    function initConnectorCards() {
+        window.ActionConnectCards.init(
+            {
+                title,
+                description,
+                pairs,
+                comment,
+            }
+        );
+    };
+</script>
+<script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

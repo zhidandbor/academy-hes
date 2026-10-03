@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="google" content="notranslate" />
+    <title>TestCards</title>
+    <!-- Блок script с идентификаторами формируется при публикации -->
+<script>
+    window.docId = 'dc25f9e8-554c-44d5-a10d-a3b9d521e3f8';
+    window.docName = 'ПП6';
+    window.locale = 'ru';
+    window.id = '4074';
+    window.moduleId = '250';
+</script></head>
+
+<body>
+    <script type="text/javascript">
+        var testCardsData = {"intro":{"title":"Подготовка ответа на замечания с помощью ИИ","text":""},"cardList":[{"media":null,"question":"Какая информация является обязательной в ответе на замечание, если вы его принимаете?","answerList":[{"checked":false,"text":"Подробное объяснение причины ошибки"},{"checked":false,"text":"Извинения за допущенное упущение"},{"checked":true,"text":"Ссылка на место исправления (том, лист)"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"При аргументированном отказе от замечания необходимо:","answerList":[{"checked":false,"text":"Просто написать «не принимается»"},{"checked":true,"text":"Указать ссылку на нормативный документ и пункт"},{"checked":false,"text":"Предложить встретиться для обсуждения"}],"negativeComment":"","positiveComment":""},{"media":null,"question":"Какой элемент промпта наиболее важен для получения корректного ответа?","answerList":[{"checked":true,"text":"Указание стиля (официально-деловой)"},{"checked":false,"text":"Просьба использовать смайлики"},{"checked":false,"text":"Требование дать ответ в стихах"}],"negativeComment":"","positiveComment":""}]};
+        var env = 'prod';
+    </script>
+<script type="text/javascript">
+        (function () {
+            const script = document.createElement('script');
+
+            script.async = true;
+            script.src = 'https://'+'cdn.action-mcfr.ru' + '/widgets/loader.js';
+            script.onload = onLoad;
+            script.onerror = onError;
+
+            document.getElementsByTagName('head')[0].appendChild(script);
+        })();
+
+        function onLoad() {
+            if (window.env === 'dev' || window.env === 'test') {
+                window.WidgetLoader.dev();
+            }
+
+            if (window.env === 'rc') {
+                window.WidgetLoader.rc();
+            }
+
+            window.WidgetLoader.setLanguage('ru');
+            window.WidgetLoader.load({
+                    name: 'waTestCards',
+                    version: '1_0_0'
+                },
+                initTest
+            );
+        };
+
+        function onError() {
+            if(true) {
+                var script = document.createElement('script');
+
+                script.async = true;
+                script.src = 'https://' + 's3.action-media.ru' + '/widgets/loader.js';
+                script.onload = onLoad;
+
+                document.getElementsByTagName('head')[0].appendChild(script);
+            }
+        }
+
+        // Настройки конкретного виджета смотри на странице описания виджета
+        function initTest() {
+            window.TestCards.init(testCardsData);
+        };
+    </script>
+    <script type="text/javascript" src="../../common/js/iframeResizer.contentWindow.min.js"></script>
+</body>
+
+</html>

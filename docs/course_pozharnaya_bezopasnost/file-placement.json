@@ -1,0 +1,477 @@
+[
+  {
+    "lesson": "lesson-01-01",
+    "path": "files/source_attachments/48be679e-c755-426f-93a7-524cb5db5ab4.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "files/source_attachments/1666948b-dce2-44ba-96cd-8ee8e37bfe16.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "files/source_attachments/d7d8b6b2-cc17-41d8-b2b0-1d1a03f51c98.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "files/source_attachments/920ba262-8dae-45a8-8de2-0a92737175c5.xls",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "files/source_attachments/48be679e-c755-426f-93a7-524cb5db5ab4.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "files/source_attachments/1666948b-dce2-44ba-96cd-8ee8e37bfe16.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "files/source_attachments/d7d8b6b2-cc17-41d8-b2b0-1d1a03f51c98.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "files/source_attachments/920ba262-8dae-45a8-8de2-0a92737175c5.xls",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "files/project_materials/01-2_.pdf",
+    "binding": "thematic_only_unconfirmed_on_platform"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "files/source_attachments/48be679e-c755-426f-93a7-524cb5db5ab4.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "files/source_attachments/1666948b-dce2-44ba-96cd-8ee8e37bfe16.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "files/source_attachments/d7d8b6b2-cc17-41d8-b2b0-1d1a03f51c98.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "files/source_attachments/920ba262-8dae-45a8-8de2-0a92737175c5.xls",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "files/project_materials/01-3_.pdf",
+    "binding": "thematic_only_unconfirmed_on_platform"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "files/source_attachments/48be679e-c755-426f-93a7-524cb5db5ab4.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "files/source_attachments/1666948b-dce2-44ba-96cd-8ee8e37bfe16.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "files/source_attachments/d7d8b6b2-cc17-41d8-b2b0-1d1a03f51c98.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "files/source_attachments/920ba262-8dae-45a8-8de2-0a92737175c5.xls",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "files/source_attachments/48be679e-c755-426f-93a7-524cb5db5ab4.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "files/source_attachments/1666948b-dce2-44ba-96cd-8ee8e37bfe16.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "files/source_attachments/d7d8b6b2-cc17-41d8-b2b0-1d1a03f51c98.png",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "files/source_attachments/920ba262-8dae-45a8-8de2-0a92737175c5.xls",
+    "binding": "direct_attachment_shared_by_topic"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "files/project_materials/01-5-1_.pdf",
+    "binding": "thematic_only_unconfirmed_on_platform"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "files/project_materials/01-5-2_Новая статья WEB АРМ.pdf",
+    "binding": "thematic_only_unconfirmed_on_platform"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "files/project_materials/Состав ИД для ППЗ.pdf",
+    "binding": "thematic_only_unconfirmed_on_platform"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/90075dd0-ef3e-4298-a285-06bcf8ba0fdb.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/c68311d1-eafe-4206-9dfc-575266b10b60.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/283c467f-ada6-4406-a054-fc6f53dd7b2f.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/404c8d81-4c4b-4d05-ac81-14cd8b0e2826.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/ee2a3351-d0f5-4b5f-914e-66c88e0f367e.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/c3cd4021-b6d0-46a9-b548-6808c239af4b.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/b17d4012-2d85-41bc-982c-01a1fe6cb392.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/5f150889-dee4-4d12-8c15-e67277d209f8.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/098e0ef2-aee2-4e98-945e-ea9ff0e91dc3.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/86b03859-3f2b-461d-9b37-48e09c3a9db0.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/c53186e8-fa68-4129-8b10-77b827283f26.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/ce873622-b987-4e74-9e6a-69025a0da176.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/e892e9a0-2ebb-4536-b5f9-2981339d8b7c.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/8e2f5302-55eb-41bc-9d8c-8593d053396c.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/4cdf46a0-9ffe-41f2-8edb-ebe7276ea785.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/5d9a30a0-2344-4bcd-878d-2717720e55b9.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/4ffc4ab0-e81f-4cfb-a8fd-d5ce0e4a4975.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/508f3fe4-04bd-4100-8ce4-14a6c310eb3b.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/821b3c60-b7c5-4970-b5e7-914fb0a410ac.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/cc361889-5b06-4747-a017-e9e7576a1107.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/8e3baa99-5ea1-4475-97eb-25939f71531a.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/a7f09ea3-96db-479b-9350-da1d9e849c06.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/38fdbc81-2a51-4fce-858d-320d154d1c4f.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/11f00fa1-130a-4212-87ed-b3c0ba795776.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/aeb205f7-3c85-435d-83cb-ae62357800b9.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/21ed3704-e9a4-4865-9597-c74412df3adb.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/9b192857-c387-4958-97a0-22e06630d3b0.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/dc7f43b1-e571-4697-886c-6a986bdd108d.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/f6099284-10c5-4c74-9208-09d3ca43daec.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/78d71faf-bf23-4597-866d-3b5d4cd2707a.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/d9912d27-d602-4b84-b7c0-d2ad84481bce.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/264753b9-0c23-46a4-a266-db9d9cbd6882.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/1e9f6f34-5657-40ad-8e32-f7ae47fa0c18.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/a797030d-8a90-4ec0-91c1-e9ff63a209fc.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/13edbeff-38ab-4b91-bd6e-1494dfe5f80e.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/c51c5bad-2b6a-4d96-af25-f04a80eae4ab.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/393ac6dd-728e-4a4a-bcde-db345f2ec0d6.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/97cde886-bdca-4d44-9dd5-798d5cf1ee79.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/9a938105-808c-45e2-8c82-9ad57718ae8b.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/51e0b731-c912-4071-95e6-282692e3c402.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/b1066738-37c8-42f3-9e3c-fd280c137e5d.png",
+    "binding": "image_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-04",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-01",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-02",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-03",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-04",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-05",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/images/author.png",
+    "binding": "author_photo_in_source_lesson"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/embeds/pb11-f3f8bb4860f9d8cd.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/embeds/210d39b3-779a-41ea-a288-a5907c913994-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/embeds/190ec225-72d5-4224-9a5d-b17f0bec218a-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/pdf_previews/01-2_-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/embeds/pb3-fc025e4e2c00a203.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/embeds/ce6935df-6854-4fc0-9670-9fc1db684cfa-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-03",
+    "path": "assets/pdf_previews/01-3_-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/pdf_previews/01-5-1_-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-05",
+    "path": "assets/pdf_previews/01-5-2_Новая_статья_WEB_АРМ-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/pdf_previews/Состав_ИД_для_ППЗ-1.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/pdf_previews/Состав_ИД_для_ППЗ-2.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/pdf_previews/Состав_ИД_для_ППЗ-3.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/pdf_previews/Состав_ИД_для_ППЗ-4.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/pdf_previews/Состав_ИД_для_ППЗ-5.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/pdf_previews/Состав_ИД_для_ППЗ-6.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-02-06",
+    "path": "assets/pdf_previews/Состав_ИД_для_ППЗ-7.png",
+    "binding": "static_representation_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-01",
+    "path": "assets/embeds/pb11-screenshot.png",
+    "binding": "created_screenshot_of_source_embed"
+  },
+  {
+    "lesson": "lesson-01-02",
+    "path": "assets/embeds/pb3-screenshot.png",
+    "binding": "created_screenshot_of_source_embed"
+  }
+]

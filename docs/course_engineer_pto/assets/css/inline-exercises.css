@@ -1,0 +1,29 @@
+.inline-exercise summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.inline-exercise summary:hover,
+.inline-exercise summary:focus-visible {
+  text-decoration: underline;
+}
+
+.inline-exercise-content {
+  padding-top: 14px;
+}
+
+.inline-exercise-content .eyebrow {
+  margin: 0 0 8px;
+}
+
+.inline-exercise-content h3 {
+  margin: 0 0 12px;
+}
+
+.inline-exercise-content .notice {
+  margin: 12px 0;
+}
+
+.inline-exercise-content .exercise-text {
+  margin-bottom: 0;
+}
