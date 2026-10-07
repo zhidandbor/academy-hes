@@ -4,6 +4,8 @@
 
 Здесь опубликованы 15 основных курсов проекта HES. Страницы и небольшие файлы находятся в `docs/`, крупные учебные материалы — в ресурсах [выпуска GitHub Releases](https://github.com/zhidandbor/academy-hes/releases). Для них требуется подключение к интернету.
 
+Текущий выпуск проекта ВИШ завершён 7 октября 2026 года. Состав каталога будет обновляться при появлении новых курсов.
+
 | Курс | Уроки | Открыть |
 | --- | ---: | --- |
 | Инженер производственно-технического отдела | 94 | [Страница курса](https://zhidandbor.github.io/academy-hes/course_engineer_pto/) |
@@ -30,3 +32,5 @@
 
 - [Главная библиотека Academy](https://github.com/zhidandbor/academy)
 - [Миникурсы HES](https://github.com/zhidandbor/academy-hes-mini)
+- [Вебинары HES](https://github.com/zhidandbor/academy-hes-webinars)
+- [Исходные архивы и проверки HES](https://github.com/zhidandbor/HES) (приватный репозиторий)
